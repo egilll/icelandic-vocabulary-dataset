@@ -1,0 +1,21 @@
+word: eyrnalokkar
+level: 25
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: eyrnalokkar
+      nominative_translation: earrings
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: eyrnalokka
+      dative: eyrnalokkum
+      genitive: eyrnalokka
+    with article:
+      nominative: eyrnalokkarnir
+      nominative_translation: the earrings
+      nominative_teach: true
+      nominative_teachtable: false
+id: 923
+gender: masculine

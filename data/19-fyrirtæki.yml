@@ -1,0 +1,47 @@
+word: fyrirtæki
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fyrirtæki
+      nominative_translation: a company
+      nominative_sound: islex/477/477_16.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fyrirtæki
+      accusative_sound: islex/477/477_16.mp3
+      dative: fyrirtæki
+      dative_sound: islex/477/477_16.mp3
+      genitive: fyrirtækis
+    with article:
+      nominative: fyrirtækið
+      nominative_translation: the company
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fyrirtækið
+      dative: fyrirtækinu
+      genitive: fyrirtækisins
+  plural:
+    no article:
+      nominative: fyrirtæki
+      nominative_translation: companies
+      nominative_sound: islex/477/477_16.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fyrirtæki
+      accusative_sound: islex/477/477_16.mp3
+      dative: fyrirtækjum
+      genitive: fyrirtækja
+    with article:
+      nominative: fyrirtækin
+      nominative_translation: the companies
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fyrirtækin
+      dative: fyrirtækjunum
+      genitive: fyrirtækjanna
+id: 1001
+gender: neuter

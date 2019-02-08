@@ -1,0 +1,10 @@
+word: að prófa
+level: 17
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] prófa'
+    infinitive_translation: 'to try, to test'
+    infinitive_sound: islex/308/308_75.mp3
+    infinitive_teach: true
+id: 1993

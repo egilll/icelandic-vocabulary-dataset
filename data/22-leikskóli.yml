@@ -1,0 +1,25 @@
+word: leikskóli
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: leikskóli
+      nominative_translation: kindergarten
+      nominative_sound: islex/132/132_10.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leikskóla
+      dative: leikskóla
+      genitive: leikskóla
+    with article:
+      nominative: leikskólinn
+      nominative_translation: the kindergarten
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leikskólann
+      dative: leikskólanum
+      genitive: leikskólans
+id: 1314
+gender: masculine

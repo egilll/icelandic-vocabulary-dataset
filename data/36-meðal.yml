@@ -1,0 +1,56 @@
+word: meðal
+level: 36
+grammatical_category: other
+conjugation:
+  singular:
+    no article:
+      nominative: meðal
+      nominative_translation: among
+      nominative_sound: islex/217/217_12.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: meðal
+      accusative_sound: islex/217/217_12.mp3
+      dative: meðali
+      genitive: meðals
+    with article:
+      nominative: meðalið
+      nominative_translation: the among
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: meðalið
+      dative: meðalinu
+      genitive: meðalsins
+  plural:
+    no article:
+      nominative: meðul
+      nominative_translation: amongs
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - meðöl
+      accusative: meðul
+      accusative_alternative:
+        - meðöl
+      dative: meðulum
+      dative_alternative:
+        - meðölum
+      genitive: meðala
+    with article:
+      nominative: meðulin
+      nominative_translation: the amongs
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - meðölin
+      accusative: meðulin
+      accusative_alternative:
+        - meðölin
+      dative: meðulunum
+      dative_alternative:
+        - meðölunum
+      genitive: meðalanna
+id: 1393
+gender: neuter

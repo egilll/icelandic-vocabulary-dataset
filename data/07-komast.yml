@@ -1,0 +1,66 @@
+word: komast
+level: 7
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] komast'
+    infinitive_translation: to be able to come
+    infinitive_sound: islex/067/067_85.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] kemst'
+          1st person_translation: I am able to come
+          1st person_teach: true
+          2nd person: '[þú] kemst'
+          2nd person_translation: you¹ are able to come
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] kemst'
+          3rd person_translation: he/she/it is able to come
+          3rd person_teach: true
+        plural:
+          1st person: '[við] komumst'
+          1st person_translation: we are able to come
+          1st person_teach: true
+          2nd person: '[þið] komist'
+          2nd person_translation: you² are able to come
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] komast'
+          3rd person_translation: they are able to come
+          3rd person_sound: islex/067/067_85.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] komst'
+          1st person_translation: I was able to come
+          1st person_teach: true
+          2nd person: '[þú] komst'
+          2nd person_translation: you¹ were able to come
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] komst'
+          3rd person_translation: he/she/it was able to come
+          3rd person_teach: true
+        plural:
+          1st person: '[við] komumst'
+          1st person_translation: we were able to come
+          1st person_teach: true
+          2nd person: '[þið] komust'
+          2nd person_translation: you² were able to come
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] komust'
+          3rd person_translation: they were able to come
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] komist'
+          1st person_translation: I think I am able to come
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég hélt að] [ég] kæmist'
+          1st person_translation: I thought I would be able to come
+          1st person_teach: true
+id: 2191
+strong_verb_declension: true

@@ -1,0 +1,19 @@
+word: kaffibaun
+level: 42
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: kaffibaunir
+      nominative_translation: coffee beans
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: kaffibaunirnar
+      nominative_translation: the coffee beans
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1208
+gender: feminine
+recognizable: '1'

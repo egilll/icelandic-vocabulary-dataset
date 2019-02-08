@@ -1,0 +1,45 @@
+word: fjall
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fjall
+      nominative_translation: a mountain
+      nominative_sound: islex/138/138_19.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fjall
+      accusative_sound: islex/138/138_19.mp3
+      dative: fjalli
+      genitive: fjalls
+    with article:
+      nominative: fjallið
+      nominative_translation: the mountain
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fjallið
+      dative: fjallinu
+      genitive: fjallsins
+  plural:
+    no article:
+      nominative: fjöll
+      nominative_translation: mountains
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fjöll
+      dative: fjöllum
+      genitive: fjalla
+      genitive_sound: islex/108/108_35.mp3
+    with article:
+      nominative: fjöllin
+      nominative_translation: the mountains
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fjöllin
+      dative: fjöllunum
+      genitive: fjallanna
+id: 945
+gender: neuter

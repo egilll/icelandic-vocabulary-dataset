@@ -1,0 +1,58 @@
+word: leigja
+level: 8
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] leigja'
+    infinitive_translation: to rent
+    infinitive_sound: islex/052/052_96.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] leigi'
+          1st person_translation: I rent
+          1st person_teach: true
+          2nd person: '[þú] leigir'
+          2nd person_translation: you¹ rent
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] leigir'
+          3rd person_translation: he/she/it rents
+          3rd person_teach: true
+        plural:
+          1st person: '[við] leigjum'
+          1st person_translation: we rent
+          1st person_teach: true
+          2nd person: '[þið] leigið'
+          2nd person_translation: you² rent
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] leigja'
+          3rd person_translation: they rent
+          3rd person_sound: islex/052/052_96.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] leigði'
+          1st person_translation: I rented
+          1st person_teach: true
+          2nd person: '[þú] leigðir'
+          2nd person_translation: you¹ rented
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] leigði'
+          3rd person_translation: he/she/it rented
+          3rd person_teach: true
+        plural:
+          1st person: '[við] leigðum'
+          1st person_translation: we rented
+          1st person_teach: true
+          2nd person: '[þið] leigðuð'
+          2nd person_translation: you² rented
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] leigðu'
+          3rd person_translation: they rented
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] leigt'
+    active voice_translation: I have rented
+    active voice_teach: true
+id: 2213

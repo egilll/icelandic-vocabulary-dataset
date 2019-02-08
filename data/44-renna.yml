@@ -1,0 +1,27 @@
+word: renna
+level: 44
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] renna'
+    infinitive_translation: to slip; to zip
+    infinitive_sound: islex/068/068_61.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] renn'
+          1st person_translation: I slip; I zip
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] rann'
+          1st person_translation: I slipped; I zipped
+          1st person_sound: islex/078/078_14.mp3
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] runnið'
+    active voice_translation: I have slipped
+    active voice_teach: true
+id: 2292
+strong_verb_declension: true

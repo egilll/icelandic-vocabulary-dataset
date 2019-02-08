@@ -1,0 +1,45 @@
+word: heimsókn
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: heimsókn
+      nominative_translation: a visit
+      nominative_sound: islex/204/204_45.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: heimsókn
+      accusative_sound: islex/204/204_45.mp3
+      dative: heimsókn
+      dative_sound: islex/204/204_45.mp3
+      genitive: heimsóknar
+    with article:
+      nominative: heimsóknin
+      nominative_translation: the visit
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: heimsóknina
+      dative: heimsókninni
+      genitive: heimsóknarinnar
+  plural:
+    no article:
+      nominative: heimsóknir
+      nominative_translation: visits
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: heimsóknir
+      dative: heimsóknum
+      genitive: heimsókna
+    with article:
+      nominative: heimsóknirnar
+      nominative_translation: the visits
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: heimsóknirnar
+      dative: heimsóknunum
+      genitive: heimsóknanna
+id: 1107
+gender: feminine

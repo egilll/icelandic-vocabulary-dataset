@@ -1,0 +1,26 @@
+word: jakkaföt
+level: 18
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: jakkaföt
+      nominative_translation: a suit
+      nominative_sound: islex/012/012_81.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: jakkaföt
+      accusative_sound: islex/012/012_81.mp3
+      dative: jakkafötum
+      genitive: jakkafata
+    with article:
+      nominative: jakkafötin
+      nominative_translation: the suit
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: jakkafötin
+      dative: jakkafötunum
+      genitive: jakkafatanna
+id: 1193
+gender: neuter

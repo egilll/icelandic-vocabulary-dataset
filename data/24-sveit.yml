@@ -1,0 +1,27 @@
+word: sveit
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sveit
+      nominative_translation: countryside
+      nominative_sound: islex/005/005_01.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sveit
+      accusative_sound: islex/005/005_01.mp3
+      dative: sveit
+      dative_sound: islex/005/005_01.mp3
+      genitive: sveitar
+    with article:
+      nominative: sveitin
+      nominative_translation: the countryside
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sveitina
+      dative: sveitinni
+      genitive: sveitarinnar
+id: 1790
+gender: feminine

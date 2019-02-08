@@ -1,0 +1,49 @@
+word: tennur
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tönn
+      nominative_translation: a tooth
+      nominative_sound: islex/456/456_28.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+    with article:
+      nominative: tönnin
+      nominative_translation: the tooth
+      nominative_teach: true
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: tennur
+      nominative_translation: teeth
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - tannir
+        - tönnur
+      accusative: tennur
+      accusative_alternative:
+        - tannir
+        - tönnur
+      dative: tönnum
+      genitive: tanna
+    with article:
+      nominative: tennurnar
+      nominative_translation: the teeth
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - tannirnar
+        - tönnurnar
+      accusative: tennurnar
+      accusative_alternative:
+        - tannirnar
+        - tönnurnar
+      dative: tönnunum
+      genitive: tannanna
+id: 1848
+gender: feminine

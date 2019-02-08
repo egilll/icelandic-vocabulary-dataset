@@ -1,0 +1,27 @@
+word: hamstur
+level: 44
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hamstur
+      nominative_translation: a hamster
+      nominative_sound: islex/148/148_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hamstur
+      accusative_sound: islex/148/148_04.mp3
+      dative: hamstri
+      genitive: hamsturs
+    with article:
+      nominative: hamsturinn
+      nominative_translation: the hamster
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hamsturinn
+      dative: hamstrinum
+      genitive: hamstursins
+id: 1085
+gender: masculine
+recognizable: '1'

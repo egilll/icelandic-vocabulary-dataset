@@ -1,0 +1,62 @@
+word: ná
+level: 20
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] ná'
+    infinitive_translation: 'to acheive, to get'
+    infinitive_sound: islex/191/191_42.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] næ'
+          1st person_translation: 'I acheive, I get'
+          1st person_teach: true
+          2nd person: '[þú] nærð'
+          2nd person_translation: 'you¹ acheive, you¹ get'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] nær'
+          3rd person_translation: 'he/she/it acheives, he/she/it gets'
+          3rd person_sound: islex/097/097_22.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] náum'
+          1st person_translation: 'we acheive, we get'
+          1st person_teach: true
+          2nd person: '[þið] náið'
+          2nd person_translation: 'you² acheive, you² get'
+          2nd person_sound: islex/016/016_22.mp3
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] ná'
+          3rd person_translation: 'they acheive, they get'
+          3rd person_sound: islex/191/191_42.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] náði'
+          1st person_translation: 'I acheived, I got'
+          1st person_teach: true
+          2nd person: '[þú] náðir'
+          2nd person_translation: 'you¹ acheived, you¹ got'
+          2nd person_sound: islex/434/434_18.mp3
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] náði'
+          3rd person_translation: 'he/she/it acheived, he/she/it got'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] náðum'
+          1st person_translation: 'we acheived, we got'
+          1st person_teach: true
+          2nd person: '[þið] náðuð'
+          2nd person_translation: 'you² acheived, you² got'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] náðu'
+          3rd person_translation: 'they acheived, they got'
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] náð'
+    active voice_translation: 'I have acheived, I have gotten'
+    active voice_sound: islex/476/476_85.mp3
+    active voice_teach: true
+id: 2255

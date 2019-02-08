@@ -1,0 +1,16 @@
+word: spila
+level: 10
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] spila'
+    infinitive_translation: 'to play a song, to play a video, to play cards'
+    infinitive_sound: islex/180/180_22.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] spilaði'
+          1st person_translation: 'I played a song, I played a video, I played cards'
+          1st person_teach: true
+id: 2367

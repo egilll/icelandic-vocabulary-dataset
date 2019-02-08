@@ -1,0 +1,48 @@
+word: frænka
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: frænka
+      nominative_translation: aunt; female cousin
+      nominative_sound: islex/299/299_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: frænku
+      dative: frænku
+      genitive: frænku
+    with article:
+      nominative: frænkan
+      nominative_translation: the aunt; the female cousin
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: frænkuna
+      dative: frænkunni
+      genitive: frænkunnar
+  plural:
+    no article:
+      nominative: frænkur
+      nominative_translation: aunts; female cousins
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: frænkur
+      dative: frænkum
+      genitive: frænka
+      genitive_sound: islex/299/299_96.mp3
+      genitive_alternative:
+        - frænkna
+    with article:
+      nominative: frænkurnar
+      nominative_translation: the aunts; the female cousins
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: frænkurnar
+      dative: frænkunum
+      genitive: frænkanna
+      genitive_alternative:
+        - frænknanna
+id: 984
+gender: feminine

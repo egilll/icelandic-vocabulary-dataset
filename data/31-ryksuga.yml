@@ -1,0 +1,16 @@
+word: ryksuga
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative_translation: a vacuum cleaner
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+    with article:
+      nominative_translation: the vacuum cleaner
+      nominative_teach: true
+      nominative_teachtable: true
+id: 1580
+gender: feminine

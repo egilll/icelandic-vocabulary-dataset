@@ -1,0 +1,22 @@
+word: lofa
+level: 31
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] lofa'
+    infinitive_translation: to promise
+    infinitive_sound: islex/067/067_12.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] lofa'
+          1st person_translation: I promise
+          1st person_sound: islex/067/067_12.mp3
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] lofaði'
+          1st person_translation: I promised
+          1st person_teach: true
+id: 2232

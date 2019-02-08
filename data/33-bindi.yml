@@ -1,0 +1,27 @@
+word: bindi
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bindi
+      nominative_translation: a tie
+      nominative_sound: islex/455/455_18.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bindi
+      accusative_sound: islex/455/455_18.mp3
+      dative: bindi
+      dative_sound: islex/455/455_18.mp3
+      genitive: bindis
+    with article:
+      nominative: bindið
+      nominative_translation: the tie
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bindið
+      dative: bindinu
+      genitive: bindisins
+id: 799
+gender: neuter

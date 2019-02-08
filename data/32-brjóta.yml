@@ -1,0 +1,39 @@
+word: brjóta
+level: 32
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] brjóta'
+    infinitive_translation: to break
+    infinitive_sound: islex/443/443_23.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] braut'
+          1st person_translation: I broke
+          1st person_sound: islex/312/312_73.mp3
+          1st person_teach: true
+          2nd person: '[þú] braust'
+          2nd person_translation: you¹ broke
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] braut'
+          3rd person_translation: he/she/it broke
+          3rd person_sound: islex/312/312_73.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] brutum'
+          1st person_translation: we broke
+          1st person_teach: true
+          2nd person: '[þið] brutuð'
+          2nd person_translation: you² broke
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] brutu'
+          3rd person_translation: they broke
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] brotið'
+    active voice_translation: I have broken
+    active voice_teach: true
+id: 2054
+strong_verb_declension: true

@@ -1,0 +1,26 @@
+word: veður
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: veður
+      nominative_translation: weather
+      nominative_sound: islex/277/277_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: veður
+      accusative_sound: islex/277/277_24.mp3
+      dative: veðri
+      genitive: veðurs
+    with article:
+      nominative: veðrið
+      nominative_translation: the weather
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: veðrið
+      dative: veðrinu
+      genitive: veðursins
+id: 1898
+gender: neuter

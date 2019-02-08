@@ -1,0 +1,10 @@
+word: stækka
+level: 22
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] stækka'
+    infinitive_translation: to grow larger
+    infinitive_sound: islex/152/152_72.mp3
+    infinitive_teach: true
+id: 2372

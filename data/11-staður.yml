@@ -1,0 +1,45 @@
+word: staður
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: staður
+      nominative_translation: a place
+      nominative_sound: islex/234/234_40.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stað
+      dative: stað
+      genitive: staðar
+    with article:
+      nominative: staðurinn
+      nominative_translation: the place
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: staðinn
+      accusative_sound: islex/390/390_43.mp3
+      dative: staðnum
+      genitive: staðarins
+  plural:
+    no article:
+      nominative: staðir
+      nominative_translation: places
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: staði
+      dative: stöðum
+      genitive: staða
+      genitive_sound: islex/259/259_41.mp3
+    with article:
+      nominative: staðirnir
+      nominative_translation: the places
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: staðina
+      dative: stöðunum
+      genitive: staðanna
+id: 1728
+gender: masculine

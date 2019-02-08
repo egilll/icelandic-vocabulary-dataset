@@ -1,0 +1,19 @@
+word: steinselja
+level: 46
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: steinselja
+      nominative_translation: parsley
+      nominative_sound: islex/175/175_30.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: steinseljan
+      nominative_translation: the parsley
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1740
+gender: feminine

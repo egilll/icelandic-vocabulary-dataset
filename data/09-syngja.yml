@@ -1,0 +1,65 @@
+word: syngja
+level: 9
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] syngja'
+    infinitive_translation: to sing
+    infinitive_sound: islex/242/242_97.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] syng'
+          1st person_translation: I sing
+          1st person_teach: true
+          2nd person: '[þú] syngur'
+          2nd person_translation: you¹ sing
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] syngur'
+          3rd person_translation: he/she/it sings
+          3rd person_teach: true
+        plural:
+          1st person: '[við] syngjum'
+          1st person_translation: we sing
+          1st person_teach: true
+          2nd person: '[þið] syngið'
+          2nd person_translation: you² sing
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] syngja'
+          3rd person_translation: they sing
+          3rd person_sound: islex/242/242_97.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] söng'
+          1st person_translation: I sang
+          1st person_teach: true
+          2nd person: '[þú] söngst'
+          2nd person_translation: you¹ sang
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] söng'
+          3rd person_translation: he/she/it sang
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sungum'
+          1st person_translation: we sang
+          1st person_teach: true
+          2nd person: '[þið] sunguð'
+          2nd person_translation: you² sang
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sungu'
+          3rd person_translation: they sang
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] sungið'
+    active voice_translation: I have sung
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: syngdu!
+      singular_translation: sing!¹
+      singular_teach: true
+id: 2395
+recognizable: '1'
+strong_verb_declension: true

@@ -1,0 +1,15 @@
+word: kvensjúkdómalæknir
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kvensjúkdómalæknir
+      nominative_translation: a gynaecologist
+      nominative_sound: islex/225/225_21.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+      nominative_literal: women-disease-doctor
+id: 1277
+gender: masculine

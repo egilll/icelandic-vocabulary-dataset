@@ -1,0 +1,25 @@
+word: áhætta
+level: 39
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: áhætta
+      nominative_translation: a risk
+      nominative_sound: islex/290/290_22.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: áhættu
+      dative: áhættu
+      genitive: áhættu
+    with article:
+      nominative: áhættan
+      nominative_translation: the risk
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: áhættuna
+      dative: áhættunni
+      genitive: áhættunnar
+id: 708
+gender: feminine

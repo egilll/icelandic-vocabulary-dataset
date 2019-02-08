@@ -1,0 +1,25 @@
+word: varalitur
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: varalitur
+      nominative_translation: lipstick
+      nominative_sound: islex/358/358_88.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: varalit
+      dative: varalit
+      genitive: varalitar
+    with article:
+      nominative: varaliturinn
+      nominative_translation: the lipstick
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: varalitinn
+      dative: varalitnum
+      genitive: varalitarins
+id: 1890
+gender: masculine

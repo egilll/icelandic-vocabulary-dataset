@@ -1,0 +1,68 @@
+word: heyra
+level: 1
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] heyra'
+    infinitive_translation: to hear
+    infinitive_sound: islex/354/354_54.mp3
+    infinitive_teach: true
+    infinitive_teachtable: false
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] heyri'
+          1st person_translation: I hear
+          1st person_teach: true
+          2nd person: '[þú] heyrir'
+          2nd person_translation: you¹ hear
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] heyrir'
+          3rd person_translation: he/she/it hears
+          3rd person_teach: true
+        plural:
+          1st person: '[við] heyrum'
+          1st person_translation: we hear
+          1st person_teach: true
+          2nd person: '[þið] heyrið'
+          2nd person_translation: you² hear
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] heyra'
+          3rd person_translation: they hear
+          3rd person_sound: islex/354/354_54.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] heyrði'
+          1st person_translation: I heard
+          1st person_teach: true
+          2nd person: '[þú] heyrðir'
+          2nd person_translation: you¹ heard
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] heyrði'
+          3rd person_translation: he/she/it heard
+          3rd person_teach: true
+        plural:
+          1st person: '[við] heyrðum'
+          1st person_translation: we heard
+          1st person_teach: true
+          2nd person: '[þið] heyrðuð'
+          2nd person_translation: you² heard
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] heyrðu'
+          3rd person_translation: they heard
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] heyrt'
+    active voice_translation: I have heard
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: heyrðu!
+      singular_translation: hey!¹
+      singular_teach: true
+      singular_note: >-
+        Used to get someone's attention, or used as a filler word at the start
+        of a sentence.
+id: 2151
+recognizable: '1'

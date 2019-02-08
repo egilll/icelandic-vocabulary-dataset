@@ -1,0 +1,26 @@
+word: fjör
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fjör
+      nominative_translation: fun
+      nominative_sound: islex/142/142_61.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fjör
+      accusative_sound: islex/142/142_61.mp3
+      dative: fjöri
+      genitive: fjörs
+    with article:
+      nominative: fjörið
+      nominative_translation: the fun
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fjörið
+      dative: fjörinu
+      genitive: fjörsins
+id: 954
+gender: neuter

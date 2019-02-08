@@ -1,0 +1,27 @@
+word: boð
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: boð
+      nominative_translation: an invitation; a party
+      nominative_sound: islex/473/473_21.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: boð
+      accusative_sound: islex/473/473_21.mp3
+      dative: boði
+      dative_sound: islex/261/261_74.mp3
+      genitive: boðs
+    with article:
+      nominative: boðið
+      nominative_translation: the invitation; the party
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: boðið
+      dative: boðinu
+      genitive: boðsins
+id: 822
+gender: neuter

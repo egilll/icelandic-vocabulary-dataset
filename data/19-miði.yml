@@ -1,0 +1,48 @@
+word: miði
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: miði
+      nominative_translation: a ticket; a slip of paper
+      nominative_sound: islex/133/133_74.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: miða
+      accusative_sound: islex/447/447_54.mp3
+      dative: miða
+      dative_sound: islex/447/447_54.mp3
+      genitive: miða
+      genitive_sound: islex/447/447_54.mp3
+    with article:
+      nominative: miðinn
+      nominative_translation: the ticket; the slip of paper
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: miðann
+      dative: miðanum
+      genitive: miðans
+  plural:
+    no article:
+      nominative: miðar
+      nominative_translation: tickets
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: miða
+      accusative_sound: islex/447/447_54.mp3
+      dative: miðum
+      genitive: miða
+      genitive_sound: islex/447/447_54.mp3
+    with article:
+      nominative: miðarnir
+      nominative_translation: the tickets
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: miðana
+      dative: miðunum
+      genitive: miðanna
+id: 1402
+gender: masculine

@@ -1,0 +1,27 @@
+word: augnablik
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: augnablik
+      nominative_translation: 'a moment, an instant'
+      nominative_sound: islex/285/285_79.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: eye-gleam
+      accusative: augnablik
+      accusative_sound: islex/285/285_79.mp3
+      dative: augnabliki
+      genitive: augnabliks
+    with article:
+      nominative: augnablikið
+      nominative_translation: the moment
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: augnablikið
+      dative: augnablikinu
+      genitive: augnabliksins
+id: 750
+gender: neuter

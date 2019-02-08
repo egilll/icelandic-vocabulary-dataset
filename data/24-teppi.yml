@@ -1,0 +1,27 @@
+word: teppi
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: teppi
+      nominative_translation: a blanket
+      nominative_sound: islex/375/375_26.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: teppi
+      accusative_sound: islex/375/375_26.mp3
+      dative: teppi
+      dative_sound: islex/375/375_26.mp3
+      genitive: teppis
+    with article:
+      nominative: teppið
+      nominative_translation: the blanket
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: teppið
+      dative: teppinu
+      genitive: teppisins
+id: 1824
+gender: neuter

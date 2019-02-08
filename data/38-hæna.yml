@@ -1,0 +1,26 @@
+word: hæna
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hæna
+      nominative_translation: a female chicken
+      nominative_sound: islex/055/055_85.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+    with article:
+      nominative: hænan
+      nominative_translation: the female chicken
+      nominative_teach: true
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: hænur
+      nominative_translation: female chickens
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1070
+gender: feminine

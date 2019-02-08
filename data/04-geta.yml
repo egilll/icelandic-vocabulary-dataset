@@ -1,0 +1,103 @@
+word: geta
+level: 4
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] geta'
+    infinitive_translation: to be able to
+    infinitive_sound: islex/334/334_95.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] get'
+          1st person_translation: I can
+          1st person_teach: true
+          2nd person: '[þú] getur'
+          2nd person_translation: you¹ can
+          2nd person_sound: islex/242/242_78.mp3
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] getur'
+          3rd person_translation: he/she/it can
+          3rd person_sound: islex/242/242_78.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] getum'
+          1st person_translation: we can
+          1st person_teach: true
+          2nd person: '[þið] getið'
+          2nd person_translation: you² can
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] geta'
+          3rd person_translation: they can
+          3rd person_sound: islex/334/334_95.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] gat'
+          1st person_translation: 'I could, I was able to'
+          1st person_sound: islex/405/405_21.mp3
+          1st person_teach: true
+          2nd person: '[þú] gast'
+          2nd person_translation: 'you¹ could, you¹ were able to'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] gat'
+          3rd person_translation: 'he/she/it could, he/she/it was able to'
+          3rd person_sound: islex/405/405_21.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] gátum'
+          1st person_translation: 'we could, we were able to'
+          1st person_teach: true
+          2nd person: '[þið] gátuð'
+          2nd person_translation: 'you² could, you² were able to'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] gátu'
+          3rd person_translation: 'they could, they were able to'
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] geti'
+          1st person_translation: I think I can
+          1st person_teach: true
+          2nd person: '[ég held að] [þú] getir'
+          2nd person_translation: I think you¹ can
+          2nd person_teach: true
+          3rd person: '[ég held að] [hann/hún/það] geti'
+          3rd person_translation: I think he/she/it can
+          3rd person_teach: true
+        plural:
+          1st person: '[ég held að] [við] getum'
+          1st person_translation: I think we can
+          1st person_teach: true
+          2nd person: '[ég held að] [þið] getið'
+          2nd person_translation: I think you² can
+          2nd person_teach: true
+          3rd person: '[ég held að] [þeir/þær/þau] geti'
+          3rd person_translation: I think they can
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég hélt að] [ég] gæti'
+          1st person_translation: I thought I would be able to
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þú] gætir'
+          2nd person_translation: I thought you¹ would be able to
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [hann/hún/það] gæti'
+          3rd person_translation: I thought he/she/it would be able to
+          3rd person_teach: true
+        plural:
+          1st person: '[ég hélt að] [við] gætum'
+          1st person_translation: I thought we would be able to
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þið] gætuð'
+          2nd person_translation: I thought you² would be able to
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [þeir/þær/þau] gætu'
+          3rd person_translation: I thought they would be able to
+          3rd person_teach: true
+id: 2123
+teach_the_difference: fá
+strong_verb_declension: true

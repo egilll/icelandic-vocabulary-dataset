@@ -1,0 +1,24 @@
+word: jörð
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: jörð
+      nominative_translation: earth
+      nominative_sound: islex/065/065_25.mp3
+      nominative_teach: false
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: jörðin
+      nominative_translation: the earth
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: jörðina
+      dative: jörðinni
+      dative_alternative:
+        - jörðunni
+      genitive: jarðarinnar
+id: 1204
+gender: feminine

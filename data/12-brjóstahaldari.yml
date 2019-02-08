@@ -1,0 +1,47 @@
+word: brjóstahaldari
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: brjóstahaldari
+      nominative_translation: a bra
+      nominative_sound: islex/267/267_14.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: breast holder
+      accusative: brjóstahaldara
+      dative: brjóstahaldara
+      genitive: brjóstahaldara
+    with article:
+      nominative: brjóstahaldarinn
+      nominative_translation: the bra
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_literal: breast holder
+      accusative: brjóstahaldarann
+      dative: brjóstahaldaranum
+      genitive: brjóstahaldarans
+  plural:
+    no article:
+      nominative: brjóstahaldarar
+      nominative_translation: bras
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: breast holder
+      accusative: brjóstahaldara
+      dative: brjóstahöldurum
+      genitive: brjóstahaldara
+    with article:
+      nominative: brjóstahaldararnir
+      nominative_translation: the bras
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_literal: breast holder
+      accusative: brjóstahaldarana
+      dative: brjóstahöldurunum
+      genitive: brjóstahaldaranna
+id: 848
+gender: masculine

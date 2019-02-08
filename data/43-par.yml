@@ -1,0 +1,26 @@
+word: par
+level: 43
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: par
+      nominative_translation: a couple
+      nominative_sound: islex/440/440_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: par
+      accusative_sound: islex/440/440_20.mp3
+      dative: pari
+      genitive: pars
+    with article:
+      nominative: parið
+      nominative_translation: the couple
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: parið
+      dative: parinu
+      genitive: parsins
+id: 1486
+gender: neuter

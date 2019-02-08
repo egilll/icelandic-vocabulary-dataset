@@ -1,0 +1,15 @@
+word: að teygja
+level: 33
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] teygja'
+    infinitive_translation: to stretch
+    infinitive_sound: islex/108/108_09.mp3
+    infinitive_teach: true
+  imperative:
+    active voice:
+      singular: teygðu!
+      singular_translation: stretch!¹
+      singular_teach: true
+id: 2000

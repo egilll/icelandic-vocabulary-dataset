@@ -1,0 +1,16 @@
+word: klára
+level: 18
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] klára'
+    infinitive_translation: to finish
+    infinitive_sound: islex/386/386_82.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] kláraði'
+          1st person_translation: I finished
+          1st person_teach: true
+id: 2186

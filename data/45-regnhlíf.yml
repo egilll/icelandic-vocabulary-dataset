@@ -1,0 +1,27 @@
+word: regnhlíf
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: regnhlíf
+      nominative_translation: an umbrella
+      nominative_sound: islex/474/474_51.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: regnhlíf
+      accusative_sound: islex/474/474_51.mp3
+      dative: regnhlíf
+      dative_sound: islex/474/474_51.mp3
+      genitive: regnhlífar
+    with article:
+      nominative: regnhlífin
+      nominative_translation: the umbrella
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: regnhlífina
+      dative: regnhlífinni
+      genitive: regnhlífarinnar
+id: 1548
+gender: feminine

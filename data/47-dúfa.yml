@@ -1,0 +1,43 @@
+word: dúfa
+level: 47
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dúfa
+      nominative_translation: 'a dove, a pigeon'
+      nominative_sound: islex/043/043_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dúfu
+      dative: dúfu
+      genitive: dúfu
+    with article:
+      nominative: dúfan
+      nominative_translation: 'the dove, the pigeon'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dúfuna
+      dative: dúfunni
+      genitive: dúfunnar
+  plural:
+    no article:
+      nominative: dúfur
+      nominative_translation: 'doves, pigeons'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dúfur
+      dative: dúfum
+      genitive: dúfna
+    with article:
+      nominative: dúfurnar
+      nominative_translation: 'the doves, the pigeons'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dúfurnar
+      dative: dúfunum
+      genitive: dúfnanna
+id: 886
+gender: feminine

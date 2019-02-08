@@ -1,0 +1,26 @@
+word: gras
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gras
+      nominative_translation: grass; (marijuana)
+      nominative_sound: islex/328/328_90.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gras
+      accusative_sound: islex/328/328_90.mp3
+      dative: grasi
+      genitive: grass
+    with article:
+      nominative: grasið
+      nominative_translation: the grass; (the marijuana)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: grasið
+      dative: grasinu
+      genitive: grassins
+id: 1044
+gender: neuter

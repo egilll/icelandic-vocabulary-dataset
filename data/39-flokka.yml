@@ -1,0 +1,10 @@
+word: flokka
+level: 39
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] flokka'
+    infinitive_translation: to sort
+    infinitive_sound: islex/121/121_46.mp3
+    infinitive_teach: true
+id: 2105

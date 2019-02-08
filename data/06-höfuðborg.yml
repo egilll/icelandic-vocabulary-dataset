@@ -1,0 +1,27 @@
+word: höfuðborg
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: höfuðborg
+      nominative_translation: a capital city
+      nominative_sound: islex/123/123_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: höfuðborg
+      accusative_sound: islex/123/123_23.mp3
+      dative: höfuðborg
+      dative_sound: islex/123/123_23.mp3
+      genitive: höfuðborgar
+    with article:
+      nominative: höfuðborgin
+      nominative_translation: the capital city
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: höfuðborgina
+      dative: höfuðborginni
+      genitive: höfuðborgarinnar
+id: 1149
+gender: feminine

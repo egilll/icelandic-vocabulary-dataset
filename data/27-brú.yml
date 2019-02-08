@@ -1,0 +1,28 @@
+word: brú
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: brú
+      nominative_translation: a bridge
+      nominative_sound: islex/076/076_21.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: brú
+      accusative_sound: islex/076/076_21.mp3
+      dative: brú
+      dative_sound: islex/076/076_21.mp3
+      genitive: brúar
+    with article:
+      nominative: brúin
+      nominative_translation: the bridge
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: brúna
+      accusative_sound: islex/198/198_06.mp3
+      dative: brúnni
+      genitive: brúarinnar
+id: 851
+gender: feminine

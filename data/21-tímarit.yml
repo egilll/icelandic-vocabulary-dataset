@@ -1,0 +1,26 @@
+word: tímarit
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tímarit
+      nominative_translation: a magazine
+      nominative_sound: islex/221/221_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tímarit
+      accusative_sound: islex/221/221_23.mp3
+      dative: tímariti
+      genitive: tímarits
+    with article:
+      nominative: tímaritið
+      nominative_translation: the magazine
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tímaritið
+      dative: tímaritinu
+      genitive: tímaritsins
+id: 1834
+gender: neuter

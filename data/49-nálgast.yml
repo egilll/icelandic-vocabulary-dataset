@@ -1,0 +1,10 @@
+word: nálgast
+level: 49
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] nálgast'
+    infinitive_translation: to approach
+    infinitive_sound: islex/359/359_82.mp3
+    infinitive_teach: true
+id: 2256

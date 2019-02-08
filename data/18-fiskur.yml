@@ -1,0 +1,29 @@
+word: fiskur
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fiskur
+      nominative_translation: a fish
+      nominative_sound: islex/158/158_73.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fisk
+      dative: fiski
+      dative_sound: islex/332/332_26.mp3
+      genitive: fisks
+    with article:
+      nominative: fiskurinn
+      nominative_translation: the fish
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fiskinn
+      accusative_sound: islex/257/257_99.mp3
+      dative: fiskinum
+      dative_alternative:
+        - fisknum
+      genitive: fisksins
+id: 942
+gender: masculine

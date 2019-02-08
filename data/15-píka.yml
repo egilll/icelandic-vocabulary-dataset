@@ -1,0 +1,19 @@
+word: píka
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: píka
+      nominative_translation: a vagina
+      nominative_sound: islex/098/098_30.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: píkan
+      nominative_translation: the vagina
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1498
+gender: feminine

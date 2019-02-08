@@ -1,0 +1,44 @@
+word: sokkar
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sokkur
+      nominative_translation: a sock
+      nominative_sound: islex/348/348_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sokk
+      dative: sokk
+      genitive: sokks
+    with article:
+      nominative: sokkurinn
+      nominative_translation: the sock
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sokkinn
+      accusative_sound: islex/044/044_83.mp3
+      dative: sokknum
+      genitive: sokksins
+  plural:
+    no article:
+      nominative: sokkar
+      nominative_translation: socks
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sokka
+      dative: sokkum
+      genitive: sokka
+    with article:
+      nominative: sokkarnir
+      nominative_translation: the socks
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sokkana
+      dative: sokkunum
+      genitive: sokkanna
+id: 1707
+gender: masculine

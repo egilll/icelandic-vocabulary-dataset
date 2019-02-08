@@ -1,0 +1,20 @@
+word: grænmeti
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: grænmeti
+      nominative_translation: vegetable
+      nominative_sound: islex/462/462_12.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+      nominative_literal: green-foods
+    with article:
+      nominative: grænmetið
+      nominative_translation: the vegetable
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1042
+gender: neuter

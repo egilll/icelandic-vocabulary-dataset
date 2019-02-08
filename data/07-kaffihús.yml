@@ -1,0 +1,26 @@
+word: kaffihús
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kaffihús
+      nominative_translation: a coffeehouse
+      nominative_sound: islex/223/223_79.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kaffihús
+      accusative_sound: islex/223/223_79.mp3
+      dative: kaffihúsi
+      genitive: kaffihúss
+    with article:
+      nominative: kaffihúsið
+      nominative_translation: the coffeehouse
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kaffihúsið
+      dative: kaffihúsinu
+      genitive: kaffihússins
+id: 1209
+gender: neuter

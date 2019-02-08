@@ -1,0 +1,25 @@
+word: sandur
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sandur
+      nominative_translation: sand
+      nominative_sound: islex/079/079_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sand
+      dative: sandi
+      genitive: sands
+    with article:
+      nominative: sandurinn
+      nominative_translation: the sand
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sandinn
+      dative: sandinum
+      genitive: sandsins
+id: 1603
+gender: masculine

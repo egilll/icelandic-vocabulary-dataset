@@ -1,0 +1,19 @@
+word: spil
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: spil
+      nominative_translation: a playing card; a board game
+      nominative_sound: islex/457/457_66.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: spilið
+      nominative_translation: the playing card; the board game
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1721
+gender: neuter

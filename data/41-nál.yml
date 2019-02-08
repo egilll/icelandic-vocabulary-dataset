@@ -1,0 +1,45 @@
+word: nál
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: nál
+      nominative_translation: a needle
+      nominative_sound: islex/140/140_97.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nál
+      accusative_sound: islex/140/140_97.mp3
+      dative: nál
+      dative_sound: islex/140/140_97.mp3
+      genitive: nálar
+    with article:
+      nominative: nálin
+      nominative_translation: the needle
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nálina
+      dative: nálinni
+      genitive: nálarinnar
+  plural:
+    no article:
+      nominative: nálar
+      nominative_translation: needles
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nálar
+      dative: nálum
+      genitive: nála
+    with article:
+      nominative: nálarnar
+      nominative_translation: the needles
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nálarnar
+      dative: nálunum
+      genitive: nálanna
+id: 1437
+gender: feminine

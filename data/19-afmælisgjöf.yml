@@ -1,0 +1,45 @@
+word: afmælisgjöf
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: afmælisgjöf
+      nominative_translation: a birthday present
+      nominative_sound: islex/437/437_67.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: afmælisgjöf
+      accusative_sound: islex/437/437_67.mp3
+      dative: afmælisgjöf
+      dative_sound: islex/437/437_67.mp3
+      genitive: afmælisgjafar
+    with article:
+      nominative: afmælisgjöfin
+      nominative_translation: the birthday present
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: afmælisgjöfina
+      dative: afmælisgjöfinni
+      genitive: afmælisgjafarinnar
+  plural:
+    no article:
+      nominative: afmælisgjafir
+      nominative_translation: birthday presents
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: afmælisgjafir
+      dative: afmælisgjöfum
+      genitive: afmælisgjafa
+    with article:
+      nominative: afmælisgjafirnar
+      nominative_translation: the birthday presents
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: afmælisgjafirnar
+      dative: afmælisgjöfunum
+      genitive: afmælisgjafanna
+id: 702
+gender: feminine

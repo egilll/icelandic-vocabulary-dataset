@@ -1,0 +1,23 @@
+word: blómkál
+level: 44
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: blómkál
+      nominative_translation: cauliflower
+      nominative_sound: islex/358/358_42.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blómkál
+      accusative_sound: islex/358/358_42.mp3
+      dative: blómkáli
+      genitive: blómkáls
+    with article:
+      nominative: blómkálið
+      nominative_translation: the cauliflower
+      nominative_teach: false
+      nominative_teachtable: false
+id: 818
+gender: neuter

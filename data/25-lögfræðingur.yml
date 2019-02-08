@@ -1,0 +1,31 @@
+word: lögfræðingur
+level: 25
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lögfræðingur
+      nominative_translation: a lawyer
+      nominative_sound: islex/324/324_00.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: lögfræðingurinn
+      nominative_translation: the lawyer
+      nominative_teach: false
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: lögfræðingar
+      nominative_translation: lawyers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: lögfræðingarnir
+      nominative_translation: the lawyers
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1351
+gender: masculine

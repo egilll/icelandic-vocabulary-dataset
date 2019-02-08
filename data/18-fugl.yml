@@ -1,0 +1,44 @@
+word: fugl
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fugl
+      nominative_translation: a bird
+      nominative_sound: islex/123/123_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fugl
+      accusative_sound: islex/123/123_04.mp3
+      dative: fugli
+      genitive: fugls
+    with article:
+      nominative: fuglinn
+      nominative_translation: the bird
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fuglinn
+      dative: fuglinum
+      genitive: fuglsins
+  plural:
+    no article:
+      nominative: fuglar
+      nominative_translation: birds
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fugla
+      dative: fuglum
+      genitive: fugla
+    with article:
+      nominative: fuglarnir
+      nominative_translation: the birds
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fuglana
+      dative: fuglunum
+      genitive: fuglanna
+id: 996
+gender: masculine

@@ -1,0 +1,18 @@
+word: deit
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: deit
+      nominative_translation: a romantic date
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: deitið
+      nominative_translation: the romantic date
+      nominative_teach: true
+      nominative_teachtable: false
+id: 868
+gender: neuter

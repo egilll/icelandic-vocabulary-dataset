@@ -1,0 +1,45 @@
+word: maður
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: maður
+      nominative_translation: a man; a human
+      nominative_sound: islex/277/277_05.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mann
+      dative: manni
+      dative_sound: islex/286/286_98.mp3
+      genitive: manns
+    with article:
+      nominative: maðurinn
+      nominative_translation: the man; the human
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: manninn
+      dative: manninum
+      genitive: mannsins
+  plural:
+    no article:
+      nominative: menn
+      nominative_translation: men; humans
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: menn
+      dative: mönnum
+      genitive: manna
+      genitive_sound: islex/197/197_18.mp3
+    with article:
+      nominative: mennirnir
+      nominative_translation: the men; the humans
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: mennina
+      dative: mönnunum
+      genitive: mannanna
+id: 1366
+gender: masculine

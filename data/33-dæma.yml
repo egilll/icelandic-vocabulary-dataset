@@ -1,0 +1,10 @@
+word: dæma
+level: 33
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] dæma'
+    infinitive_translation: to judge
+    infinitive_sound: islex/306/306_40.mp3
+    infinitive_teach: true
+id: 2063

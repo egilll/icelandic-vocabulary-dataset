@@ -1,0 +1,44 @@
+word: hundur
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hundur
+      nominative_translation: a dog
+      nominative_sound: islex/036/036_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hund
+      dative: hundi
+      genitive: hunds
+    with article:
+      nominative: hundurinn
+      nominative_translation: the dog
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hundinn
+      dative: hundinum
+      genitive: hundsins
+  plural:
+    no article:
+      nominative: hundar
+      nominative_translation: dogs
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hunda
+      dative: hundum
+      genitive: hunda
+    with article:
+      nominative: hundarnir
+      nominative_translation: the dogs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hundana
+      dative: hundunum
+      genitive: hundanna
+id: 1176
+gender: masculine
+recognizable: '1'

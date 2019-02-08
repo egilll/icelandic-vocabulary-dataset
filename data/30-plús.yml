@@ -1,0 +1,19 @@
+word: plús
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: plús
+      nominative_translation: plus
+      nominative_sound: islex/086/086_72.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: plúsinn
+      nominative_translation: the plus
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1515
+gender: masculine

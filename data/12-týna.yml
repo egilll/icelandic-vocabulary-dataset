@@ -1,0 +1,25 @@
+word: týna
+level: 12
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] týna'
+    infinitive_translation: to lose something
+    infinitive_sound: islex/341/341_63.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] týni'
+          1st person_translation: I lose something
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] týndi'
+          1st person_translation: I lost something
+          1st person_teach: true
+        plural:
+          1st person: '[við] týndum'
+          1st person_translation: we lost something
+          1st person_teach: true
+id: 2409

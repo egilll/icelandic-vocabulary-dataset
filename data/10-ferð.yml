@@ -1,0 +1,45 @@
+word: ferð
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ferð
+      nominative_translation: a trip
+      nominative_sound: islex/411/411_35.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ferð
+      accusative_sound: islex/411/411_35.mp3
+      dative: ferð
+      dative_sound: islex/411/411_35.mp3
+      genitive: ferðar
+    with article:
+      nominative: ferðin
+      nominative_translation: the trip
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ferðina
+      dative: ferðinni
+      genitive: ferðarinnar
+  plural:
+    no article:
+      nominative: ferðir
+      nominative_translation: trips
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ferðir
+      dative: ferðum
+      genitive: ferða
+    with article:
+      nominative: ferðirnar
+      nominative_translation: the trips
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ferðirnar
+      dative: ferðunum
+      genitive: ferðanna
+id: 937
+gender: feminine

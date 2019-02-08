@@ -1,0 +1,29 @@
+word: salerni
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: salerni
+      nominative_translation: a toilet
+      nominative_sound: islex/443/443_30.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: salerni
+      accusative_sound: islex/443/443_30.mp3
+      dative: salerni
+      dative_sound: islex/443/443_30.mp3
+      genitive: salernis
+    with article:
+      nominative: salernið
+      nominative_translation: the toilet
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: salernið
+      dative: salerninu
+      genitive: salernisins
+id: 1586
+gender: neuter
+synonyms: klósett
+synonyms_sound: islex/479/479_71.mp3

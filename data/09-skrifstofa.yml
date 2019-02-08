@@ -1,0 +1,44 @@
+word: skrifstofa
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skrifstofa
+      nominative_translation: an office
+      nominative_sound: islex/421/421_50.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skrifstofu
+      dative: skrifstofu
+      genitive: skrifstofu
+    with article:
+      nominative: skrifstofan
+      nominative_translation: the office
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skrifstofuna
+      dative: skrifstofunni
+      genitive: skrifstofunnar
+  plural:
+    no article:
+      nominative: skrifstofur
+      nominative_translation: offices
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skrifstofur
+      dative: skrifstofum
+      genitive: skrifstofa
+      genitive_sound: islex/421/421_50.mp3
+    with article:
+      nominative: skrifstofurnar
+      nominative_translation: the offices
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skrifstofurnar
+      dative: skrifstofunum
+      genitive: skrifstofanna
+id: 1662
+gender: feminine

@@ -1,0 +1,24 @@
+word: dúnúlpa
+level: 42
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dúnúlpa
+      nominative_translation: a down jacket
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dúnúlpu
+      dative: dúnúlpu
+      genitive: dúnúlpu
+    with article:
+      nominative: dúnúlpan
+      nominative_translation: the down jacket
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dúnúlpuna
+      dative: dúnúlpunni
+      genitive: dúnúlpunnar
+id: 890
+gender: feminine

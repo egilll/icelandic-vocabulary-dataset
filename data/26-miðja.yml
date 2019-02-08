@@ -1,0 +1,25 @@
+word: miðja
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: miðja
+      nominative_translation: middle
+      nominative_sound: islex/121/121_80.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: miðju
+      dative: miðju
+      genitive: miðju
+    with article:
+      nominative: miðjan
+      nominative_translation: the middle
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: miðjuna
+      dative: miðjunni
+      genitive: miðjunnar
+id: 1403
+gender: feminine

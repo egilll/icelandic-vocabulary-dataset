@@ -1,0 +1,10 @@
+word: grínast
+level: 43
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] grínast'
+    infinitive_translation: 'to joke, to be joking'
+    infinitive_sound: islex/328/328_43.mp3
+    infinitive_teach: true
+id: 2135

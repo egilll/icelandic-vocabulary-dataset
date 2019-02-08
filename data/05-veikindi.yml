@@ -1,0 +1,26 @@
+word: veikindi
+level: 5
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: veikindi
+      nominative_translation: 'illness, bad health'
+      nominative_sound: islex/172/172_81.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: veikindi
+      accusative_sound: islex/172/172_81.mp3
+      dative: veikindum
+      genitive: veikinda
+    with article:
+      nominative: veikindin
+      nominative_translation: 'the illness, the bad health'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: veikindin
+      dative: veikindunum
+      genitive: veikindanna
+id: 1903
+gender: neuter

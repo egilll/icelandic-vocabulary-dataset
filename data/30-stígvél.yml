@@ -1,0 +1,26 @@
+word: stígvél
+level: 30
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: stígvél
+      nominative_translation: boots; rubber boots
+      nominative_sound: islex/469/469_08.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stígvél
+      accusative_sound: islex/469/469_08.mp3
+      dative: stígvélum
+      genitive: stígvéla
+    with article:
+      nominative: stígvélin
+      nominative_translation: the boots; the rubber boots
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stígvélin
+      dative: stígvélunum
+      genitive: stígvélanna
+id: 1745
+gender: neuter

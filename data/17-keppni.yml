@@ -1,0 +1,46 @@
+word: keppni
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: keppni
+      nominative_translation: a competition
+      nominative_sound: islex/059/059_53.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: keppni
+      accusative_sound: islex/059/059_53.mp3
+      dative: keppni
+      dative_sound: islex/059/059_53.mp3
+      genitive: keppni
+      genitive_sound: islex/059/059_53.mp3
+    with article:
+      nominative: keppnin
+      nominative_translation: the competition
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: keppnina
+      dative: keppninni
+      genitive: keppninnar
+  plural:
+    no article:
+      nominative: keppnir
+      nominative_translation: competitions
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: keppnir
+      dative: keppnum
+      genitive: keppna
+    with article:
+      nominative: keppnirnar
+      nominative_translation: the competitions
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: keppnirnar
+      dative: keppnunum
+      genitive: keppnanna
+id: 1230
+gender: feminine

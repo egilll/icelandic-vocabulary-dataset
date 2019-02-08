@@ -1,0 +1,19 @@
+word: samvinna
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: samvinna
+      nominative_translation: teamwork
+      nominative_sound: islex/149/149_25.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: samvinnan
+      nominative_translation: the teamwork
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1600
+gender: feminine

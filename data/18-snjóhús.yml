@@ -1,0 +1,26 @@
+word: snjóhús
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: snjóhús
+      nominative_translation: an igloo
+      nominative_sound: islex/197/197_35.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snjóhús
+      accusative_sound: islex/197/197_35.mp3
+      dative: snjóhúsi
+      genitive: snjóhúss
+    with article:
+      nominative: snjóhúsið
+      nominative_translation: the igloo
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: snjóhúsið
+      dative: snjóhúsinu
+      genitive: snjóhússins
+id: 1696
+gender: neuter

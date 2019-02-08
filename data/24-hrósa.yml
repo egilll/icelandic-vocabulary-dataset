@@ -1,0 +1,10 @@
+word: hrósa
+level: 24
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hrósa'
+    infinitive_translation: to congratulate
+    infinitive_sound: islex/324/324_61.mp3
+    infinitive_teach: true
+id: 2168

@@ -1,0 +1,43 @@
+word: pítsa
+level: 3
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: pítsa
+      nominative_translation: pizza
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pítsu
+      dative: pítsu
+      genitive: pítsu
+    with article:
+      nominative: pítsan
+      nominative_translation: the pizza
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pítsuna
+      dative: pítsunni
+      genitive: pítsunnar
+  plural:
+    no article:
+      nominative: pítsur
+      nominative_translation: pizzas
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pítsur
+      dative: pítsum
+      genitive: pítsa
+    with article:
+      nominative: pítsurnar
+      nominative_translation: the pizzas
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pítsurnar
+      dative: pítsunum
+      genitive: pítsanna
+id: 1504
+gender: feminine
+recognizable: '1'

@@ -1,0 +1,28 @@
+word: tómatur
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tómatur
+      nominative_translation: a tomato
+      nominative_sound: islex/470/470_55.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tómat
+      dative: tómati
+      dative_alternative:
+        - tómat
+      genitive: tómats
+    with article:
+      nominative: tómaturinn
+      nominative_translation: the tomato
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tómatinn
+      dative: tómatinum
+      genitive: tómatsins
+id: 1843
+gender: masculine
+recognizable: '1'

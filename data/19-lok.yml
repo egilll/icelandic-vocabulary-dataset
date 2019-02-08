@@ -1,0 +1,29 @@
+word: lok
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lok
+      nominative_translation: lid
+      nominative_sound: islex/367/367_22.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lok
+      accusative_sound: islex/367/367_22.mp3
+      dative: loki
+      dative_sound: islex/120/120_28.mp3
+      genitive: loks
+      genitive_sound: islex/438/438_72.mp3
+    with article:
+      nominative: lokið
+      nominative_translation: the lid
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lokið
+      dative: lokinu
+      genitive: loksins
+      genitive_sound: islex/085/085_52.mp3
+id: 1354
+gender: neuter

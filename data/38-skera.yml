@@ -1,0 +1,33 @@
+word: skera
+level: 38
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] skera'
+    infinitive_translation: 'to cut, to slice'
+    infinitive_sound: islex/362/362_94.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] sker'
+          1st person_translation: 'I cut, I slice'
+          1st person_sound: islex/231/231_72.mp3
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] skar'
+          1st person_translation: 'I cut, I sliced'
+          1st person_sound: islex/036/036_88.mp3
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] skorið'
+    active voice_translation: 'I have cut, I have sliced'
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: skerðu!
+      singular_translation: 'cut!¹, slice!¹'
+      singular_teach: true
+id: 2332
+strong_verb_declension: true

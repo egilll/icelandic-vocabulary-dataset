@@ -1,0 +1,45 @@
+word: bíómynd
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bíómynd
+      nominative_translation: a film
+      nominative_sound: islex/210/210_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bíómynd
+      accusative_sound: islex/210/210_27.mp3
+      dative: bíómynd
+      dative_sound: islex/210/210_27.mp3
+      genitive: bíómyndar
+    with article:
+      nominative: bíómyndin
+      nominative_translation: the film
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bíómyndina
+      dative: bíómyndinni
+      genitive: bíómyndarinnar
+  plural:
+    no article:
+      nominative: bíómyndir
+      nominative_translation: films
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bíómyndir
+      dative: bíómyndum
+      genitive: bíómynda
+    with article:
+      nominative: bíómyndirnar
+      nominative_translation: the films
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bíómyndirnar
+      dative: bíómyndunum
+      genitive: bíómyndanna
+id: 801
+gender: feminine

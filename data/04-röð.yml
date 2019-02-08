@@ -1,0 +1,27 @@
+word: röð
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: röð
+      nominative_translation: 'a row, a queue'
+      nominative_sound: islex/065/065_59.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: röð
+      accusative_sound: islex/065/065_59.mp3
+      dative: röð
+      dative_sound: islex/065/065_59.mp3
+      genitive: raðar
+    with article:
+      nominative: röðin
+      nominative_translation: 'the row, the queue'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: röðina
+      dative: röðinni
+      genitive: raðarinnar
+id: 1566
+gender: feminine

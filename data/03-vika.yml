@@ -1,0 +1,46 @@
+word: vika
+level: 3
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vika
+      nominative_translation: a week
+      nominative_sound: islex/124/124_44.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: viku
+      dative: viku
+      genitive: viku
+    with article:
+      nominative: vikan
+      nominative_translation: the week
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vikuna
+      dative: vikunni
+      genitive: vikunnar
+  plural:
+    no article:
+      nominative: vikur
+      nominative_translation: weeks
+      nominative_sound: islex/169/169_05.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vikur
+      accusative_sound: islex/169/169_05.mp3
+      dative: vikum
+      genitive: vikna
+      genitive_sound: islex/290/290_11.mp3
+    with article:
+      nominative: vikurnar
+      nominative_translation: the weeks
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vikurnar
+      dative: vikunum
+      genitive: viknanna
+id: 1925
+gender: feminine

@@ -1,0 +1,16 @@
+word: passa
+level: 27
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] passa'
+    infinitive_translation: 'to fit; to take care of, to babysit'
+    infinitive_sound: islex/311/311_94.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] passaði'
+          1st person_translation: 'I fitted; I took care of, I babysat'
+          1st person_teach: true
+id: 2270

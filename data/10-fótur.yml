@@ -1,0 +1,45 @@
+word: fótur
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fótur
+      nominative_translation: a foot
+      nominative_sound: islex/478/478_33.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fót
+      dative: fæti
+      genitive: fótar
+    with article:
+      nominative: fóturinn
+      nominative_translation: the foot
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fótinn
+      dative: fætinum
+      genitive: fótarins
+  plural:
+    no article:
+      nominative: fætur
+      nominative_translation: feet
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fætur
+      dative: fótum
+      genitive: fóta
+      genitive_sound: islex/108/108_95.mp3
+    with article:
+      nominative: fæturnir
+      nominative_translation: the foots
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fæturna
+      dative: fótunum
+      genitive: fótanna
+id: 981
+gender: masculine
+recognizable: '1'

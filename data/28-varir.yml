@@ -1,0 +1,25 @@
+word: varir
+level: 28
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: varir
+      nominative_translation: lips
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: varir
+      dative: vörum
+      genitive: vara
+      genitive_sound: islex/119/119_37.mp3
+    with article:
+      nominative: varirnar
+      nominative_translation: the lips
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: varirnar
+      dative: vörunum
+      genitive: varanna
+id: 1892
+gender: feminine

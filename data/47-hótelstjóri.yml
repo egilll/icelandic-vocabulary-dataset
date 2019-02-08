@@ -1,0 +1,25 @@
+word: hótelstjóri
+level: 47
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hótelstjóri
+      nominative_translation: a hotel manager
+      nominative_sound: islex/217/217_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hótelstjóra
+      dative: hótelstjóra
+      genitive: hótelstjóra
+    with article:
+      nominative: hótelstjórinn
+      nominative_translation: the hotel manager
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hótelstjórann
+      dative: hótelstjóranum
+      genitive: hótelstjórans
+id: 1159
+gender: masculine

@@ -1,0 +1,26 @@
+word: rafmagn
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rafmagn
+      nominative_translation: electricity
+      nominative_sound: islex/350/350_42.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rafmagn
+      accusative_sound: islex/350/350_42.mp3
+      dative: rafmagni
+      genitive: rafmagns
+    with article:
+      nominative: rafmagnið
+      nominative_translation: the electricity
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rafmagnið
+      dative: rafmagninu
+      genitive: rafmagnsins
+id: 1535
+gender: neuter

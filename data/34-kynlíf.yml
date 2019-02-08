@@ -1,0 +1,26 @@
+word: kynlíf
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kynlíf
+      nominative_translation: 'sex, intercourse'
+      nominative_sound: islex/090/090_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kynlíf
+      accusative_sound: islex/090/090_94.mp3
+      dative: kynlífi
+      genitive: kynlífs
+    with article:
+      nominative: kynlífið
+      nominative_translation: 'the sex, the intercourse'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kynlífið
+      dative: kynlífinu
+      genitive: kynlífsins
+id: 1281
+gender: neuter

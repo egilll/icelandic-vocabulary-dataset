@@ -1,0 +1,27 @@
+word: nammi
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: nammi
+      nominative_translation: candy
+      nominative_sound: islex/071/071_07.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nammi
+      accusative_sound: islex/071/071_07.mp3
+      dative: nammi
+      dative_sound: islex/071/071_07.mp3
+      genitive: nammis
+    with article:
+      nominative: nammið
+      nominative_translation: the candy
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nammið
+      dative: namminu
+      genitive: nammisins
+id: 1439
+gender: neuter

@@ -1,0 +1,37 @@
+word: karfa
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: karfa
+      nominative_translation: a basket
+      nominative_sound: islex/197/197_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: körfu
+      dative: körfu
+      genitive: körfu
+    with article:
+      nominative: karfan
+      nominative_translation: the basket
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: körfuna
+      dative: körfunni
+      genitive: körfunnar
+  plural:
+    no article:
+      nominative: körfur
+      nominative_translation: baskets
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: körfurnar
+      nominative_translation: the baskets
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1221
+gender: feminine

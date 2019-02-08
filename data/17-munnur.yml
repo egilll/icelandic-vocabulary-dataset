@@ -1,0 +1,26 @@
+word: munnur
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: munnur
+      nominative_translation: a mouth
+      nominative_sound: islex/010/010_82.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: munn
+      dative: munni
+      dative_sound: islex/418/418_55.mp3
+      genitive: munns
+    with article:
+      nominative: munnurinn
+      nominative_translation: the mouth
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: munninn
+      dative: munninum
+      genitive: munnsins
+id: 1422
+gender: masculine

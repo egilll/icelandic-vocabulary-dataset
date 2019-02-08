@@ -1,0 +1,28 @@
+word: net
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: net
+      nominative_translation: net; internet
+      nominative_sound: islex/329/329_93.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: net
+      accusative_sound: islex/329/329_93.mp3
+      dative: neti
+      genitive: nets
+    with article:
+      nominative: netið
+      nominative_translation: the net; the internet
+      nominative_sound: islex/114/114_46.mp3
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: netið
+      accusative_sound: islex/114/114_46.mp3
+      dative: netinu
+      genitive: netsins
+id: 1450
+gender: neuter

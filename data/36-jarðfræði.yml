@@ -1,0 +1,15 @@
+word: jarðfræði
+level: 36
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: jarðfræði
+      nominative_translation: geology
+      nominative_sound: islex/188/188_25.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+      nominative_literal: earth-studies
+id: 1197
+gender: feminine

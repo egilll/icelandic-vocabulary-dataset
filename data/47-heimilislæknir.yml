@@ -1,0 +1,15 @@
+word: heimilislæknir
+level: 47
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: heimilislæknir
+      nominative_translation: a family doctor
+      nominative_sound: islex/085/085_05.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+      nominative_literal: home-doctor
+id: 1106
+gender: masculine

@@ -1,0 +1,19 @@
+word: útilega
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: útilega
+      nominative_translation: camping
+      nominative_sound: islex/440/440_09.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: útilegan
+      nominative_translation: the camping
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1879
+gender: feminine

@@ -1,0 +1,26 @@
+word: stíga
+level: 34
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] stíga'
+    infinitive_translation: to step
+    infinitive_sound: islex/332/332_88.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] stíg'
+          1st person_translation: I step
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] steig'
+          1st person_translation: I stepped
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] stigið'
+    active voice_translation: I have stepped
+    active voice_teach: true
+id: 2377
+strong_verb_declension: true

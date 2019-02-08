@@ -1,0 +1,26 @@
+word: björn
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: björn
+      nominative_translation: a bear
+      nominative_sound: islex/089/089_62.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: björn
+      accusative_sound: islex/089/089_62.mp3
+      dative: birni
+      genitive: bjarnar
+    with article:
+      nominative: björninn
+      nominative_translation: the bear
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: björninn
+      dative: birninum
+      genitive: bjarnarins
+id: 804
+gender: masculine

@@ -1,0 +1,27 @@
+word: hreimur
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hreimur
+      nominative_translation: a foreign accent
+      nominative_sound: islex/393/393_31.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hreim
+      dative: hreim
+      dative_alternative:
+        - hreimi
+      genitive: hreims
+    with article:
+      nominative: hreimurinn
+      nominative_translation: the foreign accent
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hreiminn
+      dative: hreimnum
+      genitive: hreimsins
+id: 1162
+gender: masculine

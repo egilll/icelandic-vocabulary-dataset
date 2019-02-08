@@ -1,0 +1,19 @@
+word: framkvæmdastjóri
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: framkvæmdastjóri
+      nominative_translation: 'a manager, an executive director'
+      nominative_sound: islex/403/403_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: framkvæmdastjórinn
+      nominative_translation: 'the manager, the executive director'
+      nominative_teach: true
+      nominative_teachtable: false
+id: 985
+gender: masculine

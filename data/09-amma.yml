@@ -1,0 +1,17 @@
+word: amma
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: amma
+      nominative_translation: grandmother
+      nominative_sound: islex/154/154_15.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: ömmu
+      dative: ömmu
+      genitive: ömmu
+id: 721
+gender: feminine

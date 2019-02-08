@@ -1,0 +1,46 @@
+word: vopn
+level: 39
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vopn
+      nominative_translation: weapon
+      nominative_sound: islex/120/120_34.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vopn
+      accusative_sound: islex/120/120_34.mp3
+      dative: vopni
+      genitive: vopns
+    with article:
+      nominative: vopnið
+      nominative_translation: the weapon
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vopnið
+      dative: vopninu
+      genitive: vopnsins
+  plural:
+    no article:
+      nominative: vopn
+      nominative_translation: weapons
+      nominative_sound: islex/120/120_34.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vopn
+      accusative_sound: islex/120/120_34.mp3
+      dative: vopnum
+      genitive: vopna
+    with article:
+      nominative: vopnin
+      nominative_translation: the weapons
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vopnin
+      dative: vopnunum
+      genitive: vopnanna
+id: 1943
+gender: neuter

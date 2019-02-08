@@ -1,0 +1,48 @@
+word: ár
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ár
+      nominative_translation: a year
+      nominative_sound: islex/209/209_65.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ár
+      accusative_sound: islex/209/209_65.mp3
+      dative: ári
+      dative_sound: islex/186/186_30.mp3
+      genitive: árs
+    with article:
+      nominative: árið
+      nominative_translation: the year
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: árið
+      dative: árinu
+      genitive: ársins
+  plural:
+    no article:
+      nominative: ár
+      nominative_translation: years
+      nominative_sound: islex/209/209_65.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ár
+      accusative_sound: islex/209/209_65.mp3
+      dative: árum
+      genitive: ára
+      genitive_sound: islex/129/129_87.mp3
+    with article:
+      nominative: árin
+      nominative_translation: the years
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: árin
+      dative: árunum
+      genitive: áranna
+id: 728
+gender: neuter

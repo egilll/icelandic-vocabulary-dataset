@@ -1,0 +1,60 @@
+word: hringur
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hringur
+      nominative_translation: 'a circle, a ring'
+      nominative_sound: islex/183/183_90.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hring
+      dative: hring
+      genitive: hrings
+    with article:
+      nominative: hringurinn
+      nominative_translation: 'the circle, the ring'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hringinn
+      dative: hringnum
+      genitive: hringsins
+  plural:
+    no article:
+      nominative: hringir
+      nominative_translation: 'circles, rings'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - hringar
+      accusative: hringi
+      accusative_alternative:
+        - hringa
+      dative: hringjum
+      dative_alternative:
+        - hringum
+      genitive: hringja
+      genitive_sound: islex/200/200_81.mp3
+      genitive_alternative:
+        - hringa
+    with article:
+      nominative: hringirnir
+      nominative_translation: 'the circles, the rings'
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - hringarnir
+      accusative: hringina
+      accusative_alternative:
+        - hringana
+      dative: hringjunum
+      dative_alternative:
+        - hringunum
+      genitive: hringjanna
+      genitive_alternative:
+        - hringanna
+id: 1167
+gender: masculine

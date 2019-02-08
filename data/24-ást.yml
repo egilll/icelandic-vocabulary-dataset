@@ -1,0 +1,22 @@
+word: ást
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ást
+      nominative_translation: a love
+      nominative_sound: islex/446/446_32.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: ástin
+      nominative_translation: the love
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ástina
+      dative: ástinni
+      genitive: ástarinnar
+id: 740
+gender: feminine

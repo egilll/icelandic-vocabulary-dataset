@@ -1,0 +1,27 @@
+word: útborgun
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: útborgun
+      nominative_translation: payment of wages
+      nominative_sound: islex/102/102_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: útborgun
+      accusative_sound: islex/102/102_20.mp3
+      dative: útborgun
+      dative_sound: islex/102/102_20.mp3
+      genitive: útborgunar
+    with article:
+      nominative: útborgunin
+      nominative_translation: the payment of wages
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: útborgunina
+      dative: útborguninni
+      genitive: útborgunarinnar
+id: 1877
+gender: feminine

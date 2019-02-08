@@ -1,0 +1,26 @@
+word: snjóflóð
+level: 44
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: snjóflóð
+      nominative_translation: an avalanche
+      nominative_sound: islex/033/033_08.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snjóflóð
+      accusative_sound: islex/033/033_08.mp3
+      dative: snjóflóði
+      genitive: snjóflóðs
+    with article:
+      nominative: snjóflóðið
+      nominative_translation: the avalanche
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: snjóflóðið
+      dative: snjóflóðinu
+      genitive: snjóflóðsins
+id: 1694
+gender: neuter

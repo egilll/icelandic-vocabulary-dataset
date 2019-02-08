@@ -1,0 +1,27 @@
+word: kvittun
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kvittun
+      nominative_translation: a receipt
+      nominative_sound: islex/420/420_99.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kvittun
+      accusative_sound: islex/420/420_99.mp3
+      dative: kvittun
+      dative_sound: islex/420/420_99.mp3
+      genitive: kvittunar
+    with article:
+      nominative: kvittunin
+      nominative_translation: the receipt
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kvittunina
+      dative: kvittuninni
+      genitive: kvittunarinnar
+id: 1278
+gender: feminine

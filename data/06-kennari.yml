@@ -1,0 +1,43 @@
+word: kennari
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kennari
+      nominative_translation: a teacher
+      nominative_sound: islex/002/002_44.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kennara
+      dative: kennara
+      genitive: kennara
+    with article:
+      nominative: kennarinn
+      nominative_translation: the teacher
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kennarann
+      dative: kennaranum
+      genitive: kennarans
+  plural:
+    no article:
+      nominative: kennarar
+      nominative_translation: teachers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kennara
+      dative: kennurum
+      genitive: kennara
+    with article:
+      nominative: kennararnir
+      nominative_translation: the teachers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kennarana
+      dative: kennurunum
+      genitive: kennaranna
+id: 1227
+gender: masculine

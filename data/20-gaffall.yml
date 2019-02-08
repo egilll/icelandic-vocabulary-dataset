@@ -1,0 +1,43 @@
+word: gaffall
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gaffall
+      nominative_translation: a fork
+      nominative_sound: islex/085/085_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gaffal
+      dative: gaffli
+      genitive: gaffals
+    with article:
+      nominative: gaffallinn
+      nominative_translation: the fork
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gaffalinn
+      dative: gafflinum
+      genitive: gaffalsins
+  plural:
+    no article:
+      nominative: gafflar
+      nominative_translation: forks
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gaffla
+      dative: göfflum
+      genitive: gaffla
+    with article:
+      nominative: gafflarnir
+      nominative_translation: the forks
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gafflana
+      dative: göfflunum
+      genitive: gafflanna
+id: 1008
+gender: masculine

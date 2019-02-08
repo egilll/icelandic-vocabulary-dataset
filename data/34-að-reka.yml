@@ -1,0 +1,11 @@
+word: að reka
+level: 34
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] reka'
+    infinitive_translation: to fire someone
+    infinitive_sound: islex/162/162_65.mp3
+    infinitive_teach: true
+id: 1994
+strong_verb_declension: true

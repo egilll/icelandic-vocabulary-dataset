@@ -1,0 +1,48 @@
+word: borð
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: borð
+      nominative_translation: a table
+      nominative_sound: islex/404/404_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: borð
+      accusative_sound: islex/404/404_41.mp3
+      dative: borði
+      dative_sound: islex/136/136_54.mp3
+      genitive: borðs
+    with article:
+      nominative: borðið
+      nominative_translation: the table
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: borðið
+      dative: borðinu
+      genitive: borðsins
+  plural:
+    no article:
+      nominative: borð
+      nominative_translation: tables
+      nominative_sound: islex/404/404_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: borð
+      accusative_sound: islex/404/404_41.mp3
+      dative: borðum
+      genitive: borða
+      genitive_sound: islex/310/310_08.mp3
+    with article:
+      nominative: borðin
+      nominative_translation: the tables
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: borðin
+      dative: borðunum
+      genitive: borðanna
+id: 833
+gender: neuter

@@ -1,0 +1,25 @@
+word: planta
+level: 11
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: plöntur
+      nominative_translation: plants
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: plöntur
+      dative: plöntum
+      genitive: plantna
+    with article:
+      nominative: plönturnar
+      nominative_translation: the plants
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: plönturnar
+      dative: plöntunum
+      genitive: plantnanna
+id: 1509
+gender: feminine
+recognizable: '1'

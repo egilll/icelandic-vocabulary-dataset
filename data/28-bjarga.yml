@@ -1,0 +1,59 @@
+word: bjarga
+level: 28
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] bjarga'
+    infinitive_translation: to save
+    infinitive_sound: islex/242/242_86.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] bjarga'
+          1st person_translation: I save
+          1st person_sound: islex/242/242_86.mp3
+          1st person_teach: true
+          2nd person: '[þú] bjargar'
+          2nd person_translation: you¹ save
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] bjargar'
+          3rd person_translation: he/she/it saves
+          3rd person_teach: true
+        plural:
+          1st person: '[við] björgum'
+          1st person_translation: we save
+          1st person_teach: true
+          2nd person: '[þið] bjargið'
+          2nd person_translation: you² save
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] bjarga'
+          3rd person_translation: they save
+          3rd person_sound: islex/242/242_86.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] bjargaði'
+          1st person_translation: I saved
+          1st person_teach: true
+          2nd person: '[þú] bjargaðir'
+          2nd person_translation: you¹ saved
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] bjargaði'
+          3rd person_translation: he/she/it saved
+          3rd person_teach: true
+        plural:
+          1st person: '[við] björguðum'
+          1st person_translation: we saved
+          1st person_teach: true
+          2nd person: '[þið] björguðuð'
+          2nd person_translation: you² saved
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] björguðu'
+          3rd person_translation: they saved
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] bjargað'
+    active voice_translation: I have saved
+    active voice_teach: true
+id: 2046

@@ -1,0 +1,45 @@
+word: flugvél
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: flugvél
+      nominative_translation: an airplane
+      nominative_sound: islex/134/134_63.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flugvél
+      accusative_sound: islex/134/134_63.mp3
+      dative: flugvél
+      dative_sound: islex/134/134_63.mp3
+      genitive: flugvélar
+    with article:
+      nominative: flugvélin
+      nominative_translation: the airplane
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flugvélina
+      dative: flugvélinni
+      genitive: flugvélarinnar
+  plural:
+    no article:
+      nominative: flugvélar
+      nominative_translation: airplanes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flugvélar
+      dative: flugvélum
+      genitive: flugvéla
+    with article:
+      nominative: flugvélarnar
+      nominative_translation: the airplanes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flugvélarnar
+      dative: flugvélunum
+      genitive: flugvélanna
+id: 964
+gender: feminine

@@ -1,0 +1,13 @@
+word: afsakaðu
+level: 2
+grammatical_category: verb
+conjugation:
+  imperative:
+    active voice:
+      singular: afsakaðu!
+      singular_translation: excuse me!¹
+      singular_teach: true
+      plural: afsakið!
+      plural_translation: excuse me!²
+      plural_teach: true
+id: 2021

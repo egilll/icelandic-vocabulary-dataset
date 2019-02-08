@@ -1,0 +1,32 @@
+word: pæling
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: pæling
+      nominative_translation: 'a speculation, a thought'
+      nominative_sound: islex/056/056_15.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pælingu
+      dative: pælingu
+      genitive: pælingar
+    with article:
+      nominative: pælingin
+      nominative_translation: 'the speculation, the thought'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pælinguna
+      dative: pælingunni
+      genitive: pælingarinnar
+  plural:
+    no article:
+      nominative: pælingar
+      nominative_translation: 'speculations, thoughts'
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1481
+gender: feminine

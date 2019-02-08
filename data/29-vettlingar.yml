@@ -1,0 +1,24 @@
+word: vettlingar
+level: 29
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: vettlingar
+      nominative_translation: mittens
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vettlinga
+      dative: vettlingum
+      genitive: vettlinga
+    with article:
+      nominative: vettlingarnir
+      nominative_translation: the mittens
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vettlingana
+      dative: vettlingunum
+      genitive: vettlinganna
+id: 1917
+gender: masculine

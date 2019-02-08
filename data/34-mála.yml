@@ -1,0 +1,22 @@
+word: mála
+level: 34
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] mála'
+    infinitive_translation: to paint
+    infinitive_sound: islex/423/423_11.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] mála'
+          1st person_translation: I paint
+          1st person_sound: islex/423/423_11.mp3
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] málaði'
+          1st person_translation: I painted
+          1st person_teach: true
+id: 2240

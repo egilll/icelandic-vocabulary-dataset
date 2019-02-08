@@ -1,0 +1,15 @@
+word: heimur
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: heimurinn
+      nominative_translation: the world
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: heiminn
+      dative: heiminum
+      genitive: heimsins
+id: 1108
+gender: masculine

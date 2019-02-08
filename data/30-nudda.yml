@@ -1,0 +1,16 @@
+word: nudda
+level: 30
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] nudda'
+    infinitive_translation: to massage
+    infinitive_sound: islex/269/269_48.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] nuddaði'
+          1st person_translation: I massaged
+          1st person_teach: true
+id: 2263

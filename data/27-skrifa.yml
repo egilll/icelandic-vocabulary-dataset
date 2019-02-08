@@ -1,0 +1,59 @@
+word: skrifa
+level: 27
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] skrifa'
+    infinitive_translation: to write
+    infinitive_sound: islex/029/029_57.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] skrifa'
+          1st person_translation: I write
+          1st person_sound: islex/029/029_57.mp3
+          1st person_teach: true
+          2nd person: '[þú] skrifar'
+          2nd person_translation: you¹ write
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] skrifar'
+          3rd person_translation: he/she/it writes
+          3rd person_teach: true
+        plural:
+          1st person: '[við] skrifum'
+          1st person_translation: we write
+          1st person_teach: true
+          2nd person: '[þið] skrifið'
+          2nd person_translation: you² write
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] skrifa'
+          3rd person_translation: they write
+          3rd person_sound: islex/029/029_57.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] skrifaði'
+          1st person_translation: I wrote
+          1st person_teach: true
+          2nd person: '[þú] skrifaðir'
+          2nd person_translation: you¹ wrote
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] skrifaði'
+          3rd person_translation: he/she/it wrote
+          3rd person_teach: true
+        plural:
+          1st person: '[við] skrifuðum'
+          1st person_translation: we wrote
+          1st person_teach: true
+          2nd person: '[þið] skrifuðuð'
+          2nd person_translation: you² wrote
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] skrifuðu'
+          3rd person_translation: they wrote
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] skrifað'
+    active voice_translation: I have written
+    active voice_teach: true
+id: 2347

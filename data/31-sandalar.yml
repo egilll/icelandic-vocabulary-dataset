@@ -1,0 +1,24 @@
+word: sandalar
+level: 31
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: sandalar
+      nominative_translation: sandals
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sandala
+      dative: sandölum
+      dative_alternative:
+        - söndulum
+      genitive: sandala
+    with article:
+      nominative: sandalarnir
+      nominative_translation: the sandals
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1602
+gender: masculine
+recognizable: '1'

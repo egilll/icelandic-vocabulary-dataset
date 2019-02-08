@@ -1,0 +1,10 @@
+word: kostar
+level: 13
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] kosta'
+    infinitive_translation: to cost
+    infinitive_sound: islex/424/424_29.mp3
+    infinitive_teach: true
+id: 2192

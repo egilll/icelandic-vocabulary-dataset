@@ -1,0 +1,26 @@
+word: samfélag
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: samfélag
+      nominative_translation: a society
+      nominative_sound: islex/440/440_19.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: samfélag
+      accusative_sound: islex/440/440_19.mp3
+      dative: samfélagi
+      genitive: samfélags
+    with article:
+      nominative: samfélagið
+      nominative_translation: the society
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: samfélagið
+      dative: samfélaginu
+      genitive: samfélagsins
+id: 1591
+gender: neuter

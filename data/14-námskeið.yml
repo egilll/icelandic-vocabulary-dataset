@@ -1,0 +1,26 @@
+word: námskeið
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: námskeið
+      nominative_translation: 'a course, a workshop'
+      nominative_sound: islex/396/396_68.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: námskeið
+      accusative_sound: islex/396/396_68.mp3
+      dative: námskeiði
+      genitive: námskeiðs
+    with article:
+      nominative: námskeiðið
+      nominative_translation: 'the course, the workshop'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: námskeiðið
+      dative: námskeiðinu
+      genitive: námskeiðsins
+id: 1440
+gender: neuter

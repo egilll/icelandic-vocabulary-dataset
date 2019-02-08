@@ -1,0 +1,18 @@
+word: skjal
+level: 48
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: skjöl
+      nominative_translation: documents
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: skjölin
+      nominative_translation: the documents
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1651
+gender: neuter

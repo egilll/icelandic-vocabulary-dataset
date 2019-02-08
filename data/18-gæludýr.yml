@@ -1,0 +1,15 @@
+word: gæludýr
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gæludýr
+      nominative_translation: a pet
+      nominative_sound: islex/280/280_56.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+      nominative_literal: caress-animal
+id: 1005
+gender: neuter

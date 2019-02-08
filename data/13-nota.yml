@@ -1,0 +1,70 @@
+word: nota
+level: 13
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] nota'
+    infinitive_translation: to use
+    infinitive_sound: islex/214/214_47.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] nota'
+          1st person_translation: I use
+          1st person_sound: islex/214/214_47.mp3
+          1st person_teach: true
+          2nd person: '[þú] notar'
+          2nd person_translation: you¹ use
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] notar'
+          3rd person_translation: he/she/it uses
+          3rd person_teach: true
+        plural:
+          1st person: '[við] notum'
+          1st person_translation: we use
+          1st person_teach: true
+          2nd person: '[þið] notið'
+          2nd person_translation: you² use
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] nota'
+          3rd person_translation: they use
+          3rd person_sound: islex/214/214_47.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] notaði'
+          1st person_translation: I used
+          1st person_teach: true
+          2nd person: '[þú] notaðir'
+          2nd person_translation: you¹ used
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] notaði'
+          3rd person_translation: he/she/it used
+          3rd person_teach: true
+        plural:
+          1st person: '[við] notuðum'
+          1st person_translation: we used
+          1st person_teach: true
+          2nd person: '[þið] notuðuð'
+          2nd person_translation: you² used
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] notuðu'
+          3rd person_translation: they used
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] noti'
+          1st person_translation: I think I use
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] notað'
+    active voice_translation: I have used
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: notaðu!
+      singular_translation: use!¹
+      singular_teach: true
+id: 2262

@@ -1,0 +1,22 @@
+word: laukur
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: laukur
+      nominative_translation: an onion
+      nominative_sound: islex/422/422_51.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: laukurinn
+      nominative_translation: the onion
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: laukinn
+      dative: lauknum
+      genitive: lauksins
+id: 1300
+gender: masculine

@@ -1,0 +1,27 @@
+word: toppur
+level: 37
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: toppur
+      nominative_translation: 'a top, a peak'
+      nominative_sound: islex/443/443_10.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: topp
+      dative: toppi
+      genitive: topps
+    with article:
+      nominative: toppurinn
+      nominative_translation: 'the top, the peak'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: toppinn
+      dative: toppnum
+      dative_alternative:
+        - toppinum
+      genitive: toppsins
+id: 1849
+gender: masculine

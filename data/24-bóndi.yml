@@ -1,0 +1,43 @@
+word: bóndi
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bóndi
+      nominative_translation: a farmer
+      nominative_sound: islex/427/427_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bónda
+      dative: bónda
+      genitive: bónda
+    with article:
+      nominative: bóndinn
+      nominative_translation: the farmer
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bóndann
+      dative: bóndanum
+      genitive: bóndans
+  plural:
+    no article:
+      nominative: bændur
+      nominative_translation: farmers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bændur
+      dative: bændum
+      genitive: bænda
+    with article:
+      nominative: bændurnir
+      nominative_translation: the farmers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bændurna
+      dative: bændunum
+      genitive: bændanna
+id: 832
+gender: masculine

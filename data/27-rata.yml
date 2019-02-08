@@ -1,0 +1,21 @@
+word: rata
+level: 27
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] rata'
+    infinitive_translation: to know the way
+    infinitive_sound: islex/117/117_87.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] rata'
+          1st person_translation: I know the way
+          1st person_sound: islex/117/117_87.mp3
+          1st person_teach: true
+        plural:
+          1st person: '[við] rötum'
+          1st person_translation: we know the way
+          1st person_teach: true
+id: 2285

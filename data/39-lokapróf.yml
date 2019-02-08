@@ -1,0 +1,26 @@
+word: lokapróf
+level: 39
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lokapróf
+      nominative_translation: a final exam
+      nominative_sound: islex/164/164_17.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lokapróf
+      accusative_sound: islex/164/164_17.mp3
+      dative: lokaprófi
+      genitive: lokaprófs
+    with article:
+      nominative: lokaprófið
+      nominative_translation: the final exam
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lokaprófið
+      dative: lokaprófinu
+      genitive: lokaprófsins
+id: 1356
+gender: neuter

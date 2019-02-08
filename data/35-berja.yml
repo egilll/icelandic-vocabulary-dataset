@@ -1,0 +1,16 @@
+word: berja
+level: 35
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] berja'
+    infinitive_translation: to punch someone
+    infinitive_sound: islex/353/353_15.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] barði'
+          1st person_translation: I punched someone
+          1st person_teach: true
+id: 2040

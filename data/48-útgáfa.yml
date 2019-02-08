@@ -1,0 +1,25 @@
+word: útgáfa
+level: 48
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: útgáfa
+      nominative_translation: a version
+      nominative_sound: islex/106/106_83.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: útgáfu
+      dative: útgáfu
+      genitive: útgáfu
+    with article:
+      nominative: útgáfan
+      nominative_translation: the version
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: útgáfuna
+      dative: útgáfunni
+      genitive: útgáfunnar
+id: 1878
+gender: feminine

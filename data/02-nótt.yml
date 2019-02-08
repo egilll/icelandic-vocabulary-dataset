@@ -1,0 +1,53 @@
+word: nótt
+level: 2
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: nótt
+      nominative_translation: night
+      nominative_sound: islex/117/117_72.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nótt
+      accusative_sound: islex/117/117_72.mp3
+      dative: nótt
+      dative_sound: islex/117/117_72.mp3
+      dative_alternative:
+        - nóttu
+      genitive: nætur
+    with article:
+      nominative: nóttin
+      nominative_translation: the night
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nóttina
+      dative: nóttinni
+      dative_alternative:
+        - nóttunni
+      genitive: næturinnar
+  plural:
+    no article:
+      nominative: nætur
+      nominative_translation: nights
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nætur
+      dative: nóttum
+      genitive: nótta
+      genitive_alternative:
+        - nátta
+    with article:
+      nominative: næturnar
+      nominative_translation: the nights
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: næturnar
+      dative: nóttunum
+      genitive: nóttanna
+      genitive_alternative:
+        - náttanna
+id: 1455
+gender: feminine

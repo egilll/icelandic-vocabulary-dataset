@@ -1,0 +1,59 @@
+word: sækja
+level: 11
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] sækja'
+    infinitive_translation: 'to retrieve, to get, to fetch'
+    infinitive_sound: islex/436/436_03.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] sæki'
+          1st person_translation: 'I retrieve, I get, I fetch'
+          1st person_teach: true
+          2nd person: '[þú] sækir'
+          2nd person_translation: 'you¹ retrieve, you¹ get, you¹ fetch'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sækir'
+          3rd person_translation: 'he/she/it retrieves, he/she/it gets, he/she/it fetches'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sækjum'
+          1st person_translation: 'we retrieve, we get, we fetch'
+          1st person_teach: true
+          2nd person: '[þið] sækið'
+          2nd person_translation: 'you² retrieve, you² get, you² fetch'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sækja'
+          3rd person_translation: 'they retrieve, they get, they fetch'
+          3rd person_sound: islex/436/436_03.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] sótti'
+          1st person_translation: 'I retrieved, I got, I fetched'
+          1st person_teach: true
+          2nd person: '[þú] sóttir'
+          2nd person_translation: 'you¹ retrieved, you¹ got, you¹ fetched'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sótti'
+          3rd person_translation: 'he/she/it retrieved, he/she/it got, he/she/it fetched'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sóttum'
+          1st person_translation: 'we retrieved, we got, we fetched'
+          1st person_teach: true
+          2nd person: '[þið] sóttuð'
+          2nd person_translation: 'you² retrieved, you² got, you² fetched'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sóttu'
+          3rd person_translation: 'they retrieved, they got, they fetched'
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] sótt'
+    active voice_translation: 'I have retrieved, I have got, I have fetched'
+    active voice_sound: islex/108/108_26.mp3
+    active voice_teach: true
+id: 2304

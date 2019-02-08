@@ -1,0 +1,21 @@
+word: tannþráður
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tannþráður
+      nominative_translation: dental floss
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tannþráð
+      dative: tannþræði
+      genitive: tannþráðar
+    with article:
+      nominative: tannþráðurinn
+      nominative_translation: the dental floss
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1818
+gender: masculine

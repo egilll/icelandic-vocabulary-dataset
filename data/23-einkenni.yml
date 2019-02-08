@@ -1,0 +1,14 @@
+word: einkenni
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: einkenni
+      nominative_translation: a symptom
+      nominative_sound: islex/232/232_41.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 903
+gender: neuter

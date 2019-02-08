@@ -1,0 +1,10 @@
+word: að birtast
+level: 31
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] birtast'
+    infinitive_translation: to appear
+    infinitive_sound: islex/134/134_66.mp3
+    infinitive_teach: true
+id: 1974

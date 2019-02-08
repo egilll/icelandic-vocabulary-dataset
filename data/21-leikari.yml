@@ -1,0 +1,43 @@
+word: leikari
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: leikari
+      nominative_translation: an actor
+      nominative_sound: islex/129/129_40.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leikara
+      dative: leikara
+      genitive: leikara
+    with article:
+      nominative: leikarinn
+      nominative_translation: the actor
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leikarann
+      dative: leikaranum
+      genitive: leikarans
+  plural:
+    no article:
+      nominative: leikarar
+      nominative_translation: actors
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leikara
+      dative: leikurum
+      genitive: leikara
+    with article:
+      nominative: leikararnir
+      nominative_translation: the actors
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leikarana
+      dative: leikurunum
+      genitive: leikaranna
+id: 1310
+gender: masculine

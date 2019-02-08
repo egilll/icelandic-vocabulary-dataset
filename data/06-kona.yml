@@ -1,0 +1,44 @@
+word: kona
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kona
+      nominative_translation: a woman
+      nominative_sound: islex/051/051_61.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: konu
+      dative: konu
+      genitive: konu
+    with article:
+      nominative: konan
+      nominative_translation: the woman
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: konuna
+      dative: konunni
+      genitive: konunnar
+  plural:
+    no article:
+      nominative: konur
+      nominative_translation: women
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: konur
+      dative: konum
+      genitive: kvenna
+      genitive_sound: islex/073/073_43.mp3
+    with article:
+      nominative: konurnar
+      nominative_translation: the women
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: konurnar
+      dative: konunum
+      genitive: kvennanna
+id: 1257
+gender: feminine

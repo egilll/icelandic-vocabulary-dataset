@@ -1,0 +1,58 @@
+word: æfa
+level: 15
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] æfa'
+    infinitive_translation: to practice
+    infinitive_sound: islex/456/456_66.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] æfi'
+          1st person_translation: I practice
+          1st person_teach: true
+          2nd person: '[þú] æfir'
+          2nd person_translation: you¹ practice
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] æfir'
+          3rd person_translation: he/she/it practices
+          3rd person_teach: true
+        plural:
+          1st person: '[við] æfum'
+          1st person_translation: we practice
+          1st person_teach: true
+          2nd person: '[þið] æfið'
+          2nd person_translation: you² practice
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] æfa'
+          3rd person_translation: they practice
+          3rd person_sound: islex/456/456_66.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] æfði'
+          1st person_translation: I practiced
+          1st person_teach: true
+          2nd person: '[þú] æfðir'
+          2nd person_translation: you¹ practiced
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] æfði'
+          3rd person_translation: he/she/it practiced
+          3rd person_teach: true
+        plural:
+          1st person: '[við] æfðum'
+          1st person_translation: we practiced
+          1st person_teach: true
+          2nd person: '[þið] æfðuð'
+          2nd person_translation: you² practiced
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] æfðu'
+          3rd person_translation: they practiced
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] æft'
+    active voice_translation: I have practiced
+    active voice_teach: true
+id: 2018

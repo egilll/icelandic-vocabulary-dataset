@@ -1,0 +1,27 @@
+word: hljóðfæri
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hljóðfæri
+      nominative_translation: a musical instrument
+      nominative_sound: islex/206/206_36.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hljóðfæri
+      accusative_sound: islex/206/206_36.mp3
+      dative: hljóðfæri
+      dative_sound: islex/206/206_36.mp3
+      genitive: hljóðfæris
+    with article:
+      nominative: hljóðfærið
+      nominative_translation: the musical instrument
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hljóðfærið
+      dative: hljóðfærinu
+      genitive: hljóðfærisins
+id: 1137
+gender: neuter

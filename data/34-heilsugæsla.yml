@@ -1,0 +1,25 @@
+word: heilsugæsla
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: heilsugæsla
+      nominative_translation: a health care facility
+      nominative_sound: islex/376/376_72.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: heilsugæslu
+      dative: heilsugæslu
+      genitive: heilsugæslu
+    with article:
+      nominative: heilsugæslan
+      nominative_translation: the health care facility
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: heilsugæsluna
+      dative: heilsugæslunni
+      genitive: heilsugæslunnar
+id: 1103
+gender: feminine

@@ -1,0 +1,16 @@
+word: ráða
+level: 19
+grammatical_category: verb
+conjugation:
+  active voice:
+    indicative:
+      present:
+        singular:
+          2nd person: '[þú] ræður'
+          2nd person_translation: 'you¹ decide, it''s up to you¹'
+          2nd person_sound: islex/293/293_64.mp3
+          2nd person_teach: true
+id: 2279
+never_show_with: ákveða
+strong_verb_declension: true
+synonyms: ''

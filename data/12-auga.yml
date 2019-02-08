@@ -1,0 +1,46 @@
+word: auga
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: auga
+      nominative_translation: an eye
+      nominative_sound: islex/062/062_87.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: auga
+      accusative_sound: islex/062/062_87.mp3
+      dative: auga
+      dative_sound: islex/062/062_87.mp3
+      genitive: auga
+      genitive_sound: islex/062/062_87.mp3
+    with article:
+      nominative: augað
+      nominative_translation: the eye
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: augað
+      dative: auganu
+      genitive: augans
+  plural:
+    no article:
+      nominative: augu
+      nominative_translation: eyes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: augu
+      dative: augum
+      genitive: augna
+    with article:
+      nominative: augun
+      nominative_translation: the eyes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: augun
+      dative: augunum
+      genitive: augnanna
+id: 747
+gender: neuter

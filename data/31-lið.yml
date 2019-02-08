@@ -1,0 +1,32 @@
+word: lið
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lið
+      nominative_translation: a team
+      nominative_sound: islex/295/295_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lið
+      accusative_sound: islex/295/295_96.mp3
+      dative: liði
+      genitive: liðs
+    with article:
+      nominative: liðið
+      nominative_translation: the team
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: liðið
+      dative: liðinu
+      genitive: liðsins
+  plural:
+    with article:
+      nominative: liðin
+      nominative_translation: the teams
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1323
+gender: neuter

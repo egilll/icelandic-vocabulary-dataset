@@ -1,0 +1,44 @@
+word: þáttur
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þáttur
+      nominative_translation: an TV episode
+      nominative_sound: islex/150/150_61.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þátt
+      dative: þætti
+      genitive: þáttar
+    with article:
+      nominative: þátturinn
+      nominative_translation: the TV episode
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þáttinn
+      dative: þættinum
+      genitive: þáttarins
+  plural:
+    no article:
+      nominative: þættir
+      nominative_translation: TV episodes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þætti
+      dative: þáttum
+      genitive: þátta
+      genitive_sound: islex/179/179_09.mp3
+    with article:
+      nominative: þættirnir
+      nominative_translation: the TV episodes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þættina
+      dative: þáttunum
+      genitive: þáttanna
+id: 1952
+gender: masculine

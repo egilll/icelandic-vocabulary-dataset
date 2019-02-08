@@ -1,0 +1,15 @@
+word: stærðfræði
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stærðfræði
+      nominative_translation: mathematics
+      nominative_sound: islex/141/141_23.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+      nominative_literal: size-studies
+id: 1731
+gender: feminine

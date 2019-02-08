@@ -1,0 +1,26 @@
+word: prentari
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: prentari
+      nominative_translation: a printer
+      nominative_sound: islex/222/222_71.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: prentara
+      dative: prentara
+      genitive: prentara
+    with article:
+      nominative: prentarinn
+      nominative_translation: the printer
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: prentarann
+      dative: prentaranum
+      genitive: prentarans
+id: 1521
+gender: masculine
+recognizable: '1'

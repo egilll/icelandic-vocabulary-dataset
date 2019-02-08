@@ -1,0 +1,63 @@
+word: útskýra
+level: 23
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] útskýra'
+    infinitive_translation: to explain
+    infinitive_sound: islex/444/444_23.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] útskýri'
+          1st person_translation: I explain
+          1st person_teach: true
+          2nd person: '[þú] útskýrir'
+          2nd person_translation: you¹ explain
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] útskýrir'
+          3rd person_translation: he/she/it explains
+          3rd person_teach: true
+        plural:
+          1st person: '[við] útskýrum'
+          1st person_translation: we explain
+          1st person_teach: true
+          2nd person: '[þið] útskýrið'
+          2nd person_translation: you² explain
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] útskýra'
+          3rd person_translation: they explain
+          3rd person_sound: islex/444/444_23.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] útskýrði'
+          1st person_translation: I explained
+          1st person_teach: true
+          2nd person: '[þú] útskýrðir'
+          2nd person_translation: you¹ explained
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] útskýrði'
+          3rd person_translation: he/she/it explained
+          3rd person_teach: true
+        plural:
+          1st person: '[við] útskýrðum'
+          1st person_translation: we explained
+          1st person_teach: true
+          2nd person: '[þið] útskýrðuð'
+          2nd person_translation: you² explained
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] útskýrðu'
+          3rd person_translation: they explained
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] útskýrt'
+    active voice_translation: I have explained
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: útskýrðu!
+      singular_translation: explain!¹
+      singular_teach: true
+id: 2415

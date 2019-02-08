@@ -1,0 +1,62 @@
+word: elda
+level: 11
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] elda'
+    infinitive_translation: to cook
+    infinitive_sound: islex/005/005_23.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] elda'
+          1st person_translation: I cook
+          1st person_sound: islex/005/005_23.mp3
+          1st person_teach: true
+          2nd person: '[þú] eldar'
+          2nd person_translation: you¹ cook
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] eldar'
+          3rd person_translation: he/she/it cooks
+          3rd person_teach: true
+        plural:
+          1st person: '[við] eldum'
+          1st person_translation: we cook
+          1st person_teach: true
+          2nd person: '[þið] eldið'
+          2nd person_translation: you² cook
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] elda'
+          3rd person_translation: they cook
+          3rd person_sound: islex/005/005_23.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] eldaði'
+          1st person_translation: I cooked
+          1st person_teach: true
+          2nd person: '[þú] eldaðir'
+          2nd person_translation: you¹ cooked
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] eldaði'
+          3rd person_translation: he/she/it cooked
+          3rd person_teach: true
+        plural:
+          1st person: '[við] elduðum'
+          1st person_translation: we cooked
+          1st person_teach: true
+          2nd person: '[þið] elduðuð'
+          2nd person_translation: you² cooked
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] elduðu'
+          3rd person_translation: they cooked
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] eldað'
+    active voice_translation: I have cooked
+    active voice_teach: true
+id: 2084
+teach_the_difference: ''
+never_show_with: ''
+only_show_after: eldur

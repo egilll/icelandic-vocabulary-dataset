@@ -1,0 +1,27 @@
+word: byrjun
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: byrjun
+      nominative_translation: a start
+      nominative_sound: islex/133/133_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: byrjun
+      accusative_sound: islex/133/133_64.mp3
+      dative: byrjun
+      dative_sound: islex/133/133_64.mp3
+      genitive: byrjunar
+    with article:
+      nominative: byrjunin
+      nominative_translation: the start
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: byrjunina
+      dative: byrjuninni
+      genitive: byrjunarinnar
+id: 859
+gender: feminine

@@ -1,0 +1,40 @@
+word: kjósa
+level: 36
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] kjósa'
+    infinitive_translation: to vote
+    infinitive_sound: islex/010/010_90.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] kýs'
+          1st person_translation: I vote
+          1st person_teach: true
+          2nd person: '[þú] kýst'
+          2nd person_translation: you¹ vote
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] kýs'
+          3rd person_translation: he/she/it votes
+          3rd person_teach: true
+        plural:
+          1st person: '[við] kjósum'
+          1st person_translation: we vote
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] kaus'
+          1st person_translation: I voted
+          1st person_teach: true
+        plural:
+          1st person: '[við] kusum'
+          1st person_translation: we voted
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] kosið'
+    active voice_translation: I have voted
+    active voice_teach: true
+id: 2184
+strong_verb_declension: true

@@ -1,0 +1,25 @@
+word: strigaskór
+level: 39
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: strigaskór
+      nominative_translation: sneakers
+      nominative_sound: islex/360/360_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: strigaskó
+      dative: strigaskóm
+      genitive: strigaskóa
+    with article:
+      nominative: strigaskórnir
+      nominative_translation: the sneakers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: strigaskóna
+      dative: strigaskónum
+      genitive: strigaskónna
+id: 1760
+gender: masculine

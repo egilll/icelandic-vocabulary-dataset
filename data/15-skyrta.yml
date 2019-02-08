@@ -1,0 +1,47 @@
+word: skyrta
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skyrta
+      nominative_translation: a shirt
+      nominative_sound: islex/303/303_29.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skyrtu
+      dative: skyrtu
+      genitive: skyrtu
+    with article:
+      nominative: skyrtan
+      nominative_translation: the shirt
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skyrtuna
+      dative: skyrtunni
+      genitive: skyrtunnar
+  plural:
+    no article:
+      nominative: skyrtur
+      nominative_translation: shirts
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skyrtur
+      dative: skyrtum
+      genitive: skyrtna
+      genitive_alternative:
+        - skyrta
+    with article:
+      nominative: skyrturnar
+      nominative_translation: the shirts
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skyrturnar
+      dative: skyrtunum
+      genitive: skyrtnanna
+      genitive_alternative:
+        - skyrtanna
+id: 1675
+gender: feminine

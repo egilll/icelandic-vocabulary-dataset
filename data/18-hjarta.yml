@@ -1,0 +1,29 @@
+word: hjarta
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hjarta
+      nominative_translation: a heart
+      nominative_sound: islex/029/029_30.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hjarta
+      accusative_sound: islex/029/029_30.mp3
+      dative: hjarta
+      dative_sound: islex/029/029_30.mp3
+      genitive: hjarta
+      genitive_sound: islex/029/029_30.mp3
+    with article:
+      nominative: hjartað
+      nominative_translation: the heart
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hjartað
+      dative: hjartanu
+      genitive: hjartans
+      genitive_sound: islex/436/436_10.mp3
+id: 1125
+gender: neuter

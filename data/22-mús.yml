@@ -1,0 +1,45 @@
+word: mús
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: mús
+      nominative_translation: a mouse
+      nominative_sound: islex/254/254_07.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mús
+      accusative_sound: islex/254/254_07.mp3
+      dative: mús
+      dative_sound: islex/254/254_07.mp3
+      genitive: músar
+    with article:
+      nominative: músin
+      nominative_translation: the mouse
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: músina
+      dative: músinni
+      genitive: músarinnar
+  plural:
+    no article:
+      nominative: mýs
+      nominative_translation: mice
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mýs
+      dative: músum
+      genitive: músa
+    with article:
+      nominative: mýsnar
+      nominative_translation: the mice
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: mýsnar
+      dative: músunum
+      genitive: músanna
+id: 1425
+gender: feminine

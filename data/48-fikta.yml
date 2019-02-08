@@ -1,0 +1,32 @@
+word: fikta
+level: 48
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] fikta'
+    infinitive_translation: to fiddle with
+    infinitive_sound: islex/038/038_52.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] fiktaði'
+          1st person_translation: I fiddled with
+          1st person_teach: true
+          2nd person: '[þú] fiktaðir'
+          2nd person_translation: you¹ fiddled with
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] fiktaði'
+          3rd person_translation: he/she/it fiddled with
+          3rd person_teach: true
+        plural:
+          1st person: '[við] fiktuðum'
+          1st person_translation: we fiddled with
+          1st person_teach: true
+          2nd person: '[þið] fiktuðuð'
+          2nd person_translation: you² fiddled with
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] fiktuðu'
+          3rd person_translation: they fiddled with
+          3rd person_teach: true
+id: 2098

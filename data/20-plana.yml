@@ -1,0 +1,10 @@
+word: plana
+level: 20
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] plana'
+    infinitive_translation: to plan
+    infinitive_sound: islex/318/318_87.mp3
+    infinitive_teach: true
+id: 2276

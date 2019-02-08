@@ -1,0 +1,22 @@
+word: hoppa
+level: 35
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hoppa'
+    infinitive_translation: to jump
+    infinitive_sound: islex/248/248_28.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] hoppa'
+          1st person_translation: I jump
+          1st person_sound: islex/248/248_28.mp3
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] hoppaði'
+          1st person_translation: I jumped
+          1st person_teach: true
+id: 2163

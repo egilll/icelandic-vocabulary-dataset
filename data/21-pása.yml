@@ -1,0 +1,26 @@
+word: pása
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: pása
+      nominative_translation: 'a break, a pause'
+      nominative_sound: islex/196/196_61.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pásu
+      dative: pásu
+      genitive: pásu
+    with article:
+      nominative: pásan
+      nominative_translation: 'the break, the pause'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pásuna
+      dative: pásunni
+      genitive: pásunnar
+id: 1489
+gender: feminine
+recognizable: '1'

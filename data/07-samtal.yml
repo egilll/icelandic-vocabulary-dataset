@@ -1,0 +1,22 @@
+word: samtal
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: samtal
+      nominative_translation: a conversation
+      nominative_sound: islex/419/419_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: samtalið
+      nominative_translation: the conversation
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1599
+gender: neuter
+never_show_with: ''
+synonyms: samræður
+synonyms_sound: islex/443/443_92.mp3

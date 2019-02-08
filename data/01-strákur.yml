@@ -1,0 +1,40 @@
+word: strákur
+level: 1
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: strákur
+      nominative_translation: a boy
+      nominative_sound: islex/062/062_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: strákurinn
+      nominative_translation: the boy
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: strákinn
+      dative: stráknum
+      genitive: stráksins
+  plural:
+    no article:
+      nominative: strákar
+      nominative_translation: boys
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stráka
+      dative: strákum
+      genitive: stráka
+    with article:
+      nominative: strákarnir
+      nominative_translation: the boys
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: strákana
+      dative: strákunum
+      genitive: strákanna
+id: 1756
+gender: masculine

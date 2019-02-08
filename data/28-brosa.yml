@@ -1,0 +1,32 @@
+word: brosa
+level: 28
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] brosa'
+    infinitive_translation: to smile
+    infinitive_sound: islex/334/334_68.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] brosti'
+          1st person_translation: I smiled
+          1st person_teach: true
+          2nd person: '[þú] brostir'
+          2nd person_translation: you¹ smiled
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] brosti'
+          3rd person_translation: he/she/it smiled
+          3rd person_teach: true
+        plural:
+          1st person: '[við] brostum'
+          1st person_translation: we smiled
+          1st person_teach: true
+          2nd person: '[þið] brostuð'
+          2nd person_translation: you² smiled
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] brostu'
+          3rd person_translation: they smiled
+          3rd person_teach: true
+id: 2055

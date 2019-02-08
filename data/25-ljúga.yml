@@ -1,0 +1,26 @@
+word: ljúga
+level: 25
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] ljúga'
+    infinitive_translation: 'to lie, to tell a lie'
+    infinitive_sound: islex/090/090_43.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          2nd person: '[þú] lýgur'
+          2nd person_translation: 'you¹ are lying, you¹ are telling a lie'
+          2nd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] laug'
+          1st person_translation: 'I lied, I told a lie'
+          1st person_sound: islex/042/042_65.mp3
+          1st person_teach: true
+          2nd person: '[þú] laugst'
+          2nd person_translation: 'you¹ lied, you¹ told a lie'
+          2nd person_teach: true
+id: 2230
+strong_verb_declension: true

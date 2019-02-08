@@ -1,0 +1,25 @@
+word: kuldi
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kuldi
+      nominative_translation: cold weather; coldness
+      nominative_sound: islex/329/329_45.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kulda
+      dative: kulda
+      genitive: kulda
+    with article:
+      nominative: kuldinn
+      nominative_translation: the cold weather; the coldness
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kuldann
+      dative: kuldanum
+      genitive: kuldans
+id: 1274
+gender: masculine

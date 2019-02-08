@@ -1,0 +1,26 @@
+word: hattur
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hattur
+      nominative_translation: a hat
+      nominative_sound: islex/148/148_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hatt
+      dative: hatti
+      genitive: hatts
+    with article:
+      nominative: hatturinn
+      nominative_translation: the hat
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hattinn
+      dative: hattinum
+      genitive: hattsins
+id: 1096
+gender: masculine
+recognizable: '1'

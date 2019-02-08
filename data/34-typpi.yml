@@ -1,0 +1,27 @@
+word: typpi
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: typpi
+      nominative_translation: a penis
+      nominative_sound: islex/301/301_26.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: typpi
+      accusative_sound: islex/301/301_26.mp3
+      dative: typpi
+      dative_sound: islex/301/301_26.mp3
+      genitive: typpis
+    with article:
+      nominative: typpið
+      nominative_translation: the penis
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: typpið
+      dative: typpinu
+      genitive: typpisins
+id: 1860
+gender: neuter

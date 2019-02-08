@@ -1,0 +1,46 @@
+word: rás
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rás
+      nominative_translation: a channel
+      nominative_sound: islex/298/298_52.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rás
+      accusative_sound: islex/298/298_52.mp3
+      dative: rás
+      dative_sound: islex/298/298_52.mp3
+      genitive: rásar
+    with article:
+      nominative: rásin
+      nominative_translation: the channel
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rásina
+      dative: rásinni
+      genitive: rásarinnar
+  plural:
+    no article:
+      nominative: rásir
+      nominative_translation: channels
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rásir
+      dative: rásum
+      genitive: rása
+      genitive_sound: islex/223/223_80.mp3
+    with article:
+      nominative: rásirnar
+      nominative_translation: the channels
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rásirnar
+      dative: rásunum
+      genitive: rásanna
+id: 1539
+gender: feminine

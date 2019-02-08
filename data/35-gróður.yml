@@ -1,0 +1,30 @@
+word: gróður
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gróður
+      nominative_translation: vegetation
+      nominative_sound: islex/069/069_31.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gróður
+      accusative_sound: islex/069/069_31.mp3
+      dative: gróðri
+      genitive: gróðurs
+      genitive_alternative:
+        - gróðrar
+    with article:
+      nominative: gróðurinn
+      nominative_translation: the vegetation
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gróðurinn
+      dative: gróðrinum
+      genitive: gróðursins
+      genitive_alternative:
+        - gróðrarins
+id: 1052
+gender: masculine

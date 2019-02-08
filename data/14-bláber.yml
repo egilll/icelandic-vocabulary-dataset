@@ -1,0 +1,23 @@
+word: bláber
+level: 14
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: bláber
+      nominative_translation: blueberries
+      nominative_sound: islex/155/155_00.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bláber
+      accusative_sound: islex/155/155_00.mp3
+      dative: bláberjum
+      genitive: bláberja
+    with article:
+      nominative: bláberin
+      nominative_translation: the blueberries
+      nominative_teach: true
+      nominative_teachtable: false
+id: 805
+gender: neuter

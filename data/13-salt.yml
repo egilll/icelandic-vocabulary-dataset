@@ -1,0 +1,19 @@
+word: salt
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: salt
+      nominative_translation: salt
+      nominative_sound: islex/476/476_67.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: saltið
+      nominative_translation: the salt
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1588
+gender: neuter

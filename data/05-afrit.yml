@@ -1,0 +1,12 @@
+word: afrit
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: afritið
+      nominative_translation: the copy; the receipt
+      nominative_teach: true
+      nominative_teachtable: false
+id: 703
+gender: neuter

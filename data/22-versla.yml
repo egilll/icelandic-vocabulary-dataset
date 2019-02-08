@@ -1,0 +1,16 @@
+word: versla
+level: 22
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] versla'
+    infinitive_translation: to go shopping
+    infinitive_sound: islex/182/182_34.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] verslaði'
+          1st person_translation: I went shopping
+          1st person_teach: true
+id: 2428

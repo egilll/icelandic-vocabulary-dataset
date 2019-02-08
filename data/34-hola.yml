@@ -1,0 +1,25 @@
+word: hola
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hola
+      nominative_translation: 'a hole, a cavity'
+      nominative_sound: islex/157/157_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: holu
+      dative: holu
+      genitive: holu
+    with article:
+      nominative: holan
+      nominative_translation: 'the hole, the cavity'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: holuna
+      dative: holunni
+      genitive: holunnar
+id: 1151
+gender: feminine

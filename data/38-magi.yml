@@ -1,0 +1,25 @@
+word: magi
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: magi
+      nominative_translation: 'a stomach, a belly'
+      nominative_sound: islex/304/304_55.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: maga
+      dative: maga
+      genitive: maga
+    with article:
+      nominative: maginn
+      nominative_translation: 'the stomach, the belly'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: magann
+      dative: maganum
+      genitive: magans
+id: 1370
+gender: masculine

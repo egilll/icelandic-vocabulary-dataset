@@ -1,0 +1,25 @@
+word: vindur
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vindur
+      nominative_translation: wind
+      nominative_sound: islex/343/343_81.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vind
+      dative: vindi
+      genitive: vinds
+    with article:
+      nominative: vindurinn
+      nominative_translation: the wind
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vindinn
+      dative: vindinum
+      genitive: vindsins
+id: 1931
+gender: masculine

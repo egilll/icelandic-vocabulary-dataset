@@ -1,0 +1,15 @@
+word: botn
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: botninn
+      nominative_translation: the bottom
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: botninn
+      dative: botninum
+      genitive: botnsins
+id: 839
+gender: masculine

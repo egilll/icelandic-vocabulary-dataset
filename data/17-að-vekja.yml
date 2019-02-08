@@ -1,0 +1,16 @@
+word: að vekja
+level: 17
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] vekja'
+    infinitive_translation: to wake (someone) up
+    infinitive_sound: islex/066/066_73.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] vakti'
+          1st person_translation: I woke (someone) up
+          1st person_teach: true
+id: 2002

@@ -1,0 +1,26 @@
+word: núðlur
+level: 26
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: núðlur
+      nominative_translation: noodles
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: núðlur
+      dative: núðlum
+      genitive: núðla
+      genitive_sound: islex/139/139_16.mp3
+    with article:
+      nominative: núðlurnar
+      nominative_translation: the noodles
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: núðlurnar
+      dative: núðlunum
+      genitive: núðlanna
+id: 1457
+gender: feminine
+recognizable: '1'

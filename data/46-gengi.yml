@@ -1,0 +1,27 @@
+word: gengi
+level: 46
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gengi
+      nominative_translation: rate of exchange
+      nominative_sound: islex/028/028_61.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gengi
+      accusative_sound: islex/028/028_61.mp3
+      dative: gengi
+      dative_sound: islex/028/028_61.mp3
+      genitive: gengis
+    with article:
+      nominative: gengið
+      nominative_translation: the rate of exchange
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gengið
+      dative: genginu
+      genitive: gengisins
+id: 1022
+gender: neuter

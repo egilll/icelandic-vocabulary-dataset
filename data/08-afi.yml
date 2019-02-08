@@ -1,0 +1,17 @@
+word: afi
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: afi
+      nominative_translation: grandfather
+      nominative_sound: islex/333/333_96.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: afa
+      dative: afa
+      genitive: afa
+id: 699
+gender: masculine

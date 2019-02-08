@@ -1,0 +1,30 @@
+word: ís
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ís
+      nominative_translation: ice cream; ice
+      nominative_sound: islex/013/013_77.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ís
+      accusative_sound: islex/013/013_77.mp3
+      dative: ís
+      dative_sound: islex/013/013_77.mp3
+      dative_alternative:
+        - ísi
+      genitive: íss
+    with article:
+      nominative: ísinn
+      nominative_translation: the ice cream; the ice
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ísinn
+      dative: ísnum
+      genitive: íssins
+id: 1189
+gender: masculine
+recognizable: '1'

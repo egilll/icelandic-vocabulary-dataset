@@ -1,0 +1,25 @@
+word: misskilningur
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: misskilningur
+      nominative_translation: a misunderstanding
+      nominative_sound: islex/298/298_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: misskilning
+      dative: misskilningi
+      genitive: misskilnings
+    with article:
+      nominative: misskilningurinn
+      nominative_translation: the misunderstanding
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: misskilninginn
+      dative: misskilningnum
+      genitive: misskilningsins
+id: 1408
+gender: masculine

@@ -1,0 +1,47 @@
+word: gulrót
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gulrót
+      nominative_translation: a carrot
+      nominative_sound: islex/123/123_16.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: yellow-root
+      accusative: gulrót
+      accusative_sound: islex/123/123_16.mp3
+      dative: gulrót
+      dative_sound: islex/123/123_16.mp3
+      genitive: gulrótar
+    with article:
+      nominative: gulrótin
+      nominative_translation: the carrot
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gulrótina
+      dative: gulrótinni
+      genitive: gulrótarinnar
+  plural:
+    no article:
+      nominative: gulrætur
+      nominative_translation: carrots
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gulrætur
+      dative: gulrótum
+      genitive: gulróta
+    with article:
+      nominative: gulræturnar
+      nominative_translation: the carrots
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gulræturnar
+      dative: gulrótunum
+      genitive: gulrótanna
+id: 1060
+teach_the_difference: gulur
+gender: feminine

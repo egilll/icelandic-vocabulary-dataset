@@ -1,0 +1,26 @@
+word: upplýsingar
+level: 10
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: upplýsingar
+      nominative_translation: information
+      nominative_sound: islex/062/062_08.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: upplýsingar
+      accusative_sound: islex/062/062_08.mp3
+      dative: upplýsingum
+      genitive: upplýsinga
+    with article:
+      nominative: upplýsingarnar
+      nominative_translation: the information
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: upplýsingarnar
+      dative: upplýsingunum
+      genitive: upplýsinganna
+id: 1873
+gender: feminine

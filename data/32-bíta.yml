@@ -1,0 +1,62 @@
+word: bíta
+level: 32
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] bíta'
+    infinitive_translation: to bite
+    infinitive_sound: islex/164/164_71.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] bít'
+          1st person_translation: I bite
+          1st person_teach: true
+          2nd person: '[þú] bítur'
+          2nd person_translation: you¹ bite
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] bítur'
+          3rd person_translation: he/she/it bites
+          3rd person_teach: true
+        plural:
+          1st person: '[við] bítum'
+          1st person_translation: we bite
+          1st person_teach: true
+          2nd person: '[þið] bítið'
+          2nd person_translation: you² bite
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] bíta'
+          3rd person_translation: they bite
+          3rd person_sound: islex/164/164_71.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] beit'
+          1st person_translation: I bit
+          1st person_sound: islex/325/325_27.mp3
+          1st person_teach: true
+          2nd person: '[þú] beist'
+          2nd person_translation: you¹ bit
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] beit'
+          3rd person_translation: he/she/it bit
+          3rd person_sound: islex/325/325_27.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] bitum'
+          1st person_translation: we bit
+          1st person_teach: true
+          2nd person: '[þið] bituð'
+          2nd person_translation: you² bit
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] bitu'
+          3rd person_translation: they bit
+          3rd person_teach: true
+  imperative:
+    active voice:
+      singular: bíttu!
+      singular_translation: bite!¹
+      singular_teach: true
+id: 2045
+strong_verb_declension: true

@@ -1,0 +1,46 @@
+word: vakt
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vakt
+      nominative_translation: a shift
+      nominative_sound: islex/392/392_82.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vakt
+      accusative_sound: islex/392/392_82.mp3
+      dative: vakt
+      dative_sound: islex/392/392_82.mp3
+      genitive: vaktar
+    with article:
+      nominative: vaktin
+      nominative_translation: the shift
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vaktina
+      dative: vaktinni
+      genitive: vaktarinnar
+  plural:
+    no article:
+      nominative: vaktir
+      nominative_translation: shifts
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vaktir
+      dative: vöktum
+      genitive: vakta
+      genitive_sound: islex/096/096_15.mp3
+    with article:
+      nominative: vaktirnar
+      nominative_translation: the shifts
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vaktirnar
+      dative: vöktunum
+      genitive: vaktanna
+id: 1884
+gender: feminine

@@ -1,0 +1,19 @@
+word: humar
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: humar
+      nominative_translation: a lobster
+      nominative_sound: islex/030/030_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: humarinn
+      nominative_translation: the lobster
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1173
+gender: masculine

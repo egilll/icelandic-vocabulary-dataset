@@ -1,0 +1,43 @@
+word: ástæða
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ástæða
+      nominative_translation: a reason
+      nominative_sound: islex/267/267_68.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ástæðu
+      dative: ástæðu
+      genitive: ástæðu
+    with article:
+      nominative: ástæðan
+      nominative_translation: the reason
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ástæðuna
+      dative: ástæðunni
+      genitive: ástæðunnar
+  plural:
+    no article:
+      nominative: ástæður
+      nominative_translation: reasons
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ástæður
+      dative: ástæðum
+      genitive: ástæðna
+    with article:
+      nominative: ástæðurnar
+      nominative_translation: the reasons
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ástæðurnar
+      dative: ástæðunum
+      genitive: ástæðnanna
+id: 741
+gender: feminine

@@ -1,0 +1,27 @@
+word: áhugamál
+level: 21
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: áhugamál
+      nominative_translation: 'hobbies, interests'
+      nominative_sound: islex/444/444_10.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: on-mind-things
+      accusative: áhugamál
+      accusative_sound: islex/444/444_10.mp3
+      dative: áhugamálum
+      genitive: áhugamála
+    with article:
+      nominative: áhugamálin
+      nominative_translation: 'the hobbies, the interests'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: áhugamálin
+      dative: áhugamálunum
+      genitive: áhugamálanna
+id: 711
+gender: neuter

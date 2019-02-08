@@ -1,0 +1,22 @@
+word: fást
+level: 30
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] fást'
+    infinitive_translation: 'to be available, to be for sale'
+    infinitive_sound: islex/015/015_50.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          3rd person: '[hann/hún/það] fæst'
+          3rd person_translation: 'he/she/it are available, he/she/it are for sale'
+          3rd person_teach: true
+      past:
+        singular:
+          3rd person: '[hann/hún/það] fékkst'
+          3rd person_translation: 'he/she/it were available, he/she/it were for sale'
+          3rd person_teach: true
+id: 2089
+strong_verb_declension: true

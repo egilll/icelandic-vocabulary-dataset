@@ -1,0 +1,10 @@
+word: að plata
+level: 38
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] plata'
+    infinitive_translation: 'to trick, to cheat'
+    infinitive_sound: islex/146/146_16.mp3
+    infinitive_teach: true
+id: 1992

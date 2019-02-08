@@ -1,0 +1,46 @@
+word: bók
+level: 2
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bók
+      nominative_translation: a book
+      nominative_sound: islex/448/448_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bók
+      accusative_sound: islex/448/448_20.mp3
+      dative: bók
+      dative_sound: islex/448/448_20.mp3
+      genitive: bókar
+    with article:
+      nominative: bókin
+      nominative_translation: the book
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bókina
+      dative: bókinni
+      genitive: bókarinnar
+  plural:
+    no article:
+      nominative: bækur
+      nominative_translation: books
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bækur
+      dative: bókum
+      genitive: bóka
+      genitive_sound: islex/267/267_37.mp3
+    with article:
+      nominative: bækurnar
+      nominative_translation: the books
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bækurnar
+      dative: bókunum
+      genitive: bókanna
+id: 823
+gender: feminine

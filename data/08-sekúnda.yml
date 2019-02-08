@@ -1,0 +1,43 @@
+word: sekúnda
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sekúnda
+      nominative_translation: a second
+      nominative_sound: islex/246/246_40.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sekúndu
+      dative: sekúndu
+      genitive: sekúndu
+    with article:
+      nominative: sekúndan
+      nominative_translation: the second
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sekúnduna
+      dative: sekúndunni
+      genitive: sekúndunnar
+  plural:
+    no article:
+      nominative: sekúndur
+      nominative_translation: seconds
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sekúndur
+      dative: sekúndum
+      genitive: sekúndna
+    with article:
+      nominative: sekúndurnar
+      nominative_translation: the seconds
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sekúndurnar
+      dative: sekúndunum
+      genitive: sekúndnanna
+id: 1606
+gender: feminine

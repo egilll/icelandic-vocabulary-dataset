@@ -1,0 +1,43 @@
+word: blýantur
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: blýantur
+      nominative_translation: a pencil
+      nominative_sound: islex/388/388_59.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blýant
+      dative: blýanti
+      genitive: blýants
+    with article:
+      nominative: blýanturinn
+      nominative_translation: the pencil
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blýantinn
+      dative: blýantinum
+      genitive: blýantsins
+  plural:
+    no article:
+      nominative: blýantar
+      nominative_translation: pencils
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blýanta
+      dative: blýöntum
+      genitive: blýanta
+    with article:
+      nominative: blýantarnir
+      nominative_translation: the pencils
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blýantana
+      dative: blýöntunum
+      genitive: blýantanna
+id: 821
+gender: masculine

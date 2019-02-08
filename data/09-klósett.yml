@@ -1,0 +1,26 @@
+word: klósett
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: klósett
+      nominative_translation: a toilet
+      nominative_sound: islex/479/479_71.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: klósett
+      accusative_sound: islex/479/479_71.mp3
+      dative: klósetti
+      genitive: klósetts
+    with article:
+      nominative: klósettið
+      nominative_translation: the toilet
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: klósettið
+      dative: klósettinu
+      genitive: klósettsins
+id: 1247
+gender: neuter

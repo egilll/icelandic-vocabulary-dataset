@@ -1,0 +1,43 @@
+word: vasi
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vasi
+      nominative_translation: a pocket; a vase
+      nominative_sound: islex/090/090_50.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vasa
+      dative: vasa
+      genitive: vasa
+    with article:
+      nominative: vasinn
+      nominative_translation: the pocket; the vase
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vasann
+      dative: vasanum
+      genitive: vasans
+  plural:
+    no article:
+      nominative: vasar
+      nominative_translation: pockets; vases
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vasa
+      dative: vösum
+      genitive: vasa
+    with article:
+      nominative: vasarnir
+      nominative_translation: the pockets; the vases
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vasana
+      dative: vösunum
+      genitive: vasanna
+id: 1893
+gender: masculine

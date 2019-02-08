@@ -1,0 +1,27 @@
+word: föt
+level: 13
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: föt
+      nominative_translation: clothes
+      nominative_sound: islex/076/076_10.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: föt
+      accusative_sound: islex/076/076_10.mp3
+      dative: fötum
+      genitive: fata
+      genitive_sound: islex/197/197_31.mp3
+    with article:
+      nominative: fötin
+      nominative_translation: the clothes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fötin
+      dative: fötunum
+      genitive: fatanna
+id: 975
+gender: neuter

@@ -1,0 +1,43 @@
+word: nemandi
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: nemandi
+      nominative_translation: a student
+      nominative_sound: islex/082/082_89.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nemanda
+      dative: nemanda
+      genitive: nemanda
+    with article:
+      nominative: nemandinn
+      nominative_translation: the student
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nemandann
+      dative: nemandanum
+      genitive: nemandans
+  plural:
+    no article:
+      nominative: nemendur
+      nominative_translation: students
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nemendur
+      dative: nemendum
+      genitive: nemenda
+    with article:
+      nominative: nemendurnir
+      nominative_translation: the students
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nemendurna
+      dative: nemendunum
+      genitive: nemendanna
+id: 1449
+gender: masculine

@@ -1,0 +1,27 @@
+word: matur
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: matur
+      nominative_translation: food
+      nominative_sound: islex/022/022_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mat
+      accusative_sound: islex/482/482_45.mp3
+      dative: mat
+      dative_sound: islex/482/482_45.mp3
+      genitive: matar
+    with article:
+      nominative: maturinn
+      nominative_translation: the food
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: matinn
+      dative: matnum
+      genitive: matarins
+id: 1392
+gender: masculine

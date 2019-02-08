@@ -1,0 +1,45 @@
+word: ákvörðun
+level: 48
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ákvörðun
+      nominative_translation: decision
+      nominative_sound: islex/313/313_78.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ákvörðun
+      accusative_sound: islex/313/313_78.mp3
+      dative: ákvörðun
+      dative_sound: islex/313/313_78.mp3
+      genitive: ákvörðunar
+    with article:
+      nominative: ákvörðunin
+      nominative_translation: the decision
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ákvörðunina
+      dative: ákvörðuninni
+      genitive: ákvörðunarinnar
+  plural:
+    no article:
+      nominative: ákvarðanir
+      nominative_translation: decisions
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ákvarðanir
+      dative: ákvörðunum
+      genitive: ákvarðana
+    with article:
+      nominative: ákvarðanirnar
+      nominative_translation: the decisions
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ákvarðanirnar
+      dative: ákvörðununum
+      genitive: ákvarðananna
+id: 714
+gender: feminine

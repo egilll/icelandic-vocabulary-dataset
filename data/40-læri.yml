@@ -1,0 +1,27 @@
+word: læri
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: læri
+      nominative_translation: a thigh; leg of lamb
+      nominative_sound: islex/161/161_69.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: læri
+      accusative_sound: islex/161/161_69.mp3
+      dative: læri
+      dative_sound: islex/161/161_69.mp3
+      genitive: læris
+    with article:
+      nominative: lærið
+      nominative_translation: the thigh; the leg of lamb
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lærið
+      dative: lærinu
+      genitive: lærisins
+id: 1286
+gender: neuter

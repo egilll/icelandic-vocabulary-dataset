@@ -1,0 +1,25 @@
+word: helvíti
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: helvíti
+      nominative_translation: hell
+      nominative_sound: islex/352/352_32.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: helvíti
+      accusative_sound: islex/352/352_32.mp3
+      dative: helvíti
+      dative_sound: islex/352/352_32.mp3
+      genitive: helvítis
+      genitive_sound: islex/397/397_95.mp3
+    with article:
+      nominative: helvítið
+      nominative_translation: the hell
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1114
+gender: neuter

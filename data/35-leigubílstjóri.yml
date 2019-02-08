@@ -1,0 +1,25 @@
+word: leigubílstjóri
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: leigubílstjóri
+      nominative_translation: a taxi driver
+      nominative_sound: islex/323/323_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leigubílstjóra
+      dative: leigubílstjóra
+      genitive: leigubílstjóra
+    with article:
+      nominative: leigubílstjórinn
+      nominative_translation: the taxi driver
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leigubílstjórann
+      dative: leigubílstjóranum
+      genitive: leigubílstjórans
+id: 1309
+gender: masculine

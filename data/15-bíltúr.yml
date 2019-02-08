@@ -1,0 +1,27 @@
+word: bíltúr
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bíltúr
+      nominative_translation: a drive
+      nominative_sound: islex/207/207_60.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bíltúr
+      accusative_sound: islex/207/207_60.mp3
+      dative: bíltúr
+      dative_sound: islex/207/207_60.mp3
+      genitive: bíltúrs
+    with article:
+      nominative: bíltúrinn
+      nominative_translation: the drive
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bíltúrinn
+      dative: bíltúrnum
+      genitive: bíltúrsins
+id: 798
+gender: masculine

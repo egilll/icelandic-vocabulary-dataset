@@ -1,0 +1,25 @@
+word: paprika
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: paprika
+      nominative_translation: a bell pepper
+      nominative_sound: islex/297/297_65.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: papriku
+      dative: papriku
+      genitive: papriku
+    with article:
+      nominative: paprikan
+      nominative_translation: the bell pepper
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: paprikuna
+      dative: paprikunni
+      genitive: paprikunnar
+id: 1485
+gender: feminine

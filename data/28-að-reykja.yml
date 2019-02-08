@@ -1,0 +1,10 @@
+word: að reykja
+level: 28
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] reykja'
+    infinitive_translation: to smoke
+    infinitive_sound: islex/376/376_85.mp3
+    infinitive_teach: true
+id: 1995

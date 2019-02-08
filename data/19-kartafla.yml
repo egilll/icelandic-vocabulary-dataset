@@ -1,0 +1,47 @@
+word: kartafla
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kartafla
+      nominative_translation: a potato
+      nominative_sound: islex/336/336_19.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kartöflu
+      dative: kartöflu
+      genitive: kartöflu
+    with article:
+      nominative: kartaflan
+      nominative_translation: the potato
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kartöfluna
+      dative: kartöflunni
+      genitive: kartöflunnar
+  plural:
+    no article:
+      nominative: kartöflur
+      nominative_translation: potatoes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kartöflur
+      dative: kartöflum
+      genitive: kartaflna
+      genitive_alternative:
+        - kartafla
+    with article:
+      nominative: kartöflurnar
+      nominative_translation: the potatoes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kartöflurnar
+      dative: kartöflunum
+      genitive: kartaflnanna
+      genitive_alternative:
+        - kartaflanna
+id: 1223
+gender: feminine

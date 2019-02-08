@@ -1,0 +1,16 @@
+word: hjólreiðar
+level: 36
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: hjólreiðar
+      nominative_translation: cycling (sport)
+      nominative_sound: islex/374/374_60.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+      nominative_alternative:
+        - hjólreiðir
+id: 1128
+gender: feminine

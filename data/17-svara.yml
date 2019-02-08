@@ -1,0 +1,64 @@
+word: svara
+level: 17
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] svara'
+    infinitive_translation: 'to answer, to reply'
+    infinitive_sound: islex/188/188_02.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] svara'
+          1st person_translation: 'I answer, I reply'
+          1st person_sound: islex/188/188_02.mp3
+          1st person_teach: true
+          2nd person: '[þú] svarar'
+          2nd person_translation: 'you¹ answer, you¹ reply'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] svarar'
+          3rd person_translation: 'he/she/it answers, he/she/it replies'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] svörum'
+          1st person_translation: 'we answer, we reply'
+          1st person_teach: true
+          2nd person: '[þið] svarið'
+          2nd person_translation: 'you² answer, you² reply'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] svara'
+          3rd person_translation: 'they answer, they reply'
+          3rd person_sound: islex/188/188_02.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] svaraði'
+          1st person_translation: 'I answered, I replied'
+          1st person_teach: true
+          2nd person: '[þú] svaraðir'
+          2nd person_translation: 'you¹ answered, you¹ replied'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] svaraði'
+          3rd person_translation: 'he/she/it answered, he/she/it replied'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] svöruðum'
+          1st person_translation: 'we answered, we replied'
+          1st person_teach: true
+          2nd person: '[þið] svöruðuð'
+          2nd person_translation: 'you² answered, you² replied'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] svöruðu'
+          3rd person_translation: 'they answered, they replied'
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] svarað'
+    active voice_translation: 'I have answered, I have replied'
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: svaraðu!
+      singular_translation: 'answer!¹, reply!¹'
+      singular_teach: true
+id: 2389

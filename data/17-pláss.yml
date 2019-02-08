@@ -1,0 +1,24 @@
+word: pláss
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: pláss
+      nominative_translation: 'some room, some space'
+      nominative_sound: islex/162/162_60.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pláss
+      accusative_sound: islex/162/162_60.mp3
+      dative: plássi
+      genitive: pláss
+      genitive_sound: islex/162/162_60.mp3
+    with article:
+      nominative: plássið
+      nominative_translation: the space
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1510
+gender: neuter

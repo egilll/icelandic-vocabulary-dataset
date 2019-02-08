@@ -1,0 +1,27 @@
+word: klósettpappír
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: klósettpappír
+      nominative_translation: toilet paper
+      nominative_sound: islex/238/238_00.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: klósettpappír
+      accusative_sound: islex/238/238_00.mp3
+      dative: klósettpappír
+      dative_sound: islex/238/238_00.mp3
+      genitive: klósettpappírs
+    with article:
+      nominative: klósettpappírinn
+      nominative_translation: the toilet paper
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: klósettpappírinn
+      dative: klósettpappírnum
+      genitive: klósettpappírsins
+id: 1248
+gender: masculine

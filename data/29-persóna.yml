@@ -1,0 +1,44 @@
+word: persóna
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: persóna
+      nominative_translation: a character
+      nominative_sound: islex/323/323_01.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: persónu
+      dative: persónu
+      genitive: persónu
+    with article:
+      nominative: persónan
+      nominative_translation: the character
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: persónuna
+      dative: persónunni
+      genitive: persónunnar
+  plural:
+    no article:
+      nominative: persónur
+      nominative_translation: characters
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: persónur
+      dative: persónum
+      genitive: persóna
+      genitive_sound: islex/323/323_01.mp3
+    with article:
+      nominative: persónurnar
+      nominative_translation: the characters
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: persónurnar
+      dative: persónunum
+      genitive: persónanna
+id: 1495
+gender: feminine

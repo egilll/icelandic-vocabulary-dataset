@@ -1,0 +1,19 @@
+word: svefnherbergi
+level: 37
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: svefnherbergi
+      nominative_translation: a bedroom
+      nominative_sound: islex/044/044_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: svefnherbergið
+      nominative_translation: the bedroom
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1789
+gender: neuter

@@ -1,0 +1,59 @@
+word: detta
+level: 27
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] detta'
+    infinitive_translation: to fall
+    infinitive_sound: islex/361/361_86.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] dett'
+          1st person_translation: I fall
+          1st person_teach: true
+          2nd person: '[þú] dettur'
+          2nd person_translation: you¹ fall
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] dettur'
+          3rd person_translation: he/she/it falls
+          3rd person_teach: true
+        plural:
+          1st person: '[við] dettum'
+          1st person_translation: we fall
+          1st person_teach: true
+          2nd person: '[þið] dettið'
+          2nd person_translation: you² fall
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] detta'
+          3rd person_translation: they fall
+          3rd person_sound: islex/361/361_86.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] datt'
+          1st person_translation: I fell
+          1st person_teach: true
+          2nd person: '[þú] dast'
+          2nd person_translation: you¹ fell
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] datt'
+          3rd person_translation: he/she/it fell
+          3rd person_teach: true
+        plural:
+          1st person: '[við] duttum'
+          1st person_translation: we fell
+          1st person_teach: true
+          2nd person: '[þið] duttuð'
+          2nd person_translation: you² fell
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] duttu'
+          3rd person_translation: they fell
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] dottið'
+    active voice_translation: I have fallen
+    active voice_teach: true
+id: 2068
+strong_verb_declension: true

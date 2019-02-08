@@ -1,0 +1,27 @@
+word: ull
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ull
+      nominative_translation: wool
+      nominative_sound: islex/231/231_05.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ull
+      accusative_sound: islex/231/231_05.mp3
+      dative: ull
+      dative_sound: islex/231/231_05.mp3
+      genitive: ullar
+    with article:
+      nominative: ullin
+      nominative_translation: the wool
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ullina
+      dative: ullinni
+      genitive: ullarinnar
+id: 1864
+gender: feminine

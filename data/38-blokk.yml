@@ -1,0 +1,45 @@
+word: blokk
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: blokk
+      nominative_translation: an apartment building
+      nominative_sound: islex/068/068_36.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blokk
+      accusative_sound: islex/068/068_36.mp3
+      dative: blokk
+      dative_sound: islex/068/068_36.mp3
+      genitive: blokkar
+    with article:
+      nominative: blokkin
+      nominative_translation: the apartment building
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blokkina
+      dative: blokkinni
+      genitive: blokkarinnar
+  plural:
+    no article:
+      nominative: blokkir
+      nominative_translation: apartment buildings
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blokkir
+      dative: blokkum
+      genitive: blokka
+    with article:
+      nominative: blokkirnar
+      nominative_translation: the apartment buildings
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blokkirnar
+      dative: blokkunum
+      genitive: blokkanna
+id: 816
+gender: feminine

@@ -1,0 +1,21 @@
+word: krabbamein
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: krabbamein
+      nominative_translation: cancer
+      nominative_sound: islex/452/452_51.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+      nominative_literal: crab-illness
+    with article:
+      nominative: krabbameinið
+      nominative_translation: the cancer
+      nominative_teach: true
+      nominative_teachtable: false
+      nominative_literal: crab-illness
+id: 1267
+gender: neuter

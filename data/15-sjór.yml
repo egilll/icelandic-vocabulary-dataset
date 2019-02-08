@@ -1,0 +1,19 @@
+word: sjór
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sjór
+      nominative_translation: sea
+      nominative_sound: islex/147/147_82.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: sjórinn
+      nominative_translation: the sea
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1625
+gender: masculine

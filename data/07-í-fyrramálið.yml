@@ -1,0 +1,26 @@
+word: í fyrramálið
+level: 7
+grammatical_category: other
+conjugation:
+  singular:
+    no article:
+      nominative: fyrramál
+      nominative_translation: tomorrow morning
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fyrramál
+      dative: fyrramáli
+      genitive: fyrramáls
+    with article:
+      nominative: fyrramálið
+      nominative_translation: the tomorrow morning
+      nominative_sound: islex/317/317_59.mp3
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fyrramálið
+      accusative_sound: islex/317/317_59.mp3
+      dative: fyrramálinu
+      genitive: fyrramálsins
+id: 1003
+gender: neuter

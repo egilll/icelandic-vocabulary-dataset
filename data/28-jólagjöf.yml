@@ -1,0 +1,45 @@
+word: jólagjöf
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: jólagjöf
+      nominative_translation: a christmas present
+      nominative_sound: islex/351/351_66.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: jólagjöf
+      accusative_sound: islex/351/351_66.mp3
+      dative: jólagjöf
+      dative_sound: islex/351/351_66.mp3
+      genitive: jólagjafar
+    with article:
+      nominative: jólagjöfin
+      nominative_translation: the christmas present
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: jólagjöfina
+      dative: jólagjöfinni
+      genitive: jólagjafarinnar
+  plural:
+    no article:
+      nominative: jólagjafir
+      nominative_translation: christmas presents
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: jólagjafir
+      dative: jólagjöfum
+      genitive: jólagjafa
+    with article:
+      nominative: jólagjafirnar
+      nominative_translation: the christmas presents
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: jólagjafirnar
+      dative: jólagjöfunum
+      genitive: jólagjafanna
+id: 1203
+gender: feminine

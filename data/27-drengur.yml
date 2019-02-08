@@ -1,0 +1,43 @@
+word: drengur
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: drengur
+      nominative_translation: 'a boy, a lad'
+      nominative_sound: islex/321/321_83.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dreng
+      dative: dreng
+      genitive: drengs
+    with article:
+      nominative: drengurinn
+      nominative_translation: 'the boy, the lad'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: drenginn
+      dative: drengnum
+      genitive: drengsins
+  plural:
+    no article:
+      nominative: drengir
+      nominative_translation: 'boys, lads'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: drengi
+      dative: drengjum
+      genitive: drengja
+    with article:
+      nominative: drengirnir
+      nominative_translation: 'the boys, the lads'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: drengina
+      dative: drengjunum
+      genitive: drengjanna
+id: 883
+gender: masculine

@@ -1,0 +1,27 @@
+word: þyngd
+level: 37
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þyngd
+      nominative_translation: weight
+      nominative_sound: islex/364/364_31.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þyngd
+      accusative_sound: islex/364/364_31.mp3
+      dative: þyngd
+      dative_sound: islex/364/364_31.mp3
+      genitive: þyngdar
+    with article:
+      nominative: þyngdin
+      nominative_translation: the weight
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þyngdina
+      dative: þyngdinni
+      genitive: þyngdarinnar
+id: 1969
+gender: feminine

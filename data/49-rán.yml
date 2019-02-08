@@ -1,0 +1,26 @@
+word: rán
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rán
+      nominative_translation: a robbery
+      nominative_sound: islex/193/193_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rán
+      accusative_sound: islex/193/193_64.mp3
+      dative: ráni
+      genitive: ráns
+    with article:
+      nominative: ránið
+      nominative_translation: the robbery
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ránið
+      dative: ráninu
+      genitive: ránsins
+id: 1537
+gender: neuter

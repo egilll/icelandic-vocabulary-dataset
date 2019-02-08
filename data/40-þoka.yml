@@ -1,0 +1,25 @@
+word: þoka
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þoka
+      nominative_translation: a fog
+      nominative_sound: islex/123/123_76.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þoku
+      dative: þoku
+      genitive: þoku
+    with article:
+      nominative: þokan
+      nominative_translation: the fog
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þokuna
+      dative: þokunni
+      genitive: þokunnar
+id: 1958
+gender: feminine

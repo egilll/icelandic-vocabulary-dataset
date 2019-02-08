@@ -1,0 +1,43 @@
+word: minning
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: minning
+      nominative_translation: a memory
+      nominative_sound: islex/159/159_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: minningu
+      dative: minningu
+      genitive: minningar
+    with article:
+      nominative: minningin
+      nominative_translation: the memory
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: minninguna
+      dative: minningunni
+      genitive: minningarinnar
+  plural:
+    no article:
+      nominative: minningar
+      nominative_translation: memories
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: minningar
+      dative: minningum
+      genitive: minninga
+    with article:
+      nominative: minningarnar
+      nominative_translation: the memories
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: minningarnar
+      dative: minningunum
+      genitive: minninganna
+id: 1406
+gender: feminine

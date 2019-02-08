@@ -1,0 +1,47 @@
+word: brjóst
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: brjóst
+      nominative_translation: a breast
+      nominative_sound: islex/355/355_01.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: brjóst
+      accusative_sound: islex/355/355_01.mp3
+      dative: brjósti
+      genitive: brjósts
+    with article:
+      nominative: brjóstið
+      nominative_translation: the breast
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: brjóstið
+      dative: brjóstinu
+      genitive: brjóstsins
+  plural:
+    no article:
+      nominative: brjóst
+      nominative_translation: breasts
+      nominative_sound: islex/355/355_01.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: brjóst
+      accusative_sound: islex/355/355_01.mp3
+      dative: brjóstum
+      genitive: brjósta
+    with article:
+      nominative: brjóstin
+      nominative_translation: the breasts
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: brjóstin
+      dative: brjóstunum
+      genitive: brjóstanna
+id: 847
+gender: neuter
+recognizable: '1'

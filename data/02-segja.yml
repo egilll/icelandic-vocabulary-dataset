@@ -1,0 +1,63 @@
+word: segja
+level: 2
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] segja'
+    infinitive_translation: 'to say, to tell'
+    infinitive_sound: islex/128/128_67.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] segi'
+          1st person_translation: 'I say, I tell'
+          1st person_teach: true
+          2nd person: '[þú] segir'
+          2nd person_translation: 'you¹ say, you¹ tell'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] segir'
+          3rd person_translation: 'he/she/it says, he/she/it tells'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] segjum'
+          1st person_translation: 'we say, we tell'
+          1st person_teach: true
+          2nd person: '[þið] segið'
+          2nd person_translation: 'you² say, you² tell'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] segja'
+          3rd person_translation: 'they say, they tell'
+          3rd person_sound: islex/128/128_67.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] sagði'
+          1st person_translation: 'I said, I told'
+          1st person_teach: true
+          2nd person: '[þú] sagðir'
+          2nd person_translation: 'you¹ said, you¹ told'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sagði'
+          3rd person_translation: 'he/she/it said, he/she/it told'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sögðum'
+          1st person_translation: 'we said, we told'
+          1st person_teach: true
+          2nd person: '[þið] sögðuð'
+          2nd person_translation: 'you² said, you² told'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sögðu'
+          3rd person_translation: 'they said, they told'
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] sagt'
+    active voice_translation: 'I have said, I have told'
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: segðu!
+      singular_translation: 'say!¹, tell!¹'
+      singular_teach: true
+id: 2311

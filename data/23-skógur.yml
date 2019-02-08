@@ -1,0 +1,25 @@
+word: skógur
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skógur
+      nominative_translation: a forest
+      nominative_sound: islex/442/442_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skóg
+      dative: skógi
+      genitive: skógar
+    with article:
+      nominative: skógurinn
+      nominative_translation: the forest
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skóginn
+      dative: skóginum
+      genitive: skógarins
+id: 1653
+gender: masculine

@@ -1,0 +1,29 @@
+word: ríki
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ríki
+      nominative_translation: 'a state, a government'
+      nominative_sound: islex/418/418_76.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ríki
+      accusative_sound: islex/418/418_76.mp3
+      dative: ríki
+      dative_sound: islex/418/418_76.mp3
+      genitive: ríkis
+    with article:
+      nominative: ríkið
+      nominative_translation: 'the state, the government'
+      nominative_sound: islex/018/018_20.mp3
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ríkið
+      accusative_sound: islex/018/018_20.mp3
+      dative: ríkinu
+      genitive: ríkisins
+id: 1560
+gender: neuter

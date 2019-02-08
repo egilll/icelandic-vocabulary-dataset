@@ -1,0 +1,16 @@
+word: æla
+level: 36
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] æla'
+    infinitive_translation: 'to puke, to throw up'
+    infinitive_sound: islex/293/293_08.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] ældi'
+          1st person_translation: 'I puked, I threw up'
+          1st person_teach: true
+id: 2019

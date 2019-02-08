@@ -1,0 +1,15 @@
+word: tungl
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: tunglið
+      nominative_translation: the moon
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tunglið
+      dative: tunglinu
+      genitive: tunglsins
+id: 1856
+gender: neuter

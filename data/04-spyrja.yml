@@ -1,0 +1,58 @@
+word: spyrja
+level: 4
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] spyrja'
+    infinitive_translation: to ask
+    infinitive_sound: islex/318/318_64.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] spyr'
+          1st person_translation: I ask
+          1st person_teach: true
+          2nd person: '[þú] spyrð'
+          2nd person_translation: you¹ ask
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] spyr'
+          3rd person_translation: he/she/it asks
+          3rd person_teach: true
+        plural:
+          1st person: '[við] spyrjum'
+          1st person_translation: we ask
+          1st person_teach: true
+          2nd person: '[þið] spyrjið'
+          2nd person_translation: you² ask
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] spyrja'
+          3rd person_translation: they ask
+          3rd person_sound: islex/318/318_64.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] spurði'
+          1st person_translation: I asked
+          1st person_teach: true
+          2nd person: '[þú] spurðir'
+          2nd person_translation: you¹ asked
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] spurði'
+          3rd person_translation: he/she/it asked
+          3rd person_teach: true
+        plural:
+          1st person: '[við] spurðum'
+          1st person_translation: we asked
+          1st person_teach: true
+          2nd person: '[þið] spurðuð'
+          2nd person_translation: you² asked
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] spurðu'
+          3rd person_translation: they asked
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] spurt'
+    active voice_translation: I have asked
+    active voice_teach: true
+id: 2370

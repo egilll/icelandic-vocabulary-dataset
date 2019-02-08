@@ -1,0 +1,26 @@
+word: bragð
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bragð
+      nominative_translation: a taste
+      nominative_sound: islex/477/477_45.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bragð
+      accusative_sound: islex/477/477_45.mp3
+      dative: bragði
+      genitive: bragðs
+    with article:
+      nominative: bragðið
+      nominative_translation: the taste
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bragðið
+      dative: bragðinu
+      genitive: bragðsins
+id: 841
+gender: neuter

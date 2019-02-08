@@ -1,0 +1,26 @@
+word: lykilorð
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lykilorð
+      nominative_translation: a password
+      nominative_sound: islex/017/017_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lykilorð
+      accusative_sound: islex/017/017_58.mp3
+      dative: lykilorði
+      genitive: lykilorðs
+    with article:
+      nominative: lykilorðið
+      nominative_translation: the password
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lykilorðið
+      dative: lykilorðinu
+      genitive: lykilorðsins
+id: 1364
+gender: neuter

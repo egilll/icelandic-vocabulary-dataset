@@ -1,0 +1,44 @@
+word: listamaður
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: listamaður
+      nominative_translation: an artist
+      nominative_sound: islex/206/206_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: listamann
+      dative: listamanni
+      genitive: listamanns
+    with article:
+      nominative: listamaðurinn
+      nominative_translation: the artist
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: listamanninn
+      dative: listamanninum
+      genitive: listamannsins
+  plural:
+    no article:
+      nominative: listamenn
+      nominative_translation: artists
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: listamenn
+      dative: listamönnum
+      genitive: listamanna
+    with article:
+      nominative: listamennirnir
+      nominative_translation: the artists
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: listamennina
+      dative: listamönnunum
+      genitive: listamannanna
+id: 1333
+gender: masculine
+only_show_after: list

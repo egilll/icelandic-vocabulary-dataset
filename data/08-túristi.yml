@@ -1,0 +1,43 @@
+word: túristi
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: túristi
+      nominative_translation: a tourist
+      nominative_sound: islex/267/267_99.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: túrista
+      dative: túrista
+      genitive: túrista
+    with article:
+      nominative: túristinn
+      nominative_translation: the tourist
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: túristann
+      dative: túristanum
+      genitive: túristans
+  plural:
+    no article:
+      nominative: túristar
+      nominative_translation: tourists
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: túrista
+      dative: túristum
+      genitive: túrista
+    with article:
+      nominative: túristarnir
+      nominative_translation: the tourists
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: túristana
+      dative: túristunum
+      genitive: túristanna
+id: 1858
+gender: masculine

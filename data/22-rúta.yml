@@ -1,0 +1,48 @@
+word: rúta
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rúta
+      nominative_translation: 'a coach, a bus'
+      nominative_sound: islex/050/050_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rútu
+      dative: rútu
+      genitive: rútu
+    with article:
+      nominative: rútan
+      nominative_translation: 'the coach, the bus'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rútuna
+      dative: rútunni
+      genitive: rútunnar
+  plural:
+    no article:
+      nominative: rútur
+      nominative_translation: 'coaches, buses'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rútur
+      dative: rútum
+      genitive: rúta
+      genitive_sound: islex/050/050_04.mp3
+      genitive_alternative:
+        - rútna
+    with article:
+      nominative: rúturnar
+      nominative_translation: 'the coaches, the buses'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rúturnar
+      dative: rútunum
+      genitive: rútanna
+      genitive_alternative:
+        - rútnanna
+id: 1578
+gender: feminine

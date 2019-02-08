@@ -1,0 +1,43 @@
+word: möguleiki
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: möguleiki
+      nominative_translation: a possibility
+      nominative_sound: islex/158/158_98.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: möguleika
+      dative: möguleika
+      genitive: möguleika
+    with article:
+      nominative: möguleikinn
+      nominative_translation: the possibility
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: möguleikann
+      dative: möguleikanum
+      genitive: möguleikans
+  plural:
+    no article:
+      nominative: möguleikar
+      nominative_translation: possibilities
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: möguleika
+      dative: möguleikum
+      genitive: möguleika
+    with article:
+      nominative: möguleikarnir
+      nominative_translation: the possibilities
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: möguleikana
+      dative: möguleikunum
+      genitive: möguleikanna
+id: 1413
+gender: masculine

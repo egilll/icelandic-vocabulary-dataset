@@ -1,0 +1,27 @@
+word: frelsi
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: frelsi
+      nominative_translation: freedom
+      nominative_sound: islex/161/161_91.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: frelsi
+      accusative_sound: islex/161/161_91.mp3
+      dative: frelsi
+      dative_sound: islex/161/161_91.mp3
+      genitive: frelsis
+    with article:
+      nominative: frelsið
+      nominative_translation: the freedom
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: frelsið
+      dative: frelsinu
+      genitive: frelsisins
+id: 989
+gender: neuter

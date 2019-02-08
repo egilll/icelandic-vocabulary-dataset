@@ -1,0 +1,24 @@
+word: athuga
+level: 20
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] athuga'
+    infinitive_translation: to check
+    infinitive_sound: islex/066/066_18.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] athugaði'
+          1st person_translation: I checked
+          1st person_teach: true
+  imperative:
+    active voice:
+      singular: athugaðu!
+      singular_translation: 'please observe!¹, please check!¹'
+      singular_teach: true
+      plural: athugið!
+      plural_translation: 'please observe!², please check!²'
+      plural_teach: true
+id: 2024

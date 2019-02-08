@@ -1,0 +1,27 @@
+word: kyssa
+level: 6
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] kyssa'
+    infinitive_translation: to kiss
+    infinitive_sound: islex/182/182_52.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] kyssti'
+          1st person_translation: I kissed
+          1st person_teach: true
+  middle voice:
+    infinitive: '[að] kyssast'
+    infinitive_translation: to kiss each other
+    infinitive_sound: islex/032/032_10.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        plural:
+          1st person: '[við] kysstumst'
+          1st person_translation: we kissed each other
+          1st person_teach: true
+id: 2201

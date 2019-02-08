@@ -1,0 +1,26 @@
+word: sár
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sár
+      nominative_translation: a wound
+      nominative_sound: islex/222/222_31.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sár
+      accusative_sound: islex/222/222_31.mp3
+      dative: sári
+      genitive: sárs
+    with article:
+      nominative: sárið
+      nominative_translation: the wound
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sárið
+      dative: sárinu
+      genitive: sársins
+id: 1605
+gender: neuter

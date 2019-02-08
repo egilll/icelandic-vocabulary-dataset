@@ -1,0 +1,31 @@
+word: stundaskrá
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stundaskrá
+      nominative_translation: a school timetable
+      nominative_sound: islex/360/360_50.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stundaskrá
+      accusative_sound: islex/360/360_50.mp3
+      dative: stundaskrá
+      dative_sound: islex/360/360_50.mp3
+      genitive: stundaskrár
+      genitive_alternative:
+        - stundaskráar
+    with article:
+      nominative: stundaskráin
+      nominative_translation: the school timetable
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stundaskrána
+      dative: stundaskránni
+      genitive: stundaskrárinnar
+      genitive_alternative:
+        - stundaskráarinnar
+id: 1766
+gender: feminine

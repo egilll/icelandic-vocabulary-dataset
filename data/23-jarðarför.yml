@@ -1,0 +1,29 @@
+word: jarðarför
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: jarðarför
+      nominative_translation: a funeral
+      nominative_sound: islex/156/156_99.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: an earth going
+      accusative: jarðarför
+      accusative_sound: islex/156/156_99.mp3
+      dative: jarðarför
+      dative_sound: islex/156/156_99.mp3
+      genitive: jarðarfarar
+    with article:
+      nominative: jarðarförin
+      nominative_translation: the funeral
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_literal: an earth going
+      accusative: jarðarförina
+      dative: jarðarförinni
+      genitive: jarðarfararinnar
+id: 1196
+gender: feminine

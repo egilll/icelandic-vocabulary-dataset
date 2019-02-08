@@ -1,0 +1,25 @@
+word: uppþvottavél
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: uppþvottavél
+      nominative_translation: a dish washer
+      nominative_sound: islex/178/178_25.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: up-washing-machine
+      accusative: uppþvottavél
+      accusative_sound: islex/178/178_25.mp3
+      dative: uppþvottavél
+      dative_sound: islex/178/178_25.mp3
+      genitive: uppþvottavélar
+    with article:
+      nominative: uppþvottavélin
+      nominative_translation: the dish washer
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1875
+gender: feminine

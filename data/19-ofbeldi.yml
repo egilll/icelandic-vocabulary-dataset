@@ -1,0 +1,27 @@
+word: ofbeldi
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ofbeldi
+      nominative_translation: violence
+      nominative_sound: islex/077/077_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ofbeldi
+      accusative_sound: islex/077/077_04.mp3
+      dative: ofbeldi
+      dative_sound: islex/077/077_04.mp3
+      genitive: ofbeldis
+    with article:
+      nominative: ofbeldið
+      nominative_translation: the violence
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ofbeldið
+      dative: ofbeldinu
+      genitive: ofbeldisins
+id: 1461
+gender: neuter

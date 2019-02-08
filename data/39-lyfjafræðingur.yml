@@ -1,0 +1,15 @@
+word: lyfjafræðingur
+level: 39
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lyfjafræðingur
+      nominative_translation: a pharmacologist
+      nominative_sound: islex/181/181_30.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+      nominative_literal: medicine-knowledger
+id: 1362
+gender: masculine

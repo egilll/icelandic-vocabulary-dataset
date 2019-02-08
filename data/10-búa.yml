@@ -1,0 +1,62 @@
+word: búa
+level: 10
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] búa'
+    infinitive_translation: 'to live somewhere, to reside'
+    infinitive_sound: islex/233/233_33.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] bý'
+          1st person_translation: 'I live somewhere, I reside'
+          1st person_teach: true
+          2nd person: '[þú] býrð'
+          2nd person_translation: 'you¹ live somewhere, you¹ reside'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] býr'
+          3rd person_translation: 'he/she/it lives somewhere, he/she/it resides'
+          3rd person_sound: islex/327/327_07.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] búum'
+          1st person_translation: 'we live somewhere, we reside'
+          1st person_teach: true
+          2nd person: '[þið] búið'
+          2nd person_translation: 'you² live somewhere, you² reside'
+          2nd person_sound: islex/159/159_38.mp3
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] búa'
+          3rd person_translation: 'they live somewhere, they reside'
+          3rd person_sound: islex/233/233_33.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] bjó'
+          1st person_translation: 'I lived somewhere, I resided'
+          1st person_teach: true
+          2nd person: '[þú] bjóst'
+          2nd person_translation: 'you¹ lived somewhere, you¹ resided'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] bjó'
+          3rd person_translation: 'he/she/it lived somewhere, he/she/it resided'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] bjuggum'
+          1st person_translation: 'we lived somewhere, we resided'
+          1st person_teach: true
+          2nd person: '[þið] bjugguð'
+          2nd person_translation: 'you² lived somewhere, you² resided'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] bjuggu'
+          3rd person_translation: 'they lived somewhere, they resided'
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] búið'
+    active voice_translation: 'I have lived, I have resided'
+    active voice_sound: islex/159/159_38.mp3
+    active voice_teach: true
+id: 2056
+strong_verb_declension: true

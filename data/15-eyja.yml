@@ -1,0 +1,25 @@
+word: eyja
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: eyja
+      nominative_translation: an island
+      nominative_sound: islex/312/312_69.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: eyju
+      dative: eyju
+      genitive: eyju
+    with article:
+      nominative: eyjan
+      nominative_translation: the island
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: eyjuna
+      dative: eyjunni
+      genitive: eyjunnar
+id: 920
+gender: feminine

@@ -1,0 +1,24 @@
+word: lungu
+level: 26
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: lungu
+      nominative_translation: lungs
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lungu
+      dative: lungum
+      genitive: lungna
+    with article:
+      nominative: lungun
+      nominative_translation: the lungs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lungun
+      dative: lungunum
+      genitive: lungnanna
+id: 1359
+gender: neuter

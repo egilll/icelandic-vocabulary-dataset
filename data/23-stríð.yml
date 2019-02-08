@@ -1,0 +1,26 @@
+word: stríð
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stríð
+      nominative_translation: a war
+      nominative_sound: islex/330/330_65.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stríð
+      accusative_sound: islex/330/330_65.mp3
+      dative: stríði
+      genitive: stríðs
+    with article:
+      nominative: stríðið
+      nominative_translation: the war
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stríðið
+      dative: stríðinu
+      genitive: stríðsins
+id: 1759
+gender: neuter

@@ -1,0 +1,27 @@
+word: plástur
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: plástur
+      nominative_translation: 'a bandaid, a plaster'
+      nominative_sound: islex/080/080_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: plástur
+      accusative_sound: islex/080/080_24.mp3
+      dative: plástri
+      genitive: plásturs
+    with article:
+      nominative: plásturinn
+      nominative_translation: 'the bandaid, the plaster'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: plásturinn
+      dative: plástrinum
+      genitive: plástursins
+id: 1512
+gender: masculine
+recognizable: '0'

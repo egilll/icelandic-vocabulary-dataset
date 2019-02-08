@@ -1,0 +1,49 @@
+word: vegur
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vegur
+      nominative_translation: a road
+      nominative_sound: islex/046/046_53.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: veg
+      dative: vegi
+      genitive: vegar
+      genitive_alternative:
+        - vegs
+    with article:
+      nominative: vegurinn
+      nominative_translation: the road
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: veginn
+      accusative_sound: islex/370/370_03.mp3
+      dative: veginum
+      genitive: vegarins
+      genitive_alternative:
+        - vegsins
+  plural:
+    no article:
+      nominative: vegir
+      nominative_translation: roads
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vegi
+      dative: vegum
+      genitive: vega
+      genitive_sound: islex/265/265_43.mp3
+    with article:
+      nominative: vegirnir
+      nominative_translation: the roads
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vegina
+      dative: vegunum
+      genitive: veganna
+id: 1901
+gender: masculine

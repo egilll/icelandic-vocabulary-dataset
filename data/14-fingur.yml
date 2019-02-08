@@ -1,0 +1,24 @@
+word: fingur
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: fingurinn
+      nominative_translation: the finger
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fingurinn
+      dative: fingrinum
+      genitive: fingursins
+  plural:
+    with article:
+      nominative: fingurnir
+      nominative_translation: the fingers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fingurna
+      dative: fingrunum
+      genitive: fingranna
+id: 941
+gender: masculine

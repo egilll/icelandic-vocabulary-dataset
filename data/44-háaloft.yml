@@ -1,0 +1,26 @@
+word: háaloft
+level: 44
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: háaloft
+      nominative_translation: attic
+      nominative_sound: islex/112/112_50.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: háaloft
+      accusative_sound: islex/112/112_50.mp3
+      dative: háalofti
+      genitive: háalofts
+    with article:
+      nominative: háaloftið
+      nominative_translation: the attic
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: háaloftið
+      dative: háaloftinu
+      genitive: háaloftsins
+id: 1064
+gender: neuter

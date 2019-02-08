@@ -1,0 +1,25 @@
+word: náttúra
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: náttúra
+      nominative_translation: nature
+      nominative_sound: islex/312/312_33.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: náttúru
+      dative: náttúru
+      genitive: náttúru
+    with article:
+      nominative: náttúran
+      nominative_translation: the nature
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: náttúruna
+      dative: náttúrunni
+      genitive: náttúrunnar
+id: 1446
+gender: feminine

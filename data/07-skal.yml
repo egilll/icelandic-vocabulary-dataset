@@ -1,0 +1,29 @@
+word: skal
+level: 7
+grammatical_category: verb
+conjugation:
+  active voice:
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] skal'
+          1st person_translation: I will; I shall
+          1st person_teach: true
+          2nd person: '[þú] skalt'
+          2nd person_translation: you¹ will; you¹ shall
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] skal'
+          3rd person_translation: he/she/it will; he/she/it shall
+          3rd person_teach: true
+        plural:
+          1st person: '[við] skulum'
+          1st person_translation: we will; we shall
+          1st person_teach: true
+          2nd person: '[þið] skuluð'
+          2nd person_translation: you² will; you² shall
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] skulu'
+          3rd person_translation: they will; they shall
+          3rd person_sound: islex/276/276_89.mp3
+          3rd person_teach: true
+id: 2349

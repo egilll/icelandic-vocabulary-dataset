@@ -1,0 +1,49 @@
+word: gruna
+level: 46
+grammatical_category: verb
+conjugation:
+  active voice:
+    indicative:
+      present:
+        singular:
+          1st person: '[mig] grunar'
+          1st person_translation: I suspect
+          1st person_teach: true
+          2nd person: '[þig] grunar'
+          2nd person_translation: you¹ suspect
+          2nd person_teach: true
+          3rd person: '[hann/hana/það] grunar'
+          3rd person_translation: he/she/it suspects
+          3rd person_teach: true
+        plural:
+          1st person: '[okkur] grunar'
+          1st person_translation: we suspect
+          1st person_teach: true
+          2nd person: '[ykkur] grunar'
+          2nd person_translation: you² suspect
+          2nd person_teach: true
+          3rd person: '[þá/þær/þau] grunar'
+          3rd person_translation: they suspect
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[mig] grunaði'
+          1st person_translation: I suspected
+          1st person_teach: true
+          2nd person: '[þig] grunaði'
+          2nd person_translation: you¹ suspected
+          2nd person_teach: true
+          3rd person: '[hann/hana/það] grunaði'
+          3rd person_translation: he/she/it suspected
+          3rd person_teach: true
+        plural:
+          1st person: '[okkur] grunaði'
+          1st person_translation: we suspected
+          1st person_teach: true
+          2nd person: '[ykkur] grunaði'
+          2nd person_translation: you² suspected
+          2nd person_teach: true
+          3rd person: '[þá/þær/þau] grunaði'
+          3rd person_translation: they suspected
+          3rd person_teach: true
+id: 2137

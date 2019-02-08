@@ -1,0 +1,45 @@
+word: hugsun
+level: 48
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hugsun
+      nominative_translation: a thought
+      nominative_sound: islex/240/240_02.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hugsun
+      accusative_sound: islex/240/240_02.mp3
+      dative: hugsun
+      dative_sound: islex/240/240_02.mp3
+      genitive: hugsunar
+    with article:
+      nominative: hugsunin
+      nominative_translation: the thought
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hugsunina
+      dative: hugsuninni
+      genitive: hugsunarinnar
+  plural:
+    no article:
+      nominative: hugsanir
+      nominative_translation: thoughts
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hugsanir
+      dative: hugsunum
+      genitive: hugsana
+    with article:
+      nominative: hugsanirnar
+      nominative_translation: the thoughts
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hugsanirnar
+      dative: hugsununum
+      genitive: hugsananna
+id: 1172
+gender: feminine

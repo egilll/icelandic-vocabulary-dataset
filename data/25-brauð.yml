@@ -1,0 +1,46 @@
+word: brauð
+level: 25
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: brauð
+      nominative_translation: bread
+      nominative_sound: islex/281/281_53.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: brauð
+      accusative_sound: islex/281/281_53.mp3
+      dative: brauði
+      genitive: brauðs
+    with article:
+      nominative: brauðið
+      nominative_translation: the bread
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: brauðið
+      dative: brauðinu
+      genitive: brauðsins
+  plural:
+    no article:
+      nominative: brauð
+      nominative_translation: breads
+      nominative_sound: islex/281/281_53.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: brauð
+      accusative_sound: islex/281/281_53.mp3
+      dative: brauðum
+      genitive: brauða
+    with article:
+      nominative: brauðin
+      nominative_translation: the breads
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: brauðin
+      dative: brauðunum
+      genitive: brauðanna
+id: 843
+gender: neuter

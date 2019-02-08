@@ -1,0 +1,48 @@
+word: api
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: api
+      nominative_translation: 'monkey, ape'
+      nominative_sound: islex/246/246_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: apa
+      accusative_sound: islex/224/224_08.mp3
+      dative: apa
+      dative_sound: islex/224/224_08.mp3
+      genitive: apa
+      genitive_sound: islex/224/224_08.mp3
+    with article:
+      nominative: apinn
+      nominative_translation: 'the monkey, the ape'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: apann
+      dative: apanum
+      genitive: apans
+  plural:
+    no article:
+      nominative: apar
+      nominative_translation: 'monkeys, apes'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: apa
+      accusative_sound: islex/224/224_08.mp3
+      dative: öpum
+      genitive: apa
+      genitive_sound: islex/224/224_08.mp3
+    with article:
+      nominative: aparnir
+      nominative_translation: 'the monkeys, the apes'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: apana
+      dative: öpunum
+      genitive: apanna
+id: 724
+gender: masculine

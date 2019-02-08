@@ -1,0 +1,19 @@
+word: stæði
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stæði
+      nominative_translation: a parking space
+      nominative_sound: islex/382/382_05.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: stæðið
+      nominative_translation: the parking space
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1729
+gender: neuter

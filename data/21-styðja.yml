@@ -1,0 +1,26 @@
+word: styðja
+level: 21
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] styðja'
+    infinitive_translation: to support
+    infinitive_sound: islex/374/374_23.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] styð'
+          1st person_translation: I support
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] studdi'
+          1st person_translation: I supported
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] stutt'
+    active voice_translation: I have supported
+    active voice_sound: islex/233/233_18.mp3
+    active voice_teach: true
+id: 2386

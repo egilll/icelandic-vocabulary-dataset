@@ -1,0 +1,25 @@
+word: húfa
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: húfa
+      nominative_translation: 'a cap, a beanie'
+      nominative_sound: islex/111/111_03.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: húfu
+      dative: húfu
+      genitive: húfu
+    with article:
+      nominative: húfan
+      nominative_translation: 'the cap, the beanie'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: húfuna
+      dative: húfunni
+      genitive: húfunnar
+id: 1170
+gender: feminine

@@ -1,0 +1,25 @@
+word: dómari
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dómari
+      nominative_translation: a judge; a referee
+      nominative_sound: islex/070/070_51.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dómara
+      dative: dómara
+      genitive: dómara
+    with article:
+      nominative: dómarinn
+      nominative_translation: the judge; the referee
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dómarann
+      dative: dómaranum
+      genitive: dómarans
+id: 875
+gender: masculine

@@ -1,0 +1,26 @@
+word: leikskólakennari
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: leikskólakennari
+      nominative_translation: a kindergarten teacher
+      nominative_sound: islex/428/428_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: leikskólakennarinn
+      nominative_translation: the kindergarten teacher
+      nominative_teach: false
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: leikskólakennarar
+      nominative_translation: kindergarten teachers
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1313
+gender: masculine

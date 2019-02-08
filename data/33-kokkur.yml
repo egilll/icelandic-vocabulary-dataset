@@ -1,0 +1,27 @@
+word: kokkur
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kokkur
+      nominative_translation: 'a cook, a chef'
+      nominative_sound: islex/217/217_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kokk
+      dative: kokki
+      genitive: kokks
+    with article:
+      nominative: kokkurinn
+      nominative_translation: 'the cook, the chef'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kokkinn
+      dative: kokkinum
+      dative_alternative:
+        - kokknum
+      genitive: kokksins
+id: 1253
+gender: masculine

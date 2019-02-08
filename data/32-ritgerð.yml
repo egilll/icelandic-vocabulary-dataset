@@ -1,0 +1,27 @@
+word: ritgerð
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ritgerð
+      nominative_translation: an essay
+      nominative_sound: islex/468/468_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ritgerð
+      accusative_sound: islex/468/468_38.mp3
+      dative: ritgerð
+      dative_sound: islex/468/468_38.mp3
+      genitive: ritgerðar
+    with article:
+      nominative: ritgerðin
+      nominative_translation: the essay
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ritgerðina
+      dative: ritgerðinni
+      genitive: ritgerðarinnar
+id: 1563
+gender: feminine

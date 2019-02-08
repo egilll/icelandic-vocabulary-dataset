@@ -1,0 +1,21 @@
+word: bekkjarsystir
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bekkjarsystir
+      nominative_translation: a female classmate
+      nominative_sound: islex/153/153_25.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: bekkjarsystur
+      nominative_translation: female classmates
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 784
+gender: feminine

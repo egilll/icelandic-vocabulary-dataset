@@ -1,0 +1,25 @@
+word: lækur
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lækur
+      nominative_translation: a stream
+      nominative_sound: islex/446/446_50.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: læk
+      dative: læk
+      genitive: lækjar
+    with article:
+      nominative: lækurinn
+      nominative_translation: the stream
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lækinn
+      dative: læknum
+      genitive: lækjarins
+id: 1285
+gender: masculine

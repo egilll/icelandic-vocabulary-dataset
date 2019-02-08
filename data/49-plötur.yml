@@ -1,0 +1,43 @@
+word: plötur
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: plata
+      nominative_translation: an album
+      nominative_sound: islex/146/146_16.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: plötu
+      dative: plötu
+      genitive: plötu
+    with article:
+      nominative: platan
+      nominative_translation: the album
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: plötuna
+      dative: plötunni
+      genitive: plötunnar
+  plural:
+    no article:
+      nominative: plötur
+      nominative_translation: albums
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: plötur
+      dative: plötum
+      genitive: platna
+    with article:
+      nominative: plöturnar
+      nominative_translation: the albums
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: plöturnar
+      dative: plötunum
+      genitive: platnanna
+id: 1513
+gender: feminine

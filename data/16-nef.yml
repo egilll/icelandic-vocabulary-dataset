@@ -1,0 +1,26 @@
+word: nef
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: nef
+      nominative_translation: a nose
+      nominative_sound: islex/141/141_61.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nef
+      accusative_sound: islex/141/141_61.mp3
+      dative: nefi
+      genitive: nefs
+    with article:
+      nominative: nefið
+      nominative_translation: the nose
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nefið
+      dative: nefinu
+      genitive: nefsins
+id: 1447
+gender: neuter

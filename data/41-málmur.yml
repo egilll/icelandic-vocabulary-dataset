@@ -1,0 +1,19 @@
+word: málmur
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: málmur
+      nominative_translation: metal
+      nominative_sound: islex/070/070_76.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: málmurinn
+      nominative_translation: the metal
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1377
+gender: masculine

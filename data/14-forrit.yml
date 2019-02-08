@@ -1,0 +1,26 @@
+word: forrit
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: forrit
+      nominative_translation: a computer program
+      nominative_sound: islex/429/429_91.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: forrit
+      accusative_sound: islex/429/429_91.mp3
+      dative: forriti
+      genitive: forrits
+    with article:
+      nominative: forritið
+      nominative_translation: the computer program
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: forritið
+      dative: forritinu
+      genitive: forritsins
+id: 970
+gender: neuter

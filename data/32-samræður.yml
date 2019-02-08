@@ -1,0 +1,19 @@
+word: samræður
+level: 32
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: samræður
+      nominative_translation: conversations
+      nominative_sound: islex/443/443_92.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: samræðurnar
+      nominative_translation: the conversations
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1596
+gender: feminine

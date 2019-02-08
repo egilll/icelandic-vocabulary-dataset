@@ -1,0 +1,26 @@
+word: kýr
+level: 35
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: kýr
+      nominative_translation: cows
+      nominative_sound: islex/339/339_63.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kýr
+      accusative_sound: islex/339/339_63.mp3
+      dative: kúm
+      genitive: kúa
+    with article:
+      nominative: kýrnar
+      nominative_translation: the cows
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kýrnar
+      dative: kúnum
+      genitive: kúnna
+id: 1283
+gender: feminine

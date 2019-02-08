@@ -1,0 +1,26 @@
+word: verð
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: verð
+      nominative_translation: price
+      nominative_sound: islex/338/338_69.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: verð
+      accusative_sound: islex/338/338_69.mp3
+      dative: verði
+      genitive: verðs
+    with article:
+      nominative: verðið
+      nominative_translation: the price
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: verðið
+      dative: verðinu
+      genitive: verðsins
+id: 1906
+gender: neuter

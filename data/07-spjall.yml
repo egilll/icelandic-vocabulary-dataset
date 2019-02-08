@@ -1,0 +1,26 @@
+word: spjall
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: spjall
+      nominative_translation: conversation
+      nominative_sound: islex/202/202_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: spjall
+      accusative_sound: islex/202/202_58.mp3
+      dative: spjalli
+      genitive: spjalls
+    with article:
+      nominative: spjallið
+      nominative_translation: the conversation
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: spjallið
+      dative: spjallinu
+      genitive: spjallsins
+id: 1724
+gender: neuter

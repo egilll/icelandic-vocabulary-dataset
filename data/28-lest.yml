@@ -1,0 +1,27 @@
+word: lest
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lest
+      nominative_translation: a train
+      nominative_sound: islex/157/157_35.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lest
+      accusative_sound: islex/157/157_35.mp3
+      dative: lest
+      dative_sound: islex/157/157_35.mp3
+      genitive: lestar
+    with article:
+      nominative: lestin
+      nominative_translation: the train
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lestina
+      dative: lestinni
+      genitive: lestarinnar
+id: 1319
+gender: feminine

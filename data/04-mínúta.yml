@@ -1,0 +1,44 @@
+word: mínúta
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: mínúta
+      nominative_translation: a minute
+      nominative_sound: islex/364/364_14.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mínútu
+      dative: mínútu
+      genitive: mínútu
+    with article:
+      nominative: mínútan
+      nominative_translation: the minute
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: mínútuna
+      dative: mínútunni
+      genitive: mínútunnar
+  plural:
+    no article:
+      nominative: mínútur
+      nominative_translation: minutes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mínútur
+      dative: mínútum
+      genitive: mínútna
+    with article:
+      nominative: mínúturnar
+      nominative_translation: the minutes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: mínúturnar
+      dative: mínútunum
+      genitive: mínútnanna
+id: 1407
+gender: feminine
+recognizable: '1'

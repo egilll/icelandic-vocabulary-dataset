@@ -1,0 +1,43 @@
+word: flaska
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: flaska
+      nominative_translation: a bottle
+      nominative_sound: islex/360/360_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flösku
+      dative: flösku
+      genitive: flösku
+    with article:
+      nominative: flaskan
+      nominative_translation: the bottle
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flöskuna
+      dative: flöskunni
+      genitive: flöskunnar
+  plural:
+    no article:
+      nominative: flöskur
+      nominative_translation: bottles
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flöskur
+      dative: flöskum
+      genitive: flaskna
+    with article:
+      nominative: flöskurnar
+      nominative_translation: the bottles
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flöskurnar
+      dative: flöskunum
+      genitive: flasknanna
+id: 955
+gender: feminine

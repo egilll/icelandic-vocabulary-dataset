@@ -1,0 +1,17 @@
+word: falla
+level: 46
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] falla'
+    infinitive_translation: to fall a long distance; to fail an exam
+    infinitive_sound: islex/094/094_59.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] féll'
+          1st person_translation: I fell a long distance; I failed an exam
+          1st person_teach: true
+id: 2093
+strong_verb_declension: true

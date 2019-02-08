@@ -1,0 +1,28 @@
+word: súkkulaði
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: súkkulaði
+      nominative_translation: chocolate
+      nominative_sound: islex/030/030_21.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: súkkulaði
+      accusative_sound: islex/030/030_21.mp3
+      dative: súkkulaði
+      dative_sound: islex/030/030_21.mp3
+      genitive: súkkulaðis
+    with article:
+      nominative: súkkulaðið
+      nominative_translation: the chocolate
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: súkkulaðið
+      dative: súkkulaðinu
+      genitive: súkkulaðisins
+id: 1772
+gender: neuter
+recognizable: '1'

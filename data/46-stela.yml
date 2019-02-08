@@ -1,0 +1,59 @@
+word: stela
+level: 46
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] stela'
+    infinitive_translation: to steal
+    infinitive_sound: islex/182/182_59.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] stel'
+          1st person_translation: I steal
+          1st person_teach: true
+          2nd person: '[þú] stelur'
+          2nd person_translation: you¹ steal
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] stelur'
+          3rd person_translation: he/she/it steals
+          3rd person_teach: true
+        plural:
+          1st person: '[við] stelum'
+          1st person_translation: we steal
+          1st person_teach: true
+          2nd person: '[þið] stelið'
+          2nd person_translation: you² steal
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] stela'
+          3rd person_translation: they steal
+          3rd person_sound: islex/182/182_59.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] stal'
+          1st person_translation: I stole
+          1st person_teach: true
+          2nd person: '[þú] stalst'
+          2nd person_translation: you¹ stole
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] stal'
+          3rd person_translation: he/she/it stole
+          3rd person_teach: true
+        plural:
+          1st person: '[við] stálum'
+          1st person_translation: we stole
+          1st person_teach: true
+          2nd person: '[þið] stáluð'
+          2nd person_translation: you² stole
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] stálu'
+          3rd person_translation: they stole
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] stolið'
+    active voice_translation: I have stolen
+    active voice_teach: true
+id: 2376
+strong_verb_declension: true

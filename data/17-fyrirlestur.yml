@@ -1,0 +1,48 @@
+word: fyrirlestur
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fyrirlestur
+      nominative_translation: a lecture
+      nominative_sound: islex/192/192_78.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fyrirlestur
+      accusative_sound: islex/192/192_78.mp3
+      dative: fyrirlestri
+      genitive: fyrirlestrar
+      genitive_alternative:
+        - fyrirlesturs
+    with article:
+      nominative: fyrirlesturinn
+      nominative_translation: the lecture
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fyrirlesturinn
+      dative: fyrirlestrinum
+      genitive: fyrirlestrarins
+      genitive_alternative:
+        - fyrirlestursins
+  plural:
+    no article:
+      nominative: fyrirlestrar
+      nominative_translation: lectures
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fyrirlestra
+      dative: fyrirlestrum
+      genitive: fyrirlestra
+    with article:
+      nominative: fyrirlestrarnir
+      nominative_translation: the lectures
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fyrirlestrana
+      dative: fyrirlestrunum
+      genitive: fyrirlestranna
+id: 1000
+gender: masculine

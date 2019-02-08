@@ -1,0 +1,68 @@
+word: sofa
+level: 4
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] sofa'
+    infinitive_translation: to sleep
+    infinitive_sound: islex/202/202_61.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] sef'
+          1st person_translation: I sleep
+          1st person_sound: islex/389/389_92.mp3
+          1st person_teach: true
+          2nd person: '[þú] sefur'
+          2nd person_translation: you¹ sleep
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sefur'
+          3rd person_translation: he/she/it sleeps
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sofum'
+          1st person_translation: we sleep
+          1st person_teach: true
+          2nd person: '[þið] sofið'
+          2nd person_translation: you² sleep
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sofa'
+          3rd person_translation: they sleep
+          3rd person_sound: islex/202/202_61.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] svaf'
+          1st person_translation: I slept
+          1st person_teach: true
+          2nd person: '[þú] svafst'
+          2nd person_translation: you¹ slept
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] svaf'
+          3rd person_translation: he/she/it slept
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sváfum'
+          1st person_translation: we slept
+          1st person_teach: true
+          2nd person: '[þið] sváfuð'
+          2nd person_translation: you² slept
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sváfu'
+          3rd person_translation: they slept
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] sofið'
+    active voice_translation: I have slept
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: sofðu!
+      singular_translation: sleep!¹
+      singular_teach: true
+      plural: sofið!
+      plural_translation: sleep!²
+      plural_teach: true
+id: 2361
+strong_verb_declension: true

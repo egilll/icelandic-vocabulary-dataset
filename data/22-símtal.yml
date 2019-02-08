@@ -1,0 +1,44 @@
+word: símtal
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: símtal
+      nominative_translation: a phone call
+      nominative_sound: islex/450/450_57.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: símtal
+      accusative_sound: islex/450/450_57.mp3
+      dative: símtali
+      genitive: símtals
+    with article:
+      nominative: símtalið
+      nominative_translation: the phone call
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: símtalið
+      dative: símtalinu
+      genitive: símtalsins
+  plural:
+    no article:
+      nominative: símtöl
+      nominative_translation: phone calls
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: símtöl
+      dative: símtölum
+      genitive: símtala
+    with article:
+      nominative: símtölin
+      nominative_translation: the phone calls
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: símtölin
+      dative: símtölunum
+      genitive: símtalanna
+id: 1619
+gender: neuter

@@ -1,0 +1,15 @@
+word: eiginkona
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: eiginkona
+      nominative_translation: wife
+      nominative_sound: islex/073/073_44.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+      nominative_literal: one's own woman
+id: 901
+gender: feminine

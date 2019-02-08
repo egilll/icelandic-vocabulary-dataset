@@ -1,0 +1,26 @@
+word: snjóbolti
+level: 46
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: snjóbolti
+      nominative_translation: a snowball
+      nominative_sound: islex/475/475_07.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snjóbolta
+      dative: snjóbolta
+      genitive: snjóbolta
+    with article:
+      nominative: snjóboltinn
+      nominative_translation: the snowball
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: snjóboltann
+      dative: snjóboltanum
+      genitive: snjóboltans
+id: 1691
+gender: masculine
+recognizable: '1'

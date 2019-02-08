@@ -1,0 +1,45 @@
+word: bolur
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bolur
+      nominative_translation: a T-shirt
+      nominative_sound: islex/257/257_54.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bol
+      dative: bol
+      genitive: bols
+    with article:
+      nominative: bolurinn
+      nominative_translation: the T-shirt
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bolinn
+      dative: bolnum
+      genitive: bolsins
+  plural:
+    no article:
+      nominative: bolir
+      nominative_translation: T-shirts
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: boli
+      accusative_sound: islex/294/294_46.mp3
+      dative: bolum
+      genitive: bola
+      genitive_sound: islex/129/129_53.mp3
+    with article:
+      nominative: bolirnir
+      nominative_translation: the T-shirts
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bolina
+      dative: bolunum
+      genitive: bolanna
+id: 829
+gender: masculine

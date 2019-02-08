@@ -1,0 +1,27 @@
+word: lok
+level: 46
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: lok
+      nominative_translation: end
+      nominative_sound: islex/367/367_22.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lok
+      accusative_sound: islex/367/367_22.mp3
+      dative: lokum
+      genitive: loka
+      genitive_sound: islex/410/410_47.mp3
+    with article:
+      nominative: lokin
+      nominative_translation: the end
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lokin
+      dative: lokunum
+      genitive: lokanna
+id: 1355
+gender: neuter

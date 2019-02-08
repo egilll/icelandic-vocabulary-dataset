@@ -1,0 +1,26 @@
+word: hitastig
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hitastig
+      nominative_translation: temperature
+      nominative_sound: islex/258/258_07.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hitastig
+      accusative_sound: islex/258/258_07.mp3
+      dative: hitastigi
+      genitive: hitastigs
+    with article:
+      nominative: hitastigið
+      nominative_translation: the temperature
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hitastigið
+      dative: hitastiginu
+      genitive: hitastigsins
+id: 1122
+gender: neuter

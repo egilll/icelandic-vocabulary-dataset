@@ -1,0 +1,18 @@
+word: eiginmaður
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: eiginmaður
+      nominative_translation: husband
+      nominative_sound: islex/308/308_79.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      nominative_literal: one's own man
+      accusative: eiginmann
+      dative: eiginmanni
+      genitive: eiginmanns
+id: 902
+gender: masculine

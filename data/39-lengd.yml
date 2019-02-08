@@ -1,0 +1,27 @@
+word: lengd
+level: 39
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lengd
+      nominative_translation: a length
+      nominative_sound: islex/359/359_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lengd
+      accusative_sound: islex/359/359_24.mp3
+      dative: lengd
+      dative_sound: islex/359/359_24.mp3
+      genitive: lengdar
+    with article:
+      nominative: lengdin
+      nominative_translation: the length
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lengdina
+      dative: lengdinni
+      genitive: lengdarinnar
+id: 1318
+gender: feminine

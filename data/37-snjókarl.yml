@@ -1,0 +1,23 @@
+word: snjókarl
+level: 37
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: snjókarl
+      nominative_translation: a snowman
+      nominative_sound: islex/402/402_87.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snjókarl
+      accusative_sound: islex/402/402_87.mp3
+      dative: snjókarli
+      genitive: snjókarls
+    with article:
+      nominative: snjókarlinn
+      nominative_translation: the snowman
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1697
+gender: masculine

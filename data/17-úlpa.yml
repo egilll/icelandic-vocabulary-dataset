@@ -1,0 +1,43 @@
+word: úlpa
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: úlpa
+      nominative_translation: a winter coat
+      nominative_sound: islex/162/162_83.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: úlpu
+      dative: úlpu
+      genitive: úlpu
+    with article:
+      nominative: úlpan
+      nominative_translation: the winter coat
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: úlpuna
+      dative: úlpunni
+      genitive: úlpunnar
+  plural:
+    no article:
+      nominative: úlpur
+      nominative_translation: winter coats
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: úlpur
+      dative: úlpum
+      genitive: úlpna
+    with article:
+      nominative: úlpurnar
+      nominative_translation: the winter coats
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: úlpurnar
+      dative: úlpunum
+      genitive: úlpnanna
+id: 1866
+gender: feminine

@@ -1,0 +1,26 @@
+word: gólf
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gólf
+      nominative_translation: floor
+      nominative_sound: islex/340/340_05.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gólf
+      accusative_sound: islex/340/340_05.mp3
+      dative: gólfi
+      genitive: gólfs
+    with article:
+      nominative: gólfið
+      nominative_translation: the floor
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gólfið
+      dative: gólfinu
+      genitive: gólfsins
+id: 1038
+gender: neuter

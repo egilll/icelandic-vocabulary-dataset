@@ -1,0 +1,19 @@
+word: aðgerð
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: aðgerð
+      nominative_translation: an operation; surgery
+      nominative_sound: islex/351/351_83.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: aðgerðin
+      nominative_translation: the operation; the surgery
+      nominative_teach: true
+      nominative_teachtable: false
+id: 690
+gender: feminine

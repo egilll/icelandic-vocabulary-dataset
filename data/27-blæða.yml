@@ -1,0 +1,10 @@
+word: blæða
+level: 27
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] blæða'
+    infinitive_translation: to bleed
+    infinitive_sound: islex/380/380_91.mp3
+    infinitive_teach: true
+id: 2048

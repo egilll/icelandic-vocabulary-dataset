@@ -1,0 +1,48 @@
+word: bar
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bar
+      nominative_translation: a bar
+      nominative_sound: islex/191/191_08.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bar
+      accusative_sound: islex/191/191_08.mp3
+      dative: bar
+      dative_sound: islex/191/191_08.mp3
+      genitive: bars
+    with article:
+      nominative: barinn
+      nominative_translation: the bar
+      nominative_sound: islex/001/001_37.mp3
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: barinn
+      accusative_sound: islex/001/001_37.mp3
+      dative: barnum
+      genitive: barsins
+  plural:
+    no article:
+      nominative: barir
+      nominative_translation: bars
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bari
+      dative: börum
+      genitive: bara
+      genitive_sound: islex/325/325_76.mp3
+    with article:
+      nominative: barirnir
+      nominative_translation: the bars
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: barina
+      dative: börunum
+      genitive: baranna
+id: 771
+gender: masculine

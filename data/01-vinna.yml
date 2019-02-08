@@ -1,0 +1,25 @@
+word: vinna
+level: 1
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vinna
+      nominative_translation: 'work, job'
+      nominative_sound: islex/233/233_75.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vinnu
+      dative: vinnu
+      genitive: vinnu
+    with article:
+      nominative: vinnan
+      nominative_translation: 'the work, the job'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vinnuna
+      dative: vinnunni
+      genitive: vinnunnar
+id: 1933
+gender: feminine

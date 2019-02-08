@@ -1,0 +1,44 @@
+word: snúra
+level: 39
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: snúra
+      nominative_translation: an electric cord
+      nominative_sound: islex/005/005_29.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snúru
+      dative: snúru
+      genitive: snúru
+    with article:
+      nominative: snúran
+      nominative_translation: the electric cord
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: snúruna
+      dative: snúrunni
+      genitive: snúrunnar
+  plural:
+    no article:
+      nominative: snúrur
+      nominative_translation: electric cords
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snúrur
+      dative: snúrum
+      genitive: snúra
+      genitive_sound: islex/005/005_29.mp3
+    with article:
+      nominative: snúrurnar
+      nominative_translation: the electric cords
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: snúrurnar
+      dative: snúrunum
+      genitive: snúranna
+id: 1702
+gender: feminine

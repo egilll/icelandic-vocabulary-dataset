@@ -1,0 +1,59 @@
+word: byrja
+level: 19
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] byrja'
+    infinitive_translation: 'to start, to begin'
+    infinitive_sound: islex/467/467_00.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] byrja'
+          1st person_translation: 'I start, I begin'
+          1st person_sound: islex/467/467_00.mp3
+          1st person_teach: true
+          2nd person: '[þú] byrjar'
+          2nd person_translation: 'you¹ start, you¹ begin'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] byrjar'
+          3rd person_translation: 'he/she/it starts, he/she/it begins'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] byrjum'
+          1st person_translation: 'we start, we begin'
+          1st person_teach: true
+          2nd person: '[þið] byrjið'
+          2nd person_translation: 'you² start, you² begin'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] byrja'
+          3rd person_translation: 'they start, they begin'
+          3rd person_sound: islex/467/467_00.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] byrjaði'
+          1st person_translation: 'I started, I began'
+          1st person_teach: true
+          2nd person: '[þú] byrjaðir'
+          2nd person_translation: 'you¹ started, you¹ began'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] byrjaði'
+          3rd person_translation: 'he/she/it started, he/she/it began'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] byrjuðum'
+          1st person_translation: 'we started, we began'
+          1st person_teach: true
+          2nd person: '[þið] byrjuðuð'
+          2nd person_translation: 'you² started, you² began'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] byrjuðu'
+          3rd person_translation: 'they started, they began'
+          3rd person_teach: true
+  supine:
+    active voice: '[ég get] byrjað'
+    active voice_translation: 'I can start, I can begin'
+    active voice_teach: true
+id: 2062

@@ -1,0 +1,25 @@
+word: vörur
+level: 32
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: vörur
+      nominative_translation: products
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vörur
+      dative: vörum
+      genitive: vara
+      genitive_sound: islex/119/119_37.mp3
+    with article:
+      nominative: vörurnar
+      nominative_translation: the products
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vörurnar
+      dative: vörunum
+      genitive: varanna
+id: 1889
+gender: feminine

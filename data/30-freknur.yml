@@ -1,0 +1,14 @@
+word: freknur
+level: 30
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: freknur
+      nominative_translation: freckels
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 988
+gender: feminine
+recognizable: '1'

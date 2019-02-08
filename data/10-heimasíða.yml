@@ -1,0 +1,25 @@
+word: heimasíða
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: heimasíða
+      nominative_translation: 'a homepage, a website'
+      nominative_sound: islex/404/404_89.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: heimasíðu
+      dative: heimasíðu
+      genitive: heimasíðu
+    with article:
+      nominative: heimasíðan
+      nominative_translation: 'the homepage, the website'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: heimasíðuna
+      dative: heimasíðunni
+      genitive: heimasíðunnar
+id: 1104
+gender: feminine

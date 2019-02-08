@@ -1,0 +1,27 @@
+word: svæði
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: svæði
+      nominative_translation: an area
+      nominative_sound: islex/314/314_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: svæði
+      accusative_sound: islex/314/314_41.mp3
+      dative: svæði
+      dative_sound: islex/314/314_41.mp3
+      genitive: svæðis
+    with article:
+      nominative: svæðið
+      nominative_translation: the area
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: svæðið
+      dative: svæðinu
+      genitive: svæðisins
+id: 1783
+gender: neuter

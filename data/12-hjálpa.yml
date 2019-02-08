@@ -1,0 +1,59 @@
+word: hjálpa
+level: 12
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hjálpa'
+    infinitive_translation: to help
+    infinitive_sound: islex/091/091_59.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] hjálpa'
+          1st person_translation: I help
+          1st person_sound: islex/091/091_59.mp3
+          1st person_teach: true
+          2nd person: '[þú] hjálpar'
+          2nd person_translation: you¹ help
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] hjálpar'
+          3rd person_translation: he/she/it helps
+          3rd person_teach: true
+        plural:
+          1st person: '[við] hjálpum'
+          1st person_translation: we help
+          1st person_teach: true
+          2nd person: '[þið] hjálpið'
+          2nd person_translation: you² help
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] hjálpa'
+          3rd person_translation: they help
+          3rd person_sound: islex/091/091_59.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] hjálpaði'
+          1st person_translation: I helped
+          1st person_teach: true
+          2nd person: '[þú] hjálpaðir'
+          2nd person_translation: you¹ helped
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] hjálpaði'
+          3rd person_translation: he/she/it helped
+          3rd person_teach: true
+        plural:
+          1st person: '[við] hjálpuðum'
+          1st person_translation: we helped
+          1st person_teach: true
+          2nd person: '[þið] hjálpuðuð'
+          2nd person_translation: you² helped
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] hjálpuðu'
+          3rd person_translation: they helped
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] hjálpað'
+    active voice_translation: I have helped
+    active voice_teach: true
+id: 2154

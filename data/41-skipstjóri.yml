@@ -1,0 +1,22 @@
+word: skipstjóri
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skipstjóri
+      nominative_translation: a ship's captain
+      nominative_sound: islex/188/188_53.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skipstjóra
+      dative: skipstjóra
+      genitive: skipstjóra
+    with article:
+      nominative: skipstjórinn
+      nominative_translation: the ship's captain
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1649
+gender: masculine

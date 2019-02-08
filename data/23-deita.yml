@@ -1,0 +1,15 @@
+word: deita
+level: 23
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] deita'
+    infinitive_translation: 'to date someone [slang]'
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] deitaði'
+          1st person_translation: 'I dated someone [slang]'
+          1st person_teach: true
+id: 2067

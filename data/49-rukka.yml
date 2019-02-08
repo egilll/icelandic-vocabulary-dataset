@@ -1,0 +1,10 @@
+word: rukka
+level: 49
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] rukka'
+    infinitive_translation: to collect debt
+    infinitive_sound: islex/307/307_55.mp3
+    infinitive_teach: true
+id: 2302

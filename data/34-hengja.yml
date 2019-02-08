@@ -1,0 +1,55 @@
+word: hengja
+level: 34
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hengja'
+    infinitive_translation: to hang something
+    infinitive_sound: islex/157/157_43.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] hengi'
+          1st person_translation: I hang something
+          1st person_sound: islex/019/019_42.mp3
+          1st person_teach: true
+          2nd person: '[þú] hengir'
+          2nd person_translation: you¹ hang something
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] hengir'
+          3rd person_translation: he/she/it hangs something
+          3rd person_teach: true
+        plural:
+          1st person: '[við] hengjum'
+          1st person_translation: we hang something
+          1st person_teach: true
+          2nd person: '[þið] hengið'
+          2nd person_translation: you² hang something
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] hengja'
+          3rd person_translation: they hang something
+          3rd person_sound: islex/157/157_43.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] hengdi'
+          1st person_translation: I hung something
+          1st person_teach: true
+          2nd person: '[þú] hengdir'
+          2nd person_translation: you¹ hung something
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] hengdi'
+          3rd person_translation: he/she/it hung something
+          3rd person_teach: true
+        plural:
+          1st person: '[við] hengdum'
+          1st person_translation: we hung something
+          1st person_teach: true
+          2nd person: '[þið] hengduð'
+          2nd person_translation: you² hung something
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] hengdu'
+          3rd person_translation: they hung something
+          3rd person_teach: true
+id: 2149

@@ -1,0 +1,14 @@
+word: menntaskóli
+level: 36
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: menntaskóli
+      nominative_translation: 'junior college, high school'
+      nominative_sound: islex/132/132_36.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1398
+gender: masculine

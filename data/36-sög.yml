@@ -1,0 +1,27 @@
+word: sög
+level: 36
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sög
+      nominative_translation: a saw
+      nominative_sound: islex/300/300_14.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sög
+      accusative_sound: islex/300/300_14.mp3
+      dative: sög
+      dative_sound: islex/300/300_14.mp3
+      genitive: sagar
+    with article:
+      nominative: sögin
+      nominative_translation: the saw
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sögina
+      dative: söginni
+      genitive: sagarinnar
+id: 1705
+gender: feminine

@@ -1,0 +1,19 @@
+word: grunnskóli
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: grunnskóli
+      nominative_translation: elementary school
+      nominative_sound: islex/422/422_70.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: grunnskóla
+      dative: grunnskóla
+      genitive: grunnskóla
+id: 1054
+gender: masculine
+only_show_after: skóli
+recognizable: '0'

@@ -1,0 +1,58 @@
+word: henda
+level: 11
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] henda'
+    infinitive_translation: to throw
+    infinitive_sound: islex/275/275_60.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] hendi'
+          1st person_translation: I throw
+          1st person_teach: true
+          2nd person: '[þú] hendir'
+          2nd person_translation: you¹ throw
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] hendir'
+          3rd person_translation: he/she/it throws
+          3rd person_teach: true
+        plural:
+          1st person: '[við] hendum'
+          1st person_translation: we throw
+          1st person_teach: true
+          2nd person: '[þið] hendið'
+          2nd person_translation: you² throw
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] henda'
+          3rd person_translation: they throw
+          3rd person_sound: islex/275/275_60.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] henti'
+          1st person_translation: I threw
+          1st person_teach: true
+          2nd person: '[þú] hentir'
+          2nd person_translation: you¹ threw
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] henti'
+          3rd person_translation: he/she/it threw
+          3rd person_teach: true
+        plural:
+          1st person: '[við] hentum'
+          1st person_translation: we threw
+          1st person_teach: true
+          2nd person: '[þið] hentuð'
+          2nd person_translation: you² threw
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] hentu'
+          3rd person_translation: they threw
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] hent'
+    active voice_translation: I have thrown
+    active voice_teach: true
+id: 2148

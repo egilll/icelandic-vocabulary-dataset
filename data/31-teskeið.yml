@@ -1,0 +1,45 @@
+word: teskeið
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: teskeið
+      nominative_translation: a teaspoon
+      nominative_sound: islex/360/360_73.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: teskeið
+      accusative_sound: islex/360/360_73.mp3
+      dative: teskeið
+      dative_sound: islex/360/360_73.mp3
+      genitive: teskeiðar
+    with article:
+      nominative: teskeiðin
+      nominative_translation: the teaspoon
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: teskeiðina
+      dative: teskeiðinni
+      genitive: teskeiðarinnar
+  plural:
+    no article:
+      nominative: teskeiðar
+      nominative_translation: teaspoons
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: teskeiðar
+      dative: teskeiðum
+      genitive: teskeiða
+    with article:
+      nominative: teskeiðarnar
+      nominative_translation: the teaspoons
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: teskeiðarnar
+      dative: teskeiðunum
+      genitive: teskeiðanna
+id: 1825
+gender: feminine

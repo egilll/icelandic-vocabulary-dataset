@@ -1,0 +1,49 @@
+word: skeið
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skeið
+      nominative_translation: a spoon
+      nominative_sound: islex/050/050_91.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skeið
+      accusative_sound: islex/050/050_91.mp3
+      dative: skeið
+      dative_sound: islex/050/050_91.mp3
+      genitive: skeiðar
+      genitive_sound: islex/084/084_66.mp3
+    with article:
+      nominative: skeiðin
+      nominative_translation: the spoon
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skeiðina
+      dative: skeiðinni
+      genitive: skeiðarinnar
+  plural:
+    no article:
+      nominative: skeiðar
+      nominative_translation: spoons
+      nominative_sound: islex/084/084_66.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skeiðar
+      accusative_sound: islex/084/084_66.mp3
+      dative: skeiðum
+      genitive: skeiða
+      genitive_sound: islex/163/163_01.mp3
+    with article:
+      nominative: skeiðarnar
+      nominative_translation: the spoons
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skeiðarnar
+      dative: skeiðunum
+      genitive: skeiðanna
+id: 1640
+gender: feminine

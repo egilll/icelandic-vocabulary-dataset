@@ -1,0 +1,118 @@
+word: fara
+level: 6
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] fara'
+    infinitive_translation: to go
+    infinitive_sound: islex/329/329_14.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] fer'
+          1st person_translation: I go
+          1st person_teach: true
+          2nd person: '[þú] ferð'
+          2nd person_translation: you¹ go
+          2nd person_sound: islex/411/411_35.mp3
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] fer'
+          3rd person_translation: he/she/it goes
+          3rd person_teach: true
+        plural:
+          1st person: '[við] förum'
+          1st person_translation: we go
+          1st person_teach: true
+          2nd person: '[þið] farið'
+          2nd person_translation: you² go
+          2nd person_sound: islex/307/307_23.mp3
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] fara'
+          3rd person_translation: they go
+          3rd person_sound: islex/329/329_14.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] fór'
+          1st person_translation: I went
+          1st person_teach: true
+          2nd person: '[þú] fórst'
+          2nd person_translation: you¹ went
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] fór'
+          3rd person_translation: he/she/it went
+          3rd person_teach: true
+        plural:
+          1st person: '[við] fórum'
+          1st person_translation: we went
+          1st person_teach: true
+          2nd person: '[þið] fóruð'
+          2nd person_translation: you² went
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] fóru'
+          3rd person_translation: they went
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] fari'
+          1st person_translation: I think I go
+          1st person_teach: true
+          2nd person: '[ég held að] [þú] farir'
+          2nd person_translation: I think you¹ go
+          2nd person_sound: islex/138/138_91.mp3
+          2nd person_teach: true
+          3rd person: '[ég held að] [hann/hún/það] fari'
+          3rd person_translation: I think he/she/it goes
+          3rd person_teach: true
+        plural:
+          1st person: '[ég held að] [við] förum'
+          1st person_translation: I think we go
+          1st person_teach: true
+          2nd person: '[ég held að] [þið] farið'
+          2nd person_translation: I think you² go
+          2nd person_sound: islex/307/307_23.mp3
+          2nd person_teach: true
+          3rd person: '[ég held að] [þeir/þær/þau] fari'
+          3rd person_translation: I think they go
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég hélt að] [ég] færi'
+          1st person_translation: I thought I would go
+          1st person_sound: islex/178/178_66.mp3
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þú] færir'
+          2nd person_translation: I thought you¹ would go
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [hann/hún/það] færi'
+          3rd person_translation: I thought he/she/it would go
+          3rd person_sound: islex/178/178_66.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[ég hélt að] [við] færum'
+          1st person_translation: I thought we would go
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þið] færuð'
+          2nd person_translation: I thought you² would go
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [þeir/þær/þau] færu'
+          3rd person_translation: I thought they would go
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] farið'
+    active voice_translation: I have gone
+    active voice_sound: islex/307/307_23.mp3
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: farðu!
+      singular_translation: go!¹
+      singular_teach: true
+      plural: farið!
+      plural_translation: go!²
+      plural_teach: true
+id: 2094
+strong_verb_declension: true
+undefined_translation: to go

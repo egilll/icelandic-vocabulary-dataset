@@ -1,0 +1,24 @@
+word: arkitekt
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: arkitekt
+      nominative_translation: an architect
+      nominative_sound: islex/406/406_78.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: arkitekt
+      accusative_sound: islex/406/406_78.mp3
+      dative: arkitekt
+      dative_sound: islex/406/406_78.mp3
+      genitive: arkitekts
+    with article:
+      nominative: arkitektinn
+      nominative_translation: the architect
+      nominative_teach: false
+      nominative_teachtable: false
+id: 734
+gender: masculine

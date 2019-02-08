@@ -1,0 +1,46 @@
+word: koss
+level: 3
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: koss
+      nominative_translation: a kiss
+      nominative_sound: islex/462/462_15.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: koss
+      accusative_sound: islex/462/462_15.mp3
+      dative: kossi
+      genitive: koss
+      genitive_sound: islex/462/462_15.mp3
+    with article:
+      nominative: kossinn
+      nominative_translation: the kiss
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kossinn
+      dative: kossinum
+      genitive: kossins
+  plural:
+    no article:
+      nominative: kossar
+      nominative_translation: kisses
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kossa
+      dative: kossum
+      genitive: kossa
+    with article:
+      nominative: kossarnir
+      nominative_translation: the kisses
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kossana
+      dative: kossunum
+      genitive: kossanna
+id: 1265
+gender: masculine
+recognizable: '1'

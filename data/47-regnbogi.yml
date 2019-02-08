@@ -1,0 +1,25 @@
+word: regnbogi
+level: 47
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: regnbogi
+      nominative_translation: a rainbow
+      nominative_sound: islex/436/436_66.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: regnboga
+      dative: regnboga
+      genitive: regnboga
+    with article:
+      nominative: regnboginn
+      nominative_translation: the rainbow
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: regnbogann
+      dative: regnboganum
+      genitive: regnbogans
+id: 1547
+gender: masculine

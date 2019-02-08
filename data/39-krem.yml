@@ -1,0 +1,26 @@
+word: krem
+level: 39
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: krem
+      nominative_translation: a cream
+      nominative_sound: islex/465/465_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: krem
+      accusative_sound: islex/465/465_64.mp3
+      dative: kremi
+      genitive: krems
+    with article:
+      nominative: kremið
+      nominative_translation: the cream
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kremið
+      dative: kreminu
+      genitive: kremsins
+id: 1270
+gender: neuter

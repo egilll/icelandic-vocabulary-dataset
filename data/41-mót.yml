@@ -1,0 +1,28 @@
+word: mót
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: mót
+      nominative_translation: a tournament
+      nominative_sound: islex/119/119_76.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mót
+      accusative_sound: islex/119/119_76.mp3
+      dative: móti
+      dative_sound: islex/022/022_87.mp3
+      genitive: móts
+    with article:
+      nominative: mótið
+      nominative_translation: the tournament
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: mótið
+      dative: mótinu
+      genitive: mótsins
+id: 1419
+gender: neuter
+recognizable: '0'

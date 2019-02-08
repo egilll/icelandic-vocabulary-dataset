@@ -1,0 +1,43 @@
+word: íþróttamaður
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: íþróttamaður
+      nominative_translation: an athlete
+      nominative_sound: islex/173/173_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: íþróttamann
+      dative: íþróttamanni
+      genitive: íþróttamanns
+    with article:
+      nominative: íþróttamaðurinn
+      nominative_translation: the athlete
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: íþróttamanninn
+      dative: íþróttamanninum
+      genitive: íþróttamannsins
+  plural:
+    no article:
+      nominative: íþróttamenn
+      nominative_translation: athletes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: íþróttamenn
+      dative: íþróttamönnum
+      genitive: íþróttamanna
+    with article:
+      nominative: íþróttamennirnir
+      nominative_translation: the athletes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: íþróttamennina
+      dative: íþróttamönnunum
+      genitive: íþróttamannanna
+id: 1192
+gender: masculine

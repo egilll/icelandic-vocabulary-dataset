@@ -1,0 +1,87 @@
+word: gefa
+level: 5
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] gefa'
+    infinitive_translation: to give
+    infinitive_sound: islex/206/206_55.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] gef'
+          1st person_translation: I give
+          1st person_teach: true
+          2nd person: '[þú] gefur'
+          2nd person_translation: you¹ give
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] gefur'
+          3rd person_translation: he/she/it gives
+          3rd person_teach: true
+        plural:
+          1st person: '[við] gefum'
+          1st person_translation: we give
+          1st person_teach: true
+          2nd person: '[þið] gefið'
+          2nd person_translation: you² give
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] gefa'
+          3rd person_translation: they give
+          3rd person_sound: islex/206/206_55.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] gaf'
+          1st person_translation: I gave
+          1st person_teach: true
+          2nd person: '[þú] gafst'
+          2nd person_translation: you¹ gave
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] gaf'
+          3rd person_translation: he/she/it gave
+          3rd person_teach: true
+        plural:
+          1st person: '[við] gáfum'
+          1st person_translation: we gave
+          1st person_teach: true
+          2nd person: '[þið] gáfuð'
+          2nd person_translation: you² gave
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] gáfu'
+          3rd person_translation: they gave
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] gefi'
+          1st person_translation: I think I give
+          1st person_teach: true
+          2nd person: '[ég held að] [þú] gefir'
+          2nd person_translation: I think you¹ give
+          2nd person_teach: true
+          3rd person: '[ég held að] [hann/hún/það] gefi'
+          3rd person_translation: I think he/she/it gives
+          3rd person_teach: true
+        plural:
+          1st person: '[ég held að] [við] gefum'
+          1st person_translation: I think we give
+          1st person_teach: true
+          2nd person: '[ég held að] [þið] gefið'
+          2nd person_translation: I think you² give
+          2nd person_teach: true
+          3rd person: '[ég held að] [þeir/þær/þau] gefi'
+          3rd person_translation: I think they give
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] gefið'
+    active voice_translation: I have given
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: gefðu!
+      singular_translation: give!¹
+      singular_teach: true
+id: 2119
+recognizable: '1'
+strong_verb_declension: true

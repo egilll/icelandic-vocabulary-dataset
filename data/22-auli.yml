@@ -1,0 +1,22 @@
+word: auli
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: auli
+      nominative_translation: 'dummy, fool'
+      nominative_sound: islex/204/204_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: aula
+      dative: aula
+      genitive: aula
+    with article:
+      nominative: aulinn
+      nominative_translation: 'the dummy, the fool'
+      nominative_teach: false
+      nominative_teachtable: false
+id: 752
+gender: masculine

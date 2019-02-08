@@ -1,0 +1,44 @@
+word: kanna
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kanna
+      nominative_translation: a jug; a coffeepot
+      nominative_sound: islex/139/139_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: könnu
+      dative: könnu
+      genitive: könnu
+    with article:
+      nominative: kannan
+      nominative_translation: the jug; the coffeepot
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: könnuna
+      dative: könnunni
+      genitive: könnunnar
+  plural:
+    no article:
+      nominative: könnur
+      nominative_translation: jugs; coffeepots
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: könnur
+      dative: könnum
+      genitive: kanna
+      genitive_sound: islex/139/139_27.mp3
+    with article:
+      nominative: könnurnar
+      nominative_translation: the jugs; the coffeepots
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: könnurnar
+      dative: könnunum
+      genitive: kannanna
+id: 1219
+gender: feminine

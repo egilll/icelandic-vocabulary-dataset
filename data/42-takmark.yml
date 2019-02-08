@@ -1,0 +1,23 @@
+word: takmark
+level: 42
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: takmark
+      nominative_translation: 'an aim, a goal'
+      nominative_sound: islex/149/149_40.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: takmarkið
+      nominative_translation: 'the aim, the goal'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: takmarkið
+      dative: takmarkinu
+      genitive: takmarksins
+id: 1812
+gender: neuter
+never_show_with: takmörk

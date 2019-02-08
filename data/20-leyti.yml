@@ -1,0 +1,27 @@
+word: leyti
+level: 20
+grammatical_category: other
+conjugation:
+  singular:
+    no article:
+      nominative: leyti
+      nominative_translation: approximate time
+      nominative_sound: islex/217/217_36.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leyti
+      accusative_sound: islex/217/217_36.mp3
+      dative: leyti
+      dative_sound: islex/217/217_36.mp3
+      genitive: leytis
+    with article:
+      nominative: leytið
+      nominative_translation: the approximate time
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leytið
+      dative: leytinu
+      genitive: leytisins
+id: 1322
+gender: neuter

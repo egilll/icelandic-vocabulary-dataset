@@ -1,0 +1,11 @@
+word: hanga
+level: 46
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hanga'
+    infinitive_translation: to hang
+    infinitive_sound: islex/063/063_72.mp3
+    infinitive_teach: true
+id: 2141
+strong_verb_declension: true

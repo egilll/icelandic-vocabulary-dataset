@@ -1,0 +1,110 @@
+word: að vera
+level: 2
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] vera'
+    infinitive_translation: to be
+    infinitive_sound: islex/262/262_26.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] er'
+          1st person_translation: I am
+          1st person_sound: islex/139/139_54.mp3
+          1st person_teach: true
+          2nd person: '[þú] ert'
+          2nd person_translation: you¹ are
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] er'
+          3rd person_translation: he/she/it is
+          3rd person_sound: islex/139/139_54.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] erum'
+          1st person_translation: we are
+          1st person_teach: true
+          2nd person: '[þið] eruð'
+          2nd person_translation: you² are
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] eru'
+          3rd person_translation: they are
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] var'
+          1st person_translation: I was
+          1st person_sound: islex/070/070_86.mp3
+          1st person_teach: true
+          2nd person: '[þú] varst'
+          2nd person_translation: you¹ were
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] var'
+          3rd person_translation: he/she/it was
+          3rd person_sound: islex/070/070_86.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] vorum'
+          1st person_translation: we were
+          1st person_teach: true
+          2nd person: '[þið] voruð'
+          2nd person_translation: you² were
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] voru'
+          3rd person_translation: they were
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] sé'
+          1st person_translation: I think I am
+          1st person_teach: true
+          2nd person: '[ég held að] [þú] sért'
+          2nd person_translation: I think you¹ are
+          2nd person_teach: true
+          3rd person: '[ég held að] [hann/hún/það] sé'
+          3rd person_translation: I think he/she/it is
+          3rd person_teach: true
+        plural:
+          1st person: '[ég held að] [við] séum'
+          1st person_translation: I think we are
+          1st person_teach: true
+          2nd person: '[ég held að] [þið] séuð'
+          2nd person_translation: I think you² are
+          2nd person_teach: true
+          3rd person: '[ég held að] [þeir/þær/þau] séu'
+          3rd person_translation: I think they are
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég hélt að] [ég] væri'
+          1st person_translation: I thought I would be
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þú] værir'
+          2nd person_translation: I thought you¹ would be
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [hann/hún/það] væri'
+          3rd person_translation: I thought he/she/it would be
+          3rd person_teach: true
+        plural:
+          1st person: '[ég hélt að] [við] værum'
+          1st person_translation: I thought we would be
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þið] væruð'
+          2nd person_translation: I thought you² would be
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [þeir/þær/þau] væru'
+          3rd person_translation: I thought they would be
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] verið'
+    active voice_translation: I have been
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: vertu!
+      singular_translation: be!¹
+      singular_teach: true
+id: 2003
+strong_verb_declension: true

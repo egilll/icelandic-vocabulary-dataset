@@ -1,0 +1,27 @@
+word: svalir
+level: 42
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: svalir
+      nominative_translation: a balcony
+      nominative_sound: islex/345/345_48.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: svalir
+      accusative_sound: islex/345/345_48.mp3
+      dative: svölum
+      genitive: svala
+      genitive_sound: islex/028/028_88.mp3
+    with article:
+      nominative: svalirnar
+      nominative_translation: the balcony
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: svalirnar
+      dative: svölunum
+      genitive: svalanna
+id: 1784
+gender: feminine

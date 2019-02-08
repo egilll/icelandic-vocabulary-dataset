@@ -1,0 +1,25 @@
+word: friður
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: friður
+      nominative_translation: peace
+      nominative_sound: islex/356/356_17.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: frið
+      dative: friði
+      genitive: friðar
+    with article:
+      nominative: friðurinn
+      nominative_translation: the peace
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: friðinn
+      dative: friðinum
+      genitive: friðarins
+id: 992
+gender: masculine

@@ -1,0 +1,19 @@
+word: bifvélavirki
+level: 36
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bifvélavirki
+      nominative_translation: a car mechanic
+      nominative_sound: islex/143/143_76.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: bifvélavirkinn
+      nominative_translation: the car mechanic
+      nominative_teach: false
+      nominative_teachtable: false
+id: 792
+gender: masculine

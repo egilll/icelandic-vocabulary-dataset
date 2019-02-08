@@ -1,0 +1,27 @@
+word: belti
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: belti
+      nominative_translation: a belt
+      nominative_sound: islex/448/448_16.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: belti
+      accusative_sound: islex/448/448_16.mp3
+      dative: belti
+      dative_sound: islex/448/448_16.mp3
+      genitive: beltis
+    with article:
+      nominative: beltið
+      nominative_translation: the belt
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: beltið
+      dative: beltinu
+      genitive: beltisins
+id: 787
+gender: neuter

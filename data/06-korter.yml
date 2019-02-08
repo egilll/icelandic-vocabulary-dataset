@@ -1,0 +1,14 @@
+word: korter
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: korter
+      nominative_translation: 15 minutes (a quarter of an hour)
+      nominative_sound: islex/009/009_37.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1263
+gender: neuter

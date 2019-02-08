@@ -1,0 +1,45 @@
+word: ferðamenn
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ferðamaður
+      nominative_translation: tourists
+      nominative_sound: islex/028/028_79.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ferðamann
+      dative: ferðamanni
+      genitive: ferðamanns
+    with article:
+      nominative: ferðamaðurinn
+      nominative_translation: the tourists
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ferðamanninn
+      dative: ferðamanninum
+      genitive: ferðamannsins
+  plural:
+    no article:
+      nominative: ferðamenn
+      nominative_translation: tourists
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ferðamenn
+      dative: ferðamönnum
+      genitive: ferðamanna
+    with article:
+      nominative: ferðamennirnir
+      nominative_translation: the tourists
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ferðamennina
+      dative: ferðamönnunum
+      genitive: ferðamannanna
+id: 939
+gender: masculine
+synonyms: túristi
+synonyms_sound: islex/267/267_99.mp3

@@ -1,0 +1,43 @@
+word: málari
+level: 43
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: málari
+      nominative_translation: a painter
+      nominative_sound: islex/232/232_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: málara
+      dative: málara
+      genitive: málara
+    with article:
+      nominative: málarinn
+      nominative_translation: the painter
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: málarann
+      dative: málaranum
+      genitive: málarans
+  plural:
+    no article:
+      nominative: málarar
+      nominative_translation: painters
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: málara
+      dative: málurum
+      genitive: málara
+    with article:
+      nominative: málararnir
+      nominative_translation: the painters
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: málarana
+      dative: málurunum
+      genitive: málaranna
+id: 1375
+gender: masculine

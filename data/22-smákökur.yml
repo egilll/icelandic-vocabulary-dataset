@@ -1,0 +1,19 @@
+word: smákökur
+level: 22
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: smákökur
+      nominative_translation: cookies
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+      nominative_literal: small-cakes
+    with article:
+      nominative: smákökurnar
+      nominative_translation: the cookies
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1684
+gender: feminine

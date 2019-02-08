@@ -1,0 +1,25 @@
+word: smakka
+level: 27
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] smakka'
+    infinitive_translation: to have a taste (of food)
+    infinitive_sound: islex/111/111_98.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] smakkaði'
+          1st person_translation: I had a taste (of food)
+          1st person_teach: true
+        plural:
+          1st person: '[við] smökkuðum'
+          1st person_translation: we had a taste (of food)
+          1st person_teach: true
+  imperative:
+    active voice:
+      singular: smakkaðu!
+      singular_translation: have a taste (of food)!¹
+      singular_teach: true
+id: 2357

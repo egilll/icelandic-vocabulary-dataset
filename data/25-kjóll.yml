@@ -1,0 +1,43 @@
+word: kjóll
+level: 25
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kjóll
+      nominative_translation: a dress
+      nominative_sound: islex/336/336_90.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kjól
+      dative: kjól
+      genitive: kjóls
+    with article:
+      nominative: kjóllinn
+      nominative_translation: the dress
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kjólinn
+      dative: kjólnum
+      genitive: kjólsins
+  plural:
+    no article:
+      nominative: kjólar
+      nominative_translation: dresses
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kjóla
+      dative: kjólum
+      genitive: kjóla
+    with article:
+      nominative: kjólarnir
+      nominative_translation: the dresses
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kjólana
+      dative: kjólunum
+      genitive: kjólanna
+id: 1241
+gender: masculine

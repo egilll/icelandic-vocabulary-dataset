@@ -1,0 +1,44 @@
+word: viðtal
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: viðtal
+      nominative_translation: an interview
+      nominative_sound: islex/046/046_07.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: viðtal
+      accusative_sound: islex/046/046_07.mp3
+      dative: viðtali
+      genitive: viðtals
+    with article:
+      nominative: viðtalið
+      nominative_translation: the interview
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: viðtalið
+      dative: viðtalinu
+      genitive: viðtalsins
+  plural:
+    no article:
+      nominative: viðtöl
+      nominative_translation: interviews
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: viðtöl
+      dative: viðtölum
+      genitive: viðtala
+    with article:
+      nominative: viðtölin
+      nominative_translation: the interviews
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: viðtölin
+      dative: viðtölunum
+      genitive: viðtalanna
+id: 1922
+gender: neuter

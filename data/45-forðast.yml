@@ -1,0 +1,10 @@
+word: forðast
+level: 45
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] forðast'
+    infinitive_translation: to avoid
+    infinitive_sound: islex/323/323_98.mp3
+    infinitive_teach: true
+id: 2110

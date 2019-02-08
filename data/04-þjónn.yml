@@ -1,0 +1,25 @@
+word: þjónn
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þjónn
+      nominative_translation: 'a waiter, a server'
+      nominative_sound: islex/086/086_90.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þjón
+      dative: þjóni
+      genitive: þjóns
+    with article:
+      nominative: þjónninn
+      nominative_translation: 'the waiter, the server'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þjóninn
+      dative: þjóninum
+      genitive: þjónsins
+id: 1957
+gender: masculine

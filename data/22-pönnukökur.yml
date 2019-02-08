@@ -1,0 +1,23 @@
+word: pönnukökur
+level: 22
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: pönnukökur
+      nominative_translation: pancakes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pönnukökur
+      dative: pönnukökum
+      genitive: pönnukakna
+      genitive_alternative:
+        - pönnukaka
+    with article:
+      nominative: pönnukökurnar
+      nominative_translation: the pancakes
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1517
+gender: feminine

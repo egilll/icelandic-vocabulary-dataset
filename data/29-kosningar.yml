@@ -1,0 +1,46 @@
+word: kosningar
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kosning
+      nominative_translation: an election
+      nominative_sound: islex/211/211_61.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kosningu
+      dative: kosningu
+      genitive: kosningar
+      genitive_sound: islex/065/065_23.mp3
+    with article:
+      nominative: kosningin
+      nominative_translation: the election
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kosninguna
+      dative: kosningunni
+      genitive: kosningarinnar
+  plural:
+    no article:
+      nominative: kosningar
+      nominative_translation: elections
+      nominative_sound: islex/065/065_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kosningar
+      accusative_sound: islex/065/065_23.mp3
+      dative: kosningum
+      genitive: kosninga
+    with article:
+      nominative: kosningarnar
+      nominative_translation: the elections
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kosningarnar
+      dative: kosningunum
+      genitive: kosninganna
+id: 1264
+gender: feminine

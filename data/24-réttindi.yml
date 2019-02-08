@@ -1,0 +1,23 @@
+word: réttindi
+level: 24
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: réttindi
+      nominative_translation: 'rights; permits, licenses'
+      nominative_sound: islex/216/216_11.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: réttindi
+      accusative_sound: islex/216/216_11.mp3
+      dative: réttindum
+      genitive: réttinda
+    with article:
+      nominative: réttindin
+      nominative_translation: 'the rights; the permits, the licenses'
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1556
+gender: neuter

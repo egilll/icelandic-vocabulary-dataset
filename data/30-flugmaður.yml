@@ -1,0 +1,43 @@
+word: flugmaður
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: flugmaður
+      nominative_translation: a pilot
+      nominative_sound: islex/332/332_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flugmann
+      dative: flugmanni
+      genitive: flugmanns
+    with article:
+      nominative: flugmaðurinn
+      nominative_translation: the pilot
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flugmanninn
+      dative: flugmanninum
+      genitive: flugmannsins
+  plural:
+    no article:
+      nominative: flugmenn
+      nominative_translation: pilots
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flugmenn
+      dative: flugmönnum
+      genitive: flugmanna
+    with article:
+      nominative: flugmennirnir
+      nominative_translation: the pilots
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flugmennina
+      dative: flugmönnunum
+      genitive: flugmannanna
+id: 963
+gender: masculine

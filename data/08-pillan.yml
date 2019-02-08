@@ -1,0 +1,15 @@
+word: pillan
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: pillan
+      nominative_translation: the birth control pill
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pilluna
+      dative: pillunni
+      genitive: pillunnar
+id: 1499
+gender: feminine

@@ -1,0 +1,25 @@
+word: flíspeysa
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: flíspeysa
+      nominative_translation: a fleece sweater
+      nominative_sound: islex/206/206_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flíspeysu
+      dative: flíspeysu
+      genitive: flíspeysu
+    with article:
+      nominative: flíspeysan
+      nominative_translation: the fleece sweater
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flíspeysuna
+      dative: flíspeysunni
+      genitive: flíspeysunnar
+id: 959
+gender: feminine

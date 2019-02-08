@@ -1,0 +1,29 @@
+word: skóli
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skóli
+      nominative_translation: a school
+      nominative_sound: islex/186/186_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skóla
+      accusative_sound: islex/033/033_74.mp3
+      dative: skóla
+      dative_sound: islex/033/033_74.mp3
+      genitive: skóla
+      genitive_sound: islex/033/033_74.mp3
+    with article:
+      nominative: skólinn
+      nominative_translation: the school
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skólann
+      dative: skólanum
+      genitive: skólans
+id: 1657
+gender: masculine
+recognizable: '1'

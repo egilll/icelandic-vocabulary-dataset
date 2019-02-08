@@ -1,0 +1,59 @@
+word: keyra
+level: 18
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] keyra'
+    infinitive_translation: to drive
+    infinitive_sound: islex/328/328_83.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] keyri'
+          1st person_translation: I drive
+          1st person_sound: islex/098/098_35.mp3
+          1st person_teach: true
+          2nd person: '[þú] keyrir'
+          2nd person_translation: you¹ drive
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] keyrir'
+          3rd person_translation: he/she/it drives
+          3rd person_teach: true
+        plural:
+          1st person: '[við] keyrum'
+          1st person_translation: we drive
+          1st person_teach: true
+          2nd person: '[þið] keyrið'
+          2nd person_translation: you² drive
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] keyra'
+          3rd person_translation: they drive
+          3rd person_sound: islex/328/328_83.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] keyrði'
+          1st person_translation: I drove
+          1st person_teach: true
+          2nd person: '[þú] keyrðir'
+          2nd person_translation: you¹ drove
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] keyrði'
+          3rd person_translation: he/she/it drove
+          3rd person_teach: true
+        plural:
+          1st person: '[við] keyrðum'
+          1st person_translation: we drove
+          1st person_teach: true
+          2nd person: '[þið] keyrðuð'
+          2nd person_translation: you² drove
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] keyrðu'
+          3rd person_translation: they drove
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] keyrt'
+    active voice_translation: I have driven
+    active voice_teach: true
+id: 2182

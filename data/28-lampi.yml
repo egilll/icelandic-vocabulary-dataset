@@ -1,0 +1,43 @@
+word: lampi
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lampi
+      nominative_translation: a lamp
+      nominative_sound: islex/481/481_33.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lampa
+      dative: lampa
+      genitive: lampa
+    with article:
+      nominative: lampinn
+      nominative_translation: the lamp
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lampann
+      dative: lampanum
+      genitive: lampans
+  plural:
+    no article:
+      nominative: lampar
+      nominative_translation: lamps
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lampa
+      dative: lömpum
+      genitive: lampa
+    with article:
+      nominative: lamparnir
+      nominative_translation: the lamps
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lampana
+      dative: lömpunum
+      genitive: lampanna
+id: 1293
+gender: masculine

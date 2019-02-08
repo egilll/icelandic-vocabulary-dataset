@@ -1,0 +1,21 @@
+word: að þykjast
+level: 35
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] þykja'
+    infinitive_translation: to pretend
+    infinitive_sound: islex/401/401_26.mp3
+    infinitive_teach: true
+  middle voice:
+    infinitive: '[að] þykjast'
+    infinitive_translation: to pretend
+    infinitive_sound: islex/078/078_50.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] þóttist'
+          1st person_translation: I pretended
+          1st person_teach: true
+id: 2016

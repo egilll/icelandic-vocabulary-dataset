@@ -1,0 +1,46 @@
+word: eyra
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: eyra
+      nominative_translation: an ear
+      nominative_sound: islex/394/394_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: eyra
+      accusative_sound: islex/394/394_96.mp3
+      dative: eyra
+      dative_sound: islex/394/394_96.mp3
+      genitive: eyra
+      genitive_sound: islex/394/394_96.mp3
+    with article:
+      nominative: eyrað
+      nominative_translation: the ear
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: eyrað
+      dative: eyranu
+      genitive: eyrans
+  plural:
+    no article:
+      nominative: eyru
+      nominative_translation: ears
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: eyru
+      dative: eyrum
+      genitive: eyrna
+    with article:
+      nominative: eyrun
+      nominative_translation: the ears
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: eyrun
+      dative: eyrunum
+      genitive: eyrnanna
+id: 921
+gender: neuter

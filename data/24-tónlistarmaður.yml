@@ -1,0 +1,14 @@
+word: tónlistarmaður
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tónlistarmaður
+      nominative_translation: a musician
+      nominative_sound: islex/461/461_22.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1847
+gender: masculine

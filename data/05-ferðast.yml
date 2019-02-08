@@ -1,0 +1,62 @@
+word: ferðast
+level: 5
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] ferðast'
+    infinitive_translation: to travel
+    infinitive_sound: islex/214/214_92.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] ferðast'
+          1st person_translation: I travel
+          1st person_sound: islex/214/214_92.mp3
+          1st person_teach: true
+          2nd person: '[þú] ferðast'
+          2nd person_translation: you¹ travel
+          2nd person_sound: islex/214/214_92.mp3
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] ferðast'
+          3rd person_translation: he/she/it travels
+          3rd person_sound: islex/214/214_92.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] ferðumst'
+          1st person_translation: we travel
+          1st person_teach: true
+          2nd person: '[þið] ferðist'
+          2nd person_translation: you² travel
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] ferðast'
+          3rd person_translation: they travel
+          3rd person_sound: islex/214/214_92.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] ferðaðist'
+          1st person_translation: I traveled
+          1st person_teach: true
+          2nd person: '[þú] ferðaðist'
+          2nd person_translation: you¹ traveled
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] ferðaðist'
+          3rd person_translation: he/she/it traveled
+          3rd person_teach: true
+        plural:
+          1st person: '[við] ferðuðumst'
+          1st person_translation: we traveled
+          1st person_teach: true
+          2nd person: '[þið] ferðuðust'
+          2nd person_translation: you² traveled
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] ferðuðust'
+          3rd person_translation: they traveled
+          3rd person_teach: true
+  supine:
+    middle voice: '[ég hef] ferðast'
+    middle voice_translation: I have traveled
+    middle voice_sound: islex/214/214_92.mp3
+    middle voice_teach: true
+id: 2097

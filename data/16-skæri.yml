@@ -1,0 +1,26 @@
+word: skæri
+level: 16
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: skæri
+      nominative_translation: scissors
+      nominative_sound: islex/108/108_03.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skæri
+      accusative_sound: islex/108/108_03.mp3
+      dative: skærum
+      genitive: skæra
+    with article:
+      nominative: skærin
+      nominative_translation: the scissors
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skærin
+      dative: skærunum
+      genitive: skæranna
+id: 1631
+gender: neuter

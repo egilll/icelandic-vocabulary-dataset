@@ -1,0 +1,55 @@
+word: sparka
+level: 25
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] sparka'
+    infinitive_translation: to kick
+    infinitive_sound: islex/133/133_12.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] sparka'
+          1st person_translation: I kick
+          1st person_sound: islex/133/133_12.mp3
+          1st person_teach: true
+          2nd person: '[þú] sparkar'
+          2nd person_translation: you¹ kick
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sparkar'
+          3rd person_translation: he/she/it kicks
+          3rd person_teach: true
+        plural:
+          1st person: '[við] spörkum'
+          1st person_translation: we kick
+          1st person_teach: true
+          2nd person: '[þið] sparkið'
+          2nd person_translation: you² kick
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sparka'
+          3rd person_translation: they kick
+          3rd person_sound: islex/133/133_12.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] sparkaði'
+          1st person_translation: I kicked
+          1st person_teach: true
+          2nd person: '[þú] sparkaðir'
+          2nd person_translation: you¹ kicked
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sparkaði'
+          3rd person_translation: he/she/it kicked
+          3rd person_teach: true
+        plural:
+          1st person: '[við] spörkuðum'
+          1st person_translation: we kicked
+          1st person_teach: true
+          2nd person: '[þið] spörkuðuð'
+          2nd person_translation: you² kicked
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] spörkuðu'
+          3rd person_translation: they kicked
+          3rd person_teach: true
+id: 2366

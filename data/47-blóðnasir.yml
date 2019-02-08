@@ -1,0 +1,23 @@
+word: blóðnasir
+level: 47
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: blóðnasir
+      nominative_translation: nosebleeds
+      nominative_sound: islex/389/389_70.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blóðnasir
+      accusative_sound: islex/389/389_70.mp3
+      dative: blóðnösum
+      genitive: blóðnasa
+    with article:
+      nominative: blóðnasirnar
+      nominative_translation: the nosebleeds
+      nominative_teach: false
+      nominative_teachtable: false
+id: 814
+gender: feminine

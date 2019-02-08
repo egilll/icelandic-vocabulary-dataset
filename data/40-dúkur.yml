@@ -1,0 +1,27 @@
+word: dúkur
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dúkur
+      nominative_translation: a tablecloth
+      nominative_sound: islex/061/061_54.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dúk
+      dative: dúk
+      dative_alternative:
+        - dúki
+      genitive: dúks
+    with article:
+      nominative: dúkurinn
+      nominative_translation: the tablecloth
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dúkinn
+      dative: dúknum
+      genitive: dúksins
+id: 887
+gender: masculine

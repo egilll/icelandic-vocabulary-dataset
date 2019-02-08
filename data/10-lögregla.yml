@@ -1,0 +1,25 @@
+word: lögregla
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lögregla
+      nominative_translation: police
+      nominative_sound: islex/321/321_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lögreglu
+      dative: lögreglu
+      genitive: lögreglu
+    with article:
+      nominative: lögreglan
+      nominative_translation: the police
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lögregluna
+      dative: lögreglunni
+      genitive: lögreglunnar
+id: 1353
+gender: feminine

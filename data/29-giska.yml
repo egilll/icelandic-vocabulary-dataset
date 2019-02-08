@@ -1,0 +1,65 @@
+word: giska
+level: 29
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] giska'
+    infinitive_translation: to guess
+    infinitive_sound: islex/177/177_12.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] giska'
+          1st person_translation: I guess
+          1st person_sound: islex/177/177_12.mp3
+          1st person_teach: true
+          2nd person: '[þú] giskar'
+          2nd person_translation: you¹ guess
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] giskar'
+          3rd person_translation: he/she/it guesses
+          3rd person_teach: true
+        plural:
+          1st person: '[við] giskum'
+          1st person_translation: we guess
+          1st person_teach: true
+          2nd person: '[þið] giskið'
+          2nd person_translation: you² guess
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] giska'
+          3rd person_translation: they guess
+          3rd person_sound: islex/177/177_12.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] giskaði'
+          1st person_translation: I guessed
+          1st person_teach: true
+          2nd person: '[þú] giskaðir'
+          2nd person_translation: you¹ guessed
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] giskaði'
+          3rd person_translation: he/she/it guessed
+          3rd person_teach: true
+        plural:
+          1st person: '[við] giskuðum'
+          1st person_translation: we guessed
+          1st person_teach: true
+          2nd person: '[þið] giskuðuð'
+          2nd person_translation: you² guessed
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] giskuðu'
+          3rd person_translation: they guessed
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] giskað'
+    active voice_translation: I have guessed
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: giskaðu!
+      singular_translation: guess!¹
+      singular_teach: true
+      singular_note: It's also possible to use "gettu!"
+id: 2127

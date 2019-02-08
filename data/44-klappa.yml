@@ -1,0 +1,10 @@
+word: klappa
+level: 44
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] klappa'
+    infinitive_translation: to clap
+    infinitive_sound: islex/442/442_45.mp3
+    infinitive_teach: true
+id: 2185

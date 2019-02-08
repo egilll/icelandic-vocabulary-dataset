@@ -1,0 +1,24 @@
+word: aðstoð
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: aðstoð
+      nominative_translation: assistance
+      nominative_sound: islex/200/200_86.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: aðstoð
+      accusative_sound: islex/200/200_86.mp3
+      dative: aðstoð
+      dative_sound: islex/200/200_86.mp3
+      genitive: aðstoðar
+    with article:
+      nominative: aðstoðin
+      nominative_translation: the assistance
+      nominative_teach: true
+      nominative_teachtable: false
+id: 691
+gender: feminine

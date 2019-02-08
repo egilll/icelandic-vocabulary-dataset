@@ -1,0 +1,19 @@
+word: sumarfrí
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sumarfrí
+      nominative_translation: summer vacation
+      nominative_sound: islex/027/027_13.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: sumarfríið
+      nominative_translation: the summer vacation
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1776
+gender: neuter

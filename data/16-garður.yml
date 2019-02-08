@@ -1,0 +1,26 @@
+word: garður
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: garður
+      nominative_translation: a garden
+      nominative_sound: islex/173/173_30.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: garð
+      dative: garði
+      dative_sound: islex/266/266_22.mp3
+      genitive: garðs
+    with article:
+      nominative: garðurinn
+      nominative_translation: the garden
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: garðinn
+      dative: garðinum
+      genitive: garðsins
+id: 1011
+gender: masculine

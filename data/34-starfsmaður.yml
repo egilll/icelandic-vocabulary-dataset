@@ -1,0 +1,43 @@
+word: starfsmaður
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: starfsmaður
+      nominative_translation: an employee
+      nominative_sound: islex/153/153_69.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: starfsmann
+      dative: starfsmanni
+      genitive: starfsmanns
+    with article:
+      nominative: starfsmaðurinn
+      nominative_translation: the employee
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: starfsmanninn
+      dative: starfsmanninum
+      genitive: starfsmannsins
+  plural:
+    no article:
+      nominative: starfsmenn
+      nominative_translation: employees
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: starfsmenn
+      dative: starfsmönnum
+      genitive: starfsmanna
+    with article:
+      nominative: starfsmennirnir
+      nominative_translation: the employees
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: starfsmennina
+      dative: starfsmönnunum
+      genitive: starfsmannanna
+id: 1736
+gender: masculine

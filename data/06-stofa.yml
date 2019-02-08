@@ -1,0 +1,44 @@
+word: stofa
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stofa
+      nominative_translation: a living room
+      nominative_sound: islex/301/301_97.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stofu
+      dative: stofu
+      genitive: stofu
+    with article:
+      nominative: stofan
+      nominative_translation: the living room
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stofuna
+      dative: stofunni
+      genitive: stofunnar
+  plural:
+    no article:
+      nominative: stofur
+      nominative_translation: living rooms
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stofur
+      dative: stofum
+      genitive: stofa
+      genitive_sound: islex/301/301_97.mp3
+    with article:
+      nominative: stofurnar
+      nominative_translation: the living rooms
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stofurnar
+      dative: stofunum
+      genitive: stofanna
+id: 1750
+gender: feminine

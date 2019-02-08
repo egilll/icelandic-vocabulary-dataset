@@ -1,0 +1,19 @@
+word: séns
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: séns
+      nominative_translation: a chance
+      nominative_sound: islex/015/015_39.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: sénsinn
+      nominative_translation: the chance
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1609
+gender: masculine

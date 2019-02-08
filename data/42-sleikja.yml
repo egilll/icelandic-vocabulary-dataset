@@ -1,0 +1,32 @@
+word: sleikja
+level: 42
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] sleikja'
+    infinitive_translation: to lick
+    infinitive_sound: islex/312/312_74.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] sleikti'
+          1st person_translation: I licked
+          1st person_teach: true
+          2nd person: '[þú] sleiktir'
+          2nd person_translation: you¹ licked
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sleikti'
+          3rd person_translation: he/she/it licked
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sleiktum'
+          1st person_translation: we licked
+          1st person_teach: true
+          2nd person: '[þið] sleiktuð'
+          2nd person_translation: you² licked
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sleiktu'
+          3rd person_translation: they licked
+          3rd person_teach: true
+id: 2354

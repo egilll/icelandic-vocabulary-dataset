@@ -1,0 +1,43 @@
+word: hæll
+level: 37
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hæll
+      nominative_translation: heel
+      nominative_sound: islex/248/248_22.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: hællinn
+      nominative_translation: the heel
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hælinn
+      dative: hælnum
+      genitive: hælsins
+  plural:
+    no article:
+      nominative: hælar
+      nominative_translation: heels
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hæla
+      accusative_sound: islex/186/186_39.mp3
+      dative: hælum
+      genitive: hæla
+      genitive_sound: islex/186/186_39.mp3
+    with article:
+      nominative: hælarnir
+      nominative_translation: the heels
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hælana
+      dative: hælunum
+      genitive: hælanna
+id: 1069
+gender: masculine
+recognizable: '1'

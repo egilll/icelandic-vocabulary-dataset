@@ -1,0 +1,26 @@
+word: norðurljós
+level: 25
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: norðurljós
+      nominative_translation: northern lights
+      nominative_sound: islex/028/028_53.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: norðurljós
+      accusative_sound: islex/028/028_53.mp3
+      dative: norðurljósum
+      genitive: norðurljósa
+    with article:
+      nominative: norðurljósin
+      nominative_translation: the northern lights
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: norðurljósin
+      dative: norðurljósunum
+      genitive: norðurljósanna
+id: 1453
+gender: neuter

@@ -1,0 +1,34 @@
+word: hár
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hár
+      nominative_translation: hair
+      nominative_sound: islex/093/093_63.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hár
+      accusative_sound: islex/093/093_63.mp3
+      dative: hári
+      genitive: hárs
+    with article:
+      nominative: hárið
+      nominative_translation: the hair
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hárið
+      dative: hárinu
+      genitive: hársins
+  plural:
+    with article:
+      nominative: hárin
+      nominative_translation: the hairs
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1090
+gender: neuter
+never_show_with: hátt
+recognizable: '1'

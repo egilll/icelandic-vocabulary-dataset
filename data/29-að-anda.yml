@@ -1,0 +1,15 @@
+word: að anda
+level: 29
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] anda'
+    infinitive_translation: to breathe
+    infinitive_sound: islex/079/079_98.mp3
+    infinitive_teach: true
+  imperative:
+    active voice:
+      singular: andaðu!
+      singular_translation: breathe!¹
+      singular_teach: true
+id: 1972

@@ -1,0 +1,44 @@
+word: pottur
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: pottur
+      nominative_translation: a pot
+      nominative_sound: islex/015/015_03.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pott
+      dative: potti
+      genitive: potts
+    with article:
+      nominative: potturinn
+      nominative_translation: the pot
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pottinn
+      dative: pottinum
+      genitive: pottsins
+  plural:
+    no article:
+      nominative: pottar
+      nominative_translation: pots
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: potta
+      dative: pottum
+      genitive: potta
+    with article:
+      nominative: pottarnir
+      nominative_translation: the pots
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pottana
+      dative: pottunum
+      genitive: pottanna
+id: 1520
+gender: masculine
+recognizable: '1'

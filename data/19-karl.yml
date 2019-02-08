@@ -1,0 +1,44 @@
+word: karl
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: karl
+      nominative_translation: 'a man, a male'
+      nominative_sound: islex/287/287_99.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: karl
+      accusative_sound: islex/287/287_99.mp3
+      dative: karli
+      genitive: karls
+    with article:
+      nominative: karlinn
+      nominative_translation: 'the man, the male'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: karlinn
+      dative: karlinum
+      genitive: karlsins
+  plural:
+    no article:
+      nominative: karlar
+      nominative_translation: 'men, males'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: karla
+      dative: körlum
+      genitive: karla
+    with article:
+      nominative: karlarnir
+      nominative_translation: 'the men, the males'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: karlana
+      dative: körlunum
+      genitive: karlanna
+id: 1222
+gender: masculine

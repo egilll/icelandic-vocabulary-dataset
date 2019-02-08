@@ -1,0 +1,26 @@
+word: gróðurhús
+level: 39
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gróðurhús
+      nominative_translation: a greenhouse
+      nominative_sound: islex/302/302_28.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gróðurhús
+      accusative_sound: islex/302/302_28.mp3
+      dative: gróðurhúsi
+      genitive: gróðurhúss
+    with article:
+      nominative: gróðurhúsið
+      nominative_translation: the greenhouse
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gróðurhúsið
+      dative: gróðurhúsinu
+      genitive: gróðurhússins
+id: 1053
+gender: neuter

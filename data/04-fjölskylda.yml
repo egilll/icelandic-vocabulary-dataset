@@ -1,0 +1,43 @@
+word: fjölskylda
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fjölskylda
+      nominative_translation: a family
+      nominative_sound: islex/315/315_63.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fjölskyldu
+      dative: fjölskyldu
+      genitive: fjölskyldu
+    with article:
+      nominative: fjölskyldan
+      nominative_translation: the family
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fjölskylduna
+      dative: fjölskyldunni
+      genitive: fjölskyldunnar
+  plural:
+    no article:
+      nominative: fjölskyldur
+      nominative_translation: families
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fjölskyldur
+      dative: fjölskyldum
+      genitive: fjölskyldna
+    with article:
+      nominative: fjölskyldurnar
+      nominative_translation: the families
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fjölskyldurnar
+      dative: fjölskyldunum
+      genitive: fjölskyldnanna
+id: 953
+gender: feminine

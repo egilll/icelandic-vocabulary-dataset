@@ -1,0 +1,26 @@
+word: jól
+level: 25
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: jól
+      nominative_translation: christmas
+      nominative_sound: islex/145/145_45.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: jól
+      accusative_sound: islex/145/145_45.mp3
+      dative: jólum
+      genitive: jóla
+    with article:
+      nominative: jólin
+      nominative_translation: the christmas
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: jólin
+      dative: jólunum
+      genitive: jólanna
+id: 1201
+gender: neuter

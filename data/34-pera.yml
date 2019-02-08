@@ -1,0 +1,44 @@
+word: pera
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: pera
+      nominative_translation: a pear
+      nominative_sound: islex/289/289_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: peru
+      dative: peru
+      genitive: peru
+    with article:
+      nominative: peran
+      nominative_translation: the pear
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: peruna
+      dative: perunni
+      genitive: perunnar
+  plural:
+    no article:
+      nominative: perur
+      nominative_translation: pears
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: perur
+      dative: perum
+      genitive: pera
+      genitive_sound: islex/289/289_27.mp3
+    with article:
+      nominative: perurnar
+      nominative_translation: the pears
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: perurnar
+      dative: perunum
+      genitive: peranna
+id: 1494
+gender: feminine

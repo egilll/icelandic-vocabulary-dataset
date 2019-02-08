@@ -1,0 +1,43 @@
+word: söngvari
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: söngvari
+      nominative_translation: a singer
+      nominative_sound: islex/076/076_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: söngvara
+      dative: söngvara
+      genitive: söngvara
+    with article:
+      nominative: söngvarinn
+      nominative_translation: the singer
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: söngvarann
+      dative: söngvaranum
+      genitive: söngvarans
+  plural:
+    no article:
+      nominative: söngvarar
+      nominative_translation: singers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: söngvara
+      dative: söngvurum
+      genitive: söngvara
+    with article:
+      nominative: söngvararnir
+      nominative_translation: the singers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: söngvarana
+      dative: söngvurunum
+      genitive: söngvaranna
+id: 1713
+gender: masculine

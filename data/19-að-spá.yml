@@ -1,0 +1,10 @@
+word: að spá
+level: 19
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] spá'
+    infinitive_translation: to wonder; to predict
+    infinitive_sound: islex/036/036_03.mp3
+    infinitive_teach: true
+id: 1998

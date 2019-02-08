@@ -1,0 +1,16 @@
+word: öskra
+level: 44
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] öskra'
+    infinitive_translation: 'to scream, to yell'
+    infinitive_sound: islex/037/037_55.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] öskraði'
+          1st person_translation: 'I screamed, I yelled'
+          1st person_teach: true
+id: 2267

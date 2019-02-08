@@ -1,0 +1,31 @@
+word: dagskrá
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dagskrá
+      nominative_translation: a schedule
+      nominative_sound: islex/296/296_57.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dagskrá
+      accusative_sound: islex/296/296_57.mp3
+      dative: dagskrá
+      dative_sound: islex/296/296_57.mp3
+      genitive: dagskrár
+      genitive_alternative:
+        - dagskráar
+    with article:
+      nominative: dagskráin
+      nominative_translation: the schedule
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dagskrána
+      dative: dagskránni
+      genitive: dagskrárinnar
+      genitive_alternative:
+        - dagskráarinnar
+id: 863
+gender: feminine

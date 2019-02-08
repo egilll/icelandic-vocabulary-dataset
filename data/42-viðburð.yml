@@ -1,0 +1,37 @@
+word: viðburð
+level: 42
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: viðburður
+      nominative_translation: an event
+      nominative_sound: islex/453/453_17.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: viðburð
+      dative: viðburði
+      genitive: viðburðar
+    with article:
+      nominative: viðburðurinn
+      nominative_translation: the event
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: viðburðinn
+      dative: viðburðinum
+      genitive: viðburðarins
+  plural:
+    no article:
+      nominative: viðburðir
+      nominative_translation: events
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: viðburðirnir
+      nominative_translation: the events
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1920
+gender: masculine

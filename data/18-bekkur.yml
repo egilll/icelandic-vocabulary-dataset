@@ -1,0 +1,47 @@
+word: bekkur
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bekkur
+      nominative_translation: a class; a bench
+      nominative_sound: islex/227/227_42.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bekk
+      dative: bekk
+      genitive: bekkjar
+      genitive_alternative:
+        - bekks
+    with article:
+      nominative: bekkurinn
+      nominative_translation: the class; the bench
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bekkinn
+      dative: bekknum
+      genitive: bekkjarins
+      genitive_alternative:
+        - bekksins
+  plural:
+    no article:
+      nominative: bekkir
+      nominative_translation: classes; benches
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bekki
+      dative: bekkjum
+      genitive: bekkja
+    with article:
+      nominative: bekkirnir
+      nominative_translation: the classes; the benches
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bekkina
+      dative: bekkjunum
+      genitive: bekkjanna
+id: 786
+gender: masculine

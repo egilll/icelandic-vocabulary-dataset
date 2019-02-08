@@ -1,0 +1,26 @@
+word: skilaboð
+level: 9
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: skilaboð
+      nominative_translation: messages
+      nominative_sound: islex/196/196_37.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skilaboð
+      accusative_sound: islex/196/196_37.mp3
+      dative: skilaboðum
+      genitive: skilaboða
+    with article:
+      nominative: skilaboðin
+      nominative_translation: the messages
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skilaboðin
+      dative: skilaboðunum
+      genitive: skilaboðanna
+id: 1645
+gender: neuter

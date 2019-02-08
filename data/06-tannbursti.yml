@@ -1,0 +1,28 @@
+word: tannbursti
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tannbursti
+      nominative_translation: a toothbrush
+      nominative_sound: islex/087/087_63.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tannbursta
+      accusative_sound: islex/344/344_80.mp3
+      dative: tannbursta
+      dative_sound: islex/344/344_80.mp3
+      genitive: tannbursta
+      genitive_sound: islex/344/344_80.mp3
+    with article:
+      nominative: tannburstinn
+      nominative_translation: the toothbrush
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tannburstann
+      dative: tannburstanum
+      genitive: tannburstans
+id: 1815
+gender: masculine

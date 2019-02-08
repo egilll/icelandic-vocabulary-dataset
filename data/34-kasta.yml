@@ -1,0 +1,10 @@
+word: kasta
+level: 34
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] kasta'
+    infinitive_translation: to throw an object
+    infinitive_sound: islex/098/098_18.mp3
+    infinitive_teach: true
+id: 2178

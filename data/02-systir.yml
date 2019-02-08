@@ -1,0 +1,43 @@
+word: systir
+level: 2
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: systir
+      nominative_translation: sister
+      nominative_sound: islex/059/059_43.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: systur
+      dative: systur
+      genitive: systur
+    with article:
+      nominative: systirin
+      nominative_translation: the sister
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: systurina
+      dative: systurinni
+      genitive: systurinnar
+  plural:
+    no article:
+      nominative: systur
+      nominative_translation: sisters
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: systur
+      dative: systrum
+      genitive: systra
+    with article:
+      nominative: systurnar
+      nominative_translation: the sisters
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: systurnar
+      dative: systrunum
+      genitive: systranna
+id: 1803
+gender: feminine

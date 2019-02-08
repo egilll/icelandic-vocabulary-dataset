@@ -1,0 +1,45 @@
+word: gjöf
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gjöf
+      nominative_translation: 'a gift, a present'
+      nominative_sound: islex/046/046_28.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gjöf
+      accusative_sound: islex/046/046_28.mp3
+      dative: gjöf
+      dative_sound: islex/046/046_28.mp3
+      genitive: gjafar
+    with article:
+      nominative: gjöfin
+      nominative_translation: 'the gift, the present'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gjöfina
+      dative: gjöfinni
+      genitive: gjafarinnar
+  plural:
+    no article:
+      nominative: gjafir
+      nominative_translation: 'gifts, presents'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gjafir
+      dative: gjöfum
+      genitive: gjafa
+    with article:
+      nominative: gjafirnar
+      nominative_translation: 'the gifts, the presents'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gjafirnar
+      dative: gjöfunum
+      genitive: gjafanna
+id: 1028
+gender: feminine

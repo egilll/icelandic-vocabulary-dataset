@@ -1,0 +1,23 @@
+word: áramót
+level: 11
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: áramót
+      nominative_translation: New Year
+      nominative_sound: islex/438/438_34.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: áramót
+      accusative_sound: islex/438/438_34.mp3
+      dative: áramótum
+      genitive: áramóta
+    with article:
+      nominative: áramótin
+      nominative_translation: the New Year
+      nominative_teach: false
+      nominative_teachtable: true
+id: 730
+gender: neuter

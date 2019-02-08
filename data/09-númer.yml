@@ -1,0 +1,26 @@
+word: númer
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: númer
+      nominative_translation: a number
+      nominative_sound: islex/293/293_54.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: númer
+      accusative_sound: islex/293/293_54.mp3
+      dative: númeri
+      genitive: númers
+    with article:
+      nominative: númerið
+      nominative_translation: the number
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: númerið
+      dative: númerinu
+      genitive: númersins
+id: 1458
+gender: neuter

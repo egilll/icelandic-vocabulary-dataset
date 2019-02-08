@@ -1,0 +1,27 @@
+word: baðherbergi
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: baðherbergi
+      nominative_translation: a bathroom
+      nominative_sound: islex/198/198_63.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: baðherbergi
+      accusative_sound: islex/198/198_63.mp3
+      dative: baðherbergi
+      dative_sound: islex/198/198_63.mp3
+      genitive: baðherbergis
+    with article:
+      nominative: baðherbergið
+      nominative_translation: the bathroom
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: baðherbergið
+      dative: baðherberginu
+      genitive: baðherbergisins
+id: 757
+gender: neuter

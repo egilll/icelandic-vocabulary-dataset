@@ -1,0 +1,47 @@
+word: bókahilla
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bókahilla
+      nominative_translation: a bookshelf
+      nominative_sound: islex/017/017_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bókahillu
+      dative: bókahillu
+      genitive: bókahillu
+    with article:
+      nominative: bókahillan
+      nominative_translation: the bookshelf
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bókahilluna
+      dative: bókahillunni
+      genitive: bókahillunnar
+  plural:
+    no article:
+      nominative: bókahillur
+      nominative_translation: bookshelves
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bókahillur
+      dative: bókahillum
+      genitive: bókahillna
+      genitive_alternative:
+        - bókahilla
+    with article:
+      nominative: bókahillurnar
+      nominative_translation: the bookshelves
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bókahillurnar
+      dative: bókahillunum
+      genitive: bókahillnanna
+      genitive_alternative:
+        - bókahillanna
+id: 824
+gender: feminine

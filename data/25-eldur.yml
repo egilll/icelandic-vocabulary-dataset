@@ -1,0 +1,26 @@
+word: eldur
+level: 25
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: eldur
+      nominative_translation: fire
+      nominative_sound: islex/337/337_80.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: eld
+      dative: eldi
+      dative_sound: islex/056/056_02.mp3
+      genitive: elds
+    with article:
+      nominative: eldurinn
+      nominative_translation: the fire
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: eldinn
+      dative: eldinum
+      genitive: eldsins
+id: 915
+gender: masculine

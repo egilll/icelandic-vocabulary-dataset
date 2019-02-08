@@ -1,0 +1,25 @@
+word: afsláttur
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: afsláttur
+      nominative_translation: a discount
+      nominative_sound: islex/099/099_19.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: afslátt
+      dative: afslætti
+      genitive: afsláttar
+    with article:
+      nominative: afslátturinn
+      nominative_translation: the discount
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: afsláttinn
+      dative: afslættinum
+      genitive: afsláttarins
+id: 704
+gender: masculine

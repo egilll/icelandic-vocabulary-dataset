@@ -1,0 +1,45 @@
+word: villa
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: villa
+      nominative_translation: an error
+      nominative_sound: islex/134/134_55.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: villu
+      dative: villu
+      genitive: villu
+    with article:
+      nominative: villan
+      nominative_translation: the error
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: villuna
+      dative: villunni
+      genitive: villunnar
+  plural:
+    no article:
+      nominative: villur
+      nominative_translation: errors
+      nominative_sound: islex/054/054_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: villur
+      accusative_sound: islex/054/054_96.mp3
+      dative: villum
+      genitive: villna
+    with article:
+      nominative: villurnar
+      nominative_translation: the errors
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: villurnar
+      dative: villunum
+      genitive: villnanna
+id: 1927
+gender: feminine

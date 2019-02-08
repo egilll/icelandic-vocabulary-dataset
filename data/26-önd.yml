@@ -1,0 +1,56 @@
+word: önd
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: önd
+      nominative_translation: a duck
+      nominative_sound: islex/308/308_26.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: önd
+      accusative_sound: islex/308/308_26.mp3
+      dative: önd
+      dative_sound: islex/308/308_26.mp3
+      genitive: andar
+    with article:
+      nominative: öndin
+      nominative_translation: the duck
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: öndina
+      dative: öndinni
+      genitive: andarinnar
+  plural:
+    no article:
+      nominative: endur
+      nominative_translation: ducks
+      nominative_sound: islex/213/213_59.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - andir
+      accusative: endur
+      accusative_sound: islex/213/213_59.mp3
+      accusative_alternative:
+        - andir
+      dative: öndum
+      genitive: anda
+      genitive_sound: islex/079/079_98.mp3
+    with article:
+      nominative: endurnar
+      nominative_translation: the ducks
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - andirnar
+      accusative: endurnar
+      accusative_alternative:
+        - andirnar
+      dative: öndunum
+      genitive: andanna
+id: 1470
+gender: feminine

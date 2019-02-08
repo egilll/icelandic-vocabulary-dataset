@@ -1,0 +1,27 @@
+word: mistök
+level: 24
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: mistök
+      nominative_translation: mistakes
+      nominative_sound: islex/026/026_88.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mistök
+      accusative_sound: islex/026/026_88.mp3
+      dative: mistökum
+      genitive: mistaka
+    with article:
+      nominative: mistökin
+      nominative_translation: the mistakes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: mistökin
+      dative: mistökunum
+      genitive: mistakanna
+id: 1409
+gender: neuter
+recognizable: '1'

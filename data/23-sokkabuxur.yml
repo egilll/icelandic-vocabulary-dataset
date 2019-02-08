@@ -1,0 +1,28 @@
+word: sokkabuxur
+level: 23
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: sokkabuxur
+      nominative_translation: tights
+      nominative_sound: islex/084/084_25.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: sock-pants
+      nominative_note: false
+      accusative: sokkabuxur
+      accusative_sound: islex/084/084_25.mp3
+      dative: sokkabuxum
+      genitive: sokkabuxna
+    with article:
+      nominative: sokkabuxurnar
+      nominative_translation: the tights
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sokkabuxurnar
+      dative: sokkabuxunum
+      genitive: sokkabuxnanna
+id: 1706
+gender: feminine

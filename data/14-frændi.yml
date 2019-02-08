@@ -1,0 +1,43 @@
+word: frændi
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: frændi
+      nominative_translation: uncle; cousin
+      nominative_sound: islex/023/023_56.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: frænda
+      dative: frænda
+      genitive: frænda
+    with article:
+      nominative: frændinn
+      nominative_translation: the uncle; the cousin
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: frændann
+      dative: frændanum
+      genitive: frændans
+  plural:
+    no article:
+      nominative: frændur
+      nominative_translation: uncles; cousins
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: frændur
+      dative: frændum
+      genitive: frænda
+    with article:
+      nominative: frændurnir
+      nominative_translation: the uncles; the cousins
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: frændurna
+      dative: frændunum
+      genitive: frændanna
+id: 983
+gender: masculine

@@ -1,0 +1,25 @@
+word: hlýrabolur
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hlýrabolur
+      nominative_translation: a tank top
+      nominative_sound: islex/145/145_31.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hlýrabol
+      dative: hlýrabol
+      genitive: hlýrabols
+    with article:
+      nominative: hlýrabolurinn
+      nominative_translation: the tank top
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hlýrabolinn
+      dative: hlýrabolnum
+      genitive: hlýrabolsins
+id: 1141
+gender: masculine

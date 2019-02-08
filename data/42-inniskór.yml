@@ -1,0 +1,25 @@
+word: inniskór
+level: 42
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: inniskór
+      nominative_translation: slippers
+      nominative_sound: islex/409/409_68.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: inniskó
+      dative: inniskóm
+      genitive: inniskóa
+    with article:
+      nominative: inniskórnir
+      nominative_translation: the slippers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: inniskóna
+      dative: inniskónum
+      genitive: inniskónna
+id: 1187
+gender: masculine

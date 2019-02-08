@@ -1,0 +1,12 @@
+word: steingleymdi
+level: 23
+grammatical_category: verb
+conjugation:
+  active voice:
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] steingleymdi'
+          1st person_translation: I totally forgot!
+          1st person_teach: true
+id: 2375

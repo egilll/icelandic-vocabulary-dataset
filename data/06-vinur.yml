@@ -1,0 +1,47 @@
+word: vinur
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vinur
+      nominative_translation: a friend
+      nominative_sound: islex/369/369_26.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vin
+      accusative_sound: islex/117/117_77.mp3
+      dative: vini
+      dative_alternative:
+        - vin
+      genitive: vinar
+    with article:
+      nominative: vinurinn
+      nominative_translation: the friend
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vininn
+      dative: vininum
+      genitive: vinarins
+  plural:
+    no article:
+      nominative: vinir
+      nominative_translation: friends
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vini
+      dative: vinum
+      genitive: vina
+      genitive_sound: islex/399/399_60.mp3
+    with article:
+      nominative: vinirnir
+      nominative_translation: the friends
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vinina
+      dative: vinunum
+      genitive: vinanna
+id: 1935
+gender: masculine

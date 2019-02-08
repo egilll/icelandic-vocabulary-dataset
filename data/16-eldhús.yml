@@ -1,0 +1,26 @@
+word: eldhús
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: eldhús
+      nominative_translation: a kitchen
+      nominative_sound: islex/476/476_97.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: eldhús
+      accusative_sound: islex/476/476_97.mp3
+      dative: eldhúsi
+      genitive: eldhúss
+    with article:
+      nominative: eldhúsið
+      nominative_translation: the kitchen
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: eldhúsið
+      dative: eldhúsinu
+      genitive: eldhússins
+id: 909
+gender: neuter

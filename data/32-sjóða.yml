@@ -1,0 +1,29 @@
+word: sjóða
+level: 32
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] sjóða'
+    infinitive_translation: to boil
+    infinitive_sound: islex/045/045_06.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] sýð'
+          1st person_translation: I boil
+          1st person_teach: true
+          2nd person: '[þú] sýður'
+          2nd person_translation: you¹ boil
+          2nd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] sauð'
+          1st person_translation: I boiled
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] soðið'
+    active voice_translation: I have boiled
+    active voice_teach: true
+id: 2324
+strong_verb_declension: true

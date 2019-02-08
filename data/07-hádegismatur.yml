@@ -1,0 +1,27 @@
+word: hádegismatur
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hádegismatur
+      nominative_translation: lunch
+      nominative_sound: islex/238/238_02.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: noon-food
+      accusative: hádegismat
+      dative: hádegismat
+      genitive: hádegismatar
+    with article:
+      nominative: hádegismaturinn
+      nominative_translation: the lunch
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_literal: noon-food
+      accusative: hádegismatinn
+      dative: hádegismatnum
+      genitive: hádegismatarins
+id: 1066
+gender: masculine

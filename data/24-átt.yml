@@ -1,0 +1,27 @@
+word: átt
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: átt
+      nominative_translation: direction
+      nominative_sound: islex/413/413_48.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: átt
+      accusative_sound: islex/413/413_48.mp3
+      dative: átt
+      dative_sound: islex/413/413_48.mp3
+      genitive: áttar
+    with article:
+      nominative: áttin
+      nominative_translation: the direction
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: áttina
+      dative: áttinni
+      genitive: áttarinnar
+id: 745
+gender: feminine

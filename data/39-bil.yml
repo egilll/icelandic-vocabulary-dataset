@@ -1,0 +1,26 @@
+word: bil
+level: 39
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bil
+      nominative_translation: a space
+      nominative_sound: islex/060/060_22.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bil
+      accusative_sound: islex/060/060_22.mp3
+      dative: bili
+      genitive: bils
+    with article:
+      nominative: bilið
+      nominative_translation: the space
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bilið
+      dative: bilinu
+      genitive: bilsins
+id: 793
+gender: neuter

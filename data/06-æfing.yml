@@ -1,0 +1,43 @@
+word: æfing
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: æfing
+      nominative_translation: an exercise; a training session
+      nominative_sound: islex/229/229_40.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: æfingu
+      dative: æfingu
+      genitive: æfingar
+    with article:
+      nominative: æfingin
+      nominative_translation: the exercise; the training session
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: æfinguna
+      dative: æfingunni
+      genitive: æfingarinnar
+  plural:
+    no article:
+      nominative: æfingar
+      nominative_translation: exercises; training sessions
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: æfingar
+      dative: æfingum
+      genitive: æfinga
+    with article:
+      nominative: æfingarnar
+      nominative_translation: the exercises; the training sessions
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: æfingarnar
+      dative: æfingunum
+      genitive: æfinganna
+id: 692
+gender: feminine

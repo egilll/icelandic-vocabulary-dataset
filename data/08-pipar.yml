@@ -1,0 +1,27 @@
+word: pipar
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: pipar
+      nominative_translation: pepper
+      nominative_sound: islex/071/071_74.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pipar
+      accusative_sound: islex/071/071_74.mp3
+      dative: pipar
+      dative_sound: islex/071/071_74.mp3
+      genitive: pipars
+    with article:
+      nominative: piparinn
+      nominative_translation: the pepper
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: piparinn
+      dative: piparnum
+      genitive: piparsins
+id: 1502
+gender: masculine

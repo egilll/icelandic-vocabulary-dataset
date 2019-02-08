@@ -1,0 +1,32 @@
+word: kvöld
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kvöld
+      nominative_translation: an evening
+      nominative_sound: islex/276/276_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kvöld
+      accusative_sound: islex/276/276_58.mp3
+      dative: kvöldi
+      genitive: kvölds
+    with article:
+      nominative: kvöldið
+      nominative_translation: the evening
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kvöldið
+      dative: kvöldinu
+      genitive: kvöldsins
+  plural:
+    with article:
+      nominative: kvöldin
+      nominative_translation: the evenings
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1279
+gender: neuter

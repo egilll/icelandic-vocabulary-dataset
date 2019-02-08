@@ -1,0 +1,45 @@
+word: tilraun
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tilraun
+      nominative_translation: an attempt; an experiment
+      nominative_sound: islex/011/011_01.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tilraun
+      accusative_sound: islex/011/011_01.mp3
+      dative: tilraun
+      dative_sound: islex/011/011_01.mp3
+      genitive: tilraunar
+    with article:
+      nominative: tilraunin
+      nominative_translation: the attempt; the experiment
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tilraunina
+      dative: tilrauninni
+      genitive: tilraunarinnar
+  plural:
+    no article:
+      nominative: tilraunir
+      nominative_translation: attempts; experiments
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tilraunir
+      dative: tilraunum
+      genitive: tilrauna
+    with article:
+      nominative: tilraunirnar
+      nominative_translation: the attempts; the experiments
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tilraunirnar
+      dative: tilraununum
+      genitive: tilraunanna
+id: 1831
+gender: feminine

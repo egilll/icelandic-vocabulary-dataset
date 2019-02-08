@@ -1,0 +1,35 @@
+word: ljós
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ljós
+      nominative_translation: a light
+      nominative_sound: islex/121/121_51.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ljós
+      accusative_sound: islex/121/121_51.mp3
+      dative: ljósi
+      genitive: ljóss
+    with article:
+      nominative: ljósið
+      nominative_translation: the light
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ljósið
+      dative: ljósinu
+      genitive: ljóssins
+  plural:
+    with article:
+      nominative: ljósin
+      nominative_translation: the lights
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ljósin
+      dative: ljósunum
+      genitive: ljósanna
+id: 1341
+gender: neuter

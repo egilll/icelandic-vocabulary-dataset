@@ -1,0 +1,25 @@
+word: að þýða
+level: 8
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] þýða'
+    infinitive_translation: to mean something; to translate
+    infinitive_sound: islex/112/112_18.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] þýddi'
+          1st person_translation: I translated
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] þýtt'
+    active voice_translation: I have translated
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: þýddu!
+      singular_translation: translate!¹
+      singular_teach: true
+id: 2014

@@ -1,0 +1,20 @@
+word: berjast
+level: 36
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] berjast'
+    infinitive_translation: to fight each other
+    infinitive_sound: islex/409/409_38.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] barðist'
+          1st person_translation: I fought
+          1st person_teach: true
+        plural:
+          3rd person: '[þeir/þær/þau] börðust'
+          3rd person_translation: they fought
+          3rd person_teach: true
+id: 2041

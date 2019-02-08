@@ -1,0 +1,24 @@
+word: hanskar
+level: 32
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: hanskar
+      nominative_translation: gloves
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hanska
+      dative: hönskum
+      genitive: hanska
+    with article:
+      nominative: hanskarnir
+      nominative_translation: the gloves
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hanskana
+      dative: hönskunum
+      genitive: hanskanna
+id: 1089
+gender: masculine

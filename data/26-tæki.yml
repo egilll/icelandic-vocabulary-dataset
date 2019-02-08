@@ -1,0 +1,27 @@
+word: tæki
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tæki
+      nominative_translation: a device
+      nominative_sound: islex/002/002_02.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tæki
+      accusative_sound: islex/002/002_02.mp3
+      dative: tæki
+      dative_sound: islex/002/002_02.mp3
+      genitive: tækis
+    with article:
+      nominative: tækið
+      nominative_translation: the device
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tækið
+      dative: tækinu
+      genitive: tækisins
+id: 1807
+gender: neuter

@@ -1,0 +1,22 @@
+word: ruslatunna
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ruslatunna
+      nominative_translation: a trashcan
+      nominative_sound: islex/331/331_11.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ruslatunnu
+      dative: ruslatunnu
+      genitive: ruslatunnu
+    with article:
+      nominative: ruslatunnan
+      nominative_translation: the trashcan
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1577
+gender: feminine

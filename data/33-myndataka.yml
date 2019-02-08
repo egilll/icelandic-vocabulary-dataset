@@ -1,0 +1,25 @@
+word: myndataka
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: myndataka
+      nominative_translation: a photo shoot
+      nominative_sound: islex/115/115_09.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: myndatöku
+      dative: myndatöku
+      genitive: myndatöku
+    with article:
+      nominative: myndatakan
+      nominative_translation: the photo shoot
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: myndatökuna
+      dative: myndatökunni
+      genitive: myndatökunnar
+id: 1428
+gender: feminine

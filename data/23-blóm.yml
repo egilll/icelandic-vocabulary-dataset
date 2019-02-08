@@ -1,0 +1,47 @@
+word: blóm
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: blóm
+      nominative_translation: a flower
+      nominative_sound: islex/251/251_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blóm
+      accusative_sound: islex/251/251_85.mp3
+      dative: blómi
+      dative_sound: islex/433/433_42.mp3
+      genitive: blóms
+    with article:
+      nominative: blómið
+      nominative_translation: the flower
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blómið
+      dative: blóminu
+      genitive: blómsins
+  plural:
+    no article:
+      nominative: blóm
+      nominative_translation: flowers
+      nominative_sound: islex/251/251_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blóm
+      accusative_sound: islex/251/251_85.mp3
+      dative: blómum
+      genitive: blóma
+    with article:
+      nominative: blómin
+      nominative_translation: the flowers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blómin
+      dative: blómunum
+      genitive: blómanna
+id: 817
+gender: neuter

@@ -1,0 +1,39 @@
+word: njóta
+level: 18
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] njóta'
+    infinitive_translation: to enjoy
+    infinitive_sound: islex/235/235_68.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] nýt'
+          1st person_translation: I enjoy
+          1st person_teach: true
+        plural:
+          1st person: '[við] njótum'
+          1st person_translation: we enjoy
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] naut'
+          1st person_translation: I enjoyed
+          1st person_sound: islex/387/387_33.mp3
+          1st person_teach: true
+        plural:
+          1st person: '[við] nutum'
+          1st person_translation: we enjoyed
+          1st person_teach: true
+  imperative:
+    active voice:
+      singular: njóttu!
+      singular_translation: enjoy!¹
+      singular_teach: true
+      plural: njótið!
+      plural_translation: enjoy!²
+      plural_teach: true
+id: 2261
+strong_verb_declension: true

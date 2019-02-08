@@ -1,0 +1,43 @@
+word: mánuður
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: mánuður
+      nominative_translation: a month
+      nominative_sound: islex/342/342_09.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mánuð
+      dative: mánuði
+      genitive: mánaðar
+    with article:
+      nominative: mánuðurinn
+      nominative_translation: the month
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: mánuðinn
+      dative: mánuðinum
+      genitive: mánaðarins
+  plural:
+    no article:
+      nominative: mánuðir
+      nominative_translation: months
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mánuði
+      dative: mánuðum
+      genitive: mánaða
+    with article:
+      nominative: mánuðirnir
+      nominative_translation: the months
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: mánuðina
+      dative: mánuðunum
+      genitive: mánaðanna
+id: 1382
+gender: masculine

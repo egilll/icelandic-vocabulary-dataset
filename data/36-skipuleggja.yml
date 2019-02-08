@@ -1,0 +1,20 @@
+word: skipuleggja
+level: 36
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] skipuleggja'
+    infinitive_translation: to organize
+    infinitive_sound: islex/374/374_97.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] skipulagði'
+          1st person_translation: I organized
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] skipulagt'
+    active voice_translation: I have organized
+    active voice_teach: true
+id: 2338

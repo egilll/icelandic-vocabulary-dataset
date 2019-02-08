@@ -1,0 +1,45 @@
+word: blað
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: blað
+      nominative_translation: a paper
+      nominative_sound: islex/105/105_71.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blað
+      accusative_sound: islex/105/105_71.mp3
+      dative: blaði
+      genitive: blaðs
+    with article:
+      nominative: blaðið
+      nominative_translation: the paper
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blaðið
+      dative: blaðinu
+      genitive: blaðsins
+  plural:
+    no article:
+      nominative: blöð
+      nominative_translation: papers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blöð
+      dative: blöðum
+      genitive: blaða
+      genitive_sound: islex/342/342_33.mp3
+    with article:
+      nominative: blöðin
+      nominative_translation: the papers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blöðin
+      dative: blöðunum
+      genitive: blaðanna
+id: 806
+gender: neuter

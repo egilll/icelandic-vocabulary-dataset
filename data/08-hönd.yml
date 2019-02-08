@@ -1,0 +1,65 @@
+word: hönd
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hönd
+      nominative_translation: a hand
+      nominative_sound: islex/476/476_36.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - hendi
+      accusative: hönd
+      accusative_sound: islex/476/476_36.mp3
+      accusative_alternative:
+        - hendi
+      dative: hendi
+      dative_alternative:
+        - hönd
+      genitive: handar
+    with article:
+      nominative: höndin
+      nominative_translation: the hand
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - hendin
+      accusative: höndina
+      accusative_alternative:
+        - hendina
+      dative: hendinni
+      dative_alternative:
+        - höndinni
+      genitive: handarinnar
+  plural:
+    no article:
+      nominative: hendur
+      nominative_translation: hands
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - höndur
+      accusative: hendur
+      accusative_alternative:
+        - höndur
+      dative: höndum
+      genitive: handa
+      genitive_sound: islex/294/294_79.mp3
+    with article:
+      nominative: hendurnar
+      nominative_translation: the hands
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - höndurnar
+      accusative: hendurnar
+      accusative_alternative:
+        - höndurnar
+      dative: höndunum
+      genitive: handanna
+id: 1152
+gender: feminine

@@ -1,0 +1,43 @@
+word: spurning
+level: 2
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: spurning
+      nominative_translation: a question
+      nominative_sound: islex/291/291_68.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: spurningu
+      dative: spurningu
+      genitive: spurningar
+    with article:
+      nominative: spurningin
+      nominative_translation: the question
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: spurninguna
+      dative: spurningunni
+      genitive: spurningarinnar
+  plural:
+    no article:
+      nominative: spurningar
+      nominative_translation: questions
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: spurningar
+      dative: spurningum
+      genitive: spurninga
+    with article:
+      nominative: spurningarnar
+      nominative_translation: the questions
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: spurningarnar
+      dative: spurningunum
+      genitive: spurninganna
+id: 1725
+gender: feminine

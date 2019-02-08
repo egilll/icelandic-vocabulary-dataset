@@ -1,0 +1,10 @@
+word: venjast
+level: 31
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] venjast'
+    infinitive_translation: to get used to
+    infinitive_sound: islex/274/274_16.mp3
+    infinitive_teach: true
+id: 2426

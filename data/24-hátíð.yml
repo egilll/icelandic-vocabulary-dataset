@@ -1,0 +1,27 @@
+word: hátíð
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hátíð
+      nominative_translation: a festival
+      nominative_sound: islex/238/238_21.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hátíð
+      accusative_sound: islex/238/238_21.mp3
+      dative: hátíð
+      dative_sound: islex/238/238_21.mp3
+      genitive: hátíðar
+    with article:
+      nominative: hátíðin
+      nominative_translation: the festival
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hátíðina
+      dative: hátíðinni
+      genitive: hátíðarinnar
+id: 1095
+gender: feminine

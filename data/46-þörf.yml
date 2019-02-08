@@ -1,0 +1,45 @@
+word: þörf
+level: 46
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þörf
+      nominative_translation: a need
+      nominative_sound: islex/340/340_35.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þörf
+      accusative_sound: islex/340/340_35.mp3
+      dative: þörf
+      dative_sound: islex/340/340_35.mp3
+      genitive: þarfar
+    with article:
+      nominative: þörfin
+      nominative_translation: the need
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þörfina
+      dative: þörfinni
+      genitive: þarfarinnar
+  plural:
+    no article:
+      nominative: þarfir
+      nominative_translation: needs
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þarfir
+      dative: þörfum
+      genitive: þarfa
+    with article:
+      nominative: þarfirnar
+      nominative_translation: the needs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þarfirnar
+      dative: þörfunum
+      genitive: þarfanna
+id: 1961
+gender: feminine

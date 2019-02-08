@@ -1,0 +1,25 @@
+word: kennslustofa
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kennslustofa
+      nominative_translation: a classroom
+      nominative_sound: islex/017/017_01.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kennslustofu
+      dative: kennslustofu
+      genitive: kennslustofu
+    with article:
+      nominative: kennslustofan
+      nominative_translation: the classroom
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kennslustofuna
+      dative: kennslustofunni
+      genitive: kennslustofunnar
+id: 1229
+gender: feminine

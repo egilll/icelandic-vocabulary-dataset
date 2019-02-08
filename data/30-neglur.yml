@@ -1,0 +1,37 @@
+word: neglur
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: nögl
+      nominative_translation: a nail (on your fingers)
+      nominative_sound: islex/225/225_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: nöglin
+      nominative_translation: the nail (on your fingers)
+      nominative_teach: true
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: neglur
+      nominative_translation: nails (on your fingers)
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: neglur
+      dative: nöglum
+      genitive: nagla
+    with article:
+      nominative: neglurnar
+      nominative_translation: the nails (on your fingers)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: neglurnar
+      dative: nöglunum
+      genitive: naglanna
+id: 2445
+gender: feminine

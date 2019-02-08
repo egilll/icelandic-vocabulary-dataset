@@ -1,0 +1,14 @@
+word: lögmaður
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lögmaður
+      nominative_translation: an attorney
+      nominative_sound: islex/045/045_60.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1352
+gender: masculine

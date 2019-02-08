@@ -1,0 +1,17 @@
+word: faðir
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: faðir
+      nominative_translation: father
+      nominative_sound: islex/445/445_79.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: föður
+      dative: föður
+      genitive: föður
+id: 924
+gender: masculine

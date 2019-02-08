@@ -1,0 +1,26 @@
+word: vökvi
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vökvi
+      nominative_translation: a liquid
+      nominative_sound: islex/381/381_73.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: vökvinn
+      nominative_translation: the liquid
+      nominative_teach: false
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: vökvar
+      nominative_translation: liquids
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1941
+gender: masculine

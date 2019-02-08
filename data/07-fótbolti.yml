@@ -1,0 +1,25 @@
+word: fótbolti
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fótbolti
+      nominative_translation: 'soccer, football'
+      nominative_sound: islex/257/257_09.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fótbolta
+      dative: fótbolta
+      genitive: fótbolta
+    with article:
+      nominative: fótboltinn
+      nominative_translation: 'the soccer, the football'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fótboltann
+      dative: fótboltanum
+      genitive: fótboltans
+id: 978
+gender: masculine

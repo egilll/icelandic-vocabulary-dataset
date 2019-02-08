@@ -1,0 +1,45 @@
+word: nagli
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: nagli
+      nominative_translation: a nail (made of metal)
+      nominative_sound: islex/051/051_93.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nagla
+      dative: nagla
+      genitive: nagla
+    with article:
+      nominative: naglinn
+      nominative_translation: the nail (made of metal)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: naglann
+      dative: naglanum
+      genitive: naglans
+  plural:
+    no article:
+      nominative: naglar
+      nominative_translation: nails (made of metal)
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nagla
+      dative: nöglum
+      genitive: nagla
+    with article:
+      nominative: naglarnir
+      nominative_translation: the nails (made of metal)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: naglana
+      dative: nöglunum
+      genitive: naglanna
+id: 1436
+teach_the_difference: ''
+gender: masculine
+never_show_with: nögl

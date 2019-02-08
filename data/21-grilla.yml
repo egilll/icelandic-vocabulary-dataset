@@ -1,0 +1,16 @@
+word: grilla
+level: 21
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] grilla'
+    infinitive_translation: to grill
+    infinitive_sound: islex/145/145_91.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] grillaði'
+          1st person_translation: I grilled
+          1st person_teach: true
+id: 2134

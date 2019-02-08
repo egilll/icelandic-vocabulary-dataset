@@ -1,0 +1,65 @@
+word: bjóða
+level: 16
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] bjóða'
+    infinitive_translation: to invite; to offer
+    infinitive_sound: islex/016/016_41.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] býð'
+          1st person_translation: I invite; I offer
+          1st person_teach: true
+          2nd person: '[þú] býður'
+          2nd person_translation: you¹ invite; you¹ offer
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] býður'
+          3rd person_translation: he/she/it invites; he/she/it offers
+          3rd person_teach: true
+        plural:
+          1st person: '[við] bjóðum'
+          1st person_translation: we invite; we offer
+          1st person_teach: true
+          2nd person: '[þið] bjóðið'
+          2nd person_translation: you² invite; you² offer
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] bjóða'
+          3rd person_translation: they invite; they offer
+          3rd person_sound: islex/016/016_41.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] bauð'
+          1st person_translation: I invited; I offered
+          1st person_teach: true
+          2nd person: '[þú] bauðst'
+          2nd person_translation: you¹ invited; you¹ offered
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] bauð'
+          3rd person_translation: he/she/it invited; he/she/it offered
+          3rd person_teach: true
+        plural:
+          1st person: '[við] buðum'
+          1st person_translation: we invited; we offered
+          1st person_teach: true
+          2nd person: '[þið] buðuð'
+          2nd person_translation: you² invited; you² offered
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] buðu'
+          3rd person_translation: they invited; they offered
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] boðið'
+    active voice_translation: I have invited; I have offered
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: bjóddu!
+      singular_translation: invite!¹; offer!¹
+      singular_teach: true
+id: 2047
+teach_the_difference: bíða
+strong_verb_declension: true

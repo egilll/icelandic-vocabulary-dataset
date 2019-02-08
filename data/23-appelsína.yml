@@ -1,0 +1,31 @@
+word: appelsína
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: appelsína
+      nominative_translation: an orange
+      nominative_sound: islex/150/150_48.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: appelsínan
+      nominative_translation: the orange
+      nominative_teach: false
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: appelsínur
+      nominative_translation: oranges
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: appelsínurnar
+      nominative_translation: the oranges
+      nominative_teach: false
+      nominative_teachtable: false
+id: 726
+gender: feminine

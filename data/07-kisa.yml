@@ -1,0 +1,24 @@
+word: kisa
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kisa
+      nominative_translation: 'a kitty, a cat'
+      nominative_sound: islex/133/133_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kisu
+      dative: kisu
+      genitive: kisu
+    with article:
+      nominative: kisan
+      nominative_translation: 'the kitty, the cat'
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1237
+gender: feminine
+synonyms: kisi
+synonyms_sound: islex/433/433_79.mp3

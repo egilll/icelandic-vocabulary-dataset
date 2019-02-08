@@ -1,0 +1,26 @@
+word: grey
+level: 36
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: grey
+      nominative_translation: pitiful person
+      nominative_sound: islex/115/115_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: grey
+      accusative_sound: islex/115/115_20.mp3
+      dative: greyi
+      genitive: greys
+    with article:
+      nominative: greyið
+      nominative_translation: the pitiful person
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: greyið
+      dative: greyinu
+      genitive: greysins
+id: 1049
+gender: neuter

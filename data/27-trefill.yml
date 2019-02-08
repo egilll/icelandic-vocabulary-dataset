@@ -1,0 +1,19 @@
+word: trefill
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: trefill
+      nominative_translation: a scarf
+      nominative_sound: islex/384/384_74.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: trefillinn
+      nominative_translation: the scarf
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1852
+gender: masculine

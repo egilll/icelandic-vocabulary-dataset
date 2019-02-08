@@ -1,0 +1,27 @@
+word: kaffi
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kaffi
+      nominative_translation: coffee
+      nominative_sound: islex/218/218_19.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kaffi
+      accusative_sound: islex/218/218_19.mp3
+      dative: kaffi
+      dative_sound: islex/218/218_19.mp3
+      genitive: kaffis
+    with article:
+      nominative: kaffið
+      nominative_translation: the coffee
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kaffið
+      dative: kaffinu
+      genitive: kaffisins
+id: 1207
+gender: neuter

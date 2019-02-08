@@ -1,0 +1,10 @@
+word: bursta
+level: 30
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] bursta'
+    infinitive_translation: to brush
+    infinitive_sound: islex/217/217_81.mp3
+    infinitive_teach: true
+id: 2060

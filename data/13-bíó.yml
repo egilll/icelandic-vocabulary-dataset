@@ -1,0 +1,29 @@
+word: bíó
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bíó
+      nominative_translation: cinema
+      nominative_sound: islex/079/079_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bíó
+      accusative_sound: islex/079/079_20.mp3
+      dative: bíó
+      dative_sound: islex/079/079_20.mp3
+      dative_alternative:
+        - bíói
+      genitive: bíós
+    with article:
+      nominative: bíóið
+      nominative_translation: the cinema
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bíóið
+      dative: bíóinu
+      genitive: bíósins
+id: 800
+gender: neuter

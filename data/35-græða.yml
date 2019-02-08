@@ -1,0 +1,21 @@
+word: græða
+level: 35
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] græða'
+    infinitive_translation: 'to profit, to make money'
+    infinitive_sound: islex/108/108_97.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] græði'
+          1st person_translation: 'I profit, I make money'
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] græddi'
+          1st person_translation: 'I profited, I made money'
+          1st person_teach: true
+id: 2130

@@ -1,0 +1,45 @@
+word: pappír
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: pappír
+      nominative_translation: paper
+      nominative_sound: islex/107/107_52.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pappír
+      accusative_sound: islex/107/107_52.mp3
+      dative: pappír
+      dative_sound: islex/107/107_52.mp3
+      genitive: pappírs
+    with article:
+      nominative: pappírinn
+      nominative_translation: the paper
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pappírinn
+      dative: pappírnum
+      genitive: pappírsins
+  plural:
+    no article:
+      nominative: pappírar
+      nominative_translation: papers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pappíra
+      dative: pappírum
+      genitive: pappíra
+    with article:
+      nominative: pappírarnir
+      nominative_translation: the papers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pappírana
+      dative: pappírunum
+      genitive: pappíranna
+id: 1484
+gender: masculine

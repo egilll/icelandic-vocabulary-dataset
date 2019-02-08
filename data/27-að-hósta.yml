@@ -1,0 +1,10 @@
+word: að hósta
+level: 27
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hósta'
+    infinitive_translation: to cough
+    infinitive_sound: islex/220/220_99.mp3
+    infinitive_teach: true
+id: 1982

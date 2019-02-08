@@ -1,0 +1,26 @@
+word: brúðkaup
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: brúðkaup
+      nominative_translation: a wedding
+      nominative_sound: islex/190/190_21.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: brúðkaup
+      accusative_sound: islex/190/190_21.mp3
+      dative: brúðkaupi
+      genitive: brúðkaups
+    with article:
+      nominative: brúðkaupið
+      nominative_translation: the wedding
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: brúðkaupið
+      dative: brúðkaupinu
+      genitive: brúðkaupsins
+id: 852
+gender: neuter

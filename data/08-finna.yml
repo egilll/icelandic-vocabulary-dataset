@@ -1,0 +1,60 @@
+word: finna
+level: 8
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] finna'
+    infinitive_translation: to find
+    infinitive_sound: islex/093/093_86.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] finn'
+          1st person_translation: I find
+          1st person_teach: true
+          2nd person: '[þú] finnur'
+          2nd person_translation: you¹ find
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] finnur'
+          3rd person_translation: he/she/it finds
+          3rd person_teach: true
+        plural:
+          1st person: '[við] finnum'
+          1st person_translation: we find
+          1st person_teach: true
+          2nd person: '[þið] finnið'
+          2nd person_translation: you² find
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] finna'
+          3rd person_translation: they find
+          3rd person_sound: islex/093/093_86.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] fann'
+          1st person_translation: I found
+          1st person_teach: true
+          2nd person: '[þú] fannst'
+          2nd person_translation: you¹ found
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] fann'
+          3rd person_translation: he/she/it found
+          3rd person_teach: true
+        plural:
+          1st person: '[við] fundum'
+          1st person_translation: we found
+          1st person_teach: true
+          2nd person: '[þið] funduð'
+          2nd person_translation: you² found
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] fundu'
+          3rd person_translation: they found
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] fundið'
+    active voice_translation: I have found
+    active voice_teach: true
+id: 2100
+recognizable: '1'
+strong_verb_declension: true

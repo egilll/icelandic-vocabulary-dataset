@@ -1,0 +1,43 @@
+word: bróðir
+level: 2
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bróðir
+      nominative_translation: brother
+      nominative_sound: islex/023/023_88.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: bróður
+      dative: bróður
+      genitive: bróður
+    with article:
+      nominative: bróðirinn
+      nominative_translation: the brother
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bróðurinn
+      dative: bróðurnum
+      genitive: bróðurins
+  plural:
+    no article:
+      nominative: bræður
+      nominative_translation: brothers
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: bræður
+      dative: bræðrum
+      genitive: bræðra
+    with article:
+      nominative: bræðurnir
+      nominative_translation: the brothers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bræðurna
+      dative: bræðrunum
+      genitive: bræðranna
+id: 850
+gender: masculine

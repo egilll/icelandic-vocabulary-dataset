@@ -1,0 +1,117 @@
+word: hafa
+level: 11
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hafa'
+    infinitive_translation: to have
+    infinitive_sound: islex/166/166_78.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] hef'
+          1st person_translation: I have
+          1st person_teach: true
+          1st person_alternative:
+            - hefi
+          2nd person: '[þú] hefur'
+          2nd person_translation: you¹ have
+          2nd person_teach: true
+          2nd person_alternative:
+            - hefir
+          3rd person: '[hann/hún/það] hefur'
+          3rd person_translation: he/she/it has
+          3rd person_teach: true
+          3rd person_alternative:
+            - hefir
+        plural:
+          1st person: '[við] höfum'
+          1st person_translation: we have
+          1st person_teach: true
+          2nd person: '[þið] hafið'
+          2nd person_translation: you² have
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] hafa'
+          3rd person_translation: they have
+          3rd person_sound: islex/166/166_78.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] hafði'
+          1st person_translation: I had
+          1st person_teach: true
+          2nd person: '[þú] hafðir'
+          2nd person_translation: you¹ had
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] hafði'
+          3rd person_translation: he/she/it had
+          3rd person_teach: true
+        plural:
+          1st person: '[við] höfðum'
+          1st person_translation: we had
+          1st person_teach: true
+          2nd person: '[þið] höfðuð'
+          2nd person_translation: you² had
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] höfðu'
+          3rd person_translation: they had
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] hafi'
+          1st person_translation: I think I have
+          1st person_teach: true
+          2nd person: '[ég held að] [þú] hafir'
+          2nd person_translation: I think you¹ have
+          2nd person_teach: true
+          3rd person: '[ég held að] [hann/hún/það] hafi'
+          3rd person_translation: I think he/she/it has
+          3rd person_teach: true
+        plural:
+          1st person: '[ég held að] [við] höfum'
+          1st person_translation: I think we have
+          1st person_teach: true
+          2nd person: '[ég held að] [þið] hafið'
+          2nd person_translation: I think you² have
+          2nd person_teach: true
+          3rd person: '[ég held að] [þeir/þær/þau] hafi'
+          3rd person_translation: I think they have
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég hélt að] [ég] hefði'
+          1st person_translation: I thought I would have
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þú] hefðir'
+          2nd person_translation: I thought you¹ would have
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [hann/hún/það] hefði'
+          3rd person_translation: I thought he/she/it would have
+          3rd person_teach: true
+        plural:
+          1st person: '[ég hélt að] [við] hefðum'
+          1st person_translation: I thought we would have
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þið] hefðuð'
+          2nd person_translation: I thought you² would have
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [þeir/þær/þau] hefðu'
+          3rd person_translation: I thought they would have
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] haft'
+    active voice_translation: I have had
+    active voice_sound: islex/176/176_68.mp3
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: hafðu!
+      singular_translation: have!¹
+      singular_teach: true
+      plural: hafið!
+      plural_translation: have!²
+      plural_teach: true
+id: 2140
+recognizable: '1'

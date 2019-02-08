@@ -1,0 +1,19 @@
+word: band
+level: 44
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: band
+      nominative_translation: a string
+      nominative_sound: islex/197/197_75.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: bandið
+      nominative_translation: the string
+      nominative_teach: true
+      nominative_teachtable: false
+id: 769
+gender: neuter

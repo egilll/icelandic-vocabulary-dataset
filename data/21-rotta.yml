@@ -1,0 +1,26 @@
+word: rotta
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rotta
+      nominative_translation: a rat
+      nominative_sound: islex/109/109_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rottu
+      dative: rottu
+      genitive: rottu
+    with article:
+      nominative: rottan
+      nominative_translation: the rat
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rottuna
+      dative: rottunni
+      genitive: rottunnar
+id: 1572
+gender: feminine
+recognizable: '1'

@@ -1,0 +1,59 @@
+word: hlæja
+level: 9
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hlæja'
+    infinitive_translation: to laugh
+    infinitive_sound: islex/286/286_96.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] hlæ'
+          1st person_translation: I laugh
+          1st person_teach: true
+          2nd person: '[þú] hlærð'
+          2nd person_translation: you¹ laugh
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] hlær'
+          3rd person_translation: he/she/it laughs
+          3rd person_teach: true
+        plural:
+          1st person: '[við] hlæjum'
+          1st person_translation: we laugh
+          1st person_teach: true
+          2nd person: '[þið] hlæið'
+          2nd person_translation: you² laugh
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] hlæja'
+          3rd person_translation: they laugh
+          3rd person_sound: islex/286/286_96.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] hló'
+          1st person_translation: I laughed
+          1st person_teach: true
+          2nd person: '[þú] hlóst'
+          2nd person_translation: you¹ laughed
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] hló'
+          3rd person_translation: he/she/it laughed
+          3rd person_teach: true
+        plural:
+          1st person: '[við] hlógum'
+          1st person_translation: we laughed
+          1st person_teach: true
+          2nd person: '[þið] hlóguð'
+          2nd person_translation: you² laughed
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] hlógu'
+          3rd person_translation: they laughed
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] hlegið'
+    active voice_translation: I have laughed
+    active voice_teach: true
+id: 2155
+strong_verb_declension: true

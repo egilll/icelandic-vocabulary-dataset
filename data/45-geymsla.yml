@@ -1,0 +1,12 @@
+word: geymsla
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: geymslan
+      nominative_translation: the storage
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1024
+gender: feminine

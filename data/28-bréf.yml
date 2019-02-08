@@ -1,0 +1,46 @@
+word: bréf
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bréf
+      nominative_translation: 'a letter, a document'
+      nominative_sound: islex/060/060_10.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bréf
+      accusative_sound: islex/060/060_10.mp3
+      dative: bréfi
+      genitive: bréfs
+    with article:
+      nominative: bréfið
+      nominative_translation: 'the letter, the document'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bréfið
+      dative: bréfinu
+      genitive: bréfsins
+  plural:
+    no article:
+      nominative: bréf
+      nominative_translation: 'letters, documents'
+      nominative_sound: islex/060/060_10.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bréf
+      accusative_sound: islex/060/060_10.mp3
+      dative: bréfum
+      genitive: bréfa
+    with article:
+      nominative: bréfin
+      nominative_translation: 'the letters, the documents'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bréfin
+      dative: bréfunum
+      genitive: bréfanna
+id: 845
+gender: neuter

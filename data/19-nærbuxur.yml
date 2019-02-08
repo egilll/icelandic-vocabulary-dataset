@@ -1,0 +1,26 @@
+word: nærbuxur
+level: 19
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: nærbuxur
+      nominative_translation: underwear
+      nominative_sound: islex/114/114_70.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nærbuxur
+      accusative_sound: islex/114/114_70.mp3
+      dative: nærbuxum
+      genitive: nærbuxna
+    with article:
+      nominative: nærbuxurnar
+      nominative_translation: the underwear
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nærbuxurnar
+      dative: nærbuxunum
+      genitive: nærbuxnanna
+id: 1433
+gender: feminine

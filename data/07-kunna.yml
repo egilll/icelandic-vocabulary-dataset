@@ -1,0 +1,54 @@
+word: kunna
+level: 7
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] kunna'
+    infinitive_translation: to know how to
+    infinitive_sound: islex/099/099_45.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] kann'
+          1st person_translation: I know how to
+          1st person_teach: true
+          2nd person: '[þú] kannt'
+          2nd person_translation: you¹ know how to
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] kann'
+          3rd person_translation: he/she/it knows how to
+          3rd person_teach: true
+        plural:
+          1st person: '[við] kunnum'
+          1st person_translation: we know how to
+          1st person_teach: true
+          2nd person: '[þið] kunnið'
+          2nd person_translation: you² know how to
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] kunna'
+          3rd person_translation: they know how to
+          3rd person_sound: islex/099/099_45.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] kunni'
+          1st person_translation: I knew how to
+          1st person_teach: true
+          2nd person: '[þú] kunnir'
+          2nd person_translation: you¹ knew how to
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] kunni'
+          3rd person_translation: he/she/it knew how to
+          3rd person_teach: true
+        plural:
+          1st person: '[við] kunnum'
+          1st person_translation: we knew how to
+          1st person_teach: true
+          2nd person: '[þið] kunnuð'
+          2nd person_translation: you² knew how to
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] kunnu'
+          3rd person_translation: they knew how to
+          3rd person_teach: true
+id: 2195

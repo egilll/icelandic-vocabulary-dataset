@@ -1,0 +1,18 @@
+word: útlönd
+level: 8
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: útlönd
+      nominative_translation: foreign countries
+      nominative_sound: islex/044/044_87.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: útlönd
+      accusative_sound: islex/044/044_87.mp3
+      dative: útlöndum
+      genitive: útlanda
+id: 1881
+gender: neuter

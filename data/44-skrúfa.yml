@@ -1,0 +1,28 @@
+word: skrúfa
+level: 44
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skrúfa
+      nominative_translation: a screw
+      nominative_sound: islex/336/336_67.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skrúfu
+      dative: skrúfu
+      genitive: skrúfu
+    with article:
+      nominative: skrúfan
+      nominative_translation: the screw
+      nominative_teach: false
+      nominative_teachtable: false
+  plural:
+    with article:
+      nominative: skrúfurnar
+      nominative_translation: the screws
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1663
+gender: feminine

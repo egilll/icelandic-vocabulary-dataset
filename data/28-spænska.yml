@@ -1,0 +1,14 @@
+word: spænska
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: spænska
+      nominative_translation: Spanish language
+      nominative_sound: islex/427/427_23.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1718
+gender: feminine

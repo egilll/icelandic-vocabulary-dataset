@@ -1,0 +1,25 @@
+word: páskar
+level: 48
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: páskar
+      nominative_translation: easter
+      nominative_sound: islex/401/401_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: páska
+      dative: páskum
+      genitive: páska
+    with article:
+      nominative: páskarnir
+      nominative_translation: the easter
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: páskana
+      dative: páskunum
+      genitive: páskanna
+id: 1491
+gender: masculine

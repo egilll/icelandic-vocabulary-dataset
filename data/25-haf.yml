@@ -1,0 +1,29 @@
+word: haf
+level: 25
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: haf
+      nominative_translation: an ocean
+      nominative_sound: islex/135/135_15.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: haf
+      accusative_sound: islex/135/135_15.mp3
+      dative: hafi
+      genitive: hafs
+    with article:
+      nominative: hafið
+      nominative_translation: the ocean
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hafið
+      dative: hafinu
+      genitive: hafsins
+id: 1071
+gender: neuter
+other_conneced_words: ''
+synonyms: sjór
+synonyms_sound: islex/147/147_82.mp3

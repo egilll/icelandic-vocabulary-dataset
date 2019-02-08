@@ -1,0 +1,25 @@
+word: blæðingar
+level: 9
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: blæðingar
+      nominative_translation: menstruation
+      nominative_sound: islex/387/387_01.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: bleedings
+      accusative: blæðingar
+      accusative_sound: islex/387/387_01.mp3
+      dative: blæðingum
+      genitive: blæðinga
+    with article:
+      nominative: blæðingarnar
+      nominative_translation: the menstruations
+      nominative_teach: false
+      nominative_teachtable: false
+      nominative_literal: bleedings
+id: 809
+gender: feminine

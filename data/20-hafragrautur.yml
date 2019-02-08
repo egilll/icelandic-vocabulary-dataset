@@ -1,0 +1,24 @@
+word: hafragrautur
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hafragrautur
+      nominative_translation: oatmeal porridge
+      nominative_sound: islex/085/085_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hafragraut
+      dative: hafragraut
+      dative_alternative:
+        - hafragrauti
+      genitive: hafragrautar
+    with article:
+      nominative: hafragrauturinn
+      nominative_translation: the oatmeal porridge
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1072
+gender: masculine

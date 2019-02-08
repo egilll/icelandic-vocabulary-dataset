@@ -1,0 +1,28 @@
+word: heili
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: heili
+      nominative_translation: a brain
+      nominative_sound: islex/345/345_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: heila
+      accusative_sound: islex/119/119_19.mp3
+      dative: heila
+      dative_sound: islex/119/119_19.mp3
+      genitive: heila
+      genitive_sound: islex/119/119_19.mp3
+    with article:
+      nominative: heilinn
+      nominative_translation: the brain
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: heilann
+      dative: heilanum
+      genitive: heilans
+id: 1101
+gender: masculine

@@ -1,0 +1,43 @@
+word: bygging
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bygging
+      nominative_translation: a building
+      nominative_sound: islex/190/190_30.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: byggingu
+      dative: byggingu
+      genitive: byggingar
+    with article:
+      nominative: byggingin
+      nominative_translation: the building
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bygginguna
+      dative: byggingunni
+      genitive: byggingarinnar
+  plural:
+    no article:
+      nominative: byggingar
+      nominative_translation: buildings
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: byggingar
+      dative: byggingum
+      genitive: bygginga
+    with article:
+      nominative: byggingarnar
+      nominative_translation: the buildings
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: byggingarnar
+      dative: byggingunum
+      genitive: bygginganna
+id: 858
+gender: feminine

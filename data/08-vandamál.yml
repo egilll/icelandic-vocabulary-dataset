@@ -1,0 +1,26 @@
+word: vandamál
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vandamál
+      nominative_translation: a problem
+      nominative_sound: islex/083/083_90.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vandamál
+      accusative_sound: islex/083/083_90.mp3
+      dative: vandamáli
+      genitive: vandamáls
+    with article:
+      nominative: vandamálið
+      nominative_translation: the problem
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vandamálið
+      dative: vandamálinu
+      genitive: vandamálsins
+id: 1887
+gender: neuter

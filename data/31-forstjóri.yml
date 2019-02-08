@@ -1,0 +1,25 @@
+word: forstjóri
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: forstjóri
+      nominative_translation: 'a director, CEO'
+      nominative_sound: islex/274/274_54.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: forstjóra
+      dative: forstjóra
+      genitive: forstjóra
+    with article:
+      nominative: forstjórinn
+      nominative_translation: 'the director, the CEO'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: forstjórann
+      dative: forstjóranum
+      genitive: forstjórans
+id: 973
+gender: masculine

@@ -1,0 +1,12 @@
+word: ruglast
+level: 44
+grammatical_category: verb
+conjugation:
+  middle voice:
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] ruglaðist'
+          1st person_translation: I got things mixed up
+          1st person_teach: true
+id: 2301

@@ -1,0 +1,10 @@
+word: batna
+level: 22
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] batna'
+    infinitive_translation: 'to recover from an illness, to get better'
+    infinitive_sound: islex/360/360_89.mp3
+    infinitive_teach: true
+id: 2034

@@ -1,0 +1,25 @@
+word: peningar
+level: 2
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: peningar
+      nominative_translation: money
+      nominative_sound: islex/280/280_76.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: peninga
+      dative: peningum
+      genitive: peninga
+    with article:
+      nominative: peningarnir
+      nominative_translation: the money
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: peningana
+      dative: peningunum
+      genitive: peninganna
+id: 1492
+gender: masculine

@@ -1,0 +1,43 @@
+word: hálfviti
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hálfviti
+      nominative_translation: moron
+      nominative_sound: islex/165/165_84.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hálfvita
+      dative: hálfvita
+      genitive: hálfvita
+    with article:
+      nominative: hálfvitinn
+      nominative_translation: the moron
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hálfvitann
+      dative: hálfvitanum
+      genitive: hálfvitans
+  plural:
+    no article:
+      nominative: hálfvitar
+      nominative_translation: morons
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hálfvita
+      dative: hálfvitum
+      genitive: hálfvita
+    with article:
+      nominative: hálfvitarnir
+      nominative_translation: the morons
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hálfvitana
+      dative: hálfvitunum
+      genitive: hálfvitanna
+id: 1079
+gender: masculine

@@ -1,0 +1,37 @@
+word: tillaga
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tillaga
+      nominative_translation: a suggestion
+      nominative_sound: islex/016/016_72.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tillögu
+      dative: tillögu
+      genitive: tillögu
+    with article:
+      nominative: tillagan
+      nominative_translation: the suggestion
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tillöguna
+      dative: tillögunni
+      genitive: tillögunnar
+  plural:
+    no article:
+      nominative: tillögur
+      nominative_translation: suggestions
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: tillögurnar
+      nominative_translation: the suggestions
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1830
+gender: feminine

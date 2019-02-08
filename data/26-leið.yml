@@ -1,0 +1,27 @@
+word: leið
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: leið
+      nominative_translation: 'a way, a direction'
+      nominative_sound: islex/089/089_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leið
+      accusative_sound: islex/089/089_38.mp3
+      dative: leið
+      dative_sound: islex/089/089_38.mp3
+      genitive: leiðar
+    with article:
+      nominative: leiðin
+      nominative_translation: 'the way, the direction'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leiðina
+      dative: leiðinni
+      genitive: leiðarinnar
+id: 1305
+gender: feminine

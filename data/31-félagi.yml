@@ -1,0 +1,43 @@
+word: félagi
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: félagi
+      nominative_translation: buddy
+      nominative_sound: islex/237/237_08.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: félaga
+      dative: félaga
+      genitive: félaga
+    with article:
+      nominative: félaginn
+      nominative_translation: the buddy
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: félagann
+      dative: félaganum
+      genitive: félagans
+  plural:
+    no article:
+      nominative: félagar
+      nominative_translation: buddies
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: félaga
+      dative: félögum
+      genitive: félaga
+    with article:
+      nominative: félagarnir
+      nominative_translation: the buddies
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: félagana
+      dative: félögunum
+      genitive: félaganna
+id: 934
+gender: masculine

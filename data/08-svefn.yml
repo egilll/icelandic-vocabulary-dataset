@@ -1,0 +1,26 @@
+word: svefn
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: svefn
+      nominative_translation: sleep
+      nominative_sound: islex/288/288_83.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: svefn
+      accusative_sound: islex/288/288_83.mp3
+      dative: svefni
+      genitive: svefns
+    with article:
+      nominative: svefninn
+      nominative_translation: the sleep
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: svefninn
+      dative: svefninum
+      genitive: svefnsins
+id: 1788
+gender: masculine

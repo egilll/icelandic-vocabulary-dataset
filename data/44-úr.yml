@@ -1,0 +1,26 @@
+word: úr
+level: 44
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: úr
+      nominative_translation: a wrist watch
+      nominative_sound: islex/172/172_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: úr
+      accusative_sound: islex/172/172_41.mp3
+      dative: úri
+      genitive: úrs
+    with article:
+      nominative: úrið
+      nominative_translation: the wrist watch
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: úrið
+      dative: úrinu
+      genitive: úrsins
+id: 1876
+gender: neuter

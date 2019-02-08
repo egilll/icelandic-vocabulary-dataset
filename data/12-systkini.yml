@@ -1,0 +1,26 @@
+word: systkini
+level: 12
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: systkini
+      nominative_translation: siblings
+      nominative_sound: islex/242/242_46.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: systkini
+      accusative_sound: islex/242/242_46.mp3
+      dative: systkinum
+      genitive: systkina
+    with article:
+      nominative: systkinin
+      nominative_translation: the siblings
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: systkinin
+      dative: systkinunum
+      genitive: systkinanna
+id: 1804
+gender: neuter

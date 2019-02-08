@@ -1,0 +1,46 @@
+word: ógeð
+level: 43
+grammatical_category: other
+conjugation:
+  singular:
+    no article:
+      nominative: ógeð
+      nominative_translation: gross
+      nominative_sound: islex/205/205_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ógeð
+      accusative_sound: islex/205/205_38.mp3
+      dative: ógeði
+      genitive: ógeðs
+    with article:
+      nominative: ógeðið
+      nominative_translation: the gross
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ógeðið
+      dative: ógeðinu
+      genitive: ógeðsins
+  plural:
+    no article:
+      nominative: ógeð
+      nominative_translation: grosses
+      nominative_sound: islex/205/205_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ógeð
+      accusative_sound: islex/205/205_38.mp3
+      dative: ógeðum
+      genitive: ógeða
+    with article:
+      nominative: ógeðin
+      nominative_translation: the grosses
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ógeðin
+      dative: ógeðunum
+      genitive: ógeðanna
+id: 1464
+gender: neuter

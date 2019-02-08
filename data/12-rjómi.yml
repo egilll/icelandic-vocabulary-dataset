@@ -1,0 +1,25 @@
+word: rjómi
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rjómi
+      nominative_translation: cream (dairy product)
+      nominative_sound: islex/416/416_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rjóma
+      dative: rjóma
+      genitive: rjóma
+    with article:
+      nominative: rjóminn
+      nominative_translation: the cream (dairy product)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rjómann
+      dative: rjómanum
+      genitive: rjómans
+id: 1565
+gender: masculine

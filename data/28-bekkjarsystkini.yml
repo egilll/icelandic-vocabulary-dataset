@@ -1,0 +1,18 @@
+word: bekkjarsystkini
+level: 28
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: bekkjarsystkini
+      nominative_translation: classmates
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: bekkjarsystkinin
+      nominative_translation: the classmates
+      nominative_teach: false
+      nominative_teachtable: false
+id: 785
+gender: neuter

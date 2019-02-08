@@ -1,0 +1,28 @@
+word: kvarta
+level: 26
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] kvarta'
+    infinitive_translation: to complain
+    infinitive_sound: islex/082/082_25.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] kvarta'
+          1st person_translation: I complain
+          1st person_sound: islex/082/082_25.mp3
+          1st person_teach: true
+          2nd person: '[þú] kvartar'
+          2nd person_translation: you¹ complain
+          2nd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] kvartaði'
+          1st person_translation: I complained
+          1st person_teach: true
+          2nd person: '[þú] kvartaðir'
+          2nd person_translation: you¹ complained
+          2nd person_teach: true
+id: 2197

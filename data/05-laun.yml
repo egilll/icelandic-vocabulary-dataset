@@ -1,0 +1,27 @@
+word: laun
+level: 5
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: laun
+      nominative_translation: salary
+      nominative_sound: islex/105/105_45.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: laun
+      accusative_sound: islex/105/105_45.mp3
+      dative: launum
+      genitive: launa
+      genitive_sound: islex/043/043_87.mp3
+    with article:
+      nominative: launin
+      nominative_translation: the salary
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: launin
+      dative: laununum
+      genitive: launanna
+id: 1301
+gender: neuter

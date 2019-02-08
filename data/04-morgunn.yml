@@ -1,0 +1,45 @@
+word: morgunn
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: morgunn
+      nominative_translation: a morning
+      nominative_sound: islex/025/025_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: morgun
+      dative: morgni
+      genitive: morguns
+    with article:
+      nominative: morgunninn
+      nominative_translation: the morning
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: morguninn
+      dative: morgninum
+      genitive: morgunsins
+  plural:
+    no article:
+      nominative: morgnar
+      nominative_translation: mornings
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: morgna
+      accusative_sound: islex/222/222_21.mp3
+      dative: morgnum
+      genitive: morgna
+      genitive_sound: islex/222/222_21.mp3
+    with article:
+      nominative: morgnarnir
+      nominative_translation: the mornings
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: morgnana
+      dative: morgnunum
+      genitive: morgnanna
+id: 1417
+gender: masculine

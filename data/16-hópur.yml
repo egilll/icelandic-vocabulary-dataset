@@ -1,0 +1,49 @@
+word: hópur
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hópur
+      nominative_translation: a group
+      nominative_sound: islex/406/406_25.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hóp
+      accusative_sound: islex/175/175_34.mp3
+      dative: hóp
+      dative_sound: islex/175/175_34.mp3
+      dative_alternative:
+        - hópi
+      genitive: hóps
+    with article:
+      nominative: hópurinn
+      nominative_translation: the group
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hópinn
+      dative: hópnum
+      genitive: hópsins
+  plural:
+    no article:
+      nominative: hópar
+      nominative_translation: groups
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hópa
+      accusative_sound: islex/266/266_64.mp3
+      dative: hópum
+      genitive: hópa
+      genitive_sound: islex/266/266_64.mp3
+    with article:
+      nominative: hóparnir
+      nominative_translation: the groups
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hópana
+      dative: hópunum
+      genitive: hópanna
+id: 1155
+gender: masculine

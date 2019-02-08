@@ -1,0 +1,26 @@
+word: hákarl
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hákarl
+      nominative_translation: a shark
+      nominative_sound: islex/240/240_56.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hákarl
+      accusative_sound: islex/240/240_56.mp3
+      dative: hákarli
+      genitive: hákarls
+    with article:
+      nominative: hákarlinn
+      nominative_translation: the shark
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hákarlinn
+      dative: hákarlinum
+      genitive: hákarlsins
+id: 1076
+gender: masculine

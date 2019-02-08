@@ -1,0 +1,16 @@
+word: fjandinn
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: fjandinn
+      nominative_translation: the devil
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fjandann
+      dative: fjandanum
+      genitive: fjandans
+      genitive_sound: islex/349/349_32.mp3
+id: 947
+gender: masculine

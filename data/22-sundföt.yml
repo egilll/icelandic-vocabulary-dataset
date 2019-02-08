@@ -1,0 +1,26 @@
+word: sundföt
+level: 22
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: sundföt
+      nominative_translation: swimsuit
+      nominative_sound: islex/222/222_18.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sundföt
+      accusative_sound: islex/222/222_18.mp3
+      dative: sundfötum
+      genitive: sundfata
+    with article:
+      nominative: sundfötin
+      nominative_translation: the swimsuit
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sundfötin
+      dative: sundfötunum
+      genitive: sundfatanna
+id: 1779
+gender: neuter

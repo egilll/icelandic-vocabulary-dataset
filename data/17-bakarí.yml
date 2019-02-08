@@ -1,0 +1,26 @@
+word: bakarí
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bakarí
+      nominative_translation: a bakery
+      nominative_sound: islex/439/439_79.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bakarí
+      accusative_sound: islex/439/439_79.mp3
+      dative: bakaríi
+      genitive: bakarís
+    with article:
+      nominative: bakaríið
+      nominative_translation: the bakery
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bakaríið
+      dative: bakaríinu
+      genitive: bakarísins
+id: 762
+gender: neuter

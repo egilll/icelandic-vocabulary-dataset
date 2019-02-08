@@ -1,0 +1,25 @@
+word: afar
+level: 48
+grammatical_category: other
+conjugation:
+  singular:
+    no article:
+      nominative: afi
+      nominative_translation: very
+      nominative_sound: islex/333/333_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: afa
+      dative: afa
+      genitive: afa
+    with article:
+      nominative: afinn
+      nominative_translation: the very
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: afann
+      dative: afanum
+      genitive: afans
+id: 695
+gender: masculine

@@ -1,0 +1,27 @@
+word: skip
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skip
+      nominative_translation: a ship
+      nominative_sound: islex/175/175_37.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skip
+      accusative_sound: islex/175/175_37.mp3
+      dative: skipi
+      genitive: skips
+    with article:
+      nominative: skipið
+      nominative_translation: the ship
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skipið
+      dative: skipinu
+      genitive: skipsins
+id: 1648
+gender: neuter
+recognizable: '1'

@@ -1,0 +1,29 @@
+word: kærasti
+level: 4
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kærasti
+      nominative_translation: a boyfriend
+      nominative_sound: islex/480/480_89.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: dearest
+      accusative: kærasta
+      accusative_sound: islex/059/059_88.mp3
+      dative: kærasta
+      dative_sound: islex/059/059_88.mp3
+      genitive: kærasta
+      genitive_sound: islex/059/059_88.mp3
+    with article:
+      nominative: kærastinn
+      nominative_translation: the boyfriend
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kærastann
+      dative: kærastanum
+      genitive: kærastans
+id: 1206
+gender: masculine

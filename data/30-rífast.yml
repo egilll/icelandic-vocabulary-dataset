@@ -1,0 +1,22 @@
+word: rífast
+level: 30
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] rífast'
+    infinitive_translation: to argue
+    infinitive_sound: islex/207/207_61.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        plural:
+          1st person: '[við] rífumst'
+          1st person_translation: we argue
+          1st person_teach: true
+      past:
+        plural:
+          1st person: '[við] rifumst'
+          1st person_translation: we argued
+          1st person_teach: true
+id: 2296
+strong_verb_declension: true

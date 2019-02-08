@@ -1,0 +1,18 @@
+word: raunveruleikinn
+level: 47
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: raunveruleikinn
+      nominative_translation: the reality
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: raunveruleikann
+      dative: raunveruleikanum
+      genitive: raunveruleikans
+  plural:
+    no article:
+      nominative_teachtable: false
+id: 1544
+gender: masculine

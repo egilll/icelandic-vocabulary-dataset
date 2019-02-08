@@ -1,0 +1,20 @@
+word: benda
+level: 47
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] benda'
+    infinitive_translation: to point at something
+    infinitive_sound: islex/134/134_72.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] benti'
+          1st person_translation: I pointed at something
+          1st person_teach: true
+  supine:
+    active voice: '[ég get] bent'
+    active voice_translation: I can point at something
+    active voice_teach: true
+id: 2037

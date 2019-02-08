@@ -1,0 +1,39 @@
+word: smokkur
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: smokkur
+      nominative_translation: a condom
+      nominative_sound: islex/192/192_74.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: smokk
+      dative: smokki
+      dative_alternative:
+        - smokk
+      genitive: smokks
+    with article:
+      nominative: smokkurinn
+      nominative_translation: the condom
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: smokkinn
+      dative: smokknum
+      genitive: smokksins
+  plural:
+    no article:
+      nominative: smokkar
+      nominative_translation: condoms
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: smokkarnir
+      nominative_translation: the condoms
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1688
+gender: masculine

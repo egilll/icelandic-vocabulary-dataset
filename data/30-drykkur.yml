@@ -1,0 +1,44 @@
+word: drykkur
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: drykkur
+      nominative_translation: a drink
+      nominative_sound: islex/076/076_97.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: drykk
+      dative: drykk
+      genitive: drykkjar
+    with article:
+      nominative: drykkurinn
+      nominative_translation: the drink
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: drykkinn
+      dative: drykknum
+      genitive: drykkjarins
+  plural:
+    no article:
+      nominative: drykkir
+      nominative_translation: drinks
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: drykki
+      dative: drykkjum
+      genitive: drykkja
+      genitive_sound: islex/461/461_19.mp3
+    with article:
+      nominative: drykkirnir
+      nominative_translation: the drinks
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: drykkina
+      dative: drykkjunum
+      genitive: drykkjanna
+id: 885
+gender: masculine

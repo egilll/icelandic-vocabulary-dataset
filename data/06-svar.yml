@@ -1,0 +1,45 @@
+word: svar
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: svar
+      nominative_translation: answer
+      nominative_sound: islex/480/480_98.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: svar
+      accusative_sound: islex/480/480_98.mp3
+      dative: svari
+      genitive: svars
+    with article:
+      nominative: svarið
+      nominative_translation: the answer
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: svarið
+      dative: svarinu
+      genitive: svarsins
+  plural:
+    no article:
+      nominative: svör
+      nominative_translation: answers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: svör
+      dative: svörum
+      genitive: svara
+      genitive_sound: islex/188/188_02.mp3
+    with article:
+      nominative: svörin
+      nominative_translation: the answers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: svörin
+      dative: svörunum
+      genitive: svaranna
+id: 1786
+gender: neuter

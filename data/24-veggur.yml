@@ -1,0 +1,47 @@
+word: veggur
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: veggur
+      nominative_translation: a wall
+      nominative_sound: islex/260/260_98.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vegg
+      dative: vegg
+      genitive: veggjar
+      genitive_alternative:
+        - veggs
+    with article:
+      nominative: veggurinn
+      nominative_translation: the wall
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vegginn
+      dative: veggnum
+      genitive: veggjarins
+      genitive_alternative:
+        - veggsins
+  plural:
+    no article:
+      nominative: veggir
+      nominative_translation: walls
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: veggi
+      dative: veggjum
+      genitive: veggja
+    with article:
+      nominative: veggirnir
+      nominative_translation: the walls
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: veggina
+      dative: veggjunum
+      genitive: veggjanna
+id: 1900
+gender: masculine

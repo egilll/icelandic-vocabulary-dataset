@@ -1,0 +1,27 @@
+word: snjóbretti
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: snjóbretti
+      nominative_translation: a snowboard
+      nominative_sound: islex/285/285_45.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snjóbretti
+      accusative_sound: islex/285/285_45.mp3
+      dative: snjóbretti
+      dative_sound: islex/285/285_45.mp3
+      genitive: snjóbrettis
+    with article:
+      nominative: snjóbrettið
+      nominative_translation: the snowboard
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: snjóbrettið
+      dative: snjóbrettinu
+      genitive: snjóbrettisins
+id: 1692
+gender: neuter

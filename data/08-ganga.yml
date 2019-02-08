@@ -1,0 +1,59 @@
+word: ganga
+level: 8
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] ganga'
+    infinitive_translation: to walk
+    infinitive_sound: islex/076/076_00.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] geng'
+          1st person_translation: I walk
+          1st person_teach: true
+          2nd person: '[þú] gengur'
+          2nd person_translation: you¹ walk
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] gengur'
+          3rd person_translation: he/she/it walks
+          3rd person_teach: true
+        plural:
+          1st person: '[við] göngum'
+          1st person_translation: we walk
+          1st person_teach: true
+          2nd person: '[þið] gangið'
+          2nd person_translation: you² walk
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] ganga'
+          3rd person_translation: they walk
+          3rd person_sound: islex/076/076_00.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] gekk'
+          1st person_translation: I walked
+          1st person_teach: true
+          2nd person: '[þú] gekkst'
+          2nd person_translation: you¹ walked
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] gekk'
+          3rd person_translation: he/she/it walked
+          3rd person_teach: true
+        plural:
+          1st person: '[við] gengum'
+          1st person_translation: we walked
+          1st person_teach: true
+          2nd person: '[þið] genguð'
+          2nd person_translation: you² walked
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] gengu'
+          3rd person_translation: they walked
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] gengið'
+    active voice_translation: I have walked
+    active voice_teach: true
+id: 2118
+strong_verb_declension: true

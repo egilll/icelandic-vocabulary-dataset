@@ -1,0 +1,44 @@
+word: kveðja
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kveðja
+      nominative_translation: a greeting; farewell
+      nominative_sound: islex/113/113_52.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kveðju
+      dative: kveðju
+      genitive: kveðju
+    with article:
+      nominative: kveðjan
+      nominative_translation: the greeting; the farewell
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kveðjuna
+      dative: kveðjunni
+      genitive: kveðjunnar
+  plural:
+    no article:
+      nominative: kveðjur
+      nominative_translation: greetings; farewells
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kveðjur
+      dative: kveðjum
+      genitive: kveðja
+      genitive_sound: islex/113/113_52.mp3
+    with article:
+      nominative: kveðjurnar
+      nominative_translation: the greetings; the farewells
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kveðjurnar
+      dative: kveðjunum
+      genitive: kveðjanna
+id: 1275
+gender: feminine

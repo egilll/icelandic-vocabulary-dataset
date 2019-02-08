@@ -1,0 +1,25 @@
+word: stig
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stig
+      nominative_translation: level; a point (in a competition)
+      nominative_sound: islex/209/209_09.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: stigið
+      nominative_translation: the level; the point (in a competition)
+      nominative_teach: true
+      nominative_teachtable: false
+  plural:
+    with article:
+      nominative: stigin
+      nominative_translation: the points (in a competition)
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1743
+gender: neuter

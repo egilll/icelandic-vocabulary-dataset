@@ -1,0 +1,10 @@
+word: kynna
+level: 20
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] kynna'
+    infinitive_translation: 'to present, to introduce'
+    infinitive_sound: islex/060/060_31.mp3
+    infinitive_teach: true
+id: 2199

@@ -1,0 +1,25 @@
+word: rigning
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rigning
+      nominative_translation: rain
+      nominative_sound: islex/443/443_19.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rigningu
+      dative: rigningu
+      genitive: rigningar
+    with article:
+      nominative: rigningin
+      nominative_translation: the rain
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rigninguna
+      dative: rigningunni
+      genitive: rigningarinnar
+id: 1559
+gender: feminine

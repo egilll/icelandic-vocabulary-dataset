@@ -1,0 +1,9 @@
+word: að leika sér
+level: 32
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive_translation: to play
+    infinitive_teach: true
+id: 2214
+strong_verb_declension: true

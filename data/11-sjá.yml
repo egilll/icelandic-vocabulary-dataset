@@ -1,0 +1,62 @@
+word: sjá
+level: 11
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] sjá'
+    infinitive_translation: to see
+    infinitive_sound: islex/130/130_87.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] sé'
+          1st person_translation: I see
+          1st person_teach: true
+          2nd person: '[þú] sérð'
+          2nd person_translation: you¹ see
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sér'
+          3rd person_translation: he/she/it sees
+          3rd person_sound: islex/112/112_63.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sjáum'
+          1st person_translation: we see
+          1st person_teach: true
+          2nd person: '[þið] sjáið'
+          2nd person_translation: you² see
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sjá'
+          3rd person_translation: they see
+          3rd person_sound: islex/130/130_87.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] sá'
+          1st person_translation: I saw
+          1st person_sound: islex/039/039_99.mp3
+          1st person_teach: true
+          2nd person: '[þú] sást'
+          2nd person_translation: you¹ saw
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sá'
+          3rd person_translation: he/she/it saw
+          3rd person_sound: islex/039/039_99.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sáum'
+          1st person_translation: we saw
+          1st person_teach: true
+          2nd person: '[þið] sáuð'
+          2nd person_translation: you² saw
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sáu'
+          3rd person_translation: they saw
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] séð'
+    active voice_translation: I have seen
+    active voice_teach: true
+id: 2321
+strong_verb_declension: true

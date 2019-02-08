@@ -1,0 +1,26 @@
+word: fundur
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fundur
+      nominative_translation: a meeting
+      nominative_sound: islex/454/454_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fund
+      dative: fundi
+      genitive: fundar
+    with article:
+      nominative: fundurinn
+      nominative_translation: the meeting
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fundinn
+      accusative_sound: islex/139/139_72.mp3
+      dative: fundinum
+      genitive: fundarins
+id: 997
+gender: masculine

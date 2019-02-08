@@ -1,0 +1,31 @@
+word: rödd
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rödd
+      nominative_translation: a voice
+      nominative_sound: islex/298/298_48.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rödd
+      accusative_sound: islex/298/298_48.mp3
+      accusative_alternative:
+        - röddu
+      dative: rödd
+      dative_sound: islex/298/298_48.mp3
+      dative_alternative:
+        - röddu
+      genitive: raddar
+    with article:
+      nominative: röddin
+      nominative_translation: the voice
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: röddina
+      dative: röddinni
+      genitive: raddarinnar
+id: 1567
+gender: feminine

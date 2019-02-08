@@ -1,0 +1,32 @@
+word: fatta
+level: 20
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] fatta'
+    infinitive_translation: to realize
+    infinitive_sound: islex/328/328_54.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] fattaði'
+          1st person_translation: I realized
+          1st person_teach: true
+          2nd person: '[þú] fattaðir'
+          2nd person_translation: you¹ realized
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] fattaði'
+          3rd person_translation: he/she/it realized
+          3rd person_teach: true
+        plural:
+          1st person: '[við] föttuðum'
+          1st person_translation: we realized
+          1st person_teach: true
+          2nd person: '[þið] föttuðuð'
+          2nd person_translation: you² realized
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] föttuðu'
+          3rd person_translation: they realized
+          3rd person_teach: true
+id: 2095

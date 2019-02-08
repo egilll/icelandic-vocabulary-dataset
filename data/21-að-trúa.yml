@@ -1,0 +1,51 @@
+word: að trúa
+level: 21
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] trúa'
+    infinitive_translation: to believe
+    infinitive_sound: islex/364/364_43.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] trúi'
+          1st person_translation: I believe
+          1st person_teach: true
+          2nd person: '[þú] trúir'
+          2nd person_translation: you¹ believe
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] trúir'
+          3rd person_translation: he/she/it believes
+          3rd person_teach: true
+        plural:
+          1st person: '[við] trúum'
+          1st person_translation: we believe
+          1st person_teach: true
+          2nd person: '[þið] trúið'
+          2nd person_translation: you² believe
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] trúa'
+          3rd person_translation: they believe
+          3rd person_sound: islex/364/364_43.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] trúði'
+          1st person_translation: I believed
+          1st person_teach: true
+          2nd person: '[þú] trúðir'
+          2nd person_translation: you¹ believed
+          2nd person_teach: true
+          2nd person_teachtable: false
+        plural:
+          1st person: '[við] trúðum'
+          1st person_translation: we believed
+          1st person_teach: true
+          1st person_teachtable: false
+  supine:
+    active voice: '[ég hef] trúað'
+    active voice_translation: I have believed
+    active voice_teach: true
+id: 2001

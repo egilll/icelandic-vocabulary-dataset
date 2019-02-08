@@ -1,0 +1,45 @@
+word: staðreynd
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: staðreynd
+      nominative_translation: a fact
+      nominative_sound: islex/181/181_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: staðreynd
+      accusative_sound: islex/181/181_04.mp3
+      dative: staðreynd
+      dative_sound: islex/181/181_04.mp3
+      genitive: staðreyndar
+    with article:
+      nominative: staðreyndin
+      nominative_translation: the fact
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: staðreyndina
+      dative: staðreyndinni
+      genitive: staðreyndarinnar
+  plural:
+    no article:
+      nominative: staðreyndir
+      nominative_translation: facts
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: staðreyndir
+      dative: staðreyndum
+      genitive: staðreynda
+    with article:
+      nominative: staðreyndirnar
+      nominative_translation: the facts
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: staðreyndirnar
+      dative: staðreyndunum
+      genitive: staðreyndanna
+id: 1727
+gender: feminine

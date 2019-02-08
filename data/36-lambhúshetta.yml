@@ -1,0 +1,25 @@
+word: lambhúshetta
+level: 36
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lambhúshetta
+      nominative_translation: a balaclava
+      nominative_sound: islex/319/319_33.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lambhúshettu
+      dative: lambhúshettu
+      genitive: lambhúshettu
+    with article:
+      nominative: lambhúshettan
+      nominative_translation: the balaclava
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lambhúshettuna
+      dative: lambhúshettunni
+      genitive: lambhúshettunnar
+id: 1292
+gender: feminine

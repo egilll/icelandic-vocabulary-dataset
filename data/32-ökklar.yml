@@ -1,0 +1,43 @@
+word: ökklar
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ökkli
+      nominative_translation: ankle
+      nominative_sound: islex/049/049_59.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ökkla
+      dative: ökkla
+      genitive: ökkla
+    with article:
+      nominative: ökklinn
+      nominative_translation: the ankle
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ökklann
+      dative: ökklanum
+      genitive: ökklans
+  plural:
+    no article:
+      nominative: ökklar
+      nominative_translation: ankles
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ökkla
+      dative: ökklum
+      genitive: ökkla
+    with article:
+      nominative: ökklarnir
+      nominative_translation: the ankles
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ökklana
+      dative: ökklunum
+      genitive: ökklanna
+id: 1465
+gender: masculine

@@ -1,0 +1,26 @@
+word: vor
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vor
+      nominative_translation: spring (season)
+      nominative_sound: islex/156/156_78.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vor
+      accusative_sound: islex/156/156_78.mp3
+      dative: vori
+      genitive: vors
+    with article:
+      nominative: vorið
+      nominative_translation: the spring (season)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vorið
+      dative: vorinu
+      genitive: vorsins
+id: 1944
+gender: neuter

@@ -1,0 +1,48 @@
+word: fáni
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fáni
+      nominative_translation: a flag
+      nominative_sound: islex/042/042_95.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fána
+      accusative_sound: islex/290/290_56.mp3
+      dative: fána
+      dative_sound: islex/290/290_56.mp3
+      genitive: fána
+      genitive_sound: islex/290/290_56.mp3
+    with article:
+      nominative: fáninn
+      nominative_translation: the flag
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fánann
+      dative: fánanum
+      genitive: fánans
+  plural:
+    no article:
+      nominative: fánar
+      nominative_translation: flags
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fána
+      accusative_sound: islex/290/290_56.mp3
+      dative: fánum
+      genitive: fána
+      genitive_sound: islex/290/290_56.mp3
+    with article:
+      nominative: fánarnir
+      nominative_translation: the flags
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fánana
+      dative: fánunum
+      genitive: fánanna
+id: 928
+gender: masculine

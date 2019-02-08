@@ -1,0 +1,43 @@
+word: kafli
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kafli
+      nominative_translation: a chapter
+      nominative_sound: islex/153/153_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kafla
+      dative: kafla
+      genitive: kafla
+    with article:
+      nominative: kaflinn
+      nominative_translation: the chapter
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kaflann
+      dative: kaflanum
+      genitive: kaflans
+  plural:
+    no article:
+      nominative: kaflar
+      nominative_translation: chapters
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kafla
+      dative: köflum
+      genitive: kafla
+    with article:
+      nominative: kaflarnir
+      nominative_translation: the chapters
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kaflana
+      dative: köflunum
+      genitive: kaflanna
+id: 1210
+gender: masculine

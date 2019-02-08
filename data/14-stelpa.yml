@@ -1,0 +1,43 @@
+word: stelpa
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stelpa
+      nominative_translation: a girl
+      nominative_sound: islex/115/115_52.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stelpu
+      dative: stelpu
+      genitive: stelpu
+    with article:
+      nominative: stelpan
+      nominative_translation: the girl
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stelpuna
+      dative: stelpunni
+      genitive: stelpunnar
+  plural:
+    no article:
+      nominative: stelpur
+      nominative_translation: girls
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stelpur
+      dative: stelpum
+      genitive: stelpna
+    with article:
+      nominative: stelpurnar
+      nominative_translation: the girls
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stelpurnar
+      dative: stelpunum
+      genitive: stelpnanna
+id: 1741
+gender: feminine

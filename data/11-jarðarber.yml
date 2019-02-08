@@ -1,0 +1,26 @@
+word: jarðarber
+level: 11
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: jarðarber
+      nominative_translation: strawberries
+      nominative_sound: islex/261/261_89.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: jarðarber
+      accusative_sound: islex/261/261_89.mp3
+      dative: jarðarberjum
+      genitive: jarðarberja
+    with article:
+      nominative: jarðarberin
+      nominative_translation: the strawberries
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: jarðarberin
+      dative: jarðarberjunum
+      genitive: jarðarberjanna
+id: 1195
+gender: neuter

@@ -1,0 +1,16 @@
+word: prenta
+level: 20
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] prenta'
+    infinitive_translation: to print
+    infinitive_sound: islex/057/057_22.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] prentaði'
+          1st person_translation: I printed
+          1st person_teach: true
+id: 2277

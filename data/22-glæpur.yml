@@ -1,0 +1,43 @@
+word: glæpur
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: glæpur
+      nominative_translation: a crime
+      nominative_sound: islex/125/125_74.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: glæp
+      dative: glæp
+      genitive: glæps
+    with article:
+      nominative: glæpurinn
+      nominative_translation: the crime
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: glæpinn
+      dative: glæpnum
+      genitive: glæpsins
+  plural:
+    no article:
+      nominative: glæpir
+      nominative_translation: crimes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: glæpi
+      dative: glæpum
+      genitive: glæpa
+    with article:
+      nominative: glæpirnir
+      nominative_translation: the crimes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: glæpina
+      dative: glæpunum
+      genitive: glæpanna
+id: 1029
+gender: masculine

@@ -1,0 +1,32 @@
+word: deila
+level: 28
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] deila'
+    infinitive_translation: to share; to divide
+    infinitive_sound: islex/183/183_66.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] deildi'
+          1st person_translation: I shared; I divided
+          1st person_teach: true
+          2nd person: '[þú] deildir'
+          2nd person_translation: you¹ shared; you¹ divided
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] deildi'
+          3rd person_translation: he/she/it shared; he/she/it divided
+          3rd person_teach: true
+        plural:
+          1st person: '[við] deildum'
+          1st person_translation: we shared; we divided
+          1st person_teach: true
+          2nd person: '[þið] deilduð'
+          2nd person_translation: you² shared; you² divided
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] deildu'
+          3rd person_translation: they shared; they divided
+          3rd person_teach: true
+id: 2066

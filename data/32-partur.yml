@@ -1,0 +1,20 @@
+word: partur
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: partur
+      nominative_translation: a part of
+      nominative_sound: islex/408/408_71.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: parturinn
+      nominative_translation: the part of
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1488
+gender: masculine
+recognizable: '1'

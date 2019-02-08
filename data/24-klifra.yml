@@ -1,0 +1,10 @@
+word: klifra
+level: 24
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] klifra'
+    infinitive_translation: to climb
+    infinitive_sound: islex/342/342_10.mp3
+    infinitive_teach: true
+id: 2187

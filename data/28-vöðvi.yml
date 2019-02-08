@@ -1,0 +1,43 @@
+word: vöðvi
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vöðvi
+      nominative_translation: a muscle
+      nominative_sound: islex/220/220_71.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vöðva
+      dative: vöðva
+      genitive: vöðva
+    with article:
+      nominative: vöðvinn
+      nominative_translation: the muscle
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vöðvann
+      dative: vöðvanum
+      genitive: vöðvans
+  plural:
+    no article:
+      nominative: vöðvar
+      nominative_translation: muscles
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vöðva
+      dative: vöðvum
+      genitive: vöðva
+    with article:
+      nominative: vöðvarnir
+      nominative_translation: the muscles
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vöðvana
+      dative: vöðvunum
+      genitive: vöðvanna
+id: 1940
+gender: masculine

@@ -1,0 +1,32 @@
+word: eignast
+level: 32
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] eignast'
+    infinitive_translation: to acquire
+    infinitive_sound: islex/335/335_73.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] eignaðist'
+          1st person_translation: I acquired
+          1st person_teach: true
+          2nd person: '[þú] eignaðist'
+          2nd person_translation: you¹ acquired
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] eignaðist'
+          3rd person_translation: he/she/it acquired
+          3rd person_teach: true
+        plural:
+          1st person: '[við] eignuðumst'
+          1st person_translation: we acquired
+          1st person_teach: true
+          2nd person: '[þið] eignuðust'
+          2nd person_translation: you² acquired
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] eignuðust'
+          3rd person_translation: they acquired
+          3rd person_teach: true
+id: 2082

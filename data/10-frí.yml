@@ -1,0 +1,26 @@
+word: frí
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: frí
+      nominative_translation: a vacation
+      nominative_sound: islex/236/236_71.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: frí
+      accusative_sound: islex/236/236_71.mp3
+      dative: fríi
+      genitive: frís
+    with article:
+      nominative: fríið
+      nominative_translation: the vacation
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fríið
+      dative: fríinu
+      genitive: frísins
+id: 991
+gender: neuter

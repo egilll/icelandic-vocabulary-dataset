@@ -1,0 +1,26 @@
+word: tónleikar
+level: 6
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: tónleikar
+      nominative_translation: a concert
+      nominative_sound: islex/131/131_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: tone-playings
+      accusative: tónleika
+      dative: tónleikum
+      genitive: tónleika
+    with article:
+      nominative: tónleikarnir
+      nominative_translation: the concert
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tónleikana
+      dative: tónleikunum
+      genitive: tónleikanna
+id: 1844
+gender: masculine

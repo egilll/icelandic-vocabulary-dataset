@@ -1,0 +1,37 @@
+word: klipping
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: klipping
+      nominative_translation: a haircut
+      nominative_sound: islex/307/307_59.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: klippingu
+      dative: klippingu
+      genitive: klippingar
+    with article:
+      nominative: klippingin
+      nominative_translation: the haircut
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: klippinguna
+      dative: klippingunni
+      genitive: klippingarinnar
+  plural:
+    no article:
+      nominative: klippingar
+      nominative_translation: haircuts
+      nominative_teach: false
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: klippingarnar
+      nominative_translation: the haircuts
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1246
+gender: feminine

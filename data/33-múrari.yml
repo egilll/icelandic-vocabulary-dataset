@@ -1,0 +1,25 @@
+word: múrari
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: múrari
+      nominative_translation: 'a mason, a bricklayer'
+      nominative_sound: islex/292/292_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: múrara
+      dative: múrara
+      genitive: múrara
+    with article:
+      nominative: múrarinn
+      nominative_translation: 'the mason, the bricklayer'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: múrarann
+      dative: múraranum
+      genitive: múrarans
+id: 1424
+gender: masculine

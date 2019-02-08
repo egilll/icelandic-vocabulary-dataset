@@ -1,0 +1,48 @@
+word: tími
+level: 2
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tími
+      nominative_translation: time; an hour; a class
+      nominative_sound: islex/056/056_71.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tíma
+      accusative_sound: islex/097/097_65.mp3
+      dative: tíma
+      dative_sound: islex/097/097_65.mp3
+      genitive: tíma
+      genitive_sound: islex/097/097_65.mp3
+    with article:
+      nominative: tíminn
+      nominative_translation: the time; the hour; the class
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tímann
+      dative: tímanum
+      genitive: tímans
+  plural:
+    no article:
+      nominative: tímar
+      nominative_translation: hours; classes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tíma
+      accusative_sound: islex/097/097_65.mp3
+      dative: tímum
+      genitive: tíma
+      genitive_sound: islex/097/097_65.mp3
+    with article:
+      nominative: tímarnir
+      nominative_translation: the hours; the classes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tímana
+      dative: tímunum
+      genitive: tímanna
+id: 1835
+gender: masculine

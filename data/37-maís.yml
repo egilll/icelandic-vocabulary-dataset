@@ -1,0 +1,27 @@
+word: maís
+level: 37
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: maís
+      nominative_translation: 'corn, maize'
+      nominative_sound: islex/442/442_42.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: maís
+      accusative_sound: islex/442/442_42.mp3
+      dative: maís
+      dative_sound: islex/442/442_42.mp3
+      genitive: maíss
+    with article:
+      nominative: maísinn
+      nominative_translation: 'the corn, the maize'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: maísinn
+      dative: maísnum
+      genitive: maíssins
+id: 1373
+gender: masculine

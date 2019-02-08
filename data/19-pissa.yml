@@ -1,0 +1,22 @@
+word: pissa
+level: 19
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] pissa'
+    infinitive_translation: to pee
+    infinitive_sound: islex/335/335_67.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] pissa'
+          1st person_translation: I pee
+          1st person_sound: islex/335/335_67.mp3
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] pissaði'
+          1st person_translation: I peed
+          1st person_teach: true
+id: 2275

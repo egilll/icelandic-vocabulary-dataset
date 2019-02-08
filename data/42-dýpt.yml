@@ -1,0 +1,20 @@
+word: dýpt
+level: 42
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dýpt
+      nominative_translation: a depth
+      nominative_sound: islex/054/054_06.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: dýptin
+      nominative_translation: the depth
+      nominative_teach: false
+      nominative_teachtable: false
+id: 892
+gender: feminine
+recognizable: '1'

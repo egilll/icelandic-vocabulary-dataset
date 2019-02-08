@@ -1,0 +1,26 @@
+word: jólafrí
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: jólafrí
+      nominative_translation: christmas vacation
+      nominative_sound: islex/320/320_72.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: jólafrí
+      accusative_sound: islex/320/320_72.mp3
+      dative: jólafríi
+      genitive: jólafrís
+    with article:
+      nominative: jólafríið
+      nominative_translation: the christmas vacation
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: jólafríið
+      dative: jólafríinu
+      genitive: jólafrísins
+id: 1202
+gender: neuter

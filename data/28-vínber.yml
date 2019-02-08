@@ -1,0 +1,26 @@
+word: vínber
+level: 28
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: vínber
+      nominative_translation: grapes
+      nominative_sound: islex/168/168_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vínber
+      accusative_sound: islex/168/168_38.mp3
+      dative: vínberjum
+      genitive: vínberja
+    with article:
+      nominative: vínberin
+      nominative_translation: the grapes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vínberin
+      dative: vínberjunum
+      genitive: vínberjanna
+id: 1930
+gender: neuter

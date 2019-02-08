@@ -1,0 +1,17 @@
+word: almenningur
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: almenningur
+      nominative_translation: the public
+      nominative_sound: islex/023/023_50.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: almenning
+      dative: almenningi
+      genitive: almennings
+id: 719
+gender: masculine

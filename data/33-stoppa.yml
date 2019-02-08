@@ -1,0 +1,38 @@
+word: stoppa
+level: 33
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] stoppa'
+    infinitive_translation: to stop
+    infinitive_sound: islex/024/024_57.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] stoppa'
+          1st person_translation: I stop
+          1st person_sound: islex/024/024_57.mp3
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] stoppaði'
+          1st person_translation: I stopped
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] stoppað'
+    active voice_translation: I have stopped
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: stoppaðu!
+      singular_translation: stop!¹
+      singular_teach: true
+      plural: stoppið!
+      plural_translation: stop!²
+      plural_teach: true
+id: 2382
+never_show_with: ''
+recognizable: '1'
+synonyms: stansa
+synonyms_sound: islex/318/318_71.mp3

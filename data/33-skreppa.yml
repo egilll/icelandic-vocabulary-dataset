@@ -1,0 +1,22 @@
+word: skreppa
+level: 33
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] skreppa'
+    infinitive_translation: to go on a very short trip
+    infinitive_sound: islex/142/142_80.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] skrepp'
+          1st person_translation: I go on a very short trip
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] skrapp'
+          1st person_translation: I went on a very short trip
+          1st person_teach: true
+id: 2346
+strong_verb_declension: true

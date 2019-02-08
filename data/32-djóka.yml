@@ -1,0 +1,9 @@
+word: djóka
+level: 32
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] djóka'
+    infinitive_translation: 'to be joking [slang]'
+    infinitive_teach: true
+id: 2072

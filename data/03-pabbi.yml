@@ -1,0 +1,35 @@
+word: pabbi
+level: 3
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: pabbi
+      nominative_translation: dad
+      nominative_sound: islex/337/337_29.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: pabba
+      dative: pabba
+      genitive: pabba
+  plural:
+    no article:
+      nominative: pabbar
+      nominative_translation: dads
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: pabba
+      dative: pöbbum
+      genitive: pabba
+    with article:
+      nominative: pabbarnir
+      nominative_translation: the dads
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pabbana
+      dative: pöbbunum
+      genitive: pabbanna
+id: 1480
+gender: masculine

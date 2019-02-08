@@ -1,0 +1,19 @@
+word: sítróna
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sítróna
+      nominative_translation: a lemon
+      nominative_sound: islex/285/285_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: sítrónan
+      nominative_translation: the lemon
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1621
+gender: feminine

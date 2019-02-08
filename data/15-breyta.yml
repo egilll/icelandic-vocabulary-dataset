@@ -1,0 +1,58 @@
+word: breyta
+level: 15
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] breyta'
+    infinitive_translation: to change
+    infinitive_sound: islex/110/110_76.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] breyti'
+          1st person_translation: I change
+          1st person_teach: true
+          2nd person: '[þú] breytir'
+          2nd person_translation: you¹ change
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] breytir'
+          3rd person_translation: he/she/it changes
+          3rd person_teach: true
+        plural:
+          1st person: '[við] breytum'
+          1st person_translation: we change
+          1st person_teach: true
+          2nd person: '[þið] breytið'
+          2nd person_translation: you² change
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] breyta'
+          3rd person_translation: they change
+          3rd person_sound: islex/110/110_76.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] breytti'
+          1st person_translation: I changed
+          1st person_teach: true
+          2nd person: '[þú] breyttir'
+          2nd person_translation: you¹ changed
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] breytti'
+          3rd person_translation: he/she/it changed
+          3rd person_teach: true
+        plural:
+          1st person: '[við] breyttum'
+          1st person_translation: we changed
+          1st person_teach: true
+          2nd person: '[þið] breyttuð'
+          2nd person_translation: you² changed
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] breyttu'
+          3rd person_translation: they changed
+          3rd person_teach: true
+  supine:
+    active voice: '[ég get] breytt'
+    active voice_translation: I can change
+    active voice_teach: true
+id: 2053

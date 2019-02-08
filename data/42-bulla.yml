@@ -1,0 +1,10 @@
+word: bulla
+level: 42
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] bulla'
+    infinitive_translation: to talk nonsense
+    infinitive_sound: islex/208/208_63.mp3
+    infinitive_teach: true
+id: 2059

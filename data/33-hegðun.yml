@@ -1,0 +1,24 @@
+word: hegðun
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hegðun
+      nominative_translation: behavior
+      nominative_sound: islex/032/032_17.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hegðun
+      accusative_sound: islex/032/032_17.mp3
+      dative: hegðun
+      dative_sound: islex/032/032_17.mp3
+      genitive: hegðunar
+    with article:
+      nominative: hegðunin
+      nominative_translation: the behavior
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1100
+gender: feminine

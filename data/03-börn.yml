@@ -1,0 +1,45 @@
+word: börn
+level: 3
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: barn
+      nominative_translation: a child
+      nominative_sound: islex/478/478_40.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: barn
+      accusative_sound: islex/478/478_40.mp3
+      dative: barni
+      genitive: barns
+    with article:
+      nominative: barnið
+      nominative_translation: the child
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: barnið
+      dative: barninu
+      genitive: barnsins
+  plural:
+    no article:
+      nominative: börn
+      nominative_translation: children
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: börn
+      dative: börnum
+      genitive: barna
+      genitive_sound: islex/460/460_39.mp3
+    with article:
+      nominative: börnin
+      nominative_translation: the children
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: börnin
+      dative: börnunum
+      genitive: barnanna
+id: 838
+gender: neuter

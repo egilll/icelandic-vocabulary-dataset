@@ -1,0 +1,10 @@
+word: trufla
+level: 11
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] trufla'
+    infinitive_translation: 'to disturb someone, to bother someone'
+    infinitive_sound: islex/416/416_44.mp3
+    infinitive_teach: true
+id: 2408

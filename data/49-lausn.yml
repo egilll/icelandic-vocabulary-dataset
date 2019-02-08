@@ -1,0 +1,45 @@
+word: lausn
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lausn
+      nominative_translation: a solution
+      nominative_sound: islex/405/405_32.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lausn
+      accusative_sound: islex/405/405_32.mp3
+      dative: lausn
+      dative_sound: islex/405/405_32.mp3
+      genitive: lausnar
+    with article:
+      nominative: lausnin
+      nominative_translation: the solution
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lausnina
+      dative: lausninni
+      genitive: lausnarinnar
+  plural:
+    no article:
+      nominative: lausnir
+      nominative_translation: solutions
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lausnir
+      dative: lausnum
+      genitive: lausna
+    with article:
+      nominative: lausnirnar
+      nominative_translation: the solutions
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lausnirnar
+      dative: lausnunum
+      genitive: lausnanna
+id: 1302
+gender: feminine

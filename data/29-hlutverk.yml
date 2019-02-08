@@ -1,0 +1,26 @@
+word: hlutverk
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hlutverk
+      nominative_translation: a role
+      nominative_sound: islex/186/186_70.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hlutverk
+      accusative_sound: islex/186/186_70.mp3
+      dative: hlutverki
+      genitive: hlutverks
+    with article:
+      nominative: hlutverkið
+      nominative_translation: the role
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hlutverkið
+      dative: hlutverkinu
+      genitive: hlutverksins
+id: 1140
+gender: neuter

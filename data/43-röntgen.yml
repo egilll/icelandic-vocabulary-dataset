@@ -1,0 +1,13 @@
+word: röntgen
+level: 43
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: röntgen
+      nominative_translation: an x-ray
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1569
+gender: neuter

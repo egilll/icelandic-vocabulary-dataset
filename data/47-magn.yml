@@ -1,0 +1,26 @@
+word: magn
+level: 47
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: magn
+      nominative_translation: an amount
+      nominative_sound: islex/251/251_73.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: magn
+      accusative_sound: islex/251/251_73.mp3
+      dative: magni
+      genitive: magns
+    with article:
+      nominative: magnið
+      nominative_translation: the amount
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: magnið
+      dative: magninu
+      genitive: magnsins
+id: 1371
+gender: neuter

@@ -1,0 +1,54 @@
+word: kind
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kind
+      nominative_translation: a sheep
+      nominative_sound: islex/080/080_09.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kind
+      accusative_sound: islex/080/080_09.mp3
+      dative: kind
+      dative_sound: islex/080/080_09.mp3
+      genitive: kindar
+    with article:
+      nominative: kindin
+      nominative_translation: the sheep
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kindina
+      dative: kindinni
+      genitive: kindarinnar
+  plural:
+    no article:
+      nominative: kindur
+      nominative_translation: sheep
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - kindir
+      accusative: kindur
+      accusative_alternative:
+        - kindir
+      dative: kindum
+      genitive: kinda
+    with article:
+      nominative: kindurnar
+      nominative_translation: the sheep
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - kindirnar
+      accusative: kindurnar
+      accusative_alternative:
+        - kindirnar
+      dative: kindunum
+      genitive: kindanna
+id: 1233
+teach_the_difference: góður
+gender: feminine

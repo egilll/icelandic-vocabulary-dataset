@@ -1,0 +1,31 @@
+word: skúffa
+level: 47
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skúffa
+      nominative_translation: a drawer
+      nominative_sound: islex/042/042_13.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skúffu
+      dative: skúffu
+      genitive: skúffu
+    with article:
+      nominative: skúffan
+      nominative_translation: the drawer
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skúffuna
+      dative: skúffunni
+      genitive: skúffunnar
+  plural:
+    with article:
+      nominative: skúffurnar
+      nominative_translation: the drawers
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1664
+gender: feminine

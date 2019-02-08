@@ -1,0 +1,47 @@
+word: hilla
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hilla
+      nominative_translation: a shelf
+      nominative_sound: islex/280/280_43.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hillu
+      dative: hillu
+      genitive: hillu
+    with article:
+      nominative: hillan
+      nominative_translation: the shelf
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hilluna
+      dative: hillunni
+      genitive: hillunnar
+  plural:
+    no article:
+      nominative: hillur
+      nominative_translation: shelves
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hillur
+      dative: hillum
+      genitive: hillna
+      genitive_alternative:
+        - hilla
+    with article:
+      nominative: hillurnar
+      nominative_translation: the shelves
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hillurnar
+      dative: hillunum
+      genitive: hillnanna
+      genitive_alternative:
+        - hillanna
+id: 1119
+gender: feminine

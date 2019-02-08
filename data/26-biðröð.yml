@@ -1,0 +1,27 @@
+word: biðröð
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: biðröð
+      nominative_translation: a queue
+      nominative_sound: islex/293/293_34.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: biðröð
+      accusative_sound: islex/293/293_34.mp3
+      dative: biðröð
+      dative_sound: islex/293/293_34.mp3
+      genitive: biðraðar
+    with article:
+      nominative: biðröðin
+      nominative_translation: the queue
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: biðröðina
+      dative: biðröðinni
+      genitive: biðraðarinnar
+id: 791
+gender: feminine

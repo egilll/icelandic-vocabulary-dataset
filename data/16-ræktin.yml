@@ -1,0 +1,15 @@
+word: ræktin
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: ræktin
+      nominative_translation: the gym
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ræktina
+      dative: ræktinni
+      genitive: ræktarinnar
+id: 1534
+gender: feminine

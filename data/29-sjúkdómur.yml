@@ -1,0 +1,27 @@
+word: sjúkdómur
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sjúkdómur
+      nominative_translation: 'a disease, an illness'
+      nominative_sound: islex/149/149_55.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sjúkdóm
+      dative: sjúkdómi
+      genitive: sjúkdóms
+    with article:
+      nominative: sjúkdómurinn
+      nominative_translation: 'the disease, the illness'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sjúkdóminn
+      dative: sjúkdómnum
+      dative_alternative:
+        - sjúkdóminum
+      genitive: sjúkdómsins
+id: 1626
+gender: masculine

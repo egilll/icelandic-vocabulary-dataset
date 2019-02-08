@@ -1,0 +1,10 @@
+word: lána
+level: 19
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] lána'
+    infinitive_translation: to lend
+    infinitive_sound: islex/281/281_26.mp3
+    infinitive_teach: true
+id: 2208

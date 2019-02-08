@@ -1,0 +1,27 @@
+word: hönnun
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hönnun
+      nominative_translation: a design
+      nominative_sound: islex/270/270_99.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hönnun
+      accusative_sound: islex/270/270_99.mp3
+      dative: hönnun
+      dative_sound: islex/270/270_99.mp3
+      genitive: hönnunar
+    with article:
+      nominative: hönnunin
+      nominative_translation: the design
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hönnunina
+      dative: hönnuninni
+      genitive: hönnunarinnar
+id: 1154
+gender: feminine

@@ -1,0 +1,26 @@
+word: leikrit
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: leikrit
+      nominative_translation: 'a theater piece, a play'
+      nominative_sound: islex/349/349_26.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leikrit
+      accusative_sound: islex/349/349_26.mp3
+      dative: leikriti
+      genitive: leikrits
+    with article:
+      nominative: leikritið
+      nominative_translation: 'the theater piece, the play'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leikritið
+      dative: leikritinu
+      genitive: leikritsins
+id: 1312
+gender: neuter

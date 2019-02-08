@@ -1,0 +1,47 @@
+word: gúrka
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gúrka
+      nominative_translation: a cucumber
+      nominative_sound: islex/397/397_53.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gúrku
+      dative: gúrku
+      genitive: gúrku
+    with article:
+      nominative: gúrkan
+      nominative_translation: the cucumber
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gúrkuna
+      dative: gúrkunni
+      genitive: gúrkunnar
+  plural:
+    no article:
+      nominative: gúrkur
+      nominative_translation: cucumbers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gúrkur
+      dative: gúrkum
+      genitive: gúrkna
+      genitive_alternative:
+        - gúrka
+    with article:
+      nominative: gúrkurnar
+      nominative_translation: the cucumbers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gúrkurnar
+      dative: gúrkunum
+      genitive: gúrknanna
+      genitive_alternative:
+        - gúrkanna
+id: 1063
+gender: feminine

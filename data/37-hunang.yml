@@ -1,0 +1,26 @@
+word: hunang
+level: 37
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hunang
+      nominative_translation: honey
+      nominative_sound: islex/391/391_62.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hunang
+      accusative_sound: islex/391/391_62.mp3
+      dative: hunangi
+      genitive: hunangs
+    with article:
+      nominative: hunangið
+      nominative_translation: the honey
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hunangið
+      dative: hunanginu
+      genitive: hunangsins
+id: 1175
+gender: neuter

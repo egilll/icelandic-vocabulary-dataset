@@ -1,0 +1,27 @@
+word: hljómsveit
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hljómsveit
+      nominative_translation: 'a band, a musical group'
+      nominative_sound: islex/031/031_66.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hljómsveit
+      accusative_sound: islex/031/031_66.mp3
+      dative: hljómsveit
+      dative_sound: islex/031/031_66.mp3
+      genitive: hljómsveitar
+    with article:
+      nominative: hljómsveitin
+      nominative_translation: 'the band, the musical group'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hljómsveitina
+      dative: hljómsveitinni
+      genitive: hljómsveitarinnar
+id: 1138
+gender: feminine

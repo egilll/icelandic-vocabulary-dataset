@@ -1,0 +1,44 @@
+word: króna
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: króna
+      nominative_translation: krona (the Icelandic currency)
+      nominative_sound: islex/095/095_59.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: krónu
+      dative: krónu
+      genitive: krónu
+    with article:
+      nominative: krónan
+      nominative_translation: the krona (the Icelandic currency)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: krónuna
+      dative: krónunni
+      genitive: krónunnar
+  plural:
+    no article:
+      nominative: krónur
+      nominative_translation: kronas (the Icelandic currency)
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: krónur
+      dative: krónum
+      genitive: króna
+      genitive_sound: islex/095/095_59.mp3
+    with article:
+      nominative: krónurnar
+      nominative_translation: the kronas (the Icelandic currency)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: krónurnar
+      dative: krónunum
+      genitive: krónanna
+id: 1272
+gender: feminine

@@ -1,0 +1,11 @@
+word: hlýna
+level: 49
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hlýna'
+    infinitive_translation: to get warmer
+    infinitive_sound: islex/338/338_48.mp3
+    infinitive_teach: true
+    infinitive_note: When discussing the weather
+id: 2160

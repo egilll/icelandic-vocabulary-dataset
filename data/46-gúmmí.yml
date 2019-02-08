@@ -1,0 +1,19 @@
+word: gúmmí
+level: 46
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gúmmí
+      nominative_translation: rubber; gummi candy
+      nominative_sound: islex/473/473_88.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: gúmmíið
+      nominative_translation: the rubber; the gummi candy
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1061
+gender: neuter

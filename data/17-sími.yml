@@ -1,0 +1,48 @@
+word: sími
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sími
+      nominative_translation: a phone
+      nominative_sound: islex/104/104_75.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: síma
+      accusative_sound: islex/033/033_15.mp3
+      dative: síma
+      dative_sound: islex/033/033_15.mp3
+      genitive: síma
+      genitive_sound: islex/033/033_15.mp3
+    with article:
+      nominative: síminn
+      nominative_translation: the phone
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: símann
+      dative: símanum
+      genitive: símans
+  plural:
+    no article:
+      nominative: símar
+      nominative_translation: phones
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: síma
+      accusative_sound: islex/033/033_15.mp3
+      dative: símum
+      genitive: síma
+      genitive_sound: islex/033/033_15.mp3
+    with article:
+      nominative: símarnir
+      nominative_translation: the phones
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: símana
+      dative: símunum
+      genitive: símanna
+id: 2318
+gender: masculine

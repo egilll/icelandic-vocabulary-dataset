@@ -1,0 +1,27 @@
+word: þjóð
+level: 25
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þjóð
+      nominative_translation: a nation
+      nominative_sound: islex/142/142_89.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þjóð
+      accusative_sound: islex/142/142_89.mp3
+      dative: þjóð
+      dative_sound: islex/142/142_89.mp3
+      genitive: þjóðar
+    with article:
+      nominative: þjóðin
+      nominative_translation: the nation
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þjóðina
+      dative: þjóðinni
+      genitive: þjóðarinnar
+id: 1955
+gender: feminine

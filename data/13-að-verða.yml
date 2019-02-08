@@ -1,0 +1,62 @@
+word: að verða
+level: 13
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] verða'
+    infinitive_translation: to become; to need to
+    infinitive_sound: islex/466/466_57.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] verð'
+          1st person_translation: I become; I need to
+          1st person_sound: islex/338/338_69.mp3
+          1st person_teach: true
+          2nd person: '[þú] verður'
+          2nd person_translation: you¹ become; you¹ need to
+          2nd person_sound: islex/045/045_86.mp3
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] verður'
+          3rd person_translation: he/she/it becomes; he/she/it needs to
+          3rd person_sound: islex/045/045_86.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] verðum'
+          1st person_translation: we become; we need to
+          1st person_teach: true
+          2nd person: '[þið] verðið'
+          2nd person_translation: you² become; you² need to
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] verða'
+          3rd person_translation: they become; they need to
+          3rd person_sound: islex/466/466_57.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] varð'
+          1st person_translation: I became; I needed to
+          1st person_teach: true
+          2nd person: '[þú] varðst'
+          2nd person_translation: you¹ became; you¹ needed to
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] varð'
+          3rd person_translation: he/she/it became; he/she/it needed to
+          3rd person_teach: true
+        plural:
+          1st person: '[við] urðum'
+          1st person_translation: we became; we needed to
+          1st person_teach: true
+          2nd person: '[þið] urðuð'
+          2nd person_translation: you² became; you² needed to
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] urðu'
+          3rd person_translation: they became; they needed to
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] orðið'
+    active voice_translation: I have become; I have needed
+    active voice_teach: true
+id: 2006
+strong_verb_declension: true

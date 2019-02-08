@@ -1,0 +1,26 @@
+word: slúður
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: slúður
+      nominative_translation: gossip
+      nominative_sound: islex/324/324_39.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: slúður
+      accusative_sound: islex/324/324_39.mp3
+      dative: slúðri
+      genitive: slúðurs
+    with article:
+      nominative: slúðrið
+      nominative_translation: the gossip
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: slúðrið
+      dative: slúðrinu
+      genitive: slúðursins
+id: 1680
+gender: neuter

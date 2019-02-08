@@ -1,0 +1,48 @@
+word: gluggi
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gluggi
+      nominative_translation: a window
+      nominative_sound: islex/440/440_75.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: glugga
+      accusative_sound: islex/069/069_96.mp3
+      dative: glugga
+      dative_sound: islex/069/069_96.mp3
+      genitive: glugga
+      genitive_sound: islex/069/069_96.mp3
+    with article:
+      nominative: glugginn
+      nominative_translation: the window
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gluggann
+      dative: glugganum
+      genitive: gluggans
+  plural:
+    no article:
+      nominative: gluggar
+      nominative_translation: windows
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: glugga
+      accusative_sound: islex/069/069_96.mp3
+      dative: gluggum
+      genitive: glugga
+      genitive_sound: islex/069/069_96.mp3
+    with article:
+      nominative: gluggarnir
+      nominative_translation: the windows
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gluggana
+      dative: gluggunum
+      genitive: glugganna
+id: 1035
+gender: masculine

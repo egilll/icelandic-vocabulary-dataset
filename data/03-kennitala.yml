@@ -1,0 +1,22 @@
+word: kennitala
+level: 3
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kennitala
+      nominative_translation: a national ID number
+      nominative_sound: islex/310/310_80.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kennitölu
+      dative: kennitölu
+      genitive: kennitölu
+    with article:
+      nominative: kennitalan
+      nominative_translation: the national ID number
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1228
+gender: feminine

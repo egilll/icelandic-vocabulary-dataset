@@ -1,0 +1,43 @@
+word: blaðamaður
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: blaðamaður
+      nominative_translation: a journalist
+      nominative_sound: islex/447/447_95.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blaðamann
+      dative: blaðamanni
+      genitive: blaðamanns
+    with article:
+      nominative: blaðamaðurinn
+      nominative_translation: the journalist
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blaðamanninn
+      dative: blaðamanninum
+      genitive: blaðamannsins
+  plural:
+    no article:
+      nominative: blaðamenn
+      nominative_translation: journalists
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blaðamenn
+      dative: blaðamönnum
+      genitive: blaðamanna
+    with article:
+      nominative: blaðamennirnir
+      nominative_translation: the journalists
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blaðamennina
+      dative: blaðamönnunum
+      genitive: blaðamannanna
+id: 807
+gender: masculine

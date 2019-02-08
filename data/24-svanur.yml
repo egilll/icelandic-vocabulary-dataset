@@ -1,0 +1,26 @@
+word: svanur
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: svanur
+      nominative_translation: a swan
+      nominative_sound: islex/307/307_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: svan
+      dative: svani
+      genitive: svans
+    with article:
+      nominative: svanurinn
+      nominative_translation: the swan
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: svaninn
+      dative: svaninum
+      genitive: svansins
+id: 1785
+gender: masculine
+recognizable: '1'

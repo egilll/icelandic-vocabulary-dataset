@@ -1,0 +1,80 @@
+word: vilja
+level: 3
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] vilja'
+    infinitive_translation: to want
+    infinitive_sound: islex/202/202_28.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] vil'
+          1st person_translation: I want
+          1st person_sound: islex/158/158_56.mp3
+          1st person_teach: true
+          2nd person: '[þú] vilt'
+          2nd person_translation: you¹ want
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] vill'
+          3rd person_translation: he/she/it wants
+          3rd person_teach: true
+        plural:
+          1st person: '[við] viljum'
+          1st person_translation: we want
+          1st person_teach: true
+          2nd person: '[þið] viljið'
+          2nd person_translation: you² want
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] vilja'
+          3rd person_translation: they want
+          3rd person_sound: islex/202/202_28.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] vildi'
+          1st person_translation: I wanted
+          1st person_teach: true
+          2nd person: '[þú] vildir'
+          2nd person_translation: you¹ wanted
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] vildi'
+          3rd person_translation: he/she/it wanted
+          3rd person_teach: true
+        plural:
+          1st person: '[við] vildum'
+          1st person_translation: we wanted
+          1st person_teach: true
+          2nd person: '[þið] vilduð'
+          2nd person_translation: you² wanted
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] vildu'
+          3rd person_translation: they wanted
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] vilji'
+          1st person_translation: I think I want
+          1st person_sound: islex/136/136_75.mp3
+          1st person_teach: true
+          2nd person: '[ég held að] [þú] viljir'
+          2nd person_translation: I think you¹ want
+          2nd person_teach: true
+          3rd person: '[ég held að] [hann/hún/það] vilji'
+          3rd person_translation: I think he/she/it wants
+          3rd person_sound: islex/136/136_75.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[ég held að] [við] viljum'
+          1st person_translation: I think we want
+          1st person_teach: true
+          2nd person: '[ég held að] [þið] viljið'
+          2nd person_translation: I think you² want
+          2nd person_teach: true
+          3rd person: '[ég held að] [þeir/þær/þau] vilji'
+          3rd person_translation: I think they want
+          3rd person_sound: islex/136/136_75.mp3
+          3rd person_teach: true
+id: 2431

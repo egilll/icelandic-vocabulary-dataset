@@ -1,0 +1,25 @@
+word: gufa
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gufa
+      nominative_translation: steam
+      nominative_sound: islex/162/162_80.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gufu
+      dative: gufu
+      genitive: gufu
+    with article:
+      nominative: gufan
+      nominative_translation: the steam
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gufuna
+      dative: gufunni
+      genitive: gufunnar
+id: 1055
+gender: feminine

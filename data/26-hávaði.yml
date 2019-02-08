@@ -1,0 +1,25 @@
+word: hávaði
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hávaði
+      nominative_translation: noise
+      nominative_sound: islex/464/464_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hávaða
+      dative: hávaða
+      genitive: hávaða
+    with article:
+      nominative: hávaðinn
+      nominative_translation: the noise
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hávaðann
+      dative: hávaðanum
+      genitive: hávaðans
+id: 1099
+gender: masculine

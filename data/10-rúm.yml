@@ -1,0 +1,27 @@
+word: rúm
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rúm
+      nominative_translation: a bed
+      nominative_sound: islex/255/255_54.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rúm
+      accusative_sound: islex/255/255_54.mp3
+      dative: rúmi
+      genitive: rúms
+    with article:
+      nominative: rúmið
+      nominative_translation: the bed
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rúmið
+      dative: rúminu
+      genitive: rúmsins
+id: 1575
+teach_the_difference: herbergi
+gender: neuter

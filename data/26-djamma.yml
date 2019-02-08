@@ -1,0 +1,10 @@
+word: djamma
+level: 26
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] djamma'
+    infinitive_translation: 'to go out partying [slang]'
+    infinitive_sound: islex/474/474_24.mp3
+    infinitive_teach: true
+id: 2071

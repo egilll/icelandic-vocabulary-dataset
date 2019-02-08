@@ -1,0 +1,27 @@
+word: undirbúa
+level: 35
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] undirbúa'
+    infinitive_translation: to prepare
+    infinitive_sound: islex/050/050_03.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] undirbý'
+          1st person_translation: I prepare
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] undirbjó'
+          1st person_translation: I prepared
+          1st person_teach: true
+  imperative:
+    active voice:
+      singular: undirbúðu!
+      singular_translation: prepare!¹
+      singular_teach: true
+id: 2411
+strong_verb_declension: true

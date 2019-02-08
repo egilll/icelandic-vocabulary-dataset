@@ -1,0 +1,45 @@
+word: rass
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rass
+      nominative_translation: 'a butt, an ass'
+      nominative_sound: islex/192/192_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rass
+      accusative_sound: islex/192/192_38.mp3
+      dative: rassi
+      genitive: rass
+      genitive_sound: islex/192/192_38.mp3
+    with article:
+      nominative: rassinn
+      nominative_translation: 'the butt, the ass'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rassinn
+      dative: rassinum
+      genitive: rassins
+  plural:
+    no article:
+      nominative: rassar
+      nominative_translation: 'butts, asses'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rassa
+      dative: rössum
+      genitive: rassa
+    with article:
+      nominative: rassarnir
+      nominative_translation: 'the butts, the asses'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rassana
+      dative: rössunum
+      genitive: rassanna
+id: 1540
+gender: masculine

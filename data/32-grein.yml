@@ -1,0 +1,54 @@
+word: grein
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: grein
+      nominative_translation: an article
+      nominative_sound: islex/039/039_45.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: grein
+      accusative_sound: islex/039/039_45.mp3
+      dative: grein
+      dative_sound: islex/039/039_45.mp3
+      genitive: greinar
+    with article:
+      nominative: greinin
+      nominative_translation: the article
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: greinina
+      dative: greininni
+      genitive: greinarinnar
+  plural:
+    no article:
+      nominative: greinar
+      nominative_translation: articles
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - greinir
+      accusative: greinar
+      accusative_alternative:
+        - greinir
+      dative: greinum
+      genitive: greina
+      genitive_sound: islex/451/451_24.mp3
+    with article:
+      nominative: greinarnar
+      nominative_translation: the articles
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - greinirnar
+      accusative: greinarnar
+      accusative_alternative:
+        - greinirnar
+      dative: greinunum
+      genitive: greinanna
+id: 1047
+gender: feminine

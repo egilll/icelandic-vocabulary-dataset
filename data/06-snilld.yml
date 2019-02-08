@@ -1,0 +1,45 @@
+word: snilld
+level: 6
+grammatical_category: other
+conjugation:
+  singular:
+    no article:
+      nominative: snilld
+      nominative_translation: genius
+      nominative_sound: islex/196/196_51.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snilld
+      accusative_sound: islex/196/196_51.mp3
+      dative: snilld
+      dative_sound: islex/196/196_51.mp3
+      genitive: snilldar
+    with article:
+      nominative: snilldin
+      nominative_translation: the genius
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: snilldina
+      dative: snilldinni
+      genitive: snilldarinnar
+  plural:
+    no article:
+      nominative: snilldir
+      nominative_translation: geniuses
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snilldir
+      dative: snilldum
+      genitive: snillda
+    with article:
+      nominative: snilldirnar
+      nominative_translation: the geniuses
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: snilldirnar
+      dative: snilldunum
+      genitive: snilldanna
+id: 1689
+gender: feminine

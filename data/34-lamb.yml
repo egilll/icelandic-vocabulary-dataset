@@ -1,0 +1,45 @@
+word: lamb
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lamb
+      nominative_translation: a lamb
+      nominative_sound: islex/221/221_14.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lamb
+      accusative_sound: islex/221/221_14.mp3
+      dative: lambi
+      genitive: lambs
+    with article:
+      nominative: lambið
+      nominative_translation: the lamb
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lambið
+      dative: lambinu
+      genitive: lambsins
+  plural:
+    no article:
+      nominative: lömb
+      nominative_translation: lambs
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lömb
+      dative: lömbum
+      genitive: lamba
+    with article:
+      nominative: lömbin
+      nominative_translation: the lambs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lömbin
+      dative: lömbunum
+      genitive: lambanna
+id: 1291
+gender: neuter
+recognizable: '0'

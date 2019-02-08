@@ -1,0 +1,45 @@
+word: læknir
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: læknir
+      nominative_translation: a doctor
+      nominative_sound: islex/057/057_30.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lækni
+      dative: lækni
+      genitive: læknis
+    with article:
+      nominative: læknirinn
+      nominative_translation: the doctor
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lækninn
+      dative: lækninum
+      genitive: læknisins
+  plural:
+    no article:
+      nominative: læknar
+      nominative_translation: doctors
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lækna
+      accusative_sound: islex/432/432_95.mp3
+      dative: læknum
+      genitive: lækna
+      genitive_sound: islex/432/432_95.mp3
+    with article:
+      nominative: læknarnir
+      nominative_translation: the doctors
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: læknana
+      dative: læknunum
+      genitive: læknanna
+id: 1284
+gender: masculine

@@ -1,0 +1,25 @@
+word: fjarstýring
+level: 46
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fjarstýring
+      nominative_translation: a remote control
+      nominative_sound: islex/263/263_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fjarstýringu
+      dative: fjarstýringu
+      genitive: fjarstýringar
+    with article:
+      nominative: fjarstýringin
+      nominative_translation: the remote control
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fjarstýringuna
+      dative: fjarstýringunni
+      genitive: fjarstýringarinnar
+id: 950
+gender: feminine

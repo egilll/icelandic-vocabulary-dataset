@@ -1,0 +1,27 @@
+word: partí
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: partí
+      nominative_translation: a party
+      nominative_sound: islex/478/478_97.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: partí
+      accusative_sound: islex/478/478_97.mp3
+      dative: partíi
+      genitive: partís
+    with article:
+      nominative: partíið
+      nominative_translation: the party
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: partíið
+      dative: partíinu
+      genitive: partísins
+id: 1487
+gender: neuter
+recognizable: '1'

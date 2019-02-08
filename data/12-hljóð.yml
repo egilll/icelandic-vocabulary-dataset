@@ -1,0 +1,26 @@
+word: hljóð
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hljóð
+      nominative_translation: a sound
+      nominative_sound: islex/038/038_06.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hljóð
+      accusative_sound: islex/038/038_06.mp3
+      dative: hljóði
+      genitive: hljóðs
+    with article:
+      nominative: hljóðið
+      nominative_translation: the sound
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hljóðið
+      dative: hljóðinu
+      genitive: hljóðsins
+id: 1136
+gender: neuter

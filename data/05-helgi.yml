@@ -1,0 +1,51 @@
+word: helgi
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: helgi
+      nominative_translation: a weekend
+      nominative_sound: islex/474/474_18.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: helgi
+      accusative_sound: islex/474/474_18.mp3
+      dative: helgi
+      dative_sound: islex/474/474_18.mp3
+      genitive: helgi
+      genitive_sound: islex/474/474_18.mp3
+      genitive_alternative:
+        - helgar
+    with article:
+      nominative: helgin
+      nominative_translation: the weekend
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: helgina
+      dative: helginni
+      genitive: helginnar
+      genitive_alternative:
+        - helgarinnar
+  plural:
+    no article:
+      nominative: helgar
+      nominative_translation: weekends
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: helgar
+      dative: helgum
+      genitive: helga
+      genitive_sound: islex/121/121_42.mp3
+    with article:
+      nominative: helgarnar
+      nominative_translation: the weekends
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: helgarnar
+      dative: helgunum
+      genitive: helganna
+id: 1111
+gender: feminine

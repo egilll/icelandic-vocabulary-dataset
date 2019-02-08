@@ -1,0 +1,26 @@
+word: hjón
+level: 13
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: hjón
+      nominative_translation: a married couple
+      nominative_sound: islex/318/318_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hjón
+      accusative_sound: islex/318/318_94.mp3
+      dative: hjónum
+      genitive: hjóna
+    with article:
+      nominative: hjónin
+      nominative_translation: the married couple
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hjónin
+      dative: hjónunum
+      genitive: hjónanna
+id: 1129
+gender: neuter

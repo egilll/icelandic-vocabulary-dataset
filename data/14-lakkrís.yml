@@ -1,0 +1,31 @@
+word: lakkrís
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lakkrís
+      nominative_translation: liqourice
+      nominative_sound: islex/100/100_90.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lakkrís
+      accusative_sound: islex/100/100_90.mp3
+      dative: lakkrís
+      dative_sound: islex/100/100_90.mp3
+      genitive: lakkríss
+    with article:
+      nominative: lakkrísinn
+      nominative_translation: the liqourice
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lakkrísinn
+      dative: lakkrísnum
+      genitive: lakkríssins
+  plural:
+    no article:
+      nominative_teachgender: false
+id: 1290
+gender: masculine
+recognizable: '1'

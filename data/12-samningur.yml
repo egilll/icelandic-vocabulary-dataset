@@ -1,0 +1,41 @@
+word: samningur
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: samningur
+      nominative_translation: 'a contract, an agreement'
+      nominative_sound: islex/029/029_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: samning
+      accusative_sound: islex/043/043_27.mp3
+      dative: samningi
+      genitive: samnings
+    with article:
+      nominative: samningurinn
+      nominative_translation: 'the contract, the agreement'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: samninginn
+      dative: samningnum
+      genitive: samningsins
+  plural:
+    no article:
+      nominative: samningar
+      nominative_translation: 'contracts, agreements'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: samninga
+      dative: samningum
+      genitive: samninga
+    with article:
+      nominative: samningarnir
+      nominative_translation: 'the contracts, the agreements'
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1595
+gender: masculine

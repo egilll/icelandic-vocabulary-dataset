@@ -1,0 +1,66 @@
+word: færa
+level: 20
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] færa'
+    infinitive_translation: to move something
+    infinitive_sound: islex/015/015_56.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] færi'
+          1st person_translation: I move something
+          1st person_sound: islex/178/178_66.mp3
+          1st person_teach: true
+          2nd person: '[þú] færir'
+          2nd person_translation: you¹ move something
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] færir'
+          3rd person_translation: he/she/it moves something
+          3rd person_teach: true
+        plural:
+          1st person: '[við] færum'
+          1st person_translation: we move something
+          1st person_teach: true
+          2nd person: '[þið] færið'
+          2nd person_translation: you² move something
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] færa'
+          3rd person_translation: they move something
+          3rd person_sound: islex/015/015_56.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] færði'
+          1st person_translation: I moved something
+          1st person_teach: true
+          2nd person: '[þú] færðir'
+          2nd person_translation: you¹ moved something
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] færði'
+          3rd person_translation: he/she/it moved something
+          3rd person_teach: true
+        plural:
+          1st person: '[við] færðum'
+          1st person_translation: we moved something
+          1st person_teach: true
+          2nd person: '[þið] færðuð'
+          2nd person_translation: you² moved something
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] færðu'
+          3rd person_translation: they moved something
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] fært'
+    active voice_translation: I have moved
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: færðu!
+      singular_translation: move something!¹
+      singular_teach: true
+id: 2091
+teach_the_difference: fara
+other_conneced_words: ''

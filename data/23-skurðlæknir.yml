@@ -1,0 +1,15 @@
+word: skurðlæknir
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skurðlæknir
+      nominative_translation: a surgeon
+      nominative_sound: islex/190/190_78.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+      nominative_literal: cutting-doctor
+id: 1667
+gender: masculine

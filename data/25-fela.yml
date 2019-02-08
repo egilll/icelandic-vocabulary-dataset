@@ -1,0 +1,60 @@
+word: fela
+level: 25
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] fela'
+    infinitive_translation: to hide
+    infinitive_sound: islex/354/354_53.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] fel'
+          1st person_translation: I hide
+          1st person_teach: true
+          2nd person: '[þú] felur'
+          2nd person_translation: you¹ hide
+          2nd person_sound: islex/474/474_38.mp3
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] felur'
+          3rd person_translation: he/she/it hides
+          3rd person_sound: islex/474/474_38.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] felum'
+          1st person_translation: we hide
+          1st person_teach: true
+          2nd person: '[þið] felið'
+          2nd person_translation: you² hide
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] fela'
+          3rd person_translation: they hide
+          3rd person_sound: islex/354/354_53.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] faldi'
+          1st person_translation: I hid
+          1st person_teach: true
+          2nd person: '[þú] faldir'
+          2nd person_translation: you¹ hid
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] faldi'
+          3rd person_translation: he/she/it hid
+          3rd person_teach: true
+        plural:
+          1st person: '[við] földum'
+          1st person_translation: we hid
+          1st person_teach: true
+          2nd person: '[þið] földuð'
+          2nd person_translation: you² hid
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] földu'
+          3rd person_translation: they hid
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] falið'
+    active voice_translation: I have hidden
+    active voice_teach: true
+id: 2096

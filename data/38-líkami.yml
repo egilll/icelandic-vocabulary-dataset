@@ -1,0 +1,25 @@
+word: líkami
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: líkami
+      nominative_translation: a body
+      nominative_sound: islex/273/273_09.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: líkama
+      dative: líkama
+      genitive: líkama
+    with article:
+      nominative: líkaminn
+      nominative_translation: the body
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: líkamann
+      dative: líkamanum
+      genitive: líkamans
+id: 1329
+gender: masculine

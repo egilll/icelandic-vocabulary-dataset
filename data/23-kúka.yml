@@ -1,0 +1,22 @@
+word: kúka
+level: 23
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] kúka'
+    infinitive_translation: to poop
+    infinitive_sound: islex/273/273_35.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] kúka'
+          1st person_translation: I poop
+          1st person_sound: islex/273/273_35.mp3
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] kúkaði'
+          1st person_translation: I pooped
+          1st person_teach: true
+id: 2194

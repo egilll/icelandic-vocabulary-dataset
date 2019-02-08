@@ -1,0 +1,26 @@
+word: skordýr
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skordýr
+      nominative_translation: 'a bug, an insect'
+      nominative_sound: islex/098/098_06.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skordýr
+      accusative_sound: islex/098/098_06.mp3
+      dative: skordýri
+      genitive: skordýrs
+    with article:
+      nominative: skordýrið
+      nominative_translation: 'the bug, the insect'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skordýrið
+      dative: skordýrinu
+      genitive: skordýrsins
+id: 1659
+gender: neuter

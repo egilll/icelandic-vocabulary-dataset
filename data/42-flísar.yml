@@ -1,0 +1,24 @@
+word: flísar
+level: 42
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: flísar
+      nominative_translation: tiles
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flísar
+      dative: flísum
+      genitive: flísa
+    with article:
+      nominative: flísarnar
+      nominative_translation: the tiles
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flísarnar
+      dative: flísunum
+      genitive: flísanna
+id: 958
+gender: feminine

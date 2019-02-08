@@ -1,0 +1,16 @@
+word: fyrirgefðu
+level: 2
+grammatical_category: verb
+conjugation:
+  imperative:
+    active voice:
+      singular: fyrirgefðu!
+      singular_translation: sorry!¹; forgive me!¹
+      singular_teach: true
+      singular_note: Is also used to get someone's attention
+      plural: fyrirgefið!
+      plural_translation: sorry!²; forgive me!²
+      plural_teach: true
+      plural_note: Is also used to get someone's attention
+id: 2116
+strong_verb_declension: true

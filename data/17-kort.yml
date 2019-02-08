@@ -1,0 +1,26 @@
+word: kort
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kort
+      nominative_translation: a map; a card
+      nominative_sound: islex/365/365_72.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kort
+      accusative_sound: islex/365/365_72.mp3
+      dative: korti
+      genitive: korts
+    with article:
+      nominative: kortið
+      nominative_translation: the map; the card
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kortið
+      dative: kortinu
+      genitive: kortsins
+id: 1262
+gender: neuter

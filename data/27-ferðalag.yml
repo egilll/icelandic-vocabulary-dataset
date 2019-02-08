@@ -1,0 +1,44 @@
+word: ferðalag
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ferðalag
+      nominative_translation: journey
+      nominative_sound: islex/012/012_62.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ferðalag
+      accusative_sound: islex/012/012_62.mp3
+      dative: ferðalagi
+      genitive: ferðalags
+    with article:
+      nominative: ferðalagið
+      nominative_translation: the journey
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ferðalagið
+      dative: ferðalaginu
+      genitive: ferðalagsins
+  plural:
+    no article:
+      nominative: ferðalög
+      nominative_translation: journeys
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ferðalög
+      dative: ferðalögum
+      genitive: ferðalaga
+    with article:
+      nominative: ferðalögin
+      nominative_translation: the journeys
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ferðalögin
+      dative: ferðalögunum
+      genitive: ferðalaganna
+id: 938
+gender: neuter

@@ -1,0 +1,20 @@
+word: verkfræðingur
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: verkfræðingur
+      nominative_translation: an engineer
+      nominative_sound: islex/183/183_02.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+      nominative_literal: task-knowledger
+    with article:
+      nominative: verkfræðingurinn
+      nominative_translation: the engineer
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1911
+gender: masculine

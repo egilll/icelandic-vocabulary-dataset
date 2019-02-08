@@ -1,0 +1,17 @@
+word: reynsla
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: reynsla
+      nominative_translation: experience
+      nominative_sound: islex/295/295_66.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: reynslu
+      dative: reynslu
+      genitive: reynslu
+id: 1558
+gender: feminine

@@ -1,0 +1,27 @@
+word: fjarlægð
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fjarlægð
+      nominative_translation: a distance
+      nominative_sound: islex/247/247_45.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fjarlægð
+      accusative_sound: islex/247/247_45.mp3
+      dative: fjarlægð
+      dative_sound: islex/247/247_45.mp3
+      genitive: fjarlægðar
+    with article:
+      nominative: fjarlægðin
+      nominative_translation: the distance
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fjarlægðina
+      dative: fjarlægðinni
+      genitive: fjarlægðarinnar
+id: 949
+gender: feminine

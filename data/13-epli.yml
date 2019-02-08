@@ -1,0 +1,24 @@
+word: epli
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: epli
+      nominative_translation: an apple
+      nominative_sound: islex/176/176_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: epli
+      accusative_sound: islex/176/176_20.mp3
+      dative: epli
+      dative_sound: islex/176/176_20.mp3
+      genitive: eplis
+    with article:
+      nominative: eplið
+      nominative_translation: the apple
+      nominative_teach: true
+      nominative_teachtable: false
+id: 919
+gender: neuter

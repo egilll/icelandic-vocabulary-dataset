@@ -1,0 +1,10 @@
+word: minnka
+level: 41
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] minnka'
+    infinitive_translation: 'to decrease, to get lower'
+    infinitive_sound: islex/129/129_03.mp3
+    infinitive_teach: true
+id: 2250

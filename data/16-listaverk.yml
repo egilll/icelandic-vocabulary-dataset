@@ -1,0 +1,26 @@
+word: listaverk
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: listaverk
+      nominative_translation: an artwork
+      nominative_sound: islex/102/102_62.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: listaverk
+      accusative_sound: islex/102/102_62.mp3
+      dative: listaverki
+      genitive: listaverks
+    with article:
+      nominative: listaverkið
+      nominative_translation: the artwork
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: listaverkið
+      dative: listaverkinu
+      genitive: listaverksins
+id: 1334
+gender: neuter

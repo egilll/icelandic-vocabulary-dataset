@@ -1,0 +1,24 @@
+word: handleggur
+level: 19
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: handleggir
+      nominative_translation: arms
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: handleggi
+      dative: handleggjum
+      genitive: handleggja
+    with article:
+      nominative: handleggirnir
+      nominative_translation: the arms
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: handleggina
+      dative: handleggjunum
+      genitive: handleggjanna
+id: 1087
+gender: masculine

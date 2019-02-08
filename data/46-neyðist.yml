@@ -1,0 +1,12 @@
+word: neyðist
+level: 46
+grammatical_category: verb
+conjugation:
+  middle voice:
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] neyddist'
+          1st person_translation: I was forced to
+          1st person_teach: true
+id: 2260

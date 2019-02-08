@@ -1,0 +1,65 @@
+word: draga
+level: 25
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] draga'
+    infinitive_translation: to drag
+    infinitive_sound: islex/061/061_36.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] dreg'
+          1st person_translation: I drag
+          1st person_teach: true
+          2nd person: '[þú] dregur'
+          2nd person_translation: you¹ drag
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] dregur'
+          3rd person_translation: he/she/it drags
+          3rd person_teach: true
+        plural:
+          1st person: '[við] drögum'
+          1st person_translation: we drag
+          1st person_teach: true
+          2nd person: '[þið] dragið'
+          2nd person_translation: you² drag
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] draga'
+          3rd person_translation: they drag
+          3rd person_sound: islex/061/061_36.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] dró'
+          1st person_translation: I dragged
+          1st person_teach: true
+          2nd person: '[þú] dróst'
+          2nd person_translation: you¹ dragged
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] dró'
+          3rd person_translation: he/she/it dragged
+          3rd person_teach: true
+        plural:
+          1st person: '[við] drógum'
+          1st person_translation: we dragged
+          1st person_teach: true
+          2nd person: '[þið] dróguð'
+          2nd person_translation: you² dragged
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] drógu'
+          3rd person_translation: they dragged
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] dregið'
+    active voice_translation: I have dragged
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: dragðu!
+      singular_translation: drag!¹
+      singular_teach: true
+id: 2073
+recognizable: '1'
+strong_verb_declension: true

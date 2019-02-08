@@ -1,0 +1,46 @@
+word: verkur
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: verkur
+      nominative_translation: 'an ache, a pain'
+      nominative_sound: islex/202/202_50.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: verk
+      accusative_sound: islex/392/392_07.mp3
+      dative: verk
+      dative_sound: islex/392/392_07.mp3
+      genitive: verkjar
+    with article:
+      nominative: verkurinn
+      nominative_translation: 'the ache, the pain'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: verkinn
+      dative: verknum
+      genitive: verkjarins
+  plural:
+    no article:
+      nominative: verkir
+      nominative_translation: 'aches, pains'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: verki
+      dative: verkjum
+      genitive: verkja
+      genitive_sound: islex/044/044_22.mp3
+    with article:
+      nominative: verkirnir
+      nominative_translation: 'the aches, the pains'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: verkina
+      dative: verkjunum
+      genitive: verkjanna
+id: 1913
+gender: masculine

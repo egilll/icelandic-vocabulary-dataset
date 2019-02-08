@@ -1,0 +1,27 @@
+word: tækifæri
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tækifæri
+      nominative_translation: a chance
+      nominative_sound: islex/181/181_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tækifæri
+      accusative_sound: islex/181/181_23.mp3
+      dative: tækifæri
+      dative_sound: islex/181/181_23.mp3
+      genitive: tækifæris
+    with article:
+      nominative: tækifærið
+      nominative_translation: the chance
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tækifærið
+      dative: tækifærinu
+      genitive: tækifærisins
+id: 1808
+gender: neuter

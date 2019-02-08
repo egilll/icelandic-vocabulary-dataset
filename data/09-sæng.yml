@@ -1,0 +1,27 @@
+word: sæng
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sæng
+      nominative_translation: a duvet
+      nominative_sound: islex/227/227_83.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sæng
+      accusative_sound: islex/227/227_83.mp3
+      dative: sæng
+      dative_sound: islex/227/227_83.mp3
+      genitive: sængur
+    with article:
+      nominative: sængin
+      nominative_translation: the duvet
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sængina
+      dative: sænginni
+      genitive: sængurinnar
+id: 1581
+gender: feminine

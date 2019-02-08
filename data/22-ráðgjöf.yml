@@ -1,0 +1,27 @@
+word: ráðgjöf
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ráðgjöf
+      nominative_translation: consultancy
+      nominative_sound: islex/414/414_13.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ráðgjöf
+      accusative_sound: islex/414/414_13.mp3
+      dative: ráðgjöf
+      dative_sound: islex/414/414_13.mp3
+      genitive: ráðgjafar
+    with article:
+      nominative: ráðgjöfin
+      nominative_translation: the consultancy
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ráðgjöfina
+      dative: ráðgjöfinni
+      genitive: ráðgjafarinnar
+id: 1532
+gender: feminine

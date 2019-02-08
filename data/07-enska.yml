@@ -1,0 +1,14 @@
+word: enska
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: enska
+      nominative_translation: English (language)
+      nominative_sound: islex/444/444_95.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 918
+gender: feminine

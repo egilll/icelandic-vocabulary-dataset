@@ -1,0 +1,25 @@
+word: bústaður
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bústaður
+      nominative_translation: 'a summer house, a cottage'
+      nominative_sound: islex/234/234_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bústað
+      dative: bústað
+      genitive: bústaðar
+    with article:
+      nominative: bústaðurinn
+      nominative_translation: 'the summer house, the cottage'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bústaðinn
+      dative: bústaðnum
+      genitive: bústaðarins
+id: 855
+gender: masculine

@@ -1,0 +1,19 @@
+word: hnerra
+level: 42
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hnerra'
+    infinitive_translation: to sneeze
+    infinitive_sound: islex/327/327_77.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] hnerraði'
+          1st person_translation: I sneezed
+          1st person_teach: true
+          2nd person: '[þú] hnerraðir'
+          2nd person_translation: you¹ sneezed
+          2nd person_teach: true
+id: 2161

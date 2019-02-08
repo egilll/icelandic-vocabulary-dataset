@@ -1,0 +1,27 @@
+word: heilsa
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: heilsa
+      nominative_translation: health
+      nominative_sound: islex/142/142_69.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: heilsu
+      dative: heilsu
+      genitive: heilsu
+    with article:
+      nominative: heilsan
+      nominative_translation: the health
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: heilsuna
+      dative: heilsunni
+      genitive: heilsunnar
+id: 1102
+teach_the_difference: ''
+gender: feminine
+never_show_with: ''

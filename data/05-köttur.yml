@@ -1,0 +1,43 @@
+word: köttur
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: köttur
+      nominative_translation: a cat
+      nominative_sound: islex/224/224_56.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kött
+      dative: ketti
+      genitive: kattar
+    with article:
+      nominative: kötturinn
+      nominative_translation: the cat
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: köttinn
+      dative: kettinum
+      genitive: kattarins
+  plural:
+    no article:
+      nominative: kettir
+      nominative_translation: cats
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ketti
+      dative: köttum
+      genitive: katta
+    with article:
+      nominative: kettirnir
+      nominative_translation: the cats
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kettina
+      dative: köttunum
+      genitive: kattanna
+id: 1266
+gender: masculine

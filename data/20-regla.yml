@@ -1,0 +1,37 @@
+word: regla
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: regla
+      nominative_translation: a rule
+      nominative_sound: islex/479/479_29.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: reglu
+      dative: reglu
+      genitive: reglu
+    with article:
+      nominative: reglan
+      nominative_translation: the rule
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: regluna
+      dative: reglunni
+      genitive: reglunnar
+  plural:
+    no article:
+      nominative: reglur
+      nominative_translation: rules
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: reglurnar
+      nominative_translation: the rules
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1546
+gender: feminine

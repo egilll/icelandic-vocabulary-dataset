@@ -1,0 +1,23 @@
+word: rugl
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rugl
+      nominative_translation: gibberish
+      nominative_sound: islex/179/179_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rugl
+      accusative_sound: islex/179/179_58.mp3
+      dative: rugli
+      genitive: rugls
+    with article:
+      nominative: ruglið
+      nominative_translation: the gibberish
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1573
+gender: neuter

@@ -1,0 +1,43 @@
+word: formaður
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: formaður
+      nominative_translation: 'director, chief'
+      nominative_sound: islex/003/003_31.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: formann
+      dative: formanni
+      genitive: formanns
+    with article:
+      nominative: formaðurinn
+      nominative_translation: 'the director, the chief'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: formanninn
+      dative: formanninum
+      genitive: formannsins
+  plural:
+    no article:
+      nominative: formenn
+      nominative_translation: 'directors, chiefs'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: formenn
+      dative: formönnum
+      genitive: formanna
+    with article:
+      nominative: formennirnir
+      nominative_translation: 'the directors, the chiefs'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: formennina
+      dative: formönnunum
+      genitive: formannanna
+id: 969
+gender: masculine

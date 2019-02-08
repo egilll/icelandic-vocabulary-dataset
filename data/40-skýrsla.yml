@@ -1,0 +1,43 @@
+word: skýrsla
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skýrsla
+      nominative_translation: a report
+      nominative_sound: islex/415/415_49.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skýrslu
+      dative: skýrslu
+      genitive: skýrslu
+    with article:
+      nominative: skýrslan
+      nominative_translation: the report
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skýrsluna
+      dative: skýrslunni
+      genitive: skýrslunnar
+  plural:
+    no article:
+      nominative: skýrslur
+      nominative_translation: reports
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skýrslur
+      dative: skýrslum
+      genitive: skýrslna
+    with article:
+      nominative: skýrslurnar
+      nominative_translation: the reports
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skýrslurnar
+      dative: skýrslunum
+      genitive: skýrslnanna
+id: 1674
+gender: feminine

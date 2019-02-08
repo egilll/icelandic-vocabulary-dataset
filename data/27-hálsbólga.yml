@@ -1,0 +1,25 @@
+word: hálsbólga
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hálsbólga
+      nominative_translation: a sore throat
+      nominative_sound: islex/107/107_77.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hálsbólgu
+      dative: hálsbólgu
+      genitive: hálsbólgu
+    with article:
+      nominative: hálsbólgan
+      nominative_translation: the sore throat
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hálsbólguna
+      dative: hálsbólgunni
+      genitive: hálsbólgunnar
+id: 1081
+gender: feminine

@@ -1,0 +1,17 @@
+word: sofna
+level: 23
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] sofna'
+    infinitive_translation: to fall asleep
+    infinitive_sound: islex/176/176_05.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] sofnaði'
+          1st person_translation: I fell asleep
+          1st person_teach: true
+id: 2363
+teach_the_difference: sofa

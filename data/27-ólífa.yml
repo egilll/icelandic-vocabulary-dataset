@@ -1,0 +1,25 @@
+word: ólífa
+level: 27
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: ólífur
+      nominative_translation: olives
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ólífur
+      dative: ólífum
+      genitive: ólífa
+      genitive_sound: islex/280/280_38.mp3
+    with article:
+      nominative: ólífurnar
+      nominative_translation: the olives
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ólífurnar
+      dative: ólífunum
+      genitive: ólífanna
+id: 1468
+gender: feminine

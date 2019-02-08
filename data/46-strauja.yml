@@ -1,0 +1,16 @@
+word: strauja
+level: 46
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] strauja'
+    infinitive_translation: to iron clothes
+    infinitive_sound: islex/301/301_72.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] straujaði'
+          1st person_translation: I ironed clothes
+          1st person_teach: true
+id: 2383

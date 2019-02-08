@@ -1,0 +1,45 @@
+word: bátur
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bátur
+      nominative_translation: a boat
+      nominative_sound: islex/383/383_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bát
+      dative: báti
+      dative_alternative:
+        - bát
+      genitive: báts
+    with article:
+      nominative: báturinn
+      nominative_translation: the boat
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bátinn
+      dative: bátnum
+      genitive: bátsins
+  plural:
+    no article:
+      nominative: bátar
+      nominative_translation: boats
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: báta
+      dative: bátum
+      genitive: báta
+    with article:
+      nominative: bátarnir
+      nominative_translation: the boats
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bátana
+      dative: bátunum
+      genitive: bátanna
+id: 776
+gender: masculine

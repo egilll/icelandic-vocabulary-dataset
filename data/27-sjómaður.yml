@@ -1,0 +1,37 @@
+word: sjómaður
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sjómaður
+      nominative_translation: a fisherman
+      nominative_sound: islex/192/192_60.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sjómann
+      dative: sjómanni
+      genitive: sjómanns
+    with article:
+      nominative: sjómaðurinn
+      nominative_translation: the fisherman
+      nominative_teach: true
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: sjómenn
+      nominative_translation: fishermen
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sjómenn
+      dative: sjómönnum
+      genitive: sjómanna
+    with article:
+      nominative: sjómennirnir
+      nominative_translation: the fishermen
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1623
+gender: masculine

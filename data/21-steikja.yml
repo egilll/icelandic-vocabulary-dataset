@@ -1,0 +1,58 @@
+word: steikja
+level: 21
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] steikja'
+    infinitive_translation: to fry
+    infinitive_sound: islex/249/249_02.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] steiki'
+          1st person_translation: I fry
+          1st person_teach: true
+          2nd person: '[þú] steikir'
+          2nd person_translation: you¹ fry
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] steikir'
+          3rd person_translation: he/she/it fries
+          3rd person_teach: true
+        plural:
+          1st person: '[við] steikjum'
+          1st person_translation: we fry
+          1st person_teach: true
+          2nd person: '[þið] steikið'
+          2nd person_translation: you² fry
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] steikja'
+          3rd person_translation: they fry
+          3rd person_sound: islex/249/249_02.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] steikti'
+          1st person_translation: I fried
+          1st person_teach: true
+          2nd person: '[þú] steiktir'
+          2nd person_translation: you¹ fried
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] steikti'
+          3rd person_translation: he/she/it fried
+          3rd person_teach: true
+        plural:
+          1st person: '[við] steiktum'
+          1st person_translation: we fried
+          1st person_teach: true
+          2nd person: '[þið] steiktuð'
+          2nd person_translation: you² fried
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] steiktu'
+          3rd person_translation: they fried
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] steikt'
+    active voice_translation: I have fried
+    active voice_teach: true
+id: 2374

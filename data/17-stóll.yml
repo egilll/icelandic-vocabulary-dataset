@@ -1,0 +1,47 @@
+word: stóll
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stóll
+      nominative_translation: a chair
+      nominative_sound: islex/299/299_06.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stól
+      dative: stól
+      dative_alternative:
+        - stóli
+      genitive: stóls
+    with article:
+      nominative: stóllinn
+      nominative_translation: the chair
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stólinn
+      dative: stólnum
+      genitive: stólsins
+  plural:
+    no article:
+      nominative: stólar
+      nominative_translation: chairs
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stóla
+      accusative_sound: islex/034/034_60.mp3
+      dative: stólum
+      genitive: stóla
+      genitive_sound: islex/034/034_60.mp3
+    with article:
+      nominative: stólarnir
+      nominative_translation: the chairs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stólana
+      dative: stólunum
+      genitive: stólanna
+id: 1751
+gender: masculine

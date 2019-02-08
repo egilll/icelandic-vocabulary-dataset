@@ -1,0 +1,43 @@
+word: koddi
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: koddi
+      nominative_translation: a pillow
+      nominative_sound: islex/215/215_97.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kodda
+      dative: kodda
+      genitive: kodda
+    with article:
+      nominative: koddinn
+      nominative_translation: the pillow
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: koddann
+      dative: koddanum
+      genitive: koddans
+  plural:
+    no article:
+      nominative: koddar
+      nominative_translation: pillows
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kodda
+      dative: koddum
+      genitive: kodda
+    with article:
+      nominative: koddarnir
+      nominative_translation: the pillows
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: koddana
+      dative: koddunum
+      genitive: koddanna
+id: 1252
+gender: masculine

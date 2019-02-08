@@ -1,0 +1,26 @@
+word: ljóð
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ljóð
+      nominative_translation: a poem
+      nominative_sound: islex/160/160_93.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ljóð
+      accusative_sound: islex/160/160_93.mp3
+      dative: ljóði
+      genitive: ljóðs
+    with article:
+      nominative: ljóðið
+      nominative_translation: the poem
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ljóðið
+      dative: ljóðinu
+      genitive: ljóðsins
+id: 1338
+gender: neuter

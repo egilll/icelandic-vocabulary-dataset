@@ -1,0 +1,15 @@
+word: að ýta
+level: 34
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] ýta'
+    infinitive_translation: to push
+    infinitive_sound: islex/210/210_20.mp3
+    infinitive_teach: true
+  imperative:
+    active voice:
+      singular: ýttu!
+      singular_translation: push!¹
+      singular_teach: true
+id: 2011

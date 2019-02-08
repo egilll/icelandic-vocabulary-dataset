@@ -1,0 +1,64 @@
+word: eyða
+level: 16
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] eyða'
+    infinitive_translation: to spend; to delete
+    infinitive_sound: islex/144/144_62.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] eyði'
+          1st person_translation: I spend; I delete
+          1st person_sound: islex/203/203_13.mp3
+          1st person_teach: true
+          2nd person: '[þú] eyðir'
+          2nd person_translation: you¹ spend; you¹ delete
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] eyðir'
+          3rd person_translation: he/she/it spends; he/she/it deletes
+          3rd person_teach: true
+        plural:
+          1st person: '[við] eyðum'
+          1st person_translation: we spend; we delete
+          1st person_teach: true
+          2nd person: '[þið] eyðið'
+          2nd person_translation: you² spend; you² delete
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] eyða'
+          3rd person_translation: they spend; they delete
+          3rd person_sound: islex/144/144_62.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] eyddi'
+          1st person_translation: I spent; I deleted
+          1st person_teach: true
+          2nd person: '[þú] eyddir'
+          2nd person_translation: you¹ spent; you¹ deleted
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] eyddi'
+          3rd person_translation: he/she/it spent; he/she/it deleted
+          3rd person_teach: true
+        plural:
+          1st person: '[við] eyddum'
+          1st person_translation: we spent; we deleted
+          1st person_teach: true
+          2nd person: '[þið] eydduð'
+          2nd person_translation: you² spent; you² deleted
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] eyddu'
+          3rd person_translation: they spent; they deleted
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] eytt'
+    active voice_translation: I have spent; I have deleted
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: eyddu!
+      singular_translation: spend!¹; delete!¹
+      singular_teach: true
+id: 2087

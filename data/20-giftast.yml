@@ -1,0 +1,32 @@
+word: giftast
+level: 20
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] giftast'
+    infinitive_translation: to get married
+    infinitive_sound: islex/359/359_13.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] giftist'
+          1st person_translation: I got married
+          1st person_teach: true
+          2nd person: '[þú] giftist'
+          2nd person_translation: you¹ got married
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] giftist'
+          3rd person_translation: he/she/it got married
+          3rd person_teach: true
+        plural:
+          1st person: '[við] giftumst'
+          1st person_translation: we got married
+          1st person_teach: true
+          2nd person: '[þið] giftust'
+          2nd person_translation: you² got married
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] giftust'
+          3rd person_translation: they got married
+          3rd person_teach: true
+id: 2126

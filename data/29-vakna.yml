@@ -1,0 +1,21 @@
+word: vakna
+level: 29
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] vakna'
+    infinitive_translation: to wake up
+    infinitive_sound: islex/169/169_99.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] vaknaði'
+          1st person_translation: I woke up
+          1st person_teach: true
+  imperative:
+    active voice:
+      singular: vaknaðu!
+      singular_translation: wake up!¹
+      singular_teach: true
+id: 2419

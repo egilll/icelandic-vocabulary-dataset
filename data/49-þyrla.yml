@@ -1,0 +1,37 @@
+word: þyrla
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þyrla
+      nominative_translation: a helicopter
+      nominative_sound: islex/179/179_07.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þyrlu
+      dative: þyrlu
+      genitive: þyrlu
+    with article:
+      nominative: þyrlan
+      nominative_translation: the helicopter
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þyrluna
+      dative: þyrlunni
+      genitive: þyrlunnar
+  plural:
+    no article:
+      nominative: þyrlur
+      nominative_translation: helicopters
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: þyrlurnar
+      nominative_translation: the helicopters
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1970
+gender: feminine

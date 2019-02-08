@@ -1,0 +1,24 @@
+word: hlið
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: hliðin
+      nominative_translation: the side
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hliðina
+      dative: hliðinni
+      genitive: hliðarinnar
+  plural:
+    with article:
+      nominative: hliðarnar
+      nominative_translation: the sides
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hliðarnar
+      dative: hliðunum
+      genitive: hliðanna
+id: 1135
+gender: feminine

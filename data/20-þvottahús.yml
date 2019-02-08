@@ -1,0 +1,22 @@
+word: þvottahús
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þvottahús
+      nominative_translation: a laundry room
+      nominative_sound: islex/109/109_31.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: þvottahúsið
+      nominative_translation: the laundry room
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þvottahúsið
+      dative: þvottahúsinu
+      genitive: þvottahússins
+id: 1968
+gender: neuter

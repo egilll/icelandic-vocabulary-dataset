@@ -1,0 +1,14 @@
+word: gjafabréf
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gjafabréf
+      nominative_translation: a gift certificate
+      nominative_sound: islex/431/431_25.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1027
+gender: neuter

@@ -1,0 +1,48 @@
+word: banki
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: banki
+      nominative_translation: a bank
+      nominative_sound: islex/289/289_71.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: banka
+      accusative_sound: islex/381/381_99.mp3
+      dative: banka
+      dative_sound: islex/381/381_99.mp3
+      genitive: banka
+      genitive_sound: islex/381/381_99.mp3
+    with article:
+      nominative: bankinn
+      nominative_translation: the bank
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bankann
+      dative: bankanum
+      genitive: bankans
+  plural:
+    no article:
+      nominative: bankar
+      nominative_translation: banks
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: banka
+      accusative_sound: islex/381/381_99.mp3
+      dative: bönkum
+      genitive: banka
+      genitive_sound: islex/381/381_99.mp3
+    with article:
+      nominative: bankarnir
+      nominative_translation: the banks
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bankana
+      dative: bönkunum
+      genitive: bankanna
+id: 770
+gender: masculine

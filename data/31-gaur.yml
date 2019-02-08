@@ -1,0 +1,45 @@
+word: gaur
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gaur
+      nominative_translation: a dude
+      nominative_sound: islex/118/118_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gaur
+      accusative_sound: islex/118/118_94.mp3
+      dative: gaur
+      dative_sound: islex/118/118_94.mp3
+      genitive: gaurs
+    with article:
+      nominative: gaurinn
+      nominative_translation: the dude
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gaurinn
+      dative: gaurnum
+      genitive: gaursins
+  plural:
+    no article:
+      nominative: gaurar
+      nominative_translation: dudes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gaura
+      dative: gaurum
+      genitive: gaura
+    with article:
+      nominative: gaurarnir
+      nominative_translation: the dudes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gaurana
+      dative: gaurunum
+      genitive: gauranna
+id: 1014
+gender: masculine

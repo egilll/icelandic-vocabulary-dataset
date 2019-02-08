@@ -1,0 +1,14 @@
+word: kjáni
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kjáni
+      nominative_translation: a silly person
+      nominative_sound: islex/228/228_01.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1239
+gender: masculine

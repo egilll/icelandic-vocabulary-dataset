@@ -1,0 +1,25 @@
+word: dalur
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dalur
+      nominative_translation: a valley
+      nominative_sound: islex/274/274_34.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dal
+      dative: dal
+      genitive: dals
+    with article:
+      nominative: dalurinn
+      nominative_translation: the valley
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dalinn
+      dative: dalnum
+      genitive: dalsins
+id: 865
+gender: masculine

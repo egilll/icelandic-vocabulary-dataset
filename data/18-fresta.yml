@@ -1,0 +1,10 @@
+word: fresta
+level: 18
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] fresta'
+    infinitive_translation: 'to postpone, to delay'
+    infinitive_sound: islex/304/304_28.mp3
+    infinitive_teach: true
+id: 2112

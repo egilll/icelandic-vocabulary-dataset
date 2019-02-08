@@ -1,0 +1,26 @@
+word: jakki
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: jakki
+      nominative_translation: jacket
+      nominative_sound: islex/108/108_37.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: jakka
+      dative: jakka
+      genitive: jakka
+    with article:
+      nominative: jakkinn
+      nominative_translation: the jacket
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: jakkann
+      dative: jakkanum
+      genitive: jakkans
+id: 1194
+gender: masculine
+recognizable: '1'

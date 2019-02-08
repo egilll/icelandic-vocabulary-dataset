@@ -1,0 +1,43 @@
+word: auglýsing
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: auglýsing
+      nominative_translation: an advertisement
+      nominative_sound: islex/243/243_43.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: auglýsingu
+      dative: auglýsingu
+      genitive: auglýsingar
+    with article:
+      nominative: auglýsingin
+      nominative_translation: the advertisement
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: auglýsinguna
+      dative: auglýsingunni
+      genitive: auglýsingarinnar
+  plural:
+    no article:
+      nominative: auglýsingar
+      nominative_translation: advertisements
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: auglýsingar
+      dative: auglýsingum
+      genitive: auglýsinga
+    with article:
+      nominative: auglýsingarnar
+      nominative_translation: the advertisements
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: auglýsingarnar
+      dative: auglýsingunum
+      genitive: auglýsinganna
+id: 749
+gender: feminine

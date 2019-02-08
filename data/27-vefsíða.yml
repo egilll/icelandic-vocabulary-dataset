@@ -1,0 +1,37 @@
+word: vefsíða
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vefsíða
+      nominative_translation: a website
+      nominative_sound: islex/304/304_93.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vefsíðu
+      dative: vefsíðu
+      genitive: vefsíðu
+    with article:
+      nominative: vefsíðan
+      nominative_translation: the website
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vefsíðuna
+      dative: vefsíðunni
+      genitive: vefsíðunnar
+  plural:
+    no article:
+      nominative: vefsíður
+      nominative_translation: websites
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: vefsíðurnar
+      nominative_translation: the websites
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1899
+gender: feminine

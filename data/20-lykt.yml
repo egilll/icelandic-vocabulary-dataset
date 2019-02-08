@@ -1,0 +1,27 @@
+word: lykt
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lykt
+      nominative_translation: a smell
+      nominative_sound: islex/437/437_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lykt
+      accusative_sound: islex/437/437_64.mp3
+      dative: lykt
+      dative_sound: islex/437/437_64.mp3
+      genitive: lyktar
+    with article:
+      nominative: lyktin
+      nominative_translation: the smell
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lyktina
+      dative: lyktinni
+      genitive: lyktarinnar
+id: 1365
+gender: feminine

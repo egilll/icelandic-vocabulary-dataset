@@ -1,0 +1,45 @@
+word: panna
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: panna
+      nominative_translation: a pan
+      nominative_sound: islex/006/006_39.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pönnu
+      dative: pönnu
+      genitive: pönnu
+    with article:
+      nominative: pannan
+      nominative_translation: the pan
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pönnuna
+      dative: pönnunni
+      genitive: pönnunnar
+  plural:
+    no article:
+      nominative: pönnur
+      nominative_translation: pans
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: pönnur
+      dative: pönnum
+      genitive: panna
+      genitive_sound: islex/006/006_39.mp3
+    with article:
+      nominative: pönnurnar
+      nominative_translation: the pans
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: pönnurnar
+      dative: pönnunum
+      genitive: pannanna
+id: 1483
+gender: feminine
+recognizable: '1'

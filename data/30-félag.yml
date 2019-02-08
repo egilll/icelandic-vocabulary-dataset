@@ -1,0 +1,45 @@
+word: félag
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: félag
+      nominative_translation: 'an association, a society'
+      nominative_sound: islex/374/374_72.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: félag
+      accusative_sound: islex/374/374_72.mp3
+      dative: félagi
+      dative_sound: islex/237/237_08.mp3
+      genitive: félags
+    with article:
+      nominative: félagið
+      nominative_translation: 'the association, the society'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: félagið
+      dative: félaginu
+      genitive: félagsins
+  plural:
+    no article:
+      nominative: félög
+      nominative_translation: 'associations, societies'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: félög
+      dative: félögum
+      genitive: félaga
+    with article:
+      nominative: félögin
+      nominative_translation: 'the associations, the societies'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: félögin
+      dative: félögunum
+      genitive: félaganna
+id: 933
+gender: neuter

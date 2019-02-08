@@ -1,0 +1,20 @@
+word: spara
+level: 23
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] spara'
+    infinitive_translation: to save money
+    infinitive_sound: islex/194/194_40.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] sparaði'
+          1st person_translation: I saved money
+          1st person_teach: true
+        plural:
+          1st person: '[við] spöruðum'
+          1st person_translation: we saved money
+          1st person_teach: true
+id: 2365

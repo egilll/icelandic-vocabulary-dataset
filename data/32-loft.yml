@@ -1,0 +1,26 @@
+word: loft
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: loft
+      nominative_translation: air
+      nominative_sound: islex/091/091_89.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: loft
+      accusative_sound: islex/091/091_89.mp3
+      dative: lofti
+      genitive: lofts
+    with article:
+      nominative: loftið
+      nominative_translation: the air
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: loftið
+      dative: loftinu
+      genitive: loftsins
+id: 1348
+gender: neuter

@@ -1,0 +1,10 @@
+word: væla
+level: 46
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] væla'
+    infinitive_translation: 'to whine, to complain'
+    infinitive_sound: islex/069/069_55.mp3
+    infinitive_teach: true
+id: 2416

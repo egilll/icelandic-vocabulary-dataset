@@ -1,0 +1,26 @@
+word: hlé
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hlé
+      nominative_translation: 'a break, an intermission'
+      nominative_sound: islex/470/470_13.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hlé
+      accusative_sound: islex/470/470_13.mp3
+      dative: hléi
+      genitive: hlés
+    with article:
+      nominative: hléið
+      nominative_translation: 'the break, the intermission'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hléið
+      dative: hléinu
+      genitive: hlésins
+id: 1133
+gender: neuter

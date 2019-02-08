@@ -1,0 +1,25 @@
+word: kastali
+level: 43
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kastali
+      nominative_translation: a castle
+      nominative_sound: islex/115/115_66.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kastala
+      dative: kastala
+      genitive: kastala
+    with article:
+      nominative: kastalinn
+      nominative_translation: the castle
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kastalann
+      dative: kastalanum
+      genitive: kastalans
+id: 1226
+gender: masculine

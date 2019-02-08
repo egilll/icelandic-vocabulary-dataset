@@ -1,0 +1,43 @@
+word: púði
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: púði
+      nominative_translation: a pillow
+      nominative_sound: islex/252/252_32.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: púða
+      dative: púða
+      genitive: púða
+    with article:
+      nominative: púðinn
+      nominative_translation: the pillow
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: púðann
+      dative: púðanum
+      genitive: púðans
+  plural:
+    no article:
+      nominative: púðar
+      nominative_translation: pillows
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: púða
+      dative: púðum
+      genitive: púða
+    with article:
+      nominative: púðarnir
+      nominative_translation: the pillows
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: púðana
+      dative: púðunum
+      genitive: púðanna
+id: 1527
+gender: masculine

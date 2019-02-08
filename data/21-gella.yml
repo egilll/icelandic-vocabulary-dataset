@@ -1,0 +1,37 @@
+word: gella
+level: 21
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gella
+      nominative_translation: 'a chick, a babe, a gal'
+      nominative_sound: islex/049/049_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gellu
+      dative: gellu
+      genitive: gellu
+    with article:
+      nominative: gellan
+      nominative_translation: 'the chick, the babe, the gal'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gelluna
+      dative: gellunni
+      genitive: gellunnar
+  plural:
+    no article:
+      nominative: gellur
+      nominative_translation: 'chicks, babes, gals'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: gellurnar
+      nominative_translation: 'the chicks, the babes, the gals'
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1021
+gender: feminine

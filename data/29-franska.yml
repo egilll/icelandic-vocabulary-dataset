@@ -1,0 +1,14 @@
+word: franska
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: franska
+      nominative_translation: French (language)
+      nominative_sound: islex/012/012_61.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 987
+gender: feminine

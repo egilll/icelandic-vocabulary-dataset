@@ -1,0 +1,26 @@
+word: hvalur
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hvalur
+      nominative_translation: a whale
+      nominative_sound: islex/204/204_61.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hval
+      dative: hval
+      genitive: hvals
+    with article:
+      nominative: hvalurinn
+      nominative_translation: the whale
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hvalinn
+      dative: hvalnum
+      genitive: hvalsins
+id: 1179
+gender: masculine
+recognizable: '1'

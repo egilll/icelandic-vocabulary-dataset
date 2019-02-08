@@ -1,0 +1,43 @@
+word: gestur
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gestur
+      nominative_translation: a guest
+      nominative_sound: islex/317/317_36.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gest
+      dative: gesti
+      genitive: gests
+    with article:
+      nominative: gesturinn
+      nominative_translation: the guest
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gestinn
+      dative: gestinum
+      genitive: gestsins
+  plural:
+    no article:
+      nominative: gestir
+      nominative_translation: guests
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gesti
+      dative: gestum
+      genitive: gesta
+    with article:
+      nominative: gestirnir
+      nominative_translation: the guests
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gestina
+      dative: gestunum
+      genitive: gestanna
+id: 1023
+gender: masculine

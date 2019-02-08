@@ -1,0 +1,26 @@
+word: vísindi
+level: 39
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: vísindi
+      nominative_translation: science
+      nominative_sound: islex/106/106_40.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vísindi
+      accusative_sound: islex/106/106_40.mp3
+      dative: vísindum
+      genitive: vísinda
+    with article:
+      nominative: vísindin
+      nominative_translation: the science
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vísindin
+      dative: vísindunum
+      genitive: vísindanna
+id: 1938
+gender: neuter

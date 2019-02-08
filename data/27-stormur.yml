@@ -1,0 +1,45 @@
+word: stormur
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stormur
+      nominative_translation: a big storm
+      nominative_sound: islex/232/232_05.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: storm
+      dative: stormi
+      genitive: storms
+    with article:
+      nominative: stormurinn
+      nominative_translation: the big storm
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: storminn
+      dative: storminum
+      genitive: stormsins
+  plural:
+    no article:
+      nominative: stormar
+      nominative_translation: big storms
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: storma
+      accusative_sound: islex/043/043_80.mp3
+      dative: stormum
+      genitive: storma
+      genitive_sound: islex/043/043_80.mp3
+    with article:
+      nominative: stormarnir
+      nominative_translation: the big storms
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stormana
+      dative: stormunum
+      genitive: stormanna
+id: 1752
+gender: masculine

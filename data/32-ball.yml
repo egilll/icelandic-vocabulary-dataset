@@ -1,0 +1,27 @@
+word: ball
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ball
+      nominative_translation: 'a dance, a ball'
+      nominative_sound: islex/295/295_59.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ball
+      accusative_sound: islex/295/295_59.mp3
+      dative: balli
+      dative_sound: islex/160/160_78.mp3
+      genitive: balls
+    with article:
+      nominative: ballið
+      nominative_translation: 'the dance, the ball'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ballið
+      dative: ballinu
+      genitive: ballsins
+id: 766
+gender: neuter

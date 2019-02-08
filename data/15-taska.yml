@@ -1,0 +1,44 @@
+word: taska
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: taska
+      nominative_translation: a bag
+      nominative_sound: islex/031/031_13.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tösku
+      dative: tösku
+      genitive: tösku
+    with article:
+      nominative: taskan
+      nominative_translation: the bag
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: töskuna
+      dative: töskunni
+      genitive: töskunnar
+  plural:
+    no article:
+      nominative: töskur
+      nominative_translation: bags
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: töskur
+      dative: töskum
+      genitive: taska
+      genitive_sound: islex/031/031_13.mp3
+    with article:
+      nominative: töskurnar
+      nominative_translation: the bags
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: töskurnar
+      dative: töskunum
+      genitive: taskanna
+id: 1819
+gender: feminine

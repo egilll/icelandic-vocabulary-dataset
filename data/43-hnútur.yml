@@ -1,0 +1,25 @@
+word: hnútur
+level: 43
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hnútur
+      nominative_translation: a knot
+      nominative_sound: islex/196/196_50.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hnút
+      dative: hnút
+      genitive: hnúts
+    with article:
+      nominative: hnúturinn
+      nominative_translation: the knot
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hnútinn
+      dative: hnútnum
+      genitive: hnútsins
+id: 1147
+gender: masculine

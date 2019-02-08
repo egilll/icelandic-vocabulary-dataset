@@ -1,0 +1,43 @@
+word: tilfinning
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tilfinning
+      nominative_translation: a feeling
+      nominative_sound: islex/391/391_67.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tilfinningu
+      dative: tilfinningu
+      genitive: tilfinningar
+    with article:
+      nominative: tilfinningin
+      nominative_translation: the feeling
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tilfinninguna
+      dative: tilfinningunni
+      genitive: tilfinningarinnar
+  plural:
+    no article:
+      nominative: tilfinningar
+      nominative_translation: feelings
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tilfinningar
+      dative: tilfinningum
+      genitive: tilfinninga
+    with article:
+      nominative: tilfinningarnar
+      nominative_translation: the feelings
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tilfinningarnar
+      dative: tilfinningunum
+      genitive: tilfinninganna
+id: 1828
+gender: feminine

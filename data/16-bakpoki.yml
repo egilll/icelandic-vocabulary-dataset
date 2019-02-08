@@ -1,0 +1,43 @@
+word: bakpoki
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bakpoki
+      nominative_translation: a backpack
+      nominative_sound: islex/041/041_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bakpoka
+      dative: bakpoka
+      genitive: bakpoka
+    with article:
+      nominative: bakpokinn
+      nominative_translation: the backpack
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bakpokann
+      dative: bakpokanum
+      genitive: bakpokans
+  plural:
+    no article:
+      nominative: bakpokar
+      nominative_translation: backpacks
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bakpoka
+      dative: bakpokum
+      genitive: bakpoka
+    with article:
+      nominative: bakpokarnir
+      nominative_translation: the backpacks
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bakpokana
+      dative: bakpokunum
+      genitive: bakpokanna
+id: 764
+gender: masculine

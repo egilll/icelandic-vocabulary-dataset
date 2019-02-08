@@ -1,0 +1,27 @@
+word: sumar
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sumar
+      nominative_translation: a summer
+      nominative_sound: islex/429/429_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sumar
+      accusative_sound: islex/429/429_23.mp3
+      dative: sumri
+      genitive: sumars
+    with article:
+      nominative: sumarið
+      nominative_translation: the summer
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sumarið
+      dative: sumrinu
+      genitive: sumarsins
+id: 1774
+gender: neuter
+recognizable: '1'

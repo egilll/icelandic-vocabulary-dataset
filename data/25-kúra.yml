@@ -1,0 +1,10 @@
+word: kúra
+level: 25
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] kúra'
+    infinitive_translation: to cuddle
+    infinitive_sound: islex/301/301_30.mp3
+    infinitive_teach: true
+id: 2196

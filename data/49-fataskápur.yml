@@ -1,0 +1,19 @@
+word: fataskápur
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fataskápur
+      nominative_translation: a wardrobe
+      nominative_sound: islex/370/370_82.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: fataskápurinn
+      nominative_translation: the wardrobe
+      nominative_teach: false
+      nominative_teachtable: false
+id: 931
+gender: masculine

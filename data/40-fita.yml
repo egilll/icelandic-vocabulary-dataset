@@ -1,0 +1,25 @@
+word: fita
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fita
+      nominative_translation: fat
+      nominative_sound: islex/203/203_73.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fitu
+      dative: fitu
+      genitive: fitu
+    with article:
+      nominative: fitan
+      nominative_translation: the fat
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fituna
+      dative: fitunni
+      genitive: fitunnar
+id: 944
+gender: feminine

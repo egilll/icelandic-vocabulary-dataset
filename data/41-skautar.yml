@@ -1,0 +1,18 @@
+word: skautar
+level: 41
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: skautar
+      nominative_translation: ice skates
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: skautarnir
+      nominative_translation: the ice skates
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1638
+gender: masculine

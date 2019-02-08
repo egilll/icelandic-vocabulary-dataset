@@ -1,0 +1,48 @@
+word: bolli
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bolli
+      nominative_translation: a cup
+      nominative_sound: islex/374/374_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bolla
+      accusative_sound: islex/482/482_24.mp3
+      dative: bolla
+      dative_sound: islex/482/482_24.mp3
+      genitive: bolla
+      genitive_sound: islex/482/482_24.mp3
+    with article:
+      nominative: bollinn
+      nominative_translation: the cup
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bollann
+      dative: bollanum
+      genitive: bollans
+  plural:
+    no article:
+      nominative: bollar
+      nominative_translation: cups
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bolla
+      accusative_sound: islex/482/482_24.mp3
+      dative: bollum
+      genitive: bolla
+      genitive_sound: islex/482/482_24.mp3
+    with article:
+      nominative: bollarnir
+      nominative_translation: the cups
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bollana
+      dative: bollunum
+      genitive: bollanna
+id: 827
+gender: masculine

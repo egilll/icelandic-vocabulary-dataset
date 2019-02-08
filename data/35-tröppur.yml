@@ -1,0 +1,25 @@
+word: tröppur
+level: 35
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: tröppur
+      nominative_translation: stairs
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tröppur
+      dative: tröppum
+      genitive: trappa
+      genitive_sound: islex/292/292_80.mp3
+    with article:
+      nominative: tröppurnar
+      nominative_translation: the stairs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tröppurnar
+      dative: tröppunum
+      genitive: trappanna
+id: 1850
+gender: feminine

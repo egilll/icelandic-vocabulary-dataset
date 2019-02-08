@@ -1,0 +1,19 @@
+word: stress
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stress
+      nominative_translation: stress
+      nominative_sound: islex/158/158_65.mp3
+      nominative_teach: false
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: stressið
+      nominative_translation: the stress
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1758
+gender: neuter

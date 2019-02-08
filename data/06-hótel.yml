@@ -1,0 +1,27 @@
+word: hótel
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hótel
+      nominative_translation: a hotel
+      nominative_sound: islex/115/115_26.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hótel
+      accusative_sound: islex/115/115_26.mp3
+      dative: hóteli
+      genitive: hótels
+    with article:
+      nominative: hótelið
+      nominative_translation: the hotel
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hótelið
+      dative: hótelinu
+      genitive: hótelsins
+id: 1158
+gender: neuter
+recognizable: '1'

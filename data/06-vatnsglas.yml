@@ -1,0 +1,44 @@
+word: vatnsglas
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vatnsglas
+      nominative_translation: a glass of water
+      nominative_sound: islex/247/247_80.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vatnsglas
+      accusative_sound: islex/247/247_80.mp3
+      dative: vatnsglasi
+      genitive: vatnsglass
+    with article:
+      nominative: vatnsglasið
+      nominative_translation: the glass of water
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vatnsglasið
+      dative: vatnsglasinu
+      genitive: vatnsglassins
+  plural:
+    no article:
+      nominative: vatnsglös
+      nominative_translation: glasses of water
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vatnsglös
+      dative: vatnsglösum
+      genitive: vatnsglasa
+    with article:
+      nominative: vatnsglösin
+      nominative_translation: the glasses of water
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vatnsglösin
+      dative: vatnsglösunum
+      genitive: vatnsglasanna
+id: 1897
+gender: neuter

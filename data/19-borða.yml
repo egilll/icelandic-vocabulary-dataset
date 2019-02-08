@@ -1,0 +1,59 @@
+word: borða
+level: 19
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] borða'
+    infinitive_translation: to eat
+    infinitive_sound: islex/310/310_08.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] borða'
+          1st person_translation: I eat
+          1st person_sound: islex/310/310_08.mp3
+          1st person_teach: true
+          2nd person: '[þú] borðar'
+          2nd person_translation: you¹ eat
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] borðar'
+          3rd person_translation: he/she/it eats
+          3rd person_teach: true
+        plural:
+          1st person: '[við] borðum'
+          1st person_translation: we eat
+          1st person_teach: true
+          2nd person: '[þið] borðið'
+          2nd person_translation: you² eat
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] borða'
+          3rd person_translation: they eat
+          3rd person_sound: islex/310/310_08.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] borðaði'
+          1st person_translation: I ate
+          1st person_teach: true
+          2nd person: '[þú] borðaðir'
+          2nd person_translation: you¹ ate
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] borðaði'
+          3rd person_translation: he/she/it ate
+          3rd person_teach: true
+        plural:
+          1st person: '[við] borðuðum'
+          1st person_translation: we ate
+          1st person_teach: true
+          2nd person: '[þið] borðuðuð'
+          2nd person_translation: you² ate
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] borðuðu'
+          3rd person_translation: they ate
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] borðað'
+    active voice_translation: I have eaten
+    active voice_teach: true
+id: 2050

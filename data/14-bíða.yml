@@ -1,0 +1,59 @@
+word: bíða
+level: 14
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] bíða'
+    infinitive_translation: to wait
+    infinitive_sound: islex/242/242_07.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] bíð'
+          1st person_translation: I wait
+          1st person_teach: true
+          2nd person: '[þú] bíður'
+          2nd person_translation: you¹ wait
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] bíður'
+          3rd person_translation: he/she/it waits
+          3rd person_teach: true
+        plural:
+          1st person: '[við] bíðum'
+          1st person_translation: we wait
+          1st person_teach: true
+          2nd person: '[þið] bíðið'
+          2nd person_translation: you² wait
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] bíða'
+          3rd person_translation: they wait
+          3rd person_sound: islex/242/242_07.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] beið'
+          1st person_translation: I waited
+          1st person_teach: true
+          2nd person: '[þú] beiðst'
+          2nd person_translation: you¹ waited
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] beið'
+          3rd person_translation: he/she/it waited
+          3rd person_teach: true
+        plural:
+          1st person: '[við] biðum'
+          1st person_translation: we waited
+          1st person_teach: true
+          2nd person: '[þið] biðuð'
+          2nd person_translation: you² waited
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] biðu'
+          3rd person_translation: they waited
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] beðið'
+    active voice_translation: I have waited
+    active voice_teach: true
+id: 2043
+strong_verb_declension: true

@@ -1,0 +1,43 @@
+word: setning
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: setning
+      nominative_translation: a sentence
+      nominative_sound: islex/031/031_74.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: setningu
+      dative: setningu
+      genitive: setningar
+    with article:
+      nominative: setningin
+      nominative_translation: the sentence
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: setninguna
+      dative: setningunni
+      genitive: setningarinnar
+  plural:
+    no article:
+      nominative: setningar
+      nominative_translation: sentences
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: setningar
+      dative: setningum
+      genitive: setninga
+    with article:
+      nominative: setningarnar
+      nominative_translation: the sentences
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: setningarnar
+      dative: setningunum
+      genitive: setninganna
+id: 1611
+gender: feminine

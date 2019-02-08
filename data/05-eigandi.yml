@@ -1,0 +1,43 @@
+word: eigandi
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: eigandi
+      nominative_translation: an owner
+      nominative_sound: islex/382/382_33.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: eiganda
+      dative: eiganda
+      genitive: eiganda
+    with article:
+      nominative: eigandinn
+      nominative_translation: the owner
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: eigandann
+      dative: eigandanum
+      genitive: eigandans
+  plural:
+    no article:
+      nominative: eigendur
+      nominative_translation: owners
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: eigendur
+      dative: eigendum
+      genitive: eigenda
+    with article:
+      nominative: eigendurnir
+      nominative_translation: the owners
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: eigendurna
+      dative: eigendunum
+      genitive: eigendanna
+id: 900
+gender: masculine

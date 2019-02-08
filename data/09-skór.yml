@@ -1,0 +1,26 @@
+word: skór
+level: 9
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: skór
+      nominative_translation: shoes
+      nominative_sound: islex/030/030_33.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skó
+      dative: skóm
+      genitive: skóa
+    with article:
+      nominative: skórnir
+      nominative_translation: the shoes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skóna
+      dative: skónum
+      genitive: skónna
+id: 1658
+gender: masculine
+recognizable: '1'

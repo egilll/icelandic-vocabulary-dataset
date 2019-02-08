@@ -1,0 +1,26 @@
+word: rífa
+level: 31
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] rífa'
+    infinitive_translation: 'to rip, to tear'
+    infinitive_sound: islex/006/006_40.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] ríf'
+          1st person_translation: 'I rip, I tear'
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] reif'
+          1st person_translation: 'I ripped, I tore'
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] rifið'
+    active voice_translation: 'I have ripped, I have torn'
+    active voice_teach: true
+id: 2295
+strong_verb_declension: true

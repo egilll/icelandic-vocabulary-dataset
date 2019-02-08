@@ -1,0 +1,46 @@
+word: plan
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: plan
+      nominative_translation: a plan
+      nominative_sound: islex/369/369_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: plan
+      accusative_sound: islex/369/369_85.mp3
+      dative: plani
+      genitive: plans
+    with article:
+      nominative: planið
+      nominative_translation: the plan
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: planið
+      dative: planinu
+      genitive: plansins
+  plural:
+    no article:
+      nominative: plön
+      nominative_translation: plans
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: plön
+      dative: plönum
+      genitive: plana
+      genitive_sound: islex/318/318_87.mp3
+    with article:
+      nominative: plönin
+      nominative_translation: the plans
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: plönin
+      dative: plönunum
+      genitive: plananna
+id: 1506
+gender: neuter
+recognizable: '1'

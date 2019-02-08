@@ -1,0 +1,63 @@
+word: gleyma
+level: 7
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] gleyma'
+    infinitive_translation: to forget
+    infinitive_sound: islex/049/049_50.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] gleymi'
+          1st person_translation: I forget
+          1st person_teach: true
+          2nd person: '[þú] gleymir'
+          2nd person_translation: you¹ forget
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] gleymir'
+          3rd person_translation: he/she/it forgets
+          3rd person_teach: true
+        plural:
+          1st person: '[við] gleymum'
+          1st person_translation: we forget
+          1st person_teach: true
+          2nd person: '[þið] gleymið'
+          2nd person_translation: you² forget
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] gleyma'
+          3rd person_translation: they forget
+          3rd person_sound: islex/049/049_50.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] gleymdi'
+          1st person_translation: I forgot
+          1st person_teach: true
+          2nd person: '[þú] gleymdir'
+          2nd person_translation: you¹ forgot
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] gleymdi'
+          3rd person_translation: he/she/it forgot
+          3rd person_teach: true
+        plural:
+          1st person: '[við] gleymdum'
+          1st person_translation: we forgot
+          1st person_teach: true
+          2nd person: '[þið] gleymduð'
+          2nd person_translation: you² forgot
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] gleymdu'
+          3rd person_translation: they forgot
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] gleymt'
+    active voice_translation: I have forgotten
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: gleymdu!
+      singular_translation: forget!¹
+      singular_teach: true
+id: 2129

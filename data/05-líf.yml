@@ -1,0 +1,27 @@
+word: líf
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: líf
+      nominative_translation: life
+      nominative_sound: islex/075/075_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: líf
+      accusative_sound: islex/075/075_04.mp3
+      dative: lífi
+      genitive: lífs
+    with article:
+      nominative: lífið
+      nominative_translation: the life
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lífið
+      dative: lífinu
+      genitive: lífsins
+id: 1324
+gender: neuter
+recognizable: '1'

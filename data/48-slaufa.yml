@@ -1,0 +1,19 @@
+word: slaufa
+level: 48
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: slaufa
+      nominative_translation: a bow tie
+      nominative_sound: islex/126/126_78.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: slaufan
+      nominative_translation: the bow tie
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1677
+gender: feminine

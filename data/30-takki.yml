@@ -1,0 +1,25 @@
+word: takki
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: takki
+      nominative_translation: 'a button, a switch'
+      nominative_sound: islex/364/364_03.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: takka
+      dative: takka
+      genitive: takka
+    with article:
+      nominative: takkinn
+      nominative_translation: 'the button, the switch'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: takkann
+      dative: takkanum
+      genitive: takkans
+id: 1811
+gender: masculine

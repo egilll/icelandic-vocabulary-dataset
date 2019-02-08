@@ -1,0 +1,60 @@
+word: dansa
+level: 19
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] dansa'
+    infinitive_translation: to dance
+    infinitive_sound: islex/008/008_83.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] dansa'
+          1st person_translation: I dance
+          1st person_sound: islex/008/008_83.mp3
+          1st person_teach: true
+          2nd person: '[þú] dansar'
+          2nd person_translation: you¹ dance
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] dansar'
+          3rd person_translation: he/she/it dances
+          3rd person_teach: true
+        plural:
+          1st person: '[við] dönsum'
+          1st person_translation: we dance
+          1st person_teach: true
+          2nd person: '[þið] dansið'
+          2nd person_translation: you² dance
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] dansa'
+          3rd person_translation: they dance
+          3rd person_sound: islex/008/008_83.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] dansaði'
+          1st person_translation: I danced
+          1st person_teach: true
+          2nd person: '[þú] dansaðir'
+          2nd person_translation: you¹ danced
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] dansaði'
+          3rd person_translation: he/she/it danced
+          3rd person_teach: true
+        plural:
+          1st person: '[við] dönsuðum'
+          1st person_translation: we danced
+          1st person_teach: true
+          2nd person: '[þið] dönsuðuð'
+          2nd person_translation: you² danced
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] dönsuðu'
+          3rd person_translation: they danced
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] dansað'
+    active voice_translation: I have danced
+    active voice_teach: true
+id: 2065
+recognizable: '1'

@@ -1,0 +1,25 @@
+word: fluga
+level: 36
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fluga
+      nominative_translation: 'a fly, a bee'
+      nominative_sound: islex/163/163_00.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flugu
+      dative: flugu
+      genitive: flugu
+    with article:
+      nominative: flugan
+      nominative_translation: 'the fly, the bee'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fluguna
+      dative: flugunni
+      genitive: flugunnar
+id: 962
+gender: feminine

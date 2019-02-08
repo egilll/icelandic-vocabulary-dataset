@@ -1,0 +1,22 @@
+word: skólastjóri
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skólastjóri
+      nominative_translation: a headmaster (of a school)
+      nominative_sound: islex/234/234_69.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skólastjóra
+      dative: skólastjóra
+      genitive: skólastjóra
+    with article:
+      nominative: skólastjórinn
+      nominative_translation: the headmaster (of a school)
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1656
+gender: masculine

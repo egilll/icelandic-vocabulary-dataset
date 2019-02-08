@@ -1,0 +1,47 @@
+word: svín
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: svín
+      nominative_translation: a pig
+      nominative_sound: islex/418/418_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: svín
+      accusative_sound: islex/418/418_24.mp3
+      dative: svíni
+      genitive: svíns
+    with article:
+      nominative: svínið
+      nominative_translation: the pig
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: svínið
+      dative: svíninu
+      genitive: svínsins
+  plural:
+    no article:
+      nominative: svín
+      nominative_translation: pigs
+      nominative_sound: islex/418/418_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: svín
+      accusative_sound: islex/418/418_24.mp3
+      dative: svínum
+      genitive: svína
+      genitive_sound: islex/439/439_66.mp3
+    with article:
+      nominative: svínin
+      nominative_translation: the pigs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: svínin
+      dative: svínunum
+      genitive: svínanna
+id: 1796
+gender: neuter

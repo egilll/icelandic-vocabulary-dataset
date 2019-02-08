@@ -1,0 +1,24 @@
+word: viðbót
+level: 45
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: viðbætur
+      nominative_translation: additions
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: viðbætur
+      dative: viðbótum
+      genitive: viðbóta
+    with article:
+      nominative: viðbæturnar
+      nominative_translation: the additions
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: viðbæturnar
+      dative: viðbótunum
+      genitive: viðbótanna
+id: 1919
+gender: feminine

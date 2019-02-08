@@ -1,0 +1,43 @@
+word: háskóli
+level: 8
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: háskóli
+      nominative_translation: a university
+      nominative_sound: islex/188/188_73.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: háskóla
+      dative: háskóla
+      genitive: háskóla
+    with article:
+      nominative: háskólinn
+      nominative_translation: the university
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: háskólann
+      dative: háskólanum
+      genitive: háskólans
+  plural:
+    no article:
+      nominative: háskólar
+      nominative_translation: universities
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: háskóla
+      dative: háskólum
+      genitive: háskóla
+    with article:
+      nominative: háskólarnir
+      nominative_translation: the universities
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: háskólana
+      dative: háskólunum
+      genitive: háskólanna
+id: 1094
+gender: masculine

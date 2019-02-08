@@ -1,0 +1,38 @@
+word: banna
+level: 19
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] banna'
+    infinitive_translation: 'to prohibit, to ban'
+    infinitive_sound: islex/368/368_70.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] banna'
+          1st person_translation: 'I prohibit, I ban'
+          1st person_sound: islex/368/368_70.mp3
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] bannaði'
+          1st person_translation: 'I prohibited, I banned'
+          1st person_teach: true
+          2nd person: '[þú] bannaðir'
+          2nd person_translation: 'you¹ prohibited, you¹ banned'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] bannaði'
+          3rd person_translation: 'he/she/it prohibited, he/she/it banned'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] bönnuðum'
+          1st person_translation: 'we prohibited, we banned'
+          1st person_teach: true
+          2nd person: '[þið] bönnuðuð'
+          2nd person_translation: 'you² prohibited, you² banned'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] bönnuðu'
+          3rd person_translation: 'they prohibited, they banned'
+          3rd person_teach: true
+id: 2033

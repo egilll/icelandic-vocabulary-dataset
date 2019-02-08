@@ -1,0 +1,59 @@
+word: fíla
+level: 11
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] fíla'
+    infinitive_translation: to like
+    infinitive_teach: true
+    infinitive_note: Mainly used in spoken language.
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] fíla'
+          1st person_translation: I like
+          1st person_teach: true
+          2nd person: '[þú] fílar'
+          2nd person_translation: you¹ like
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] fílar'
+          3rd person_translation: he/she/it likes
+          3rd person_teach: true
+        plural:
+          1st person: '[við] fílum'
+          1st person_translation: we like
+          1st person_teach: true
+          2nd person: '[þið] fílið'
+          2nd person_translation: you² like
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] fíla'
+          3rd person_translation: they like
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] fílaði'
+          1st person_translation: I liked
+          1st person_teach: true
+          2nd person: '[þú] fílaðir'
+          2nd person_translation: you¹ liked
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] fílaði'
+          3rd person_translation: he/she/it liked
+          3rd person_teach: true
+        plural:
+          1st person: '[við] fíluðum'
+          1st person_translation: we liked
+          1st person_teach: true
+          2nd person: '[þið] fíluðuð'
+          2nd person_translation: you² liked
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] fíluðu'
+          3rd person_translation: they liked
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] fíli'
+          1st person_translation: I think I like
+          1st person_teach: true
+id: 2099

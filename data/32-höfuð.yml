@@ -1,0 +1,27 @@
+word: höfuð
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: höfuð
+      nominative_translation: a head
+      nominative_sound: islex/358/358_44.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: höfuð
+      accusative_sound: islex/358/358_44.mp3
+      dative: höfði
+      dative_sound: islex/065/065_29.mp3
+      genitive: höfuðs
+    with article:
+      nominative: höfuðið
+      nominative_translation: the head
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: höfuðið
+      dative: höfðinu
+      genitive: höfuðsins
+id: 1148
+gender: neuter

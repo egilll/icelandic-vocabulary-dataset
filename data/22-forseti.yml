@@ -1,0 +1,25 @@
+word: forseti
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: forseti
+      nominative_translation: a president
+      nominative_sound: islex/324/324_78.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: forseta
+      dative: forseta
+      genitive: forseta
+    with article:
+      nominative: forsetinn
+      nominative_translation: the president
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: forsetann
+      dative: forsetanum
+      genitive: forsetans
+id: 971
+gender: masculine

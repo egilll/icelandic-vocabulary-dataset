@@ -1,0 +1,28 @@
+word: lög
+level: 27
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: lög
+      nominative_translation: laws
+      nominative_sound: islex/412/412_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lög
+      accusative_sound: islex/412/412_94.mp3
+      dative: lögum
+      genitive: laga
+      genitive_sound: islex/066/066_16.mp3
+    with article:
+      nominative: lögin
+      nominative_translation: the laws
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lögin
+      dative: lögunum
+      genitive: laganna
+id: 1349
+gender: neuter
+never_show_with: lag

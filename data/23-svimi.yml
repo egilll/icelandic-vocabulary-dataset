@@ -1,0 +1,31 @@
+word: svimi
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: svimi
+      nominative_translation: dizziness
+      nominative_sound: islex/150/150_82.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: svima
+      accusative_sound: islex/040/040_75.mp3
+      dative: svima
+      dative_sound: islex/040/040_75.mp3
+      genitive: svima
+      genitive_sound: islex/040/040_75.mp3
+    with article:
+      nominative: sviminn
+      nominative_translation: the dizziness
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: svimann
+      dative: svimanum
+      genitive: svimans
+id: 1795
+teach_the_difference: ''
+gender: masculine
+never_show_with: ''
+only_show_after: ''

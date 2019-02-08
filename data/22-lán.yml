@@ -1,0 +1,26 @@
+word: lán
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lán
+      nominative_translation: a loan
+      nominative_sound: islex/019/019_71.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lán
+      accusative_sound: islex/019/019_71.mp3
+      dative: láni
+      genitive: láns
+    with article:
+      nominative: lánið
+      nominative_translation: the loan
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lánið
+      dative: láninu
+      genitive: lánsins
+id: 1294
+gender: neuter

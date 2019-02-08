@@ -1,0 +1,43 @@
+word: hreyfing
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hreyfing
+      nominative_translation: movement
+      nominative_sound: islex/120/120_06.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hreyfingu
+      dative: hreyfingu
+      genitive: hreyfingar
+    with article:
+      nominative: hreyfingin
+      nominative_translation: the movement
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hreyfinguna
+      dative: hreyfingunni
+      genitive: hreyfingarinnar
+  plural:
+    no article:
+      nominative: hreyfingar
+      nominative_translation: movements
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hreyfingar
+      dative: hreyfingum
+      genitive: hreyfinga
+    with article:
+      nominative: hreyfingarnar
+      nominative_translation: the movements
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hreyfingarnar
+      dative: hreyfingunum
+      genitive: hreyfinganna
+id: 1165
+gender: feminine

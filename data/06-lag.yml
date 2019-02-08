@@ -1,0 +1,48 @@
+word: lag
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lag
+      nominative_translation: a song
+      nominative_sound: islex/478/478_43.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lag
+      accusative_sound: islex/478/478_43.mp3
+      dative: lagi
+      genitive: lags
+    with article:
+      nominative: lagið
+      nominative_translation: the song
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lagið
+      dative: laginu
+      genitive: lagsins
+  plural:
+    no article:
+      nominative: lög
+      nominative_translation: songs
+      nominative_sound: islex/412/412_94.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lög
+      accusative_sound: islex/412/412_94.mp3
+      dative: lögum
+      genitive: laga
+      genitive_sound: islex/066/066_16.mp3
+    with article:
+      nominative: lögin
+      nominative_translation: the songs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lögin
+      dative: lögunum
+      genitive: laganna
+id: 1288
+gender: neuter
+never_show_with: lög

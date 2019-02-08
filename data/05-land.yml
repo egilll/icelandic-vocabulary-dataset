@@ -1,0 +1,46 @@
+word: land
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: land
+      nominative_translation: 'a country, land'
+      nominative_sound: islex/370/370_73.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: land
+      accusative_sound: islex/370/370_73.mp3
+      dative: landi
+      dative_sound: islex/029/029_69.mp3
+      genitive: lands
+    with article:
+      nominative: landið
+      nominative_translation: 'the country, the land'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: landið
+      dative: landinu
+      genitive: landsins
+  plural:
+    no article:
+      nominative: lönd
+      nominative_translation: 'countries, lands'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lönd
+      dative: löndum
+      genitive: landa
+      genitive_sound: islex/305/305_74.mp3
+    with article:
+      nominative: löndin
+      nominative_translation: 'the countries, the lands'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: löndin
+      dative: löndunum
+      genitive: landanna
+id: 1295
+gender: neuter

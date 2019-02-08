@@ -1,0 +1,47 @@
+word: orð
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: orð
+      nominative_translation: word
+      nominative_sound: islex/164/164_26.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: orð
+      accusative_sound: islex/164/164_26.mp3
+      dative: orði
+      genitive: orðs
+    with article:
+      nominative: orðið
+      nominative_translation: the word
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: orðið
+      dative: orðinu
+      genitive: orðsins
+  plural:
+    no article:
+      nominative: orð
+      nominative_translation: words
+      nominative_sound: islex/164/164_26.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: orð
+      accusative_sound: islex/164/164_26.mp3
+      dative: orðum
+      genitive: orða
+      genitive_sound: islex/030/030_29.mp3
+    with article:
+      nominative: orðin
+      nominative_translation: the words
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: orðin
+      dative: orðunum
+      genitive: orðanna
+id: 1473
+gender: neuter

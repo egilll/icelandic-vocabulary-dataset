@@ -1,0 +1,43 @@
+word: hamborgari
+level: 3
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hamborgari
+      nominative_translation: a hamburger
+      nominative_sound: islex/182/182_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hamborgara
+      dative: hamborgara
+      genitive: hamborgara
+    with article:
+      nominative: hamborgarinn
+      nominative_translation: the hamburger
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hamborgarann
+      dative: hamborgaranum
+      genitive: hamborgarans
+  plural:
+    no article:
+      nominative: hamborgarar
+      nominative_translation: hamburgers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hamborgara
+      dative: hamborgurum
+      genitive: hamborgara
+    with article:
+      nominative: hamborgararnir
+      nominative_translation: the hamburgers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hamborgarana
+      dative: hamborgurunum
+      genitive: hamborgaranna
+id: 1083
+gender: masculine

@@ -1,0 +1,25 @@
+word: skuldir
+level: 7
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: skuldir
+      nominative_translation: debts
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skuldir
+      dative: skuldum
+      genitive: skulda
+      genitive_sound: islex/095/095_82.mp3
+    with article:
+      nominative: skuldirnar
+      nominative_translation: the debts
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skuldirnar
+      dative: skuldunum
+      genitive: skuldanna
+id: 1666
+gender: feminine

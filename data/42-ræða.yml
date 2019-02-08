@@ -1,0 +1,25 @@
+word: ræða
+level: 42
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] ræða'
+    infinitive_translation: to discuss
+    infinitive_sound: islex/065/065_84.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] ræði'
+          1st person_translation: I discuss
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] ræddi'
+          1st person_translation: I discussed
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] rætt'
+    active voice_translation: I have discussed
+    active voice_teach: true
+id: 2280

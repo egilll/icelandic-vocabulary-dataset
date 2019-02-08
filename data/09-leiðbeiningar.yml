@@ -1,0 +1,24 @@
+word: leiðbeiningar
+level: 9
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: leiðbeiningar
+      nominative_translation: instructions
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leiðbeiningar
+      dative: leiðbeiningum
+      genitive: leiðbeininga
+    with article:
+      nominative: leiðbeiningarnar
+      nominative_translation: the instructions
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leiðbeiningarnar
+      dative: leiðbeiningunum
+      genitive: leiðbeininganna
+id: 1306
+gender: feminine

@@ -1,0 +1,10 @@
+word: enda
+level: 28
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] enda'
+    infinitive_translation: to end
+    infinitive_sound: islex/121/121_09.mp3
+    infinitive_teach: true
+id: 2086

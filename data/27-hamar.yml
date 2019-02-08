@@ -1,0 +1,26 @@
+word: hamar
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hamar
+      nominative_translation: a hammer
+      nominative_sound: islex/305/305_60.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hamar
+      accusative_sound: islex/305/305_60.mp3
+      dative: hamri
+      genitive: hamars
+    with article:
+      nominative: hamarinn
+      nominative_translation: the hammer
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hamarinn
+      dative: hamrinum
+      genitive: hamarsins
+id: 1082
+gender: masculine

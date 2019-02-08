@@ -1,0 +1,44 @@
+word: stafir
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stafur
+      nominative_translation: a letter (of the alphabet)
+      nominative_sound: islex/246/246_46.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: staf
+      dative: staf
+      genitive: stafs
+    with article:
+      nominative: stafurinn
+      nominative_translation: the letter (of the alphabet)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stafinn
+      dative: stafnum
+      genitive: stafsins
+  plural:
+    no article:
+      nominative: stafir
+      nominative_translation: letters (of the alphabet)
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stafi
+      dative: stöfum
+      genitive: stafa
+      genitive_sound: islex/314/314_98.mp3
+    with article:
+      nominative: stafirnir
+      nominative_translation: the letters (of the alphabet)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stafina
+      dative: stöfunum
+      genitive: stafanna
+id: 1732
+gender: masculine

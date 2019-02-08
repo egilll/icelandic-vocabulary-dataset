@@ -1,0 +1,42 @@
+word: aumingi
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: aumingi
+      nominative_translation: a loser; a weakling
+      nominative_sound: islex/284/284_74.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: aumingja
+      accusative_sound: islex/144/144_74.mp3
+      dative: aumingja
+      dative_sound: islex/144/144_74.mp3
+      genitive: aumingja
+      genitive_sound: islex/144/144_74.mp3
+    with article:
+      nominative: auminginn
+      nominative_translation: the loser
+      nominative_teach: false
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: aumingjar
+      nominative_translation: losers; weaklings
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: aumingja
+      accusative_sound: islex/144/144_74.mp3
+      dative: aumingjum
+      genitive: aumingja
+      genitive_sound: islex/144/144_74.mp3
+    with article:
+      nominative: aumingjarnir
+      nominative_translation: the losers
+      nominative_teach: false
+      nominative_teachtable: false
+id: 753
+gender: masculine

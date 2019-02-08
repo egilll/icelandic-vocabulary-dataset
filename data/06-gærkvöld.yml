@@ -1,0 +1,46 @@
+word: gærkvöld
+level: 6
+grammatical_category: other
+conjugation:
+  singular:
+    no article:
+      nominative: gærkvöld
+      nominative_translation: yesterday night
+      nominative_sound: islex/014/014_81.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gærkvöld
+      accusative_sound: islex/014/014_81.mp3
+      dative: gærkvöldi
+      genitive: gærkvölds
+    with article:
+      nominative: gærkvöldið
+      nominative_translation: the yesterday night
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gærkvöldið
+      dative: gærkvöldinu
+      genitive: gærkvöldsins
+  plural:
+    no article:
+      nominative: gærkvöld
+      nominative_translation: yesterday nights
+      nominative_sound: islex/014/014_81.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gærkvöld
+      accusative_sound: islex/014/014_81.mp3
+      dative: gærkvöldum
+      genitive: gærkvölda
+    with article:
+      nominative: gærkvöldin
+      nominative_translation: the yesterday nights
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gærkvöldin
+      dative: gærkvöldunum
+      genitive: gærkvöldanna
+id: 1006
+gender: neuter

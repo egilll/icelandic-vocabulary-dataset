@@ -1,0 +1,26 @@
+word: hraun
+level: 46
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hraun
+      nominative_translation: lava
+      nominative_sound: islex/157/157_62.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hraun
+      accusative_sound: islex/157/157_62.mp3
+      dative: hrauni
+      genitive: hrauns
+    with article:
+      nominative: hraunið
+      nominative_translation: the lava
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hraunið
+      dative: hrauninu
+      genitive: hraunsins
+id: 1161
+gender: neuter

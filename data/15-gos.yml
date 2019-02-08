@@ -1,0 +1,27 @@
+word: gos
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gos
+      nominative_translation: 'soda, soft drink'
+      nominative_sound: islex/153/153_28.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gos
+      accusative_sound: islex/153/153_28.mp3
+      dative: gosi
+      dative_sound: islex/113/113_16.mp3
+      genitive: goss
+    with article:
+      nominative: gosið
+      nominative_translation: 'the soda, the soft drink'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gosið
+      dative: gosinu
+      genitive: gossins
+id: 1039
+gender: neuter

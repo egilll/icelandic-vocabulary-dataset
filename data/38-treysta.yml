@@ -1,0 +1,59 @@
+word: treysta
+level: 38
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] treysta'
+    infinitive_translation: to trust
+    infinitive_sound: islex/005/005_64.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] treysti'
+          1st person_translation: I trust
+          1st person_teach: true
+          2nd person: '[þú] treystir'
+          2nd person_translation: you¹ trust
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] treystir'
+          3rd person_translation: he/she/it trusts
+          3rd person_teach: true
+        plural:
+          1st person: '[við] treystum'
+          1st person_translation: we trust
+          1st person_teach: true
+          2nd person: '[þið] treystið'
+          2nd person_translation: you² trust
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] treysta'
+          3rd person_translation: they trust
+          3rd person_sound: islex/005/005_64.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] treysti'
+          1st person_translation: I trusted
+          1st person_teach: true
+          2nd person: '[þú] treystir'
+          2nd person_translation: you¹ trusted
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] treysti'
+          3rd person_translation: he/she/it trusted
+          3rd person_teach: true
+        plural:
+          1st person: '[við] treystum'
+          1st person_translation: we trusted
+          1st person_teach: true
+          2nd person: '[þið] treystuð'
+          2nd person_translation: you² trusted
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] treystu'
+          3rd person_translation: they trusted
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] treyst'
+    active voice_translation: I have trusted
+    active voice_teach: true
+id: 2406
+recognizable: '1'

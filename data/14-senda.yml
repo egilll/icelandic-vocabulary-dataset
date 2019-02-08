@@ -1,0 +1,66 @@
+word: senda
+level: 14
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] senda'
+    infinitive_translation: to send
+    infinitive_sound: islex/013/013_92.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] sendi'
+          1st person_translation: I send
+          1st person_teach: true
+          2nd person: '[þú] sendir'
+          2nd person_translation: you¹ send
+          2nd person_sound: islex/321/321_78.mp3
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sendir'
+          3rd person_translation: he/she/it sends
+          3rd person_sound: islex/321/321_78.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sendum'
+          1st person_translation: we send
+          1st person_teach: true
+          2nd person: '[þið] sendið'
+          2nd person_translation: you² send
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] senda'
+          3rd person_translation: they send
+          3rd person_sound: islex/013/013_92.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] sendi'
+          1st person_translation: I sent
+          1st person_teach: true
+          2nd person: '[þú] sendir'
+          2nd person_translation: you¹ sent
+          2nd person_sound: islex/321/321_78.mp3
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] sendi'
+          3rd person_translation: he/she/it sent
+          3rd person_teach: true
+        plural:
+          1st person: '[við] sendum'
+          1st person_translation: we sent
+          1st person_teach: true
+          2nd person: '[þið] senduð'
+          2nd person_translation: you² sent
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] sendu'
+          3rd person_translation: they sent
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] sent'
+    active voice_translation: I have sent
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: sendu!
+      singular_translation: send!¹
+      singular_teach: true
+id: 2314

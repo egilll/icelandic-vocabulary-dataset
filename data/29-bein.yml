@@ -1,0 +1,48 @@
+word: bein
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bein
+      nominative_translation: bone
+      nominative_sound: islex/074/074_92.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bein
+      accusative_sound: islex/074/074_92.mp3
+      dative: beini
+      dative_sound: islex/326/326_05.mp3
+      genitive: beins
+    with article:
+      nominative: beinið
+      nominative_translation: the bone
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: beinið
+      dative: beininu
+      genitive: beinsins
+  plural:
+    no article:
+      nominative: bein
+      nominative_translation: bones
+      nominative_sound: islex/074/074_92.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bein
+      accusative_sound: islex/074/074_92.mp3
+      dative: beinum
+      genitive: beina
+      genitive_sound: islex/256/256_71.mp3
+    with article:
+      nominative: beinin
+      nominative_translation: the bones
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: beinin
+      dative: beinunum
+      genitive: beinanna
+id: 781
+gender: neuter

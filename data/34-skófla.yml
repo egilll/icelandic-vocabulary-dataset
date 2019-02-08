@@ -1,0 +1,37 @@
+word: skófla
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skófla
+      nominative_translation: showel
+      nominative_sound: islex/225/225_91.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skóflu
+      dative: skóflu
+      genitive: skóflu
+    with article:
+      nominative: skóflan
+      nominative_translation: the showel
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skófluna
+      dative: skóflunni
+      genitive: skóflunnar
+  plural:
+    no article:
+      nominative: skóflur
+      nominative_translation: showels
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: skóflurnar
+      nominative_translation: the showels
+      nominative_teach: true
+      nominative_teachtable: false
+id: 2447
+gender: feminine

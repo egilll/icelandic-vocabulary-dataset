@@ -1,0 +1,19 @@
+word: val
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: val
+      nominative_translation: a choice
+      nominative_sound: islex/352/352_54.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: valið
+      nominative_translation: the choice
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1886
+gender: neuter

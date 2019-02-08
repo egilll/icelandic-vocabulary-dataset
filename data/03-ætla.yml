@@ -1,0 +1,65 @@
+word: ætla
+level: 3
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] ætla'
+    infinitive_translation: to intend to
+    infinitive_sound: islex/053/053_21.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] ætla'
+          1st person_translation: I intend to
+          1st person_sound: islex/053/053_21.mp3
+          1st person_teach: true
+          2nd person: '[þú] ætlar'
+          2nd person_translation: you¹ intend to
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] ætlar'
+          3rd person_translation: he/she/it intends to
+          3rd person_teach: true
+        plural:
+          1st person: '[við] ætlum'
+          1st person_translation: we intend to
+          1st person_teach: true
+          2nd person: '[þið] ætlið'
+          2nd person_translation: you² intend to
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] ætla'
+          3rd person_translation: they intend to
+          3rd person_sound: islex/053/053_21.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] ætlaði'
+          1st person_translation: I intended to
+          1st person_teach: true
+          2nd person: '[þú] ætlaðir'
+          2nd person_translation: you¹ intended to
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] ætlaði'
+          3rd person_translation: he/she/it intended to
+          3rd person_teach: true
+        plural:
+          1st person: '[við] ætluðum'
+          1st person_translation: we intended to
+          1st person_teach: true
+          2nd person: '[þið] ætluðuð'
+          2nd person_translation: you² intended to
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] ætluðu'
+          3rd person_translation: they intended to
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] ætli'
+          1st person_translation: I think I intend to
+          1st person_teach: true
+        plural:
+          1st person: '[ég held að] [við] ætlum'
+          1st person_translation: I think we intend to
+          1st person_teach: true
+id: 2020

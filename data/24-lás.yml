@@ -1,0 +1,29 @@
+word: lás
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: lás
+      nominative_translation: a lock
+      nominative_sound: islex/008/008_44.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lás
+      accusative_sound: islex/008/008_44.mp3
+      dative: lás
+      dative_sound: islex/008/008_44.mp3
+      dative_alternative:
+        - lási
+      genitive: láss
+    with article:
+      nominative: lásinn
+      nominative_translation: the lock
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lásinn
+      dative: lásnum
+      genitive: lássins
+id: 1298
+gender: masculine

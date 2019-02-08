@@ -1,0 +1,26 @@
+word: morð
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: morð
+      nominative_translation: a murder
+      nominative_sound: islex/332/332_29.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: morð
+      accusative_sound: islex/332/332_29.mp3
+      dative: morði
+      genitive: morðs
+    with article:
+      nominative: morðið
+      nominative_translation: the murder
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: morðið
+      dative: morðinu
+      genitive: morðsins
+id: 1415
+gender: neuter

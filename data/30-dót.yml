@@ -1,0 +1,26 @@
+word: dót
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dót
+      nominative_translation: stuff; toys
+      nominative_sound: islex/404/404_18.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dót
+      accusative_sound: islex/404/404_18.mp3
+      dative: dóti
+      genitive: dóts
+    with article:
+      nominative: dótið
+      nominative_translation: the stuff; the toys
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dótið
+      dative: dótinu
+      genitive: dótsins
+id: 877
+gender: neuter

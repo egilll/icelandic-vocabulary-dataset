@@ -1,0 +1,26 @@
+word: haust
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: haust
+      nominative_translation: 'fall, autumn (season)'
+      nominative_sound: islex/051/051_76.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: haust
+      accusative_sound: islex/051/051_76.mp3
+      dative: hausti
+      genitive: hausts
+    with article:
+      nominative: haustið
+      nominative_translation: 'the fall, the autumn (season)'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: haustið
+      dative: haustinu
+      genitive: haustsins
+id: 1098
+gender: neuter

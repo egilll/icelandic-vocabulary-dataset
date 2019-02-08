@@ -1,0 +1,43 @@
+word: blaðsíða
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: blaðsíða
+      nominative_translation: a page
+      nominative_sound: islex/465/465_65.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blaðsíðu
+      dative: blaðsíðu
+      genitive: blaðsíðu
+    with article:
+      nominative: blaðsíðan
+      nominative_translation: the page
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blaðsíðuna
+      dative: blaðsíðunni
+      genitive: blaðsíðunnar
+  plural:
+    no article:
+      nominative: blaðsíður
+      nominative_translation: pages
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blaðsíður
+      dative: blaðsíðum
+      genitive: blaðsíðna
+    with article:
+      nominative: blaðsíðurnar
+      nominative_translation: the pages
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blaðsíðurnar
+      dative: blaðsíðunum
+      genitive: blaðsíðnanna
+id: 808
+gender: feminine

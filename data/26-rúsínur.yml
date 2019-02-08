@@ -1,0 +1,23 @@
+word: rúsínur
+level: 26
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: rúsínur
+      nominative_translation: raisins
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rúsínur
+      dative: rúsínum
+      genitive: rúsína
+      genitive_sound: islex/022/022_61.mp3
+    with article:
+      nominative: rúsínurnar
+      nominative_translation: the raisins
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1576
+gender: feminine
+recognizable: '1'

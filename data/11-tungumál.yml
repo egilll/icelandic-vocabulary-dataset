@@ -1,0 +1,26 @@
+word: tungumál
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tungumál
+      nominative_translation: a language
+      nominative_sound: islex/248/248_06.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tungumál
+      accusative_sound: islex/248/248_06.mp3
+      dative: tungumáli
+      genitive: tungumáls
+    with article:
+      nominative: tungumálið
+      nominative_translation: the language
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tungumálið
+      dative: tungumálinu
+      genitive: tungumálsins
+id: 1857
+gender: neuter

@@ -1,0 +1,26 @@
+word: sleði
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sleði
+      nominative_translation: a sled
+      nominative_sound: islex/301/301_67.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sleða
+      dative: sleða
+      genitive: sleða
+    with article:
+      nominative: sleðinn
+      nominative_translation: the sled
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sleðann
+      dative: sleðanum
+      genitive: sleðans
+id: 1678
+gender: masculine
+recognizable: '1'

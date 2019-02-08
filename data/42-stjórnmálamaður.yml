@@ -1,0 +1,43 @@
+word: stjórnmálamaður
+level: 42
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stjórnmálamaður
+      nominative_translation: a politician
+      nominative_sound: islex/011/011_91.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stjórnmálamann
+      dative: stjórnmálamanni
+      genitive: stjórnmálamanns
+    with article:
+      nominative: stjórnmálamaðurinn
+      nominative_translation: the politician
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stjórnmálamanninn
+      dative: stjórnmálamanninum
+      genitive: stjórnmálamannsins
+  plural:
+    no article:
+      nominative: stjórnmálamenn
+      nominative_translation: politicians
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: stjórnmálamenn
+      dative: stjórnmálamönnum
+      genitive: stjórnmálamanna
+    with article:
+      nominative: stjórnmálamennirnir
+      nominative_translation: the politicians
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: stjórnmálamennina
+      dative: stjórnmálamönnunum
+      genitive: stjórnmálamannanna
+id: 1749
+gender: masculine

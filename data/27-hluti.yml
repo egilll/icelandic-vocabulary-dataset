@@ -1,0 +1,48 @@
+word: hluti
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hluti
+      nominative_translation: a part
+      nominative_sound: islex/369/369_87.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hluta
+      accusative_sound: islex/183/183_98.mp3
+      dative: hluta
+      dative_sound: islex/183/183_98.mp3
+      genitive: hluta
+      genitive_sound: islex/183/183_98.mp3
+    with article:
+      nominative: hlutinn
+      nominative_translation: the part
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hlutann
+      dative: hlutanum
+      genitive: hlutans
+  plural:
+    no article:
+      nominative: hlutar
+      nominative_translation: parts
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hluta
+      accusative_sound: islex/183/183_98.mp3
+      dative: hlutum
+      genitive: hluta
+      genitive_sound: islex/183/183_98.mp3
+    with article:
+      nominative: hlutarnir
+      nominative_translation: the parts
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hlutana
+      dative: hlutunum
+      genitive: hlutanna
+id: 1139
+gender: masculine

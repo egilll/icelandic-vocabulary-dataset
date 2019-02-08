@@ -1,0 +1,12 @@
+word: kynnast
+level: 7
+grammatical_category: verb
+conjugation:
+  middle voice:
+    indicative:
+      past:
+        plural:
+          1st person: '[við] kynntumst'
+          1st person_translation: we got to know each other
+          1st person_teach: true
+id: 2200

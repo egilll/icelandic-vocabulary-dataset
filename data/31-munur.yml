@@ -1,0 +1,25 @@
+word: munur
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: munur
+      nominative_translation: a difference
+      nominative_sound: islex/231/231_48.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: mun
+      dative: mun
+      genitive: munar
+    with article:
+      nominative: munurinn
+      nominative_translation: the difference
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: muninn
+      dative: muninum
+      genitive: munarins
+id: 1423
+gender: masculine

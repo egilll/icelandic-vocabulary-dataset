@@ -1,0 +1,27 @@
+word: útlit
+level: 24
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: útlit
+      nominative_translation: appearance
+      nominative_sound: islex/183/183_12.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: out-look
+      accusative: útlit
+      accusative_sound: islex/183/183_12.mp3
+      dative: útliti
+      genitive: útlits
+    with article:
+      nominative: útlitið
+      nominative_translation: the appearance
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: útlitið
+      dative: útlitinu
+      genitive: útlitsins
+id: 1880
+gender: neuter

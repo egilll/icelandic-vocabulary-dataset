@@ -1,0 +1,27 @@
+word: breidd
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: breidd
+      nominative_translation: width
+      nominative_sound: islex/092/092_58.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: breidd
+      accusative_sound: islex/092/092_58.mp3
+      dative: breidd
+      dative_sound: islex/092/092_58.mp3
+      genitive: breiddar
+    with article:
+      nominative: breiddin
+      nominative_translation: the width
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: breiddina
+      dative: breiddinni
+      genitive: breiddarinnar
+id: 846
+gender: feminine

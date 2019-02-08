@@ -1,0 +1,18 @@
+word: kynsjúkdómatékk
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kynsjúkdómatékk
+      nominative_translation: test for sexually transmitted diseases
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: kynsjúkdómatékkið
+      nominative_translation: the test for sexually transmitted diseases
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1282
+gender: neuter

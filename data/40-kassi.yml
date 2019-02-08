@@ -1,0 +1,43 @@
+word: kassi
+level: 40
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kassi
+      nominative_translation: a box
+      nominative_sound: islex/353/353_37.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kassa
+      dative: kassa
+      genitive: kassa
+    with article:
+      nominative: kassinn
+      nominative_translation: the box
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kassann
+      dative: kassanum
+      genitive: kassans
+  plural:
+    no article:
+      nominative: kassar
+      nominative_translation: boxes
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kassa
+      dative: kössum
+      genitive: kassa
+    with article:
+      nominative: kassarnir
+      nominative_translation: the boxes
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kassana
+      dative: kössunum
+      genitive: kassanna
+id: 1225
+gender: masculine

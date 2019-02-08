@@ -1,0 +1,44 @@
+word: metrar
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: metri
+      nominative_translation: a metre
+      nominative_sound: islex/121/121_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: metra
+      dative: metra
+      genitive: metra
+    with article:
+      nominative: metrinn
+      nominative_translation: the metre
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: metrann
+      dative: metranum
+      genitive: metrans
+  plural:
+    no article:
+      nominative: metrar
+      nominative_translation: metres
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: metra
+      dative: metrum
+      genitive: metra
+    with article:
+      nominative: metrarnir
+      nominative_translation: the metres
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: metrana
+      dative: metrunum
+      genitive: metranna
+id: 1401
+gender: masculine
+recognizable: '1'

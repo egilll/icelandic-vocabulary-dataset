@@ -1,0 +1,25 @@
+word: kuldaskór
+level: 36
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: kuldaskór
+      nominative_translation: snow boots
+      nominative_sound: islex/236/236_37.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kuldaskó
+      dative: kuldaskóm
+      genitive: kuldaskóa
+    with article:
+      nominative: kuldaskórnir
+      nominative_translation: the snow boots
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kuldaskóna
+      dative: kuldaskónum
+      genitive: kuldaskónna
+id: 1273
+gender: masculine

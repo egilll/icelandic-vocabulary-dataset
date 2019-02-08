@@ -1,0 +1,44 @@
+word: tölva
+level: 2
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tölva
+      nominative_translation: a computer
+      nominative_sound: islex/230/230_85.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tölvu
+      dative: tölvu
+      genitive: tölvu
+    with article:
+      nominative: tölvan
+      nominative_translation: the computer
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tölvuna
+      dative: tölvunni
+      genitive: tölvunnar
+  plural:
+    no article:
+      nominative: tölvur
+      nominative_translation: computers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tölvur
+      dative: tölvum
+      genitive: tölva
+      genitive_sound: islex/230/230_85.mp3
+    with article:
+      nominative: tölvurnar
+      nominative_translation: the computers
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tölvurnar
+      dative: tölvunum
+      genitive: tölvanna
+id: 1839
+gender: feminine

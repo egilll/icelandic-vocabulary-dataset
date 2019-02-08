@@ -1,0 +1,43 @@
+word: ormur
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ormur
+      nominative_translation: a worm
+      nominative_sound: islex/435/435_99.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: orm
+      dative: ormi
+      genitive: orms
+    with article:
+      nominative: ormurinn
+      nominative_translation: the worm
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: orminn
+      dative: orminum
+      genitive: ormsins
+  plural:
+    no article:
+      nominative: ormar
+      nominative_translation: worms
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: orma
+      dative: ormum
+      genitive: orma
+    with article:
+      nominative: ormarnir
+      nominative_translation: the worms
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ormana
+      dative: ormunum
+      genitive: ormanna
+id: 1474
+gender: masculine

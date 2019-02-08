@@ -1,0 +1,59 @@
+word: gráta
+level: 12
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] gráta'
+    infinitive_translation: to cry
+    infinitive_sound: islex/063/063_55.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] græt'
+          1st person_translation: I cry
+          1st person_teach: true
+          2nd person: '[þú] grætur'
+          2nd person_translation: you¹ cry
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] grætur'
+          3rd person_translation: he/she/it cries
+          3rd person_teach: true
+        plural:
+          1st person: '[við] grátum'
+          1st person_translation: we cry
+          1st person_teach: true
+          2nd person: '[þið] grátið'
+          2nd person_translation: you² cry
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] gráta'
+          3rd person_translation: they cry
+          3rd person_sound: islex/063/063_55.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] grét'
+          1st person_translation: I cried
+          1st person_teach: true
+          2nd person: '[þú] grést'
+          2nd person_translation: you¹ cried
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] grét'
+          3rd person_translation: he/she/it cried
+          3rd person_teach: true
+        plural:
+          1st person: '[við] grétum'
+          1st person_translation: we cried
+          1st person_teach: true
+          2nd person: '[þið] grétuð'
+          2nd person_translation: you² cried
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] grétu'
+          3rd person_translation: they cried
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] grátið'
+    active voice_translation: I have cried
+    active voice_teach: true
+id: 2131
+strong_verb_declension: true

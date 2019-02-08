@@ -1,0 +1,25 @@
+word: fæðing
+level: 42
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fæðing
+      nominative_translation: a birth
+      nominative_sound: islex/241/241_84.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fæðingu
+      dative: fæðingu
+      genitive: fæðingar
+    with article:
+      nominative: fæðingin
+      nominative_translation: the birth
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fæðinguna
+      dative: fæðingunni
+      genitive: fæðingarinnar
+id: 925
+gender: feminine

@@ -1,0 +1,26 @@
+word: lyf
+level: 26
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: lyf
+      nominative_translation: 'medicine, medication'
+      nominative_sound: islex/425/425_59.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: lyf
+      accusative_sound: islex/425/425_59.mp3
+      dative: lyfjum
+      genitive: lyfja
+    with article:
+      nominative: lyfin
+      nominative_translation: 'the medicine, the medication'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lyfin
+      dative: lyfjunum
+      genitive: lyfjanna
+id: 1361
+gender: neuter

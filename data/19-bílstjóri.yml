@@ -1,0 +1,25 @@
+word: bílstjóri
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bílstjóri
+      nominative_translation: a driver
+      nominative_sound: islex/234/234_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bílstjóra
+      dative: bílstjóra
+      genitive: bílstjóra
+    with article:
+      nominative: bílstjórinn
+      nominative_translation: the driver
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bílstjórann
+      dative: bílstjóranum
+      genitive: bílstjórans
+id: 797
+gender: masculine

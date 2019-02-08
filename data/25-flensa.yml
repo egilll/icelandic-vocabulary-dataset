@@ -1,0 +1,17 @@
+word: flensa
+level: 25
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: flensa
+      nominative_translation: flu (influenza)
+      nominative_sound: islex/101/101_47.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: true
+      accusative: flensu
+      dative: flensu
+      genitive: flensu
+id: 957
+gender: feminine

@@ -1,0 +1,44 @@
+word: ávöxtur
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ávöxtur
+      nominative_translation: fruit
+      nominative_sound: islex/113/113_88.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ávöxt
+      dative: ávexti
+      genitive: ávaxtar
+    with article:
+      nominative: ávöxturinn
+      nominative_translation: the fruit
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ávöxtinn
+      dative: ávextinum
+      genitive: ávaxtarins
+  plural:
+    no article:
+      nominative: ávextir
+      nominative_translation: fruits
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ávexti
+      dative: ávöxtum
+      genitive: ávaxta
+      genitive_sound: islex/420/420_04.mp3
+    with article:
+      nominative: ávextirnir
+      nominative_translation: the fruits
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ávextina
+      dative: ávöxtunum
+      genitive: ávaxtanna
+id: 755
+gender: masculine

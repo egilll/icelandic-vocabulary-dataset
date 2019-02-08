@@ -1,0 +1,28 @@
+word: gleraugu
+level: 11
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: gleraugu
+      nominative_translation: eyeglasses
+      nominative_sound: islex/178/178_42.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gleraugu
+      accusative_sound: islex/178/178_42.mp3
+      dative: gleraugum
+      genitive: gleraugna
+    with article:
+      nominative: gleraugun
+      nominative_translation: the eyeglasses
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gleraugun
+      dative: gleraugunum
+      genitive: gleraugnanna
+id: 1033
+teach_the_difference: ''
+gender: neuter
+only_show_after: 'gler, auga'

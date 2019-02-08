@@ -1,0 +1,10 @@
+word: sauma
+level: 38
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] sauma'
+    infinitive_translation: to sew
+    infinitive_sound: islex/261/261_39.mp3
+    infinitive_teach: true
+id: 2310

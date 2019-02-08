@@ -1,0 +1,32 @@
+word: hjól
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hjól
+      nominative_translation: a bicycle
+      nominative_sound: islex/023/023_34.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hjól
+      accusative_sound: islex/023/023_34.mp3
+      dative: hjóli
+      genitive: hjóls
+    with article:
+      nominative: hjólið
+      nominative_translation: the bicycle
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hjólið
+      dative: hjólinu
+      genitive: hjólsins
+  plural:
+    with article:
+      nominative: hjólin
+      nominative_translation: the bicycles
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1126
+gender: neuter

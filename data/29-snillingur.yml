@@ -1,0 +1,25 @@
+word: snillingur
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: snillingur
+      nominative_translation: a genius
+      nominative_sound: islex/054/054_00.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snilling
+      dative: snillingi
+      genitive: snillings
+    with article:
+      nominative: snillingurinn
+      nominative_translation: the genius
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: snillinginn
+      dative: snillingnum
+      genitive: snillingsins
+id: 1690
+gender: masculine

@@ -1,0 +1,19 @@
+word: skyn
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skyn
+      nominative_translation: a sense
+      nominative_sound: islex/117/117_67.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: skynið
+      nominative_translation: the sense
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1672
+gender: neuter

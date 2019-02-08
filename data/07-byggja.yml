@@ -1,0 +1,14 @@
+word: byggja
+level: 7
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] byggja'
+    infinitive_translation: to build
+    infinitive_sound: islex/190/190_18.mp3
+    infinitive_teach: true
+  supine:
+    active voice: '[ég hef] byggt'
+    active voice_translation: I have built
+    active voice_teach: true
+id: 2061

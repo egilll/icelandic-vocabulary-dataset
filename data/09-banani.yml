@@ -1,0 +1,47 @@
+word: banani
+level: 9
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: banani
+      nominative_translation: a banana
+      nominative_sound: islex/006/006_53.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: banana
+      dative: banana
+      genitive: banana
+    with article:
+      nominative: bananinn
+      nominative_translation: the banana
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bananann
+      dative: banananum
+      genitive: bananans
+  plural:
+    no article:
+      nominative: bananar
+      nominative_translation: bananas
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: banana
+      dative: banönum
+      dative_alternative:
+        - bönunum
+      genitive: banana
+    with article:
+      nominative: bananarnir
+      nominative_translation: the bananas
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bananana
+      dative: banönunum
+      dative_alternative:
+        - bönununum
+      genitive: banananna
+id: 768
+gender: masculine

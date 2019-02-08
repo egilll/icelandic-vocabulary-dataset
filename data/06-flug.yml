@@ -1,0 +1,26 @@
+word: flug
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: flug
+      nominative_translation: a flight
+      nominative_sound: islex/450/450_99.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flug
+      accusative_sound: islex/450/450_99.mp3
+      dative: flugi
+      genitive: flugs
+    with article:
+      nominative: flugið
+      nominative_translation: the flight
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flugið
+      dative: fluginu
+      genitive: flugsins
+id: 961
+gender: neuter

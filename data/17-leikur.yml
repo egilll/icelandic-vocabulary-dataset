@@ -1,0 +1,26 @@
+word: leikur
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: leikur
+      nominative_translation: a game
+      nominative_sound: islex/175/175_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leik
+      dative: leik
+      genitive: leiks
+    with article:
+      nominative: leikurinn
+      nominative_translation: the game
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leikinn
+      accusative_sound: islex/069/069_30.mp3
+      dative: leiknum
+      genitive: leiksins
+id: 1315
+gender: masculine

@@ -1,0 +1,16 @@
+word: millifæra
+level: 8
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] millifæra'
+    infinitive_translation: to transfer money
+    infinitive_sound: islex/057/057_82.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] millifærði'
+          1st person_translation: I transferred money
+          1st person_teach: true
+id: 2248

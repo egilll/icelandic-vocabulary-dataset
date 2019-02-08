@@ -1,0 +1,10 @@
+word: skutla
+level: 31
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] skutla'
+    infinitive_translation: to drive someone somewhere
+    infinitive_sound: islex/340/340_95.mp3
+    infinitive_teach: true
+id: 2350

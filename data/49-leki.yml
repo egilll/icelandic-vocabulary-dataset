@@ -1,0 +1,29 @@
+word: leki
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: leki
+      nominative_translation: a leak
+      nominative_sound: islex/462/462_73.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leka
+      accusative_sound: islex/115/115_04.mp3
+      dative: leka
+      dative_sound: islex/115/115_04.mp3
+      genitive: leka
+      genitive_sound: islex/115/115_04.mp3
+    with article:
+      nominative: lekinn
+      nominative_translation: the leak
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: lekann
+      dative: lekanum
+      genitive: lekans
+id: 1317
+gender: masculine
+recognizable: '1'

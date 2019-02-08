@@ -1,0 +1,32 @@
+word: hús
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hús
+      nominative_translation: a house
+      nominative_sound: islex/091/091_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hús
+      accusative_sound: islex/091/091_24.mp3
+      dative: húsi
+      genitive: húss
+    with article:
+      nominative: húsið
+      nominative_translation: the house
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: húsið
+      dative: húsinu
+      genitive: hússins
+  plural:
+    with article:
+      nominative: húsin
+      nominative_translation: the houses
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1178
+gender: neuter

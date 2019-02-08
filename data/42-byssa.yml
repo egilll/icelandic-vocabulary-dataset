@@ -1,0 +1,48 @@
+word: byssa
+level: 42
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: byssa
+      nominative_translation: a gun
+      nominative_sound: islex/325/325_89.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: byssu
+      dative: byssu
+      genitive: byssu
+    with article:
+      nominative: byssan
+      nominative_translation: the gun
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: byssuna
+      dative: byssunni
+      genitive: byssunnar
+  plural:
+    no article:
+      nominative: byssur
+      nominative_translation: guns
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: byssur
+      dative: byssum
+      genitive: byssa
+      genitive_sound: islex/325/325_89.mp3
+      genitive_alternative:
+        - byssna
+    with article:
+      nominative: byssurnar
+      nominative_translation: the guns
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: byssurnar
+      dative: byssunum
+      genitive: byssanna
+      genitive_alternative:
+        - byssnanna
+id: 860
+gender: feminine

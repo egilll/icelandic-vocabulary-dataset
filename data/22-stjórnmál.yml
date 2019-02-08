@@ -1,0 +1,19 @@
+word: stjórnmál
+level: 22
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: stjórnmál
+      nominative_translation: politics
+      nominative_sound: islex/339/339_73.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: stjórnmálin
+      nominative_translation: the politics
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1748
+gender: neuter

@@ -1,0 +1,45 @@
+word: sönnun
+level: 33
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sönnun
+      nominative_translation: a proof
+      nominative_sound: islex/216/216_13.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sönnun
+      accusative_sound: islex/216/216_13.mp3
+      dative: sönnun
+      dative_sound: islex/216/216_13.mp3
+      genitive: sönnunar
+    with article:
+      nominative: sönnunin
+      nominative_translation: the proof
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sönnunina
+      dative: sönnuninni
+      genitive: sönnunarinnar
+  plural:
+    no article:
+      nominative: sannanir
+      nominative_translation: proofs
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sannanir
+      dative: sönnunum
+      genitive: sannana
+    with article:
+      nominative: sannanirnar
+      nominative_translation: the proofs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sannanirnar
+      dative: sönnununum
+      genitive: sannananna
+id: 1714
+gender: feminine

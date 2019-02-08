@@ -1,0 +1,10 @@
+word: að reikna
+level: 23
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] reikna'
+    infinitive_translation: to calculate
+    infinitive_sound: islex/153/153_23.mp3
+    infinitive_teach: true
+id: 2289

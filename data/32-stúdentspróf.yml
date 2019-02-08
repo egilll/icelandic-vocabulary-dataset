@@ -1,0 +1,19 @@
+word: stúdentspróf
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: stúdentspróf
+      nominative_translation: 'junior college degree, highschool degree'
+      nominative_sound: islex/360/360_29.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: stúdentsprófið
+      nominative_translation: 'the junior college degree, the highschool degree'
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1764
+gender: neuter

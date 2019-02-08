@@ -1,0 +1,24 @@
+word: fótleggur
+level: 40
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: fótleggir
+      nominative_translation: legs
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fótleggi
+      dative: fótleggjum
+      genitive: fótleggja
+    with article:
+      nominative: fótleggirnir
+      nominative_translation: the legs
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fótleggina
+      dative: fótleggjunum
+      genitive: fótleggjanna
+id: 980
+gender: masculine

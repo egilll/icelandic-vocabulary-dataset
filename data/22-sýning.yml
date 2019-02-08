@@ -1,0 +1,43 @@
+word: sýning
+level: 22
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sýning
+      nominative_translation: a show
+      nominative_sound: islex/168/168_82.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sýningu
+      dative: sýningu
+      genitive: sýningar
+    with article:
+      nominative: sýningin
+      nominative_translation: the show
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sýninguna
+      dative: sýningunni
+      genitive: sýningarinnar
+  plural:
+    no article:
+      nominative: sýningar
+      nominative_translation: shows
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sýningar
+      dative: sýningum
+      genitive: sýninga
+    with article:
+      nominative: sýningarnar
+      nominative_translation: the shows
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sýningarnar
+      dative: sýningunum
+      genitive: sýninganna
+id: 1802
+gender: feminine

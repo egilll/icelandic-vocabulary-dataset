@@ -1,0 +1,26 @@
+word: apótek
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: apótek
+      nominative_translation: a pharmacy
+      nominative_sound: islex/055/055_76.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: apótek
+      accusative_sound: islex/055/055_76.mp3
+      dative: apóteki
+      genitive: apóteks
+    with article:
+      nominative: apótekið
+      nominative_translation: the pharmacy
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: apótekið
+      dative: apótekinu
+      genitive: apóteksins
+id: 725
+gender: neuter

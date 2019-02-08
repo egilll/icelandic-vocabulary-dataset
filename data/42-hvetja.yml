@@ -1,0 +1,29 @@
+word: hvetja
+level: 42
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] hvetja'
+    infinitive_translation: to encourage
+    infinitive_sound: islex/285/285_37.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] hvet'
+          1st person_translation: I encourage
+          1st person_teach: true
+        plural:
+          1st person: '[við] hvetjum'
+          1st person_translation: we encourage
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] hvatti'
+          1st person_translation: I encouraged
+          1st person_teach: true
+        plural:
+          1st person: '[við] hvöttum'
+          1st person_translation: we encouraged
+          1st person_teach: true
+id: 2171

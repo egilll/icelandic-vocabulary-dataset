@@ -1,0 +1,25 @@
+word: banka
+level: 16
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] banka'
+    infinitive_translation: to knock
+    infinitive_sound: islex/381/381_99.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] bankaði'
+          1st person_translation: I knocked
+          1st person_teach: true
+        plural:
+          1st person: '[við] bönkuðum'
+          1st person_translation: we knocked
+          1st person_teach: true
+  imperative:
+    active voice:
+      singular: bankaðu!
+      singular_translation: knock!¹
+      singular_teach: true
+id: 2032

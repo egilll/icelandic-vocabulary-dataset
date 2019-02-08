@@ -1,0 +1,25 @@
+word: ljósapera
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ljósapera
+      nominative_translation: a lightbulb
+      nominative_sound: islex/414/414_29.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ljósaperu
+      dative: ljósaperu
+      genitive: ljósaperu
+    with article:
+      nominative: ljósaperan
+      nominative_translation: the lightbulb
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ljósaperuna
+      dative: ljósaperunni
+      genitive: ljósaperunnar
+id: 1343
+gender: feminine

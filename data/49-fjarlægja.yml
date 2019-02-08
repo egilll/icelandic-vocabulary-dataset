@@ -1,0 +1,36 @@
+word: fjarlægja
+level: 49
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] fjarlægja'
+    infinitive_translation: to remove
+    infinitive_sound: islex/155/155_42.mp3
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] fjarlægði'
+          1st person_translation: I removed
+          1st person_teach: true
+          2nd person: '[þú] fjarlægðir'
+          2nd person_translation: you¹ removed
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] fjarlægði'
+          3rd person_translation: he/she/it removed
+          3rd person_teach: true
+        plural:
+          1st person: '[við] fjarlægðum'
+          1st person_translation: we removed
+          1st person_teach: true
+          2nd person: '[þið] fjarlægðuð'
+          2nd person_translation: you² removed
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] fjarlægðu'
+          3rd person_translation: they removed
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] fjarlægt'
+    active voice_translation: I have removed
+    active voice_teach: true
+id: 2102

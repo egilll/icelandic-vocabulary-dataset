@@ -1,0 +1,61 @@
+word: standa
+level: 12
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] standa'
+    infinitive_translation: to stand
+    infinitive_sound: islex/126/126_58.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] stend'
+          1st person_translation: I stand
+          1st person_teach: true
+          2nd person: '[þú] stendur'
+          2nd person_translation: you¹ stand
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] stendur'
+          3rd person_translation: he/she/it stands
+          3rd person_teach: true
+        plural:
+          1st person: '[við] stöndum'
+          1st person_translation: we stand
+          1st person_teach: true
+          2nd person: '[þið] standið'
+          2nd person_translation: you² stand
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] standa'
+          3rd person_translation: they stand
+          3rd person_sound: islex/126/126_58.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] stóð'
+          1st person_translation: I stood
+          1st person_sound: islex/376/376_29.mp3
+          1st person_teach: true
+          2nd person: '[þú] stóðst'
+          2nd person_translation: you¹ stood
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] stóð'
+          3rd person_translation: he/she/it stood
+          3rd person_sound: islex/376/376_29.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] stóðum'
+          1st person_translation: we stood
+          1st person_teach: true
+          2nd person: '[þið] stóðuð'
+          2nd person_translation: you² stood
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] stóðu'
+          3rd person_translation: they stood
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] staðið'
+    active voice_translation: I have stood
+    active voice_teach: true
+id: 2373
+strong_verb_declension: true

@@ -1,0 +1,27 @@
+word: augabrúnir
+level: 33
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: augabrúnir
+      nominative_translation: eyebrows
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_alternative:
+        - augabrýr
+      accusative: augabrúnir
+      accusative_alternative:
+        - augabrýr
+      dative: augabrúnum
+      genitive: augabrúna
+    with article:
+      nominative: augabrúnirnar
+      nominative_translation: the eyebrows
+      nominative_teach: false
+      nominative_teachtable: false
+      nominative_alternative:
+        - augabrýrnar
+id: 748
+gender: feminine

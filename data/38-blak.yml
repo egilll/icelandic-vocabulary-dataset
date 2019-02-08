@@ -1,0 +1,23 @@
+word: blak
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: blak
+      nominative_translation: volleyball
+      nominative_sound: islex/166/166_86.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blak
+      accusative_sound: islex/166/166_86.mp3
+      dative: blaki
+      genitive: blaks
+    with article:
+      nominative: blakið
+      nominative_translation: the volleyball
+      nominative_teach: false
+      nominative_teachtable: false
+id: 810
+gender: neuter

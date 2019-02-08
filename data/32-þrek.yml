@@ -1,0 +1,26 @@
+word: þrek
+level: 32
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þrek
+      nominative_translation: 'stamina, endurance'
+      nominative_sound: islex/254/254_43.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þrek
+      accusative_sound: islex/254/254_43.mp3
+      dative: þreki
+      genitive: þreks
+    with article:
+      nominative: þrekið
+      nominative_translation: 'the stamina, the endurance'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þrekið
+      dative: þrekinu
+      genitive: þreksins
+id: 1962
+gender: neuter

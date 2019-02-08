@@ -1,0 +1,27 @@
+word: þekkjast
+level: 11
+grammatical_category: verb
+conjugation:
+  middle voice:
+    infinitive: '[að] þekkjast'
+    infinitive_translation: to know each other
+    infinitive_sound: islex/065/065_16.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        plural:
+          1st person: '[við] þekkjumst'
+          1st person_translation: we know each other
+          1st person_teach: true
+      past:
+        plural:
+          1st person: '[við] þekktumst'
+          1st person_translation: we knew each other
+          1st person_teach: true
+    subjunctive:
+      present:
+        plural:
+          1st person: '[ég held að] [við] þekkjumst'
+          1st person_translation: I think we know each other
+          1st person_teach: true
+id: 2440

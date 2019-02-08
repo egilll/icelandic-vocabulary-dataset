@@ -1,0 +1,45 @@
+word: dagur
+level: 7
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dagur
+      nominative_translation: a day
+      nominative_sound: islex/007/007_49.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dag
+      dative: degi
+      genitive: dags
+    with article:
+      nominative: dagurinn
+      nominative_translation: the day
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: daginn
+      dative: deginum
+      genitive: dagsins
+  plural:
+    no article:
+      nominative: dagar
+      nominative_translation: days
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: daga
+      accusative_sound: islex/188/188_56.mp3
+      dative: dögum
+      genitive: daga
+      genitive_sound: islex/188/188_56.mp3
+    with article:
+      nominative: dagarnir
+      nominative_translation: the days
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dagana
+      dative: dögunum
+      genitive: daganna
+id: 864
+gender: masculine

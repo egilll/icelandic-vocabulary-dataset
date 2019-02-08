@@ -1,0 +1,47 @@
+word: unglingur
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: unglingur
+      nominative_translation: a teenager
+      nominative_sound: islex/176/176_90.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: a youngling
+      accusative: ungling
+      dative: unglingi
+      genitive: unglings
+    with article:
+      nominative: unglingurinn
+      nominative_translation: the teenager
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_literal: the youngling
+      accusative: unglinginn
+      dative: unglingnum
+      genitive: unglingsins
+  plural:
+    no article:
+      nominative: unglingar
+      nominative_translation: teenagers
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      nominative_literal: younglings
+      accusative: unglinga
+      dative: unglingum
+      genitive: unglinga
+    with article:
+      nominative: unglingarnir
+      nominative_translation: the teenagers
+      nominative_teach: true
+      nominative_teachtable: true
+      nominative_literal: the younglings
+      accusative: unglingana
+      dative: unglingunum
+      genitive: unglinganna
+id: 1869
+gender: masculine

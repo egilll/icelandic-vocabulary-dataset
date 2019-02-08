@@ -1,0 +1,19 @@
+word: haglél
+level: 17
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: haglél
+      nominative_translation: hailstorm
+      nominative_sound: islex/320/320_99.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: haglélið
+      nominative_translation: the hailstorm
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1074
+gender: neuter

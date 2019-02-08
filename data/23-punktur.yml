@@ -1,0 +1,46 @@
+word: punktur
+level: 23
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: punktur
+      nominative_translation: 'a point, a dot'
+      nominative_sound: islex/350/350_60.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: punkt
+      dative: punkti
+      genitive: punkts
+    with article:
+      nominative: punkturinn
+      nominative_translation: 'the point, the dot'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: punktinn
+      dative: punktinum
+      genitive: punktsins
+  plural:
+    no article:
+      nominative: punktar
+      nominative_translation: 'points, dots'
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: punkta
+      accusative_sound: islex/289/289_86.mp3
+      dative: punktum
+      genitive: punkta
+      genitive_sound: islex/289/289_86.mp3
+    with article:
+      nominative: punktarnir
+      nominative_translation: 'the points, the dots'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: punktana
+      dative: punktunum
+      genitive: punktanna
+id: 1529
+gender: masculine
+recognizable: '1'

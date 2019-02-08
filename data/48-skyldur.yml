@@ -1,0 +1,26 @@
+word: skyldur
+level: 48
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: skyldur
+      nominative_translation: duties
+      nominative_sound: islex/237/237_96.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skyldur
+      accusative_sound: islex/237/237_96.mp3
+      dative: skyldum
+      genitive: skyldna
+    with article:
+      nominative: skyldurnar
+      nominative_translation: the duties
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skyldurnar
+      dative: skyldunum
+      genitive: skyldnanna
+id: 1670
+gender: feminine

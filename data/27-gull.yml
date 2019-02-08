@@ -1,0 +1,26 @@
+word: gull
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gull
+      nominative_translation: gold
+      nominative_sound: islex/190/190_34.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gull
+      accusative_sound: islex/190/190_34.mp3
+      dative: gulli
+      genitive: gulls
+    with article:
+      nominative: gullið
+      nominative_translation: the gold
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gullið
+      dative: gullinu
+      genitive: gullsins
+id: 1058
+gender: neuter

@@ -1,0 +1,33 @@
+word: gat
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: gat
+      nominative_translation: 'a hole, an opening'
+      nominative_sound: islex/405/405_21.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: gat
+      accusative_sound: islex/405/405_21.mp3
+      dative: gati
+      genitive: gats
+    with article:
+      nominative: gatið
+      nominative_translation: 'the hole, the opening'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: gatið
+      dative: gatinu
+      genitive: gatsins
+  plural:
+    with article:
+      nominative: götin
+      nominative_translation: 'the holes, the openings'
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1013
+teach_the_difference: gata
+gender: neuter

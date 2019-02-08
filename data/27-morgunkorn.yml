@@ -1,0 +1,26 @@
+word: morgunkorn
+level: 27
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: morgunkorn
+      nominative_translation: breakfast cereal
+      nominative_sound: islex/007/007_87.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: morgunkorn
+      accusative_sound: islex/007/007_87.mp3
+      dative: morgunkorni
+      genitive: morgunkorns
+    with article:
+      nominative: morgunkornið
+      nominative_translation: the breakfast cereal
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: morgunkornið
+      dative: morgunkorninu
+      genitive: morgunkornsins
+id: 1416
+gender: neuter

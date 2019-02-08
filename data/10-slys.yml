@@ -1,0 +1,26 @@
+word: slys
+level: 10
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: slys
+      nominative_translation: an accident
+      nominative_sound: islex/463/463_93.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: slys
+      accusative_sound: islex/463/463_93.mp3
+      dative: slysi
+      genitive: slyss
+    with article:
+      nominative: slysið
+      nominative_translation: the accident
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: slysið
+      dative: slysinu
+      genitive: slyssins
+id: 1681
+gender: neuter

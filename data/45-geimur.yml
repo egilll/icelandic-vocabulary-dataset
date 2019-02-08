@@ -1,0 +1,14 @@
+word: geimur
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: geimur
+      nominative_translation: outer space
+      nominative_sound: islex/057/057_98.mp3
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1017
+gender: masculine

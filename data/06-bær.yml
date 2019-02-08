@@ -1,0 +1,27 @@
+word: bær
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: bær
+      nominative_translation: a town
+      nominative_sound: islex/319/319_61.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: bæ
+      accusative_sound: islex/137/137_33.mp3
+      dative: bæ
+      dative_sound: islex/137/137_33.mp3
+      genitive: bæjar
+    with article:
+      nominative: bærinn
+      nominative_translation: the town
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: bæinn
+      dative: bænum
+      genitive: bæjarins
+id: 759
+gender: masculine

@@ -1,0 +1,45 @@
+word: myndavél
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: myndavél
+      nominative_translation: a camera
+      nominative_sound: islex/267/267_78.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: myndavél
+      accusative_sound: islex/267/267_78.mp3
+      dative: myndavél
+      dative_sound: islex/267/267_78.mp3
+      genitive: myndavélar
+    with article:
+      nominative: myndavélin
+      nominative_translation: the camera
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: myndavélina
+      dative: myndavélinni
+      genitive: myndavélarinnar
+  plural:
+    no article:
+      nominative: myndavélar
+      nominative_translation: cameras
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: myndavélar
+      dative: myndavélum
+      genitive: myndavéla
+    with article:
+      nominative: myndavélarnar
+      nominative_translation: the cameras
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: myndavélarnar
+      dative: myndavélunum
+      genitive: myndavélanna
+id: 1429
+gender: feminine

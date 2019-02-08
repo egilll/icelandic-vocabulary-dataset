@@ -1,0 +1,61 @@
+word: fljúga
+level: 9
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] fljúga'
+    infinitive_translation: to fly
+    infinitive_sound: islex/133/133_82.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] flýg'
+          1st person_translation: I fly
+          1st person_teach: true
+          2nd person: '[þú] flýgur'
+          2nd person_translation: you¹ fly
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] flýgur'
+          3rd person_translation: he/she/it flies
+          3rd person_teach: true
+        plural:
+          1st person: '[við] fljúgum'
+          1st person_translation: we fly
+          1st person_teach: true
+          2nd person: '[þið] fljúgið'
+          2nd person_translation: you² fly
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] fljúga'
+          3rd person_translation: they fly
+          3rd person_sound: islex/133/133_82.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] flaug'
+          1st person_translation: I flew
+          1st person_sound: islex/305/305_76.mp3
+          1st person_teach: true
+          2nd person: '[þú] flaugst'
+          2nd person_translation: you¹ flew
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] flaug'
+          3rd person_translation: he/she/it flew
+          3rd person_sound: islex/305/305_76.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[við] flugum'
+          1st person_translation: we flew
+          1st person_teach: true
+          2nd person: '[þið] fluguð'
+          2nd person_translation: you² flew
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] flugu'
+          3rd person_translation: they flew
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] flogið'
+    active voice_translation: I have flown
+    active voice_teach: true
+id: 2104
+strong_verb_declension: true

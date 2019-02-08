@@ -1,0 +1,19 @@
+word: sódavatn
+level: 29
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sódavatn
+      nominative_translation: 'mineral water, sparkling water'
+      nominative_sound: islex/345/345_11.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: sódavatnið
+      nominative_translation: 'the mineral water, the sparkling water'
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1703
+gender: neuter

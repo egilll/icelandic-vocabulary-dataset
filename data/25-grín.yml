@@ -1,0 +1,24 @@
+word: grín
+level: 25
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: grín
+      nominative_translation: 'joke, banter'
+      nominative_sound: islex/210/210_31.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: grín
+      accusative_sound: islex/210/210_31.mp3
+      dative: gríni
+      genitive: gríns
+    with article:
+      nominative: grínið
+      nominative_translation: 'the joke, the banter'
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1051
+teach_the_difference: grænn
+gender: neuter

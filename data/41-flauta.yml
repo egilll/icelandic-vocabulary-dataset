@@ -1,0 +1,25 @@
+word: flauta
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: flauta
+      nominative_translation: a flute
+      nominative_sound: islex/182/182_35.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: flautu
+      dative: flautu
+      genitive: flautu
+    with article:
+      nominative: flautan
+      nominative_translation: the flute
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: flautuna
+      dative: flautunni
+      genitive: flautunnar
+id: 956
+gender: feminine

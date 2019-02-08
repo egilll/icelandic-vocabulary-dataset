@@ -1,0 +1,26 @@
+word: þol
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þol
+      nominative_translation: 'stamina, endurance'
+      nominative_sound: islex/338/338_81.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: þol
+      accusative_sound: islex/338/338_81.mp3
+      dative: þoli
+      genitive: þols
+    with article:
+      nominative: þolið
+      nominative_translation: 'the stamina, the endurance'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þolið
+      dative: þolinu
+      genitive: þolsins
+id: 1960
+gender: neuter

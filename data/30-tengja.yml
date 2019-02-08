@@ -1,0 +1,60 @@
+word: tengja
+level: 30
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] tengja'
+    infinitive_translation: to connect
+    infinitive_sound: islex/447/447_08.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] tengi'
+          1st person_translation: I connect
+          1st person_sound: islex/224/224_59.mp3
+          1st person_teach: true
+          2nd person: '[þú] tengir'
+          2nd person_translation: you¹ connect
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] tengir'
+          3rd person_translation: he/she/it connects
+          3rd person_teach: true
+        plural:
+          1st person: '[við] tengjum'
+          1st person_translation: we connect
+          1st person_teach: true
+          2nd person: '[þið] tengið'
+          2nd person_translation: you² connect
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] tengja'
+          3rd person_translation: they connect
+          3rd person_sound: islex/447/447_08.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] tengdi'
+          1st person_translation: I connected
+          1st person_teach: true
+          2nd person: '[þú] tengdir'
+          2nd person_translation: you¹ connected
+          2nd person_sound: islex/156/156_39.mp3
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] tengdi'
+          3rd person_translation: he/she/it connected
+          3rd person_teach: true
+        plural:
+          1st person: '[við] tengdum'
+          1st person_translation: we connected
+          1st person_teach: true
+          2nd person: '[þið] tengduð'
+          2nd person_translation: you² connected
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] tengdu'
+          3rd person_translation: they connected
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] tengt'
+    active voice_translation: I have connected
+    active voice_teach: true
+id: 2404

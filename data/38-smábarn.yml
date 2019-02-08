@@ -1,0 +1,26 @@
+word: smábarn
+level: 38
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: smábarn
+      nominative_translation: 'an infant, a toddler'
+      nominative_sound: islex/098/098_22.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: smábarnið
+      nominative_translation: 'the infant, the toddler'
+      nominative_teach: true
+      nominative_teachtable: false
+  plural:
+    no article:
+      nominative: smábörn
+      nominative_translation: 'infants, toddlers'
+      nominative_teach: true
+      nominative_teachgender: false
+      nominative_teachtable: false
+id: 1683
+gender: neuter

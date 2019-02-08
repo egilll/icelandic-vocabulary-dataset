@@ -1,0 +1,10 @@
+word: skíða
+level: 38
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] skíða'
+    infinitive_translation: 'to ski, to go skiing'
+    infinitive_sound: islex/417/417_67.mp3
+    infinitive_teach: true
+id: 2333

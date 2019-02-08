@@ -1,0 +1,44 @@
+word: peysa
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: peysa
+      nominative_translation: a sweater
+      nominative_sound: islex/089/089_26.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: peysu
+      dative: peysu
+      genitive: peysu
+    with article:
+      nominative: peysan
+      nominative_translation: the sweater
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: peysuna
+      dative: peysunni
+      genitive: peysunnar
+  plural:
+    no article:
+      nominative: peysur
+      nominative_translation: sweaters
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: peysur
+      dative: peysum
+      genitive: peysa
+      genitive_sound: islex/089/089_26.mp3
+    with article:
+      nominative: peysurnar
+      nominative_translation: the sweaters
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: peysurnar
+      dative: peysunum
+      genitive: peysanna
+id: 1496
+gender: feminine

@@ -1,0 +1,26 @@
+word: rok
+level: 30
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: rok
+      nominative_translation: storm
+      nominative_sound: islex/115/115_68.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: rok
+      accusative_sound: islex/115/115_68.mp3
+      dative: roki
+      genitive: roks
+    with article:
+      nominative: rokið
+      nominative_translation: the storm
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: rokið
+      dative: rokinu
+      genitive: roksins
+id: 1568
+gender: neuter

@@ -1,0 +1,18 @@
+word: vona
+level: 9
+grammatical_category: verb
+conjugation:
+  active voice:
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] vona'
+          1st person_translation: I hope
+          1st person_sound: islex/063/063_95.mp3
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] vonaði'
+          1st person_translation: I hoped
+          1st person_teach: true
+id: 2434

@@ -1,0 +1,27 @@
+word: skál
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: skál
+      nominative_translation: a bowl
+      nominative_sound: islex/441/441_27.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: skál
+      accusative_sound: islex/441/441_27.mp3
+      dative: skál
+      dative_sound: islex/441/441_27.mp3
+      genitive: skálar
+    with article:
+      nominative: skálin
+      nominative_translation: the bowl
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: skálina
+      dative: skálinni
+      genitive: skálarinnar
+id: 1633
+gender: feminine

@@ -1,0 +1,26 @@
+word: ráð
+level: 34
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ráð
+      nominative_translation: advice
+      nominative_sound: islex/427/427_87.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ráð
+      accusative_sound: islex/427/427_87.mp3
+      dative: ráði
+      genitive: ráðs
+    with article:
+      nominative: ráðið
+      nominative_translation: the advice
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ráðið
+      dative: ráðinu
+      genitive: ráðsins
+id: 1531
+gender: neuter

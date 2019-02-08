@@ -1,0 +1,22 @@
+word: svið
+level: 35
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: svið
+      nominative_translation: a stage
+      nominative_sound: islex/061/061_98.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: sviðið
+      nominative_translation: the stage
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sviðið
+      dative: sviðinu
+      genitive: sviðsins
+id: 1794
+gender: neuter

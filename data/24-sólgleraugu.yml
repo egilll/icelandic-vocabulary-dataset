@@ -1,0 +1,19 @@
+word: sólgleraugu
+level: 24
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: sólgleraugu
+      nominative_translation: sunglasses
+      nominative_sound: islex/391/391_64.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: sólgleraugun
+      nominative_translation: the sunglasses
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1710
+gender: neuter

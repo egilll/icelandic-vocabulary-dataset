@@ -1,0 +1,44 @@
+word: myndband
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: myndband
+      nominative_translation: a video
+      nominative_sound: islex/075/075_84.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: myndband
+      accusative_sound: islex/075/075_84.mp3
+      dative: myndbandi
+      genitive: myndbands
+    with article:
+      nominative: myndbandið
+      nominative_translation: the video
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: myndbandið
+      dative: myndbandinu
+      genitive: myndbandsins
+  plural:
+    no article:
+      nominative: myndbönd
+      nominative_translation: videos
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: myndbönd
+      dative: myndböndum
+      genitive: myndbanda
+    with article:
+      nominative: myndböndin
+      nominative_translation: the videos
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: myndböndin
+      dative: myndböndunum
+      genitive: myndbandanna
+id: 1430
+gender: neuter

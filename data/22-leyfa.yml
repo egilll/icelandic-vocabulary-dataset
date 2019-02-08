@@ -1,0 +1,55 @@
+word: leyfa
+level: 22
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] leyfa'
+    infinitive_translation: 'to allow, to permit'
+    infinitive_sound: islex/257/257_56.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] leyfi'
+          1st person_translation: 'I allow, I permit'
+          1st person_sound: islex/192/192_43.mp3
+          1st person_teach: true
+          2nd person: '[þú] leyfir'
+          2nd person_translation: 'you¹ allow, you¹ permit'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] leyfir'
+          3rd person_translation: 'he/she/it allows, he/she/it permits'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] leyfum'
+          1st person_translation: 'we allow, we permit'
+          1st person_teach: true
+          2nd person: '[þið] leyfið'
+          2nd person_translation: 'you² allow, you² permit'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] leyfa'
+          3rd person_translation: 'they allow, they permit'
+          3rd person_sound: islex/257/257_56.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] leyfði'
+          1st person_translation: 'I allowed, I permitted'
+          1st person_teach: true
+          2nd person: '[þú] leyfðir'
+          2nd person_translation: 'you¹ allowed, you¹ permitted'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] leyfði'
+          3rd person_translation: 'he/she/it allowed, he/she/it permitted'
+          3rd person_teach: true
+        plural:
+          1st person: '[við] leyfðum'
+          1st person_translation: 'we allowed, we permitted'
+          1st person_teach: true
+          2nd person: '[þið] leyfðuð'
+          2nd person_translation: 'you² allowed, you² permitted'
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] leyfðu'
+          3rd person_translation: 'they allowed, they permitted'
+          3rd person_teach: true
+id: 2220

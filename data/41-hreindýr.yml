@@ -1,0 +1,20 @@
+word: hreindýr
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hreindýr
+      nominative_translation: reindeer
+      nominative_sound: islex/440/440_31.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: hreindýrið
+      nominative_translation: the reindeer
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1163
+gender: neuter
+recognizable: '1'

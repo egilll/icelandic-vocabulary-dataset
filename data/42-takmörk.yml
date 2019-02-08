@@ -1,0 +1,27 @@
+word: takmörk
+level: 42
+grammatical_category: noun
+conjugation:
+  plural:
+    no article:
+      nominative: takmörk
+      nominative_translation: limits
+      nominative_sound: islex/424/424_08.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: takmörk
+      accusative_sound: islex/424/424_08.mp3
+      dative: takmörkum
+      genitive: takmarka
+      genitive_sound: islex/020/020_56.mp3
+    with article:
+      nominative: takmörkin
+      nominative_translation: the limits
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: takmörkin
+      dative: takmörkunum
+      genitive: takmarkanna
+id: 1813
+gender: neuter

@@ -1,0 +1,25 @@
+word: synda
+level: 33
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] synda'
+    infinitive_translation: to swim
+    infinitive_sound: islex/130/130_95.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] syndi'
+          1st person_translation: I swim
+          1st person_teach: true
+      past:
+        singular:
+          1st person: '[ég] synti'
+          1st person_translation: I swam
+          1st person_teach: true
+  supine:
+    active voice: '[ég hef] synt'
+    active voice_translation: I have swum
+    active voice_teach: true
+id: 2394

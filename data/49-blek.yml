@@ -1,0 +1,26 @@
+word: blek
+level: 49
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: blek
+      nominative_translation: an ink
+      nominative_sound: islex/216/216_98.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: blek
+      accusative_sound: islex/216/216_98.mp3
+      dative: bleki
+      genitive: bleks
+    with article:
+      nominative: blekið
+      nominative_translation: the ink
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: blekið
+      dative: blekinu
+      genitive: bleksins
+id: 812
+gender: neuter

@@ -1,0 +1,46 @@
+word: sundlaug
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sundlaug
+      nominative_translation: a swimming pool
+      nominative_sound: islex/097/097_49.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sundlaug
+      accusative_sound: islex/097/097_49.mp3
+      dative: sundlaug
+      dative_sound: islex/097/097_49.mp3
+      genitive: sundlaugar
+    with article:
+      nominative: sundlaugin
+      nominative_translation: the swimming pool
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sundlaugina
+      dative: sundlauginni
+      genitive: sundlaugarinnar
+  plural:
+    no article:
+      nominative: sundlaugar
+      nominative_translation: swimming pools
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sundlaugar
+      dative: sundlaugum
+      genitive: sundlauga
+    with article:
+      nominative: sundlaugarnar
+      nominative_translation: the swimming pools
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sundlaugarnar
+      dative: sundlaugunum
+      genitive: sundlauganna
+id: 1781
+gender: feminine
+never_show_with: sund

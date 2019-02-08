@@ -1,0 +1,26 @@
+word: leikhús
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: leikhús
+      nominative_translation: a theatre
+      nominative_sound: islex/067/067_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: leikhús
+      accusative_sound: islex/067/067_24.mp3
+      dative: leikhúsi
+      genitive: leikhúss
+    with article:
+      nominative: leikhúsið
+      nominative_translation: the theatre
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: leikhúsið
+      dative: leikhúsinu
+      genitive: leikhússins
+id: 1311
+gender: neuter

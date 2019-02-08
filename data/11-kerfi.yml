@@ -1,0 +1,27 @@
+word: kerfi
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kerfi
+      nominative_translation: a system
+      nominative_sound: islex/167/167_99.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kerfi
+      accusative_sound: islex/167/167_99.mp3
+      dative: kerfi
+      dative_sound: islex/167/167_99.mp3
+      genitive: kerfis
+    with article:
+      nominative: kerfið
+      nominative_translation: the system
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kerfið
+      dative: kerfinu
+      genitive: kerfisins
+id: 1231
+gender: neuter

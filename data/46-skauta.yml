@@ -1,0 +1,10 @@
+word: skauta
+level: 46
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] skauta'
+    infinitive_translation: to skate
+    infinitive_sound: islex/459/459_39.mp3
+    infinitive_teach: true
+id: 2327

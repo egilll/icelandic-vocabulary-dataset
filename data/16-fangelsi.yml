@@ -1,0 +1,27 @@
+word: fangelsi
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fangelsi
+      nominative_translation: a prison
+      nominative_sound: islex/297/297_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: fangelsi
+      accusative_sound: islex/297/297_20.mp3
+      dative: fangelsi
+      dative_sound: islex/297/297_20.mp3
+      genitive: fangelsis
+    with article:
+      nominative: fangelsið
+      nominative_translation: the prison
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: fangelsið
+      dative: fangelsinu
+      genitive: fangelsisins
+id: 927
+gender: neuter

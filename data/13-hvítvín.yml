@@ -1,0 +1,19 @@
+word: hvítvín
+level: 13
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hvítvín
+      nominative_translation: white wine
+      nominative_sound: islex/227/227_25.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: hvítvínið
+      nominative_translation: the white wine
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1183
+gender: neuter

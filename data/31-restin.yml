@@ -1,0 +1,15 @@
+word: restin
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    with article:
+      nominative: restin
+      nominative_translation: the rest of something
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: restina
+      dative: restinni
+      genitive: restarinnar
+id: 1555
+gender: feminine

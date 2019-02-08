@@ -1,0 +1,44 @@
+word: geitungur
+level: 41
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: geitungur
+      nominative_translation: a wasp
+      nominative_sound: islex/249/249_23.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: geitung
+      dative: geitungi
+      genitive: geitungs
+    with article:
+      nominative: geitungurinn
+      nominative_translation: the wasp
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: geitunginn
+      dative: geitungnum
+      genitive: geitungsins
+  plural:
+    no article:
+      nominative: geitungar
+      nominative_translation: wasps
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: geitunga
+      dative: geitungum
+      genitive: geitunga
+    with article:
+      nominative: geitungarnir
+      nominative_translation: the wasps
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: geitungana
+      dative: geitungunum
+      genitive: geitunganna
+id: 1020
+teach_the_difference: geit
+gender: masculine

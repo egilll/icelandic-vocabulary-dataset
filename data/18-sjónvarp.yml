@@ -1,0 +1,26 @@
+word: sjónvarp
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sjónvarp
+      nominative_translation: a television
+      nominative_sound: islex/003/003_38.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sjónvarp
+      accusative_sound: islex/003/003_38.mp3
+      dative: sjónvarpi
+      genitive: sjónvarps
+    with article:
+      nominative: sjónvarpið
+      nominative_translation: the television
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sjónvarpið
+      dative: sjónvarpinu
+      genitive: sjónvarpsins
+id: 1624
+gender: neuter

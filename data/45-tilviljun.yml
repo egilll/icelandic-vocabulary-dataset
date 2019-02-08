@@ -1,0 +1,45 @@
+word: tilviljun
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: tilviljun
+      nominative_translation: a coincidence
+      nominative_sound: islex/181/181_92.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tilviljun
+      accusative_sound: islex/181/181_92.mp3
+      dative: tilviljun
+      dative_sound: islex/181/181_92.mp3
+      genitive: tilviljunar
+    with article:
+      nominative: tilviljunin
+      nominative_translation: the coincidence
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tilviljunina
+      dative: tilviljuninni
+      genitive: tilviljunarinnar
+  plural:
+    no article:
+      nominative: tilviljanir
+      nominative_translation: coincidences
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: tilviljanir
+      dative: tilviljunum
+      genitive: tilviljana
+    with article:
+      nominative: tilviljanirnar
+      nominative_translation: the coincidences
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: tilviljanirnar
+      dative: tilviljununum
+      genitive: tilviljananna
+id: 1832
+gender: feminine

@@ -1,0 +1,25 @@
+word: helmingur
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: helmingur
+      nominative_translation: half
+      nominative_sound: islex/130/130_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: helming
+      dative: helmingi
+      genitive: helmings
+    with article:
+      nominative: helmingurinn
+      nominative_translation: the half
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: helminginn
+      dative: helmingnum
+      genitive: helmingsins
+id: 1113
+gender: masculine

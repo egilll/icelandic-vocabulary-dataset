@@ -1,0 +1,27 @@
+word: sykur
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sykur
+      nominative_translation: sugar
+      nominative_sound: islex/302/302_65.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sykur
+      accusative_sound: islex/302/302_65.mp3
+      dative: sykri
+      genitive: sykurs
+    with article:
+      nominative: sykurinn
+      nominative_translation: the sugar
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: sykurinn
+      dative: sykrinum
+      genitive: sykursins
+id: 1800
+gender: masculine
+recognizable: '1'

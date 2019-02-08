@@ -1,0 +1,26 @@
+word: hor
+level: 26
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hor
+      nominative_translation: 'snot, bugger'
+      nominative_sound: islex/051/051_51.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hor
+      accusative_sound: islex/051/051_51.mp3
+      dative: hori
+      genitive: hors
+    with article:
+      nominative: horið
+      nominative_translation: 'the snot, the bugger'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: horið
+      dative: horinu
+      genitive: horsins
+id: 1156
+gender: neuter

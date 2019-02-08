@@ -1,0 +1,22 @@
+word: þjófur
+level: 43
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: þjófur
+      nominative_translation: a thief
+      nominative_sound: islex/071/071_60.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: þjófurinn
+      nominative_translation: the thief
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: þjófinn
+      dative: þjófnum
+      genitive: þjófsins
+id: 1956
+gender: masculine

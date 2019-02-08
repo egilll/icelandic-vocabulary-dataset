@@ -1,0 +1,26 @@
+word: kvef
+level: 19
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: kvef
+      nominative_translation: a cold (viral infection)
+      nominative_sound: islex/415/415_16.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: kvef
+      accusative_sound: islex/415/415_16.mp3
+      dative: kvefi
+      genitive: kvefs
+    with article:
+      nominative: kvefið
+      nominative_translation: the cold (viral infection)
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: kvefið
+      dative: kvefinu
+      genitive: kvefsins
+id: 1276
+gender: neuter

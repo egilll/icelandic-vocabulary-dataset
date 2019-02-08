@@ -1,0 +1,20 @@
+word: sál
+level: 47
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sál
+      nominative_translation: a soul
+      nominative_sound: islex/155/155_15.mp3
+      nominative_teach: false
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: sálin
+      nominative_translation: the soul
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1585
+gender: feminine
+recognizable: '1'

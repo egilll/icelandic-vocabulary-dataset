@@ -1,0 +1,27 @@
+word: ofn
+level: 20
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: ofn
+      nominative_translation: an oven; a radiator
+      nominative_sound: islex/417/417_66.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: ofn
+      accusative_sound: islex/417/417_66.mp3
+      dative: ofni
+      genitive: ofns
+    with article:
+      nominative: ofninn
+      nominative_translation: the oven; the radiator
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: ofninn
+      dative: ofninum
+      genitive: ofnsins
+id: 1462
+gender: masculine
+recognizable: '1'

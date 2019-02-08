@@ -1,0 +1,27 @@
+word: hné
+level: 18
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hné
+      nominative_translation: a knee
+      nominative_sound: islex/039/039_05.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hné
+      accusative_sound: islex/039/039_05.mp3
+      dative: hné
+      dative_sound: islex/039/039_05.mp3
+      genitive: hnés
+    with article:
+      nominative: hnéð
+      nominative_translation: the knee
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: hnéð
+      dative: hnénu
+      genitive: hnésins
+id: 1142
+gender: neuter

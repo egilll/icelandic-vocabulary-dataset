@@ -1,0 +1,112 @@
+word: taka
+level: 17
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] taka'
+    infinitive_translation: to take
+    infinitive_sound: islex/154/154_71.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] tek'
+          1st person_translation: I take
+          1st person_teach: true
+          2nd person: '[þú] tekur'
+          2nd person_translation: you¹ take
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] tekur'
+          3rd person_translation: he/she/it takes
+          3rd person_teach: true
+        plural:
+          1st person: '[við] tökum'
+          1st person_translation: we take
+          1st person_teach: true
+          2nd person: '[þið] takið'
+          2nd person_translation: you² take
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] taka'
+          3rd person_translation: they take
+          3rd person_sound: islex/154/154_71.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] tók'
+          1st person_translation: I took
+          1st person_teach: true
+          2nd person: '[þú] tókst'
+          2nd person_translation: you¹ took
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] tók'
+          3rd person_translation: he/she/it took
+          3rd person_teach: true
+        plural:
+          1st person: '[við] tókum'
+          1st person_translation: we took
+          1st person_teach: true
+          2nd person: '[þið] tókuð'
+          2nd person_translation: you² took
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] tóku'
+          3rd person_translation: they took
+          3rd person_teach: true
+    subjunctive:
+      present:
+        singular:
+          1st person: '[ég held að] [ég] taki'
+          1st person_translation: I think I take
+          1st person_teach: true
+          2nd person: '[ég held að] [þú] takir'
+          2nd person_translation: I think you¹ take
+          2nd person_teach: true
+          3rd person: '[ég held að] [hann/hún/það] taki'
+          3rd person_translation: I think he/she/it takes
+          3rd person_teach: true
+        plural:
+          1st person: '[ég held að] [við] tökum'
+          1st person_translation: I think we take
+          1st person_teach: true
+          2nd person: '[ég held að] [þið] takið'
+          2nd person_translation: I think you² take
+          2nd person_teach: true
+          3rd person: '[ég held að] [þeir/þær/þau] taki'
+          3rd person_translation: I think they take
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég hélt að] [ég] tæki'
+          1st person_translation: I thought I would take
+          1st person_sound: islex/002/002_02.mp3
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þú] tækir'
+          2nd person_translation: I thought you¹ would take
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [hann/hún/það] tæki'
+          3rd person_translation: I thought he/she/it would take
+          3rd person_sound: islex/002/002_02.mp3
+          3rd person_teach: true
+        plural:
+          1st person: '[ég hélt að] [við] tækjum'
+          1st person_translation: I thought we would take
+          1st person_teach: true
+          2nd person: '[ég hélt að] [þið] tækjuð'
+          2nd person_translation: I thought you² would take
+          2nd person_teach: true
+          3rd person: '[ég hélt að] [þeir/þær/þau] tækju'
+          3rd person_translation: I thought they would take
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] tekið'
+    active voice_translation: I have taken
+    active voice_teach: true
+  imperative:
+    active voice:
+      singular: taktu!
+      singular_translation: take!¹
+      singular_teach: true
+      plural: takið!
+      plural_translation: take!²
+      plural_teach: true
+id: 2396
+strong_verb_declension: true

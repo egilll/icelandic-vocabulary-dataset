@@ -1,0 +1,18 @@
+word: veikindaleyfi
+level: 43
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: veikindaleyfi
+      nominative_translation: a sick leave
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: veikindaleyfið
+      nominative_translation: the sick leave
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1902
+gender: neuter

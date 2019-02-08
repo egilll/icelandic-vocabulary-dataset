@@ -1,0 +1,26 @@
+word: dagatal
+level: 15
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: dagatal
+      nominative_translation: a calander
+      nominative_sound: islex/387/387_04.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: dagatal
+      accusative_sound: islex/387/387_04.mp3
+      dative: dagatali
+      genitive: dagatals
+    with article:
+      nominative: dagatalið
+      nominative_translation: the calander
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: dagatalið
+      dative: dagatalinu
+      genitive: dagatalsins
+id: 861
+gender: neuter

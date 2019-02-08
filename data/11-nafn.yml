@@ -1,0 +1,46 @@
+word: nafn
+level: 11
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: nafn
+      nominative_translation: a name
+      nominative_sound: islex/479/479_57.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nafn
+      accusative_sound: islex/479/479_57.mp3
+      dative: nafni
+      dative_sound: islex/194/194_20.mp3
+      genitive: nafns
+    with article:
+      nominative: nafnið
+      nominative_translation: the name
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nafnið
+      dative: nafninu
+      genitive: nafnsins
+  plural:
+    no article:
+      nominative: nöfn
+      nominative_translation: names
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: nöfn
+      dative: nöfnum
+      genitive: nafna
+      genitive_sound: islex/124/124_47.mp3
+    with article:
+      nominative: nöfnin
+      nominative_translation: the names
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: nöfnin
+      dative: nöfnunum
+      genitive: nafnanna
+id: 1435
+gender: neuter

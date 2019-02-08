@@ -1,0 +1,21 @@
+word: beila
+level: 23
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] beila'
+    infinitive_translation: 'to bail [slang]'
+    infinitive_teach: true
+    indicative:
+      past:
+        singular:
+          1st person: '[ég] beilaði'
+          1st person_translation: 'I bailed [slang]'
+          1st person_teach: true
+          2nd person: '[þú] beilaðir'
+          2nd person_translation: 'you¹ bailed [slang]'
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] beilaði'
+          3rd person_translation: 'he/she/it bailed [slang]'
+          3rd person_teach: true
+id: 2035

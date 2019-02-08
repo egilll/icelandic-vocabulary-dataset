@@ -1,0 +1,45 @@
+word: næturvakt
+level: 48
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: næturvakt
+      nominative_translation: a night shift
+      nominative_sound: islex/037/037_88.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: næturvakt
+      accusative_sound: islex/037/037_88.mp3
+      dative: næturvakt
+      dative_sound: islex/037/037_88.mp3
+      genitive: næturvaktar
+    with article:
+      nominative: næturvaktin
+      nominative_translation: the night shift
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: næturvaktina
+      dative: næturvaktinni
+      genitive: næturvaktarinnar
+  plural:
+    no article:
+      nominative: næturvaktir
+      nominative_translation: night shifts
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: næturvaktir
+      dative: næturvöktum
+      genitive: næturvakta
+    with article:
+      nominative: næturvaktirnar
+      nominative_translation: the night shifts
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: næturvaktirnar
+      dative: næturvöktunum
+      genitive: næturvaktanna
+id: 1434
+gender: feminine

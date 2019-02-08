@@ -1,0 +1,19 @@
+word: sálfræðingur
+level: 14
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sálfræðingur
+      nominative_translation: a psychologist
+      nominative_sound: islex/290/290_24.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: sálfræðingurinn
+      nominative_translation: the psychologist
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1587
+gender: masculine

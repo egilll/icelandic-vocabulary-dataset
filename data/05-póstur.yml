@@ -1,0 +1,20 @@
+word: póstur
+level: 5
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: póstur
+      nominative_translation: 'mail, post'
+      nominative_sound: islex/367/367_08.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: pósturinn
+      nominative_translation: 'the mail, the post'
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1519
+gender: masculine
+recognizable: '1'

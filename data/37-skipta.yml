@@ -1,0 +1,10 @@
+word: skipta
+level: 37
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] skipta'
+    infinitive_translation: to divide; to exchange
+    infinitive_sound: islex/348/348_10.mp3
+    infinitive_teach: true
+id: 2336

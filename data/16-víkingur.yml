@@ -1,0 +1,45 @@
+word: víkingur
+level: 16
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: víkingur
+      nominative_translation: a viking
+      nominative_sound: islex/117/117_22.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: víking
+      accusative_sound: islex/217/217_82.mp3
+      dative: víkingi
+      genitive: víkings
+    with article:
+      nominative: víkingurinn
+      nominative_translation: the viking
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: víkinginn
+      dative: víkingnum
+      genitive: víkingsins
+  plural:
+    no article:
+      nominative: víkingar
+      nominative_translation: vikings
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: víkinga
+      dative: víkingum
+      genitive: víkinga
+    with article:
+      nominative: víkingarnir
+      nominative_translation: the vikings
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: víkingana
+      dative: víkingunum
+      genitive: víkinganna
+id: 1926
+gender: masculine
+recognizable: '1'

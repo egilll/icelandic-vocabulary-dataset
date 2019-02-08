@@ -1,0 +1,19 @@
+word: fasteignasali
+level: 31
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: fasteignasali
+      nominative_translation: a real estate agent
+      nominative_sound: islex/128/128_13.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: false
+    with article:
+      nominative: fasteignasalinn
+      nominative_translation: the real estate agent
+      nominative_teach: false
+      nominative_teachtable: false
+id: 930
+gender: masculine

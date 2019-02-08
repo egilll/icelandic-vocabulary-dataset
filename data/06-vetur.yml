@@ -1,0 +1,26 @@
+word: vetur
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vetur
+      nominative_translation: winter
+      nominative_sound: islex/264/264_20.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vetur
+      accusative_sound: islex/264/264_20.mp3
+      dative: vetri
+      genitive: vetrar
+    with article:
+      nominative: veturinn
+      nominative_translation: the winter
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: veturinn
+      dative: vetrinum
+      genitive: vetrarins
+id: 1918
+gender: masculine

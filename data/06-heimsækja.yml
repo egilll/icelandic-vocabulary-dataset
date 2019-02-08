@@ -1,0 +1,58 @@
+word: heimsækja
+level: 6
+grammatical_category: verb
+conjugation:
+  active voice:
+    infinitive: '[að] heimsækja'
+    infinitive_translation: to visit
+    infinitive_sound: islex/292/292_17.mp3
+    infinitive_teach: true
+    indicative:
+      present:
+        singular:
+          1st person: '[ég] heimsæki'
+          1st person_translation: I visit
+          1st person_teach: true
+          2nd person: '[þú] heimsækir'
+          2nd person_translation: you¹ visit
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] heimsækir'
+          3rd person_translation: he/she/it visits
+          3rd person_teach: true
+        plural:
+          1st person: '[við] heimsækjum'
+          1st person_translation: we visit
+          1st person_teach: true
+          2nd person: '[þið] heimsækið'
+          2nd person_translation: you² visit
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] heimsækja'
+          3rd person_translation: they visit
+          3rd person_sound: islex/292/292_17.mp3
+          3rd person_teach: true
+      past:
+        singular:
+          1st person: '[ég] heimsótti'
+          1st person_translation: I visited
+          1st person_teach: true
+          2nd person: '[þú] heimsóttir'
+          2nd person_translation: you¹ visited
+          2nd person_teach: true
+          3rd person: '[hann/hún/það] heimsótti'
+          3rd person_translation: he/she/it visited
+          3rd person_teach: true
+        plural:
+          1st person: '[við] heimsóttum'
+          1st person_translation: we visited
+          1st person_teach: true
+          2nd person: '[þið] heimsóttuð'
+          2nd person_translation: you² visited
+          2nd person_teach: true
+          3rd person: '[þeir/þær/þau] heimsóttu'
+          3rd person_translation: they visited
+          3rd person_teach: true
+  supine:
+    active voice: '[ég hef] heimsótt'
+    active voice_translation: I have visited
+    active voice_teach: true
+id: 2145

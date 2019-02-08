@@ -1,0 +1,21 @@
+word: snjógalli
+level: 45
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: snjógalli
+      nominative_translation: a snowsuit
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: snjógalla
+      dative: snjógalla
+      genitive: snjógalla
+    with article:
+      nominative: snjógallinn
+      nominative_translation: the snowsuit
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1695
+gender: masculine

@@ -1,0 +1,26 @@
+word: vesen
+level: 12
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: vesen
+      nominative_translation: 'trouble, inconvenience'
+      nominative_sound: islex/052/052_41.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: vesen
+      accusative_sound: islex/052/052_41.mp3
+      dative: veseni
+      genitive: vesens
+    with article:
+      nominative: vesenið
+      nominative_translation: 'the trouble, the inconvenience'
+      nominative_teach: true
+      nominative_teachtable: true
+      accusative: vesenið
+      dative: veseninu
+      genitive: vesensins
+id: 1914
+gender: neuter

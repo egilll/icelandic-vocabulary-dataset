@@ -1,0 +1,25 @@
+word: hiti
+level: 28
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: hiti
+      nominative_translation: 'heat, temperature; fever'
+      nominative_sound: islex/401/401_84.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: hita
+      accusative_sound: islex/003/003_18.mp3
+      dative: hita
+      dative_sound: islex/003/003_18.mp3
+      genitive: hita
+      genitive_sound: islex/003/003_18.mp3
+    with article:
+      nominative: hitinn
+      nominative_translation: 'the heat, the temperature; the fever'
+      nominative_teach: true
+      nominative_teachtable: false
+id: 1123
+gender: masculine

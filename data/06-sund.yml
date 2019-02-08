@@ -1,0 +1,23 @@
+word: sund
+level: 6
+grammatical_category: noun
+conjugation:
+  singular:
+    no article:
+      nominative: sund
+      nominative_translation: swimming pool
+      nominative_sound: islex/110/110_72.mp3
+      nominative_teach: true
+      nominative_teachgender: true
+      nominative_teachtable: true
+      accusative: sund
+      accusative_sound: islex/110/110_72.mp3
+      dative: sundi
+      genitive: sunds
+    with article:
+      nominative: sundið
+      nominative_translation: the swimming pool
+      nominative_teach: false
+      nominative_teachtable: false
+id: 1778
+gender: neuter
