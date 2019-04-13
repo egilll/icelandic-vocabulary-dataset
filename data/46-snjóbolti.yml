@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: snjóbolti
       nominative_translation: a snowball
-      nominative_sound: islex/475/475_07.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/475/475_07.mp3'
+      nominative_pronunciation: <span class="guessed">stnjouːpɔl̥tɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snjóbolta
+      accusative_pronunciation: <span class="guessed">stnjouːpɔl̥ta</span>
       dative: snjóbolta
+      dative_pronunciation: <span class="guessed">stnjouːpɔl̥ta</span>
       genitive: snjóbolta
+      genitive_pronunciation: <span class="guessed">stnjouːpɔl̥ta</span>
     with article:
       nominative: snjóboltinn
       nominative_translation: the snowball
+      nominative_pronunciation: <span class="guessed">stnjouːpɔl̥tɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: snjóboltann
+      accusative_pronunciation: <span class="guessed">stnjouːpɔl̥tan</span>
       dative: snjóboltanum
+      dative_pronunciation: <span class="guessed">stnjouːpɔl̥tanʏm</span>
       genitive: snjóboltans
 id: 1691
 gender: masculine

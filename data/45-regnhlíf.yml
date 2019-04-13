@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: regnhlíf
       nominative_translation: an umbrella
-      nominative_sound: islex/474/474_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/474/474_51.mp3'
+      nominative_pronunciation: rɛkl̥iv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: regnhlíf
-      accusative_sound: islex/474/474_51.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/474/474_51.mp3'
+      accusative_pronunciation: rɛkl̥iv
       dative: regnhlíf
-      dative_sound: islex/474/474_51.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/474/474_51.mp3'
+      dative_pronunciation: rɛkl̥iv
       genitive: regnhlífar
+      genitive_pronunciation: <span class="guessed">rɛkn̥l̥iːvar</span>
     with article:
       nominative: regnhlífin
       nominative_translation: the umbrella
       nominative_teach: true
       nominative_teachtable: true
       accusative: regnhlífina
+      accusative_pronunciation: rɛkl̥ivɪna
       dative: regnhlífinni
+      dative_pronunciation: <span class="guessed">rɛkl̥ivɪnɪ</span>
       genitive: regnhlífarinnar
+      genitive_pronunciation: <span class="guessed">rɛkn̥l̥iːvarɪnar</span>
 id: 1548
 gender: feminine

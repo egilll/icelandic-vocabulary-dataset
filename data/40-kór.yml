@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: kór
       nominative_translation: a choir
-      nominative_sound: islex/081/081_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/081/081_38.mp3'
+      nominative_pronunciation: kʰouːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: kórinn
       nominative_translation: the choir
+      nominative_pronunciation: kʰouːrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1260

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: seta
       nominative_translation: soap
-      nominative_sound: islex/114/114_16.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/114/114_16.mp3'
+      nominative_pronunciation: <span class="guessed">sɛːtaː</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: setan
       nominative_translation: the soap
+      nominative_pronunciation: <span class="guessed">sɛːtaːn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1604

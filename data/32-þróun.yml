@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: þróun
       nominative_translation: a development
-      nominative_sound: islex/342/342_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/342/342_23.mp3'
+      nominative_pronunciation: θrouːʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þróun
-      accusative_sound: islex/342/342_23.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/342/342_23.mp3'
+      accusative_pronunciation: θrouːʏn
       dative: þróun
-      dative_sound: islex/342/342_23.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/342/342_23.mp3'
+      dative_pronunciation: θrouːʏn
       genitive: þróunar
+      genitive_pronunciation: θrouːʏnar
     with article:
       nominative: þróunin
       nominative_translation: the development
+      nominative_pronunciation: θrouːʏnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: þróunina
+      accusative_pronunciation: θrouːʏnɪna
       dative: þróuninni
+      dative_pronunciation: θrouːʏnɪnɪ
       genitive: þróunarinnar
+      genitive_pronunciation: <span class="guessed">θrouːʏnarɪnar</span>
 id: 1966
 gender: feminine

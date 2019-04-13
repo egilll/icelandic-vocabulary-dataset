@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: túristi
       nominative_translation: a tourist
-      nominative_sound: islex/267/267_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/267/267_99.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -16,15 +16,18 @@ conjugation:
     with article:
       nominative: túristinn
       nominative_translation: the tourist
+      nominative_pronunciation: <span class="guessed">tʰuːrɪːstɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: túristann
       dative: túristanum
       genitive: túristans
+      genitive_pronunciation: <span class="guessed">tʰuːrɪːstans</span>
   plural:
     no article:
       nominative: túristar
       nominative_translation: tourists
+      nominative_pronunciation: tʰuːrɪstar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -38,6 +41,8 @@ conjugation:
       nominative_teachtable: true
       accusative: túristana
       dative: túristunum
+      dative_pronunciation: <span class="guessed">tʰuːrɪːstʏːnʏm</span>
       genitive: túristanna
+      genitive_pronunciation: <span class="guessed">tʰuːrɪːstʰana</span>
 id: 1858
 gender: masculine

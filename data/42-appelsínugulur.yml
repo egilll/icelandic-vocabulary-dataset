@@ -1,5 +1,7 @@
 word: appelsínugulur
 word_translation: orange (color)
+word_sound: 'https://media.egill.xyz/audio/islex/281/281_03.mp3'
+word_pronunciation: <span class="guessed">ahpɛlsinʏkʏːlʏr</span>
 word_teach: true
 level: 42
 grammatical_category: adjective

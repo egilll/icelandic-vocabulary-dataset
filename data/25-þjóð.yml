@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: þjóð
       nominative_translation: a nation
-      nominative_sound: islex/142/142_89.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/142/142_89.mp3'
+      nominative_pronunciation: θjouːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þjóð
-      accusative_sound: islex/142/142_89.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/142/142_89.mp3'
+      accusative_pronunciation: θjouːð
       dative: þjóð
-      dative_sound: islex/142/142_89.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/142/142_89.mp3'
+      dative_pronunciation: θjouːð
       genitive: þjóðar
+      genitive_pronunciation: θjouːðar
     with article:
       nominative: þjóðin
       nominative_translation: the nation
+      nominative_pronunciation: θjouːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: þjóðina
+      accusative_pronunciation: θjouːðɪna
       dative: þjóðinni
+      dative_pronunciation: θjouːðɪnɪ
       genitive: þjóðarinnar
+      genitive_pronunciation: θjouːðarɪnar
 id: 1955
 gender: feminine

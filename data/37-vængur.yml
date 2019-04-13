@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: vængur
       nominative_translation: a wing
-      nominative_sound: islex/058/058_15.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/058/058_15.mp3'
+      nominative_pronunciation: vaiŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: væng
+      accusative_pronunciation: vaiŋk
       dative: væng
+      dative_pronunciation: vaiŋk
       genitive: vængs
       genitive_alternative:
         - vængjar
     with article:
       nominative: vængurinn
       nominative_translation: the wing
+      nominative_pronunciation: <span class="guessed">vaiŋkʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: vænginn
+      accusative_pronunciation: vaiɲcɪn
       dative: vængnum
+      dative_pronunciation: vaiŋknʏm
       genitive: vængsins
       genitive_alternative:
         - vængjarins
@@ -29,19 +35,26 @@ conjugation:
     no article:
       nominative: vængir
       nominative_translation: wings
+      nominative_pronunciation: vaiɲcɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vængi
+      accusative_pronunciation: vaiɲcɪ
       dative: vængjum
+      dative_pronunciation: vaiɲcʏm
       genitive: vængja
+      genitive_pronunciation: <span class="guessed">vaiŋkjaː</span>
     with article:
       nominative: vængirnir
       nominative_translation: the wings
+      nominative_pronunciation: vaiɲcɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: vængina
+      accusative_pronunciation: vaiɲcɪna
       dative: vængjunum
       genitive: vængjanna
+      genitive_pronunciation: vaiŋcana
 id: 1883
 gender: masculine

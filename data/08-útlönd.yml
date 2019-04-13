@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: útlönd
       nominative_translation: foreign countries
-      nominative_sound: islex/044/044_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/044/044_87.mp3'
+      nominative_pronunciation: uːtlœnt
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: útlönd
-      accusative_sound: islex/044/044_87.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/044/044_87.mp3'
+      accusative_pronunciation: uːtlœnt
       dative: útlöndum
+      dative_pronunciation: uːtlœntʏm
       genitive: útlanda
+      genitive_pronunciation: uːtlanta
 id: 1881
 gender: neuter

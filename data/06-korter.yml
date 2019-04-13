@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: korter
       nominative_translation: 15 minutes (a quarter of an hour)
-      nominative_sound: islex/009/009_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/009/009_37.mp3'
+      nominative_pronunciation: kʰɔr̥tɛr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

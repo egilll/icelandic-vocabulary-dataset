@@ -6,16 +6,20 @@ conjugation:
     no article:
       nominative: api
       nominative_translation: 'monkey, ape'
-      nominative_sound: islex/246/246_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/246/246_94.mp3'
+      nominative_pronunciation: aːpɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: apa
-      accusative_sound: islex/224/224_08.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/224/224_08.mp3'
+      accusative_pronunciation: aːpa
       dative: apa
-      dative_sound: islex/224/224_08.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/224/224_08.mp3'
+      dative_pronunciation: aːpa
       genitive: apa
-      genitive_sound: islex/224/224_08.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/224/224_08.mp3'
+      genitive_pronunciation: aːpa
     with article:
       nominative: apinn
       nominative_translation: 'the monkey, the ape'
@@ -28,14 +32,18 @@ conjugation:
     no article:
       nominative: apar
       nominative_translation: 'monkeys, apes'
+      nominative_pronunciation: aːpar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: apa
-      accusative_sound: islex/224/224_08.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/224/224_08.mp3'
+      accusative_pronunciation: aːpa
       dative: öpum
+      dative_pronunciation: œːpʏm
       genitive: apa
-      genitive_sound: islex/224/224_08.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/224/224_08.mp3'
+      genitive_pronunciation: aːpa
     with article:
       nominative: aparnir
       nominative_translation: 'the monkeys, the apes'
@@ -44,5 +52,6 @@ conjugation:
       accusative: apana
       dative: öpunum
       genitive: apanna
+      genitive_pronunciation: <span class="guessed">aːpʰana</span>
 id: 724
 gender: masculine

@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] plana'
     infinitive_translation: to plan
-    infinitive_sound: islex/318/318_87.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/318/318_87.mp3'
+    infinitive_pronunciation: <span class="guessed">pʰlaːnaː</span>
     infinitive_teach: true
 id: 2276

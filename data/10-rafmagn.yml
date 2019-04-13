@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: rafmagn
       nominative_translation: electricity
-      nominative_sound: islex/350/350_42.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/350/350_42.mp3'
+      nominative_pronunciation: ravmakn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rafmagn
-      accusative_sound: islex/350/350_42.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/350/350_42.mp3'
+      accusative_pronunciation: ravmakn̥
       dative: rafmagni
+      dative_pronunciation: ravmaknɪ
       genitive: rafmagns
+      genitive_pronunciation: ravmaks
     with article:
       nominative: rafmagnið
       nominative_translation: the electricity
+      nominative_pronunciation: ravmaknɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: rafmagnið
+      accusative_pronunciation: ravmaknɪð
       dative: rafmagninu
+      dative_pronunciation: ravmaknɪnʏ
       genitive: rafmagnsins
 id: 1535
 gender: neuter

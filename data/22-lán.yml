@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: lán
       nominative_translation: a loan
-      nominative_sound: islex/019/019_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/019/019_71.mp3'
+      nominative_pronunciation: lauːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lán
-      accusative_sound: islex/019/019_71.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/019/019_71.mp3'
+      accusative_pronunciation: lauːn
       dative: láni
+      dative_pronunciation: lauːnɪ
       genitive: láns
+      genitive_pronunciation: launs
     with article:
       nominative: lánið
       nominative_translation: the loan
+      nominative_pronunciation: lauːnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: lánið
+      accusative_pronunciation: lauːnɪð
       dative: láninu
+      dative_pronunciation: <span class="guessed">lauːnɪːnʏ</span>
       genitive: lánsins
 id: 1294
 gender: neuter

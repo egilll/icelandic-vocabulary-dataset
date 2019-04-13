@@ -6,25 +6,33 @@ conjugation:
     no article:
       nominative: karfa
       nominative_translation: a basket
-      nominative_sound: islex/197/197_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/197/197_23.mp3'
+      nominative_pronunciation: kʰarva
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: körfu
+      accusative_pronunciation: kʰœrvʏ
       dative: körfu
+      dative_pronunciation: kʰœrvʏ
       genitive: körfu
+      genitive_pronunciation: kʰœrvʏ
     with article:
       nominative: karfan
       nominative_translation: the basket
+      nominative_pronunciation: kʰarvan
       nominative_teach: true
       nominative_teachtable: true
       accusative: körfuna
+      accusative_pronunciation: kʰœrvʏna
       dative: körfunni
+      dative_pronunciation: kʰœrvʏnɪ
       genitive: körfunnar
   plural:
     no article:
       nominative: körfur
       nominative_translation: baskets
+      nominative_pronunciation: kʰœrvʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

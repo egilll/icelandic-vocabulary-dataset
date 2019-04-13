@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: stjarna
       nominative_translation: a star
-      nominative_sound: islex/233/233_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/233/233_45.mp3'
+      nominative_pronunciation: stjartna
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stjörnu
+      accusative_pronunciation: stjœrtnʏ
       dative: stjörnu
+      dative_pronunciation: stjœrtnʏ
       genitive: stjörnu
+      genitive_pronunciation: stjœrtnʏ
     with article:
       nominative: stjarnan
       nominative_translation: the star
+      nominative_pronunciation: stjartnan
       nominative_teach: true
       nominative_teachtable: true
       accusative: stjörnuna
+      accusative_pronunciation: stjœrtnʏna
       dative: stjörnunni
+      dative_pronunciation: stjœrtnʏnɪ
       genitive: stjörnunnar
+      genitive_pronunciation: stjœrtnʏnar
   plural:
     no article:
       nominative: stjörnur
       nominative_translation: stars
+      nominative_pronunciation: stjœrtnʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stjörnur
+      accusative_pronunciation: stjœrtnʏr
       dative: stjörnum
+      dative_pronunciation: stjœrtnʏm
       genitive: stjarna
-      genitive_sound: islex/233/233_45.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/233/233_45.mp3'
+      genitive_pronunciation: stjartna
     with article:
       nominative: stjörnurnar
       nominative_translation: the stars
+      nominative_pronunciation: stjœrtnʏrtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: stjörnurnar
+      accusative_pronunciation: stjœrtnʏrtnar
       dative: stjörnunum
+      dative_pronunciation: stjœrtnɔnʏm
       genitive: stjarnanna
+      genitive_pronunciation: stjartnana
 id: 1746
 gender: feminine

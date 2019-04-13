@@ -6,10 +6,13 @@ conjugation:
     with article:
       nominative: restin
       nominative_translation: the rest of something
+      nominative_pronunciation: rɛstɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: restina
+      accusative_pronunciation: rɛstɪna
       dative: restinni
+      dative_pronunciation: rɛstɪnɪ
       genitive: restarinnar
 id: 1555
 gender: feminine

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: beikon
       nominative_translation: bacon
-      nominative_sound: islex/281/281_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/281/281_27.mp3'
+      nominative_pronunciation: peiːkɔn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: beikonið
       nominative_translation: the bacon
+      nominative_pronunciation: <span class="guessed">peiːkɔnɪːð</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 780

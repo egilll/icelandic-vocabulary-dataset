@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: leið
       nominative_translation: 'a way, a direction'
-      nominative_sound: islex/089/089_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/089/089_38.mp3'
+      nominative_pronunciation: leiːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leið
-      accusative_sound: islex/089/089_38.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/089/089_38.mp3'
+      accusative_pronunciation: leiːð
       dative: leið
-      dative_sound: islex/089/089_38.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/089/089_38.mp3'
+      dative_pronunciation: leiːð
       genitive: leiðar
+      genitive_pronunciation: leiːðar
     with article:
       nominative: leiðin
       nominative_translation: 'the way, the direction'
+      nominative_pronunciation: leiːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: leiðina
+      accusative_pronunciation: leiːðɪna
       dative: leiðinni
+      dative_pronunciation: leiːðɪnɪ
       genitive: leiðarinnar
+      genitive_pronunciation: leiːðarɪnar
 id: 1305
 gender: feminine

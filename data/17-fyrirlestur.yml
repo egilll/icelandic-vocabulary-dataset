@@ -6,23 +6,30 @@ conjugation:
     no article:
       nominative: fyrirlestur
       nominative_translation: a lecture
-      nominative_sound: islex/192/192_78.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/192/192_78.mp3'
+      nominative_pronunciation: fɪːrɪrlɛstʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fyrirlestur
-      accusative_sound: islex/192/192_78.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/192/192_78.mp3'
+      accusative_pronunciation: fɪːrɪrlɛstʏr
       dative: fyrirlestri
+      dative_pronunciation: fɪːrɪrlɛstrɪ
       genitive: fyrirlestrar
+      genitive_pronunciation: fɪːrɪrlɛstrar
       genitive_alternative:
         - fyrirlesturs
     with article:
       nominative: fyrirlesturinn
       nominative_translation: the lecture
+      nominative_pronunciation: fɪːrɪrlɛstʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fyrirlesturinn
+      accusative_pronunciation: fɪːrɪrlɛstʏrɪn
       dative: fyrirlestrinum
+      dative_pronunciation: fɪːrɪrlɛstrɪnʏm
       genitive: fyrirlestrarins
       genitive_alternative:
         - fyrirlestursins
@@ -30,19 +37,26 @@ conjugation:
     no article:
       nominative: fyrirlestrar
       nominative_translation: lectures
+      nominative_pronunciation: fɪːrɪrlɛstrar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fyrirlestra
+      accusative_pronunciation: fɪːrɪrlɛstra
       dative: fyrirlestrum
+      dative_pronunciation: fɪːrɪrlɛstrʏm
       genitive: fyrirlestra
+      genitive_pronunciation: fɪːrɪrlɛstra
     with article:
       nominative: fyrirlestrarnir
       nominative_translation: the lectures
+      nominative_pronunciation: fɪːrɪrlɛstratnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: fyrirlestrana
+      accusative_pronunciation: <span class="guessed">fɪːrɪrlɛstraːna</span>
       dative: fyrirlestrunum
       genitive: fyrirlestranna
+      genitive_pronunciation: <span class="guessed">fɪːrɪrlɛstranaː</span>
 id: 1000
 gender: masculine

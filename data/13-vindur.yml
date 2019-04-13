@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: vindur
       nominative_translation: wind
-      nominative_sound: islex/343/343_81.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/343/343_81.mp3'
+      nominative_pronunciation: vɪntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vind
+      accusative_pronunciation: vɪnt
       dative: vindi
+      dative_pronunciation: vɪntɪ
       genitive: vinds
     with article:
       nominative: vindurinn
       nominative_translation: the wind
+      nominative_pronunciation: vɪntʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: vindinn
+      accusative_pronunciation: vɪntɪn
       dative: vindinum
+      dative_pronunciation: vɪntɪnʏm
       genitive: vindsins
+      genitive_pronunciation: vɪntsɪns
 id: 1931
 gender: masculine

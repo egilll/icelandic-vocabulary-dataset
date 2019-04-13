@@ -6,23 +6,31 @@ conjugation:
     no article:
       nominative: net
       nominative_translation: net; internet
-      nominative_sound: islex/329/329_93.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/329/329_93.mp3'
+      nominative_pronunciation: nɛːt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: net
-      accusative_sound: islex/329/329_93.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/329/329_93.mp3'
+      accusative_pronunciation: nɛːt
       dative: neti
+      dative_pronunciation: nɛːtɪ
       genitive: nets
+      genitive_pronunciation: nɛːts
     with article:
       nominative: netið
       nominative_translation: the net; the internet
-      nominative_sound: islex/114/114_46.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/114/114_46.mp3'
+      nominative_pronunciation: nɛːtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: netið
-      accusative_sound: islex/114/114_46.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/114/114_46.mp3'
+      accusative_pronunciation: nɛːtɪð
       dative: netinu
+      dative_pronunciation: nɛːtɪnʏ
       genitive: netsins
+      genitive_pronunciation: nɛːtsɪns
 id: 1450
 gender: neuter

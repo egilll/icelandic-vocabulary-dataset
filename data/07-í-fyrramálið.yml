@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: fyrramál
       nominative_translation: tomorrow morning
+      nominative_pronunciation: <span class="guessed">fɪramauːl</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fyrramál
+      accusative_pronunciation: <span class="guessed">fɪramauːl</span>
       dative: fyrramáli
+      dative_pronunciation: <span class="guessed">fɪramauːlɪ</span>
       genitive: fyrramáls
+      genitive_pronunciation: <span class="guessed">fɪramauls</span>
     with article:
       nominative: fyrramálið
       nominative_translation: the tomorrow morning
-      nominative_sound: islex/317/317_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/317/317_59.mp3'
+      nominative_pronunciation: fɪramauːlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: fyrramálið
-      accusative_sound: islex/317/317_59.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/317/317_59.mp3'
+      accusative_pronunciation: fɪramauːlɪð
       dative: fyrramálinu
+      dative_pronunciation: <span class="guessed">fɪramauːlɪnʏ</span>
       genitive: fyrramálsins
+      genitive_pronunciation: <span class="guessed">fɪramaulsɪns</span>
 id: 1003
 gender: neuter

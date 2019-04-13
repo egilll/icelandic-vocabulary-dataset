@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: herbergi
       nominative_translation: a room
-      nominative_sound: islex/050/050_14.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/050/050_14.mp3'
+      nominative_pronunciation: hɛrpɛcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: herbergi
-      accusative_sound: islex/050/050_14.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/050/050_14.mp3'
+      accusative_pronunciation: hɛrpɛcɪ
       dative: herbergi
-      dative_sound: islex/050/050_14.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/050/050_14.mp3'
+      dative_pronunciation: hɛrpɛcɪ
       genitive: herbergis
+      genitive_pronunciation: <span class="guessed">hɛːrpɛrkɪːs</span>
     with article:
       nominative: herbergið
       nominative_translation: the room
+      nominative_pronunciation: hɛrpɛcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: herbergið
+      accusative_pronunciation: hɛrpɛcɪð
       dative: herberginu
+      dative_pronunciation: hɛrpɛcɪnʏ
       genitive: herbergisins
+      genitive_pronunciation: hɛrpɛcɪsɪns
 id: 1116
 gender: neuter

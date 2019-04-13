@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: fæðing
       nominative_translation: a birth
-      nominative_sound: islex/241/241_84.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/241/241_84.mp3'
+      nominative_pronunciation: faiːðiŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fæðingu
+      accusative_pronunciation: faiːðiŋkʏ
       dative: fæðingu
+      dative_pronunciation: faiːðiŋkʏ
       genitive: fæðingar
+      genitive_pronunciation: faiːðiŋkar
     with article:
       nominative: fæðingin
       nominative_translation: the birth
+      nominative_pronunciation: faiːðiɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fæðinguna
+      accusative_pronunciation: faiːðiŋkʏna
       dative: fæðingunni
+      dative_pronunciation: faiːðiŋkʏnɪ
       genitive: fæðingarinnar
+      genitive_pronunciation: <span class="guessed">faiːðiŋkarɪnar</span>
 id: 925
 gender: feminine

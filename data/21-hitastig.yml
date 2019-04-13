@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: hitastig
       nominative_translation: temperature
-      nominative_sound: islex/258/258_07.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/258/258_07.mp3'
+      nominative_pronunciation: hɪːtastɪːɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hitastig
-      accusative_sound: islex/258/258_07.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/258/258_07.mp3'
+      accusative_pronunciation: hɪːtastɪːɣ
       dative: hitastigi
+      dative_pronunciation: hɪːtastiːjɪ
       genitive: hitastigs
+      genitive_pronunciation: <span class="guessed">hɪːtastɪxs</span>
     with article:
       nominative: hitastigið
       nominative_translation: the temperature
+      nominative_pronunciation: hɪːtastiːjɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hitastigið
+      accusative_pronunciation: hɪːtastiːjɪð
       dative: hitastiginu
+      dative_pronunciation: <span class="guessed">hɪːtastɪːɣɪːnʏ</span>
       genitive: hitastigsins
 id: 1122
 gender: neuter

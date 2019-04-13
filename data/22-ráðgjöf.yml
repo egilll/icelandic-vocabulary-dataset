@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: ráðgjöf
       nominative_translation: consultancy
-      nominative_sound: islex/414/414_13.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/414/414_13.mp3'
+      nominative_pronunciation: rauðcœv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ráðgjöf
-      accusative_sound: islex/414/414_13.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/414/414_13.mp3'
+      accusative_pronunciation: rauðcœv
       dative: ráðgjöf
-      dative_sound: islex/414/414_13.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/414/414_13.mp3'
+      dative_pronunciation: rauðcœv
       genitive: ráðgjafar
+      genitive_pronunciation: rauðcavar
     with article:
       nominative: ráðgjöfin
       nominative_translation: the consultancy
+      nominative_pronunciation: rauðcœvɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ráðgjöfina
+      accusative_pronunciation: <span class="guessed">rauːðcœːvɪna</span>
       dative: ráðgjöfinni
+      dative_pronunciation: <span class="guessed">rauðcœvɪnɪ</span>
       genitive: ráðgjafarinnar
+      genitive_pronunciation: <span class="guessed">rauðcavarɪnar</span>
 id: 1532
 gender: feminine

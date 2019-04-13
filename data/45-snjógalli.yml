@@ -6,15 +6,20 @@ conjugation:
     no article:
       nominative: snjógalli
       nominative_translation: a snowsuit
+      nominative_pronunciation: <span class="guessed">stnjouːkatlɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snjógalla
+      accusative_pronunciation: <span class="guessed">stnjouːkatla</span>
       dative: snjógalla
+      dative_pronunciation: <span class="guessed">stnjouːkatla</span>
       genitive: snjógalla
+      genitive_pronunciation: <span class="guessed">stnjouːkatla</span>
     with article:
       nominative: snjógallinn
       nominative_translation: the snowsuit
+      nominative_pronunciation: <span class="guessed">stnjouːkatlɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1695

@@ -6,26 +6,33 @@ conjugation:
     no article:
       nominative: gat
       nominative_translation: 'a hole, an opening'
-      nominative_sound: islex/405/405_21.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/405/405_21.mp3'
+      nominative_pronunciation: kaːt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gat
-      accusative_sound: islex/405/405_21.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/405/405_21.mp3'
+      accusative_pronunciation: kaːt
       dative: gati
+      dative_pronunciation: kaːtɪ
       genitive: gats
     with article:
       nominative: gatið
       nominative_translation: 'the hole, the opening'
+      nominative_pronunciation: kaːtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: gatið
+      accusative_pronunciation: kaːtɪð
       dative: gatinu
+      dative_pronunciation: kaːtɪnʏ
       genitive: gatsins
   plural:
     with article:
       nominative: götin
       nominative_translation: 'the holes, the openings'
+      nominative_pronunciation: kœːtɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1013

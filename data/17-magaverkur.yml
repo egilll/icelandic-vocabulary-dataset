@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: magaverkur
       nominative_translation: a stomach ache
-      nominative_sound: islex/073/073_81.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/073/073_81.mp3'
+      nominative_pronunciation: <span class="guessed">maːɣavɛr̥kʏr</span>
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

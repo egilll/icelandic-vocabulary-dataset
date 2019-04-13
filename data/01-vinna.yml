@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: vinna
       nominative_translation: 'work, job'
-      nominative_sound: islex/233/233_75.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/233/233_75.mp3'
+      nominative_pronunciation: vɪna
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vinnu
+      accusative_pronunciation: vɪnʏ
       dative: vinnu
+      dative_pronunciation: vɪnʏ
       genitive: vinnu
+      genitive_pronunciation: vɪnʏ
     with article:
       nominative: vinnan
       nominative_translation: 'the work, the job'
+      nominative_pronunciation: vɪnan
       nominative_teach: true
       nominative_teachtable: true
       accusative: vinnuna
+      accusative_pronunciation: vɪnʏna
       dative: vinnunni
+      dative_pronunciation: vɪnʏnɪ
       genitive: vinnunnar
+      genitive_pronunciation: vɪnʏnar
 id: 1933
 gender: feminine

@@ -1,5 +1,7 @@
 word: jú
 word_translation: yes (response to a negative)
+word_sound: 'https://media.egill.xyz/audio/islex/426/426_72.mp3'
+word_pronunciation: juː
 word_teach: true
 level: 5
 grammatical_category: phrase

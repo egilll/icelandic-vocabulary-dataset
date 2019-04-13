@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: afi
       nominative_translation: very
-      nominative_sound: islex/333/333_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/333/333_96.mp3'
+      nominative_pronunciation: aːvɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: afa
+      accusative_pronunciation: aːva
       dative: afa
+      dative_pronunciation: aːva
       genitive: afa
+      genitive_pronunciation: aːva
     with article:
       nominative: afinn
       nominative_translation: the very
+      nominative_pronunciation: <span class="guessed">aːvɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: afann
+      accusative_pronunciation: <span class="guessed">aːvan</span>
       dative: afanum
+      dative_pronunciation: <span class="guessed">aːvaːnʏm</span>
       genitive: afans
 id: 695
 gender: masculine

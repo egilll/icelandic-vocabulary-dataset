@@ -6,42 +6,56 @@ conjugation:
     no article:
       nominative: vinur
       nominative_translation: a friend
-      nominative_sound: islex/369/369_26.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/369/369_26.mp3'
+      nominative_pronunciation: vɪːnʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vin
-      accusative_sound: islex/117/117_77.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/117/117_77.mp3'
+      accusative_pronunciation: vɪːn
       dative: vini
+      dative_pronunciation: vɪːnɪ
       dative_alternative:
         - vin
       genitive: vinar
+      genitive_pronunciation: vɪːnar
     with article:
       nominative: vinurinn
       nominative_translation: the friend
+      nominative_pronunciation: vɪːnʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: vininn
+      accusative_pronunciation: vɪːnɪn
       dative: vininum
+      dative_pronunciation: vɪːnɪnʏm
       genitive: vinarins
   plural:
     no article:
       nominative: vinir
       nominative_translation: friends
+      nominative_pronunciation: vɪːnɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vini
+      accusative_pronunciation: vɪːnɪ
       dative: vinum
+      dative_pronunciation: vɪːnʏm
       genitive: vina
-      genitive_sound: islex/399/399_60.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/399/399_60.mp3'
+      genitive_pronunciation: vɪːna
     with article:
       nominative: vinirnir
       nominative_translation: the friends
+      nominative_pronunciation: vɪːnɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: vinina
+      accusative_pronunciation: vɪːnɪna
       dative: vinunum
       genitive: vinanna
+      genitive_pronunciation: vɪːnana
 id: 1935
 gender: masculine

@@ -6,42 +6,56 @@ conjugation:
     no article:
       nominative: blóm
       nominative_translation: a flower
-      nominative_sound: islex/251/251_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/251/251_85.mp3'
+      nominative_pronunciation: plouːm
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blóm
-      accusative_sound: islex/251/251_85.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/251/251_85.mp3'
+      accusative_pronunciation: plouːm
       dative: blómi
-      dative_sound: islex/433/433_42.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/433/433_42.mp3'
+      dative_pronunciation: plouːmɪ
       genitive: blóms
     with article:
       nominative: blómið
       nominative_translation: the flower
+      nominative_pronunciation: plouːmɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: blómið
+      accusative_pronunciation: plouːmɪð
       dative: blóminu
+      dative_pronunciation: plouːmɪnʏ
       genitive: blómsins
   plural:
     no article:
       nominative: blóm
       nominative_translation: flowers
-      nominative_sound: islex/251/251_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/251/251_85.mp3'
+      nominative_pronunciation: plouːm
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blóm
-      accusative_sound: islex/251/251_85.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/251/251_85.mp3'
+      accusative_pronunciation: plouːm
       dative: blómum
+      dative_pronunciation: plouːmʏm
       genitive: blóma
+      genitive_pronunciation: plouːma
     with article:
       nominative: blómin
       nominative_translation: the flowers
+      nominative_pronunciation: plouːmɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: blómin
+      accusative_pronunciation: plouːmɪn
       dative: blómunum
+      dative_pronunciation: plouːmɔnʏm
       genitive: blómanna
+      genitive_pronunciation: <span class="guessed">plouːmana</span>
 id: 817
 gender: neuter

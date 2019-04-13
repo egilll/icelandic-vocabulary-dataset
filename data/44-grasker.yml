@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: grasker
       nominative_translation: a pumkin
-      nominative_sound: islex/210/210_09.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/210/210_09.mp3'
+      nominative_pronunciation: kraːscɛr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

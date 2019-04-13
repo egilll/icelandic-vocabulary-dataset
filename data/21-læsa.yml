@@ -5,23 +5,27 @@ conjugation:
   active voice:
     infinitive: '[að] læsa'
     infinitive_translation: to lock
-    infinitive_sound: islex/429/429_92.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/429/429_92.mp3'
+    infinitive_pronunciation: laiːsa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] læsi'
           1st person_translation: I lock
-          1st person_sound: islex/038/038_50.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/038/038_50.mp3'
+          1st person_pronunciation: laiːsɪ
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] læsti'
           1st person_translation: I locked
+          1st person_pronunciation: laistɪ
           1st person_teach: true
   imperative:
     active voice:
       singular: læstu!
       singular_translation: lock!¹
+      singular_pronunciation: laistʏ
       singular_teach: true
 id: 2206

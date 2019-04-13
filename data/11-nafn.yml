@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: nafn
       nominative_translation: a name
-      nominative_sound: islex/479/479_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/479/479_57.mp3'
+      nominative_pronunciation: napn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nafn
-      accusative_sound: islex/479/479_57.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/479/479_57.mp3'
+      accusative_pronunciation: napn
       dative: nafni
-      dative_sound: islex/194/194_20.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/194/194_20.mp3'
+      dative_pronunciation: napnɪ
       genitive: nafns
+      genitive_pronunciation: napn̥s
     with article:
       nominative: nafnið
       nominative_translation: the name
+      nominative_pronunciation: napnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: nafnið
+      accusative_pronunciation: napnɪð
       dative: nafninu
+      dative_pronunciation: napnɪnʏ
       genitive: nafnsins
+      genitive_pronunciation: nap̥sɪns
   plural:
     no article:
       nominative: nöfn
       nominative_translation: names
+      nominative_pronunciation: nœpn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nöfn
+      accusative_pronunciation: nœpn̥
       dative: nöfnum
+      dative_pronunciation: nœpnʏm
       genitive: nafna
-      genitive_sound: islex/124/124_47.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/124/124_47.mp3'
+      genitive_pronunciation: napna
     with article:
       nominative: nöfnin
       nominative_translation: the names
+      nominative_pronunciation: nœpnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: nöfnin
+      accusative_pronunciation: nœpnɪn
       dative: nöfnunum
+      dative_pronunciation: n̥pnɔnʏm
       genitive: nafnanna
+      genitive_pronunciation: <span class="guessed">napnana</span>
 id: 1435
 gender: neuter

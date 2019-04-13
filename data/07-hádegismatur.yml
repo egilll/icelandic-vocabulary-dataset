@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: hádegismatur
       nominative_translation: lunch
-      nominative_sound: islex/238/238_02.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/238/238_02.mp3'
+      nominative_pronunciation: hauːteijɪsmaːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: noon-food
       accusative: hádegismat
+      accusative_pronunciation: hauːteijɪsmaːt
       dative: hádegismat
+      dative_pronunciation: hauːteijɪsmaːt
       genitive: hádegismatar
+      genitive_pronunciation: <span class="guessed">hauːteijɪsmaːtar</span>
     with article:
       nominative: hádegismaturinn
       nominative_translation: the lunch
+      nominative_pronunciation: <span class="guessed">hauːteijɪsmaːtʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       nominative_literal: noon-food
       accusative: hádegismatinn
+      accusative_pronunciation: hauːteijɪsmaːtɪn
       dative: hádegismatnum
+      dative_pronunciation: hauːteijɪsmahtnʏm
       genitive: hádegismatarins
+      genitive_pronunciation: <span class="guessed">hauːteijɪsmaːtarɪns</span>
 id: 1066
 gender: masculine

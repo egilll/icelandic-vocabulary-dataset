@@ -6,17 +6,21 @@ conjugation:
     no article:
       nominative: blómkál
       nominative_translation: cauliflower
-      nominative_sound: islex/358/358_42.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/358/358_42.mp3'
+      nominative_pronunciation: <span class="guessed">plouːmkʰauːl</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blómkál
-      accusative_sound: islex/358/358_42.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/358/358_42.mp3'
+      accusative_pronunciation: <span class="guessed">plouːmkʰauːl</span>
       dative: blómkáli
+      dative_pronunciation: <span class="guessed">plouːmkʰauːlɪ</span>
       genitive: blómkáls
     with article:
       nominative: blómkálið
       nominative_translation: the cauliflower
+      nominative_pronunciation: <span class="guessed">plouːmkʰauːlɪð</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 818

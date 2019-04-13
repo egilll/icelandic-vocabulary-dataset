@@ -1,5 +1,7 @@
 word: halló
 word_translation: hello
+word_sound: 'https://media.egill.xyz/audio/islex/049/049_26.mp3'
+word_pronunciation: hatlou
 word_teach: true
 level: 1
 grammatical_category: adjective

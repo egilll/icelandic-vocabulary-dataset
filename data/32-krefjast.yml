@@ -5,13 +5,15 @@ conjugation:
   middle voice:
     infinitive: '[að] krefjast'
     infinitive_translation: to demand
-    infinitive_sound: islex/373/373_85.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/373/373_85.mp3'
+    infinitive_pronunciation: kʰrɛvjast
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] krefst'
           1st person_translation: I demand
+          1st person_pronunciation: kʰrɛfst
           1st person_teach: true
         plural:
           1st person: '[við] krefjumst'
@@ -21,6 +23,7 @@ conjugation:
         singular:
           1st person: '[ég] krafðist'
           1st person_translation: I demanded
+          1st person_pronunciation: kʰraːvðɪst
           1st person_teach: true
         plural:
           1st person: '[við] kröfðumst'

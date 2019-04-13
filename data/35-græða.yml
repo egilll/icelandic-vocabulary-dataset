@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] græða'
     infinitive_translation: 'to profit, to make money'
-    infinitive_sound: islex/108/108_97.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/108/108_97.mp3'
+    infinitive_pronunciation: kraiːða
     infinitive_teach: true
     indicative:
       present:
@@ -17,5 +18,6 @@ conjugation:
         singular:
           1st person: '[ég] græddi'
           1st person_translation: 'I profited, I made money'
+          1st person_pronunciation: kraitɪ
           1st person_teach: true
 id: 2130

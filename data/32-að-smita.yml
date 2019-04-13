@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] smita'
     infinitive_translation: to infect
-    infinitive_sound: islex/042/042_59.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/042/042_59.mp3'
+    infinitive_pronunciation: smɪːta
     infinitive_teach: true
 id: 1997

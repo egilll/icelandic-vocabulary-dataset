@@ -5,50 +5,63 @@ conjugation:
   active voice:
     infinitive: '[að] dreyma'
     infinitive_translation: to dream
-    infinitive_sound: islex/344/344_11.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/344/344_11.mp3'
+    infinitive_pronunciation: treiːma
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[mig] dreymir'
           1st person_translation: I dream
+          1st person_pronunciation: treiːmɪr
           1st person_teach: true
           2nd person: '[þig] dreymir'
           2nd person_translation: you¹ dream
+          2nd person_pronunciation: treiːmɪr
           2nd person_teach: true
           3rd person: '[hann/hana/það] dreymir'
           3rd person_translation: he/she/it dreams
+          3rd person_pronunciation: treiːmɪr
           3rd person_teach: true
         plural:
           1st person: '[okkur] dreymir'
           1st person_translation: we dream
+          1st person_pronunciation: treiːmɪr
           1st person_teach: true
           2nd person: '[ykkur] dreymir'
           2nd person_translation: you² dream
+          2nd person_pronunciation: treiːmɪr
           2nd person_teach: true
           3rd person: '[þá/þær/þau] dreymir'
           3rd person_translation: they dream
+          3rd person_pronunciation: treiːmɪr
           3rd person_teach: true
       past:
         singular:
           1st person: '[mig] dreymdi'
           1st person_translation: I dreamed
+          1st person_pronunciation: treimtɪ
           1st person_teach: true
           2nd person: '[þig] dreymdi'
           2nd person_translation: you¹ dreamed
+          2nd person_pronunciation: treimtɪ
           2nd person_teach: true
           3rd person: '[hann/hana/það] dreymdi'
           3rd person_translation: he/she/it dreamed
+          3rd person_pronunciation: treimtɪ
           3rd person_teach: true
         plural:
           1st person: '[okkur] dreymdi'
           1st person_translation: we dreamed
+          1st person_pronunciation: treimtɪ
           1st person_teach: true
           2nd person: '[ykkur] dreymdi'
           2nd person_translation: you² dreamed
+          2nd person_pronunciation: treimtɪ
           2nd person_teach: true
           3rd person: '[þá/þær/þau] dreymdi'
           3rd person_translation: they dreamed
+          3rd person_pronunciation: treimtɪ
           3rd person_teach: true
 id: 2077
 recognizable: '1'

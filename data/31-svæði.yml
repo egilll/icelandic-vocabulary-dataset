@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: svæði
       nominative_translation: an area
-      nominative_sound: islex/314/314_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/314/314_41.mp3'
+      nominative_pronunciation: svaiːðɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: svæði
-      accusative_sound: islex/314/314_41.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/314/314_41.mp3'
+      accusative_pronunciation: svaiːðɪ
       dative: svæði
-      dative_sound: islex/314/314_41.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/314/314_41.mp3'
+      dative_pronunciation: svaiːðɪ
       genitive: svæðis
+      genitive_pronunciation: svaiːðɪs
     with article:
       nominative: svæðið
       nominative_translation: the area
+      nominative_pronunciation: svaiːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: svæðið
+      accusative_pronunciation: svaiːðɪð
       dative: svæðinu
+      dative_pronunciation: svaiːðɪnʏ
       genitive: svæðisins
+      genitive_pronunciation: svaiːðɪsɪns
 id: 1783
 gender: neuter

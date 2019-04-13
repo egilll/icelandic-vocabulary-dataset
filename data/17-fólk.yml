@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: fólk
       nominative_translation: people
-      nominative_sound: islex/134/134_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/134/134_57.mp3'
+      nominative_pronunciation: fouːl̥k
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fólk
-      accusative_sound: islex/134/134_57.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/134/134_57.mp3'
+      accusative_pronunciation: fouːl̥k
       dative: fólki
+      dative_pronunciation: fouːl̥kɪ
       genitive: fólks
+      genitive_pronunciation: foul̥ks
     with article:
       nominative: fólkið
       nominative_translation: the people
+      nominative_pronunciation: fouːl̥kið
       nominative_teach: true
       nominative_teachtable: true
       accusative: fólkið
+      accusative_pronunciation: fouːl̥kið
       dative: fólkinu
+      dative_pronunciation: foul̥cɪnʏ
       genitive: fólksins
+      genitive_pronunciation: foul̥ksɪns
 id: 965
 gender: neuter

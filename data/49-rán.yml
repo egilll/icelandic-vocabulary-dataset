@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: rán
       nominative_translation: a robbery
-      nominative_sound: islex/193/193_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/193/193_64.mp3'
+      nominative_pronunciation: rauːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rán
-      accusative_sound: islex/193/193_64.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/193/193_64.mp3'
+      accusative_pronunciation: rauːn
       dative: ráni
+      dative_pronunciation: <span class="guessed">rauːnɪː</span>
       genitive: ráns
     with article:
       nominative: ránið
       nominative_translation: the robbery
+      nominative_pronunciation: rauːnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: ránið
+      accusative_pronunciation: rauːnɪð
       dative: ráninu
+      dative_pronunciation: <span class="guessed">rauːnɪːnʏ</span>
       genitive: ránsins
 id: 1537
 gender: neuter

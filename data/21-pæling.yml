@@ -6,25 +6,31 @@ conjugation:
     no article:
       nominative: pæling
       nominative_translation: 'a speculation, a thought'
-      nominative_sound: islex/056/056_15.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/056/056_15.mp3'
+      nominative_pronunciation: pʰaiːlɪɲk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: pælingu
       dative: pælingu
       genitive: pælingar
+      genitive_pronunciation: pʰaiːlɪɲkar
     with article:
       nominative: pælingin
       nominative_translation: 'the speculation, the thought'
       nominative_teach: true
       nominative_teachtable: true
       accusative: pælinguna
+      accusative_pronunciation: <span class="guessed">pʰaiːlɪɲkʏːna</span>
       dative: pælingunni
+      dative_pronunciation: <span class="guessed">pʰaiːlɪɲkʏnɪ</span>
       genitive: pælingarinnar
+      genitive_pronunciation: <span class="guessed">pʰaiːlɪɲkarɪnar</span>
   plural:
     no article:
       nominative: pælingar
       nominative_translation: 'speculations, thoughts'
+      nominative_pronunciation: pʰaiːlɪɲkar
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

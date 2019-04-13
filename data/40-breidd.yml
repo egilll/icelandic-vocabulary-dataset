@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: breidd
       nominative_translation: width
-      nominative_sound: islex/092/092_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/092/092_58.mp3'
+      nominative_pronunciation: preit
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: breidd
-      accusative_sound: islex/092/092_58.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/092/092_58.mp3'
+      accusative_pronunciation: preit
       dative: breidd
-      dative_sound: islex/092/092_58.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/092/092_58.mp3'
+      dative_pronunciation: preit
       genitive: breiddar
     with article:
       nominative: breiddin
       nominative_translation: the width
+      nominative_pronunciation: preitɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: breiddina
+      accusative_pronunciation: <span class="guessed">preitɪnaː</span>
       dative: breiddinni
+      dative_pronunciation: <span class="guessed">preitɪnɪ</span>
       genitive: breiddarinnar
 id: 846
 gender: feminine

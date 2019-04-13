@@ -6,15 +6,19 @@ conjugation:
     no article:
       nominative: afsökun
       nominative_translation: an excuse
-      nominative_sound: islex/018/018_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/018/018_59.mp3'
+      nominative_pronunciation: afsœkʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: afsökun
-      accusative_sound: islex/018/018_59.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/018/018_59.mp3'
+      accusative_pronunciation: afsœkʏn
       dative: afsökun
-      dative_sound: islex/018/018_59.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/018/018_59.mp3'
+      dative_pronunciation: afsœkʏn
       genitive: afsökunar
+      genitive_pronunciation: afsœkʏnar
     with article:
       nominative: afsökunin
       nominative_translation: the excuse
@@ -29,10 +33,13 @@ conjugation:
       nominative_teachtable: true
       accusative: afsakanir
       dative: afsökunum
+      dative_pronunciation: <span class="guessed">afsœkʏnʏm</span>
       genitive: afsakana
+      genitive_pronunciation: <span class="guessed">aːɛf ɛs aːkʰaːnaː</span>
     with article:
       nominative: afsakanirnar
       nominative_translation: the excuses
+      nominative_pronunciation: afsakanɪtnar
       nominative_teach: false
       nominative_teachtable: false
 id: 705

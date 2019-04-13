@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] neita'
     infinitive_translation: 'to refuse, to say no'
-    infinitive_sound: islex/229/229_83.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/229/229_83.mp3'
+    infinitive_pronunciation: neiːta
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] neitaði'
           1st person_translation: 'I refused, I said no'
+          1st person_pronunciation: neiːtaðɪ
           1st person_teach: true
 id: 2258

@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: klósettpappír
       nominative_translation: toilet paper
-      nominative_sound: islex/238/238_00.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/238/238_00.mp3'
+      nominative_pronunciation: kʰlouːsɛhtpahpir
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: klósettpappír
-      accusative_sound: islex/238/238_00.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/238/238_00.mp3'
+      accusative_pronunciation: kʰlouːsɛhtpahpir
       dative: klósettpappír
-      dative_sound: islex/238/238_00.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/238/238_00.mp3'
+      dative_pronunciation: kʰlouːsɛhtpahpir
       genitive: klósettpappírs
     with article:
       nominative: klósettpappírinn
       nominative_translation: the toilet paper
+      nominative_pronunciation: <span class="guessed">kʰlouːsɛhtpʰahpirɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: klósettpappírinn
+      accusative_pronunciation: <span class="guessed">kʰlouːsɛhtpʰahpirɪn</span>
       dative: klósettpappírnum
+      dative_pronunciation: <span class="guessed">kʰlouːsɛhtpʰahpirtnʏm</span>
       genitive: klósettpappírsins
 id: 1248
 gender: masculine

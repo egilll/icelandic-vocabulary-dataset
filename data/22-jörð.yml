@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: jörð
       nominative_translation: earth
-      nominative_sound: islex/065/065_25.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/065/065_25.mp3'
+      nominative_pronunciation: jœrð
       nominative_teach: false
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: jörðin
       nominative_translation: the earth
+      nominative_pronunciation: jœrðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: jörðina
+      accusative_pronunciation: jœrðɪna
       dative: jörðinni
+      dative_pronunciation: jœrðɪnɪ
       dative_alternative:
         - jörðunni
       genitive: jarðarinnar
+      genitive_pronunciation: jarðarɪnar
 id: 1204
 gender: feminine

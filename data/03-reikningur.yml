@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: reikningur
       nominative_translation: an invoice; a bank account
-      nominative_sound: islex/441/441_48.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/441/441_48.mp3'
+      nominative_pronunciation: reihkniŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: reikning
+      accusative_pronunciation: reihkniŋk
       dative: reikningi
+      dative_pronunciation: reihkniɲcɪ
       genitive: reiknings
+      genitive_pronunciation: reihkniŋs
     with article:
       nominative: reikningurinn
       nominative_translation: the invoice; the bank account
+      nominative_pronunciation: reihkniŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: reikninginn
+      accusative_pronunciation: reihkniɲcɪn
       dative: reikningnum
+      dative_pronunciation: reihknɪɲknʏm
       genitive: reikningsins
 id: 1551
 gender: masculine

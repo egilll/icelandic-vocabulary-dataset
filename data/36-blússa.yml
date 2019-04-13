@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: blússa
       nominative_translation: a blouse
-      nominative_sound: islex/064/064_70.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/064/064_70.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blússu
+      accusative_pronunciation: plusʏ
       dative: blússu
+      dative_pronunciation: plusʏ
       genitive: blússu
+      genitive_pronunciation: plusʏ
     with article:
       nominative: blússan
       nominative_translation: the blouse
+      nominative_pronunciation: plusan
       nominative_teach: true
       nominative_teachtable: true
       accusative: blússuna
+      accusative_pronunciation: plusʏna
       dative: blússunni
+      dative_pronunciation: plusʏnɪ
       genitive: blússunnar
+      genitive_pronunciation: <span class="guessed">pluːssʏnar</span>
 id: 820
 gender: feminine

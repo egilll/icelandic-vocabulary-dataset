@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: bóndi
       nominative_translation: a farmer
-      nominative_sound: islex/427/427_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/427/427_64.mp3'
+      nominative_pronunciation: pountɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bónda
+      accusative_pronunciation: pounta
       dative: bónda
+      dative_pronunciation: pounta
       genitive: bónda
+      genitive_pronunciation: pounta
     with article:
       nominative: bóndinn
       nominative_translation: the farmer
+      nominative_pronunciation: pountɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bóndann
+      accusative_pronunciation: pountan
       dative: bóndanum
+      dative_pronunciation: pountanʏm
       genitive: bóndans
+      genitive_pronunciation: pountans
   plural:
     no article:
       nominative: bændur
       nominative_translation: farmers
+      nominative_pronunciation: paintʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bændur
+      accusative_pronunciation: paintʏr
       dative: bændum
+      dative_pronunciation: paintʏm
       genitive: bænda
+      genitive_pronunciation: painta
     with article:
       nominative: bændurnir
       nominative_translation: the farmers
+      nominative_pronunciation: paintʏtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: bændurna
+      accusative_pronunciation: paintʏtna
       dative: bændunum
+      dative_pronunciation: paintɔnʏm
       genitive: bændanna
+      genitive_pronunciation: paintana
 id: 832
 gender: masculine

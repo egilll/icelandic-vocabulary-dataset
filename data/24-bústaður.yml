@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: bústaður
       nominative_translation: 'a summer house, a cottage'
-      nominative_sound: islex/234/234_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/234/234_58.mp3'
+      nominative_pronunciation: puːstaðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bústað
+      accusative_pronunciation: puːstað
       dative: bústað
+      dative_pronunciation: puːstað
       genitive: bústaðar
+      genitive_pronunciation: puːstaðar
     with article:
       nominative: bústaðurinn
       nominative_translation: 'the summer house, the cottage'
+      nominative_pronunciation: <span class="guessed">puːstaðʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bústaðinn
+      accusative_pronunciation: puːstaðɪn
       dative: bústaðnum
+      dative_pronunciation: puːstaðnʏm
       genitive: bústaðarins
+      genitive_pronunciation: <span class="guessed">puːstaːðarɪns</span>
 id: 855
 gender: masculine

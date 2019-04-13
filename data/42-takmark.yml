@@ -6,18 +6,23 @@ conjugation:
     no article:
       nominative: takmark
       nominative_translation: 'an aim, a goal'
-      nominative_sound: islex/149/149_40.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/149/149_40.mp3'
+      nominative_pronunciation: tʰaːkmar̥k
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: takmarkið
       nominative_translation: 'the aim, the goal'
+      nominative_pronunciation: tʰaːkmar̥cɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: takmarkið
+      accusative_pronunciation: tʰaːkmar̥cɪð
       dative: takmarkinu
+      dative_pronunciation: tʰaːkmar̥cɪnʏ
       genitive: takmarksins
+      genitive_pronunciation: <span class="guessed">tʰaːkmar̥ksɪns</span>
 id: 1812
 gender: neuter
 never_show_with: takmörk

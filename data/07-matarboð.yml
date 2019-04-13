@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: matarboð
       nominative_translation: a dinner party
-      nominative_sound: islex/265/265_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/265/265_38.mp3'
+      nominative_pronunciation: maːtarpɔːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: matarboð
-      accusative_sound: islex/265/265_38.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/265/265_38.mp3'
+      accusative_pronunciation: maːtarpɔːð
       dative: matarboði
+      dative_pronunciation: <span class="guessed">maːtarpɔːðɪ</span>
       genitive: matarboðs
     with article:
       nominative: matarboðið
       nominative_translation: the dinner party
+      nominative_pronunciation: <span class="guessed">maːtarpɔːðɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: matarboðið
+      accusative_pronunciation: <span class="guessed">maːtarpɔːðɪð</span>
       dative: matarboðinu
+      dative_pronunciation: <span class="guessed">maːtarpɔːðɪnʏ</span>
       genitive: matarboðsins
 id: 1388
 gender: neuter

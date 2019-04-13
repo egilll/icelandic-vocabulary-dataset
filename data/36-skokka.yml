@@ -5,19 +5,20 @@ conjugation:
   active voice:
     infinitive: '[að] skokka'
     infinitive_translation: to jog
-    infinitive_sound: islex/397/397_18.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/397/397_18.mp3'
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] skokka'
           1st person_translation: I jog
-          1st person_sound: islex/397/397_18.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/397/397_18.mp3'
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] skokkaði'
           1st person_translation: I jogged
+          1st person_pronunciation: skɔhkaðɪ
           1st person_teach: true
   supine:
     active voice: '[ég hef] skokkað'

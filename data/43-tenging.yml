@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: tenging
       nominative_translation: a connection
-      nominative_sound: islex/067/067_77.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/067/067_77.mp3'
+      nominative_pronunciation: tʰeiɲciŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tengingu
+      accusative_pronunciation: tʰeiɲciŋkʏ
       dative: tengingu
+      dative_pronunciation: tʰeiɲciŋkʏ
       genitive: tengingar
+      genitive_pronunciation: tʰeiɲciŋkar
     with article:
       nominative: tengingin
       nominative_translation: the connection
       nominative_teach: true
       nominative_teachtable: true
       accusative: tenginguna
+      accusative_pronunciation: <span class="guessed">tʰeiɲciŋkʏːna</span>
       dative: tengingunni
+      dative_pronunciation: <span class="guessed">tʰeiɲciŋkʏnɪ</span>
       genitive: tengingarinnar
+      genitive_pronunciation: <span class="guessed">tʰeiɲciŋkarɪnar</span>
 id: 1822
 gender: feminine

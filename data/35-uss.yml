@@ -1,5 +1,7 @@
 word: uss
 word_translation: 'shh!, keep quiet'
+word_sound: 'https://media.egill.xyz/audio/islex/341/341_25.mp3'
+word_pronunciation: ʏs
 word_teach: true
 level: 35
 grammatical_category: phrase

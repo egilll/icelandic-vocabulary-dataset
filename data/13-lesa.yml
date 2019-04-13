@@ -5,59 +5,72 @@ conjugation:
   active voice:
     infinitive: '[að] lesa'
     infinitive_translation: to read
-    infinitive_sound: islex/102/102_92.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/102/102_92.mp3'
+    infinitive_pronunciation: lɛːsa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] les'
           1st person_translation: I read
-          1st person_sound: islex/064/064_46.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/064/064_46.mp3'
+          1st person_pronunciation: lɛːs
           1st person_teach: true
           2nd person: '[þú] lest'
           2nd person_translation: you¹ read
-          2nd person_sound: islex/157/157_35.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/157/157_35.mp3'
+          2nd person_pronunciation: lɛst
           2nd person_teach: true
           3rd person: '[hann/hún/það] les'
           3rd person_translation: he/she/it reads
-          3rd person_sound: islex/064/064_46.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/064/064_46.mp3'
+          3rd person_pronunciation: lɛːs
           3rd person_teach: true
         plural:
           1st person: '[við] lesum'
           1st person_translation: we read
+          1st person_pronunciation: lɛːsʏm
           1st person_teach: true
           2nd person: '[þið] lesið'
           2nd person_translation: you² read
+          2nd person_pronunciation: lɛːsɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] lesa'
           3rd person_translation: they read
-          3rd person_sound: islex/102/102_92.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/102/102_92.mp3'
+          3rd person_pronunciation: lɛːsa
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] las'
           1st person_translation: (yesterday) I read
+          1st person_pronunciation: laːs
           1st person_teach: true
           2nd person: '[þú] last'
           2nd person_translation: (yesterday) you¹ read
-          2nd person_sound: islex/430/430_43.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/430/430_43.mp3'
           2nd person_teach: true
           3rd person: '[hann/hún/það] las'
           3rd person_translation: (yesterday) he/she/it read
+          3rd person_pronunciation: laːs
           3rd person_teach: true
         plural:
           1st person: '[við] lásum'
           1st person_translation: (yesterday) we read
+          1st person_pronunciation: lauːsʏm
           1st person_teach: true
           2nd person: '[þið] lásuð'
           2nd person_translation: (yesterday) you² read
+          2nd person_pronunciation: <span class="guessed">lauːsʏːð</span>
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] lásu'
           3rd person_translation: (yesterday) they read
+          3rd person_pronunciation: lauːsʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] lesið'
     active voice_translation: I have read
+    active voice_pronunciation: lɛːsɪð
     active voice_teach: true
 id: 2219
 strong_verb_declension: true

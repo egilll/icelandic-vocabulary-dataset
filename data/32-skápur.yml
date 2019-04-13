@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: skápur
       nominative_translation: a closet
-      nominative_sound: islex/053/053_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/053/053_91.mp3'
+      nominative_pronunciation: skauːpʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skáp
+      accusative_pronunciation: skauːp
       dative: skáp
+      dative_pronunciation: skauːp
       genitive: skáps
     with article:
       nominative: skápurinn
       nominative_translation: the closet
+      nominative_pronunciation: skauːpʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: skápinn
+      accusative_pronunciation: skauːpɪn
       dative: skápnum
+      dative_pronunciation: skauhpnʏm
       genitive: skápsins
 id: 1636
 gender: masculine

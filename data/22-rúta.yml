@@ -6,32 +6,44 @@ conjugation:
     no article:
       nominative: rúta
       nominative_translation: 'a coach, a bus'
-      nominative_sound: islex/050/050_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/050/050_04.mp3'
+      nominative_pronunciation: ruːta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rútu
+      accusative_pronunciation: ruːtʏ
       dative: rútu
+      dative_pronunciation: ruːtʏ
       genitive: rútu
+      genitive_pronunciation: ruːtʏ
     with article:
       nominative: rútan
       nominative_translation: 'the coach, the bus'
+      nominative_pronunciation: ruːtan
       nominative_teach: true
       nominative_teachtable: true
       accusative: rútuna
+      accusative_pronunciation: ruːtʏna
       dative: rútunni
+      dative_pronunciation: ruːtʏnɪ
       genitive: rútunnar
+      genitive_pronunciation: ruːtʏnar
   plural:
     no article:
       nominative: rútur
       nominative_translation: 'coaches, buses'
+      nominative_pronunciation: ruːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rútur
+      accusative_pronunciation: ruːtʏr
       dative: rútum
+      dative_pronunciation: ruːtʏm
       genitive: rúta
-      genitive_sound: islex/050/050_04.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/050/050_04.mp3'
+      genitive_pronunciation: ruːta
       genitive_alternative:
         - rútna
     with article:
@@ -41,6 +53,7 @@ conjugation:
       nominative_teachtable: true
       accusative: rúturnar
       dative: rútunum
+      dative_pronunciation: ruːtɔnʏm
       genitive: rútanna
       genitive_alternative:
         - rútnanna

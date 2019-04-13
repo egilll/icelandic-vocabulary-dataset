@@ -6,23 +6,30 @@ conjugation:
     no article:
       nominative: poki
       nominative_translation: a plastic bag
-      nominative_sound: islex/471/471_32.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/471/471_32.mp3'
+      nominative_pronunciation: pʰɔːcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: poka
-      accusative_sound: islex/224/224_89.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/224/224_89.mp3'
+      accusative_pronunciation: pʰɔːka
       dative: poka
-      dative_sound: islex/224/224_89.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/224/224_89.mp3'
+      dative_pronunciation: pʰɔːka
       genitive: poka
-      genitive_sound: islex/224/224_89.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/224/224_89.mp3'
+      genitive_pronunciation: pʰɔːka
     with article:
       nominative: pokinn
       nominative_translation: the plastic bag
+      nominative_pronunciation: pʰɔːcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: pokann
+      accusative_pronunciation: pʰɔːkan
       dative: pokanum
+      dative_pronunciation: pʰɔːkanʏm
       genitive: pokans
 id: 1516
 gender: masculine

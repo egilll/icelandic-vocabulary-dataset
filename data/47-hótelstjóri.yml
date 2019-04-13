@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: hótelstjóri
       nominative_translation: a hotel manager
-      nominative_sound: islex/217/217_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/217/217_38.mp3'
+      nominative_pronunciation: houːtɛlstjouːrɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hótelstjóra
+      accusative_pronunciation: <span class="guessed">houːtʰɛlstjouːra</span>
       dative: hótelstjóra
+      dative_pronunciation: <span class="guessed">houːtʰɛlstjouːra</span>
       genitive: hótelstjóra
+      genitive_pronunciation: <span class="guessed">houːtʰɛlstjouːra</span>
     with article:
       nominative: hótelstjórinn
       nominative_translation: the hotel manager
+      nominative_pronunciation: houːtɛlstjouːrɪ
       nominative_teach: true
       nominative_teachtable: true
       accusative: hótelstjórann
+      accusative_pronunciation: houːtɛlstjouːran
       dative: hótelstjóranum
+      dative_pronunciation: houːtɛlstjouːranʏm
       genitive: hótelstjórans
+      genitive_pronunciation: houːtɛlstjouːrans
 id: 1159
 gender: masculine

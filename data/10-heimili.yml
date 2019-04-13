@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: heimili
       nominative_translation: a home
-      nominative_sound: islex/178/178_83.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/178/178_83.mp3'
+      nominative_pronunciation: heiːmɪlɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: heimili
-      accusative_sound: islex/178/178_83.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/178/178_83.mp3'
+      accusative_pronunciation: heiːmɪlɪ
       dative: heimili
-      dative_sound: islex/178/178_83.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/178/178_83.mp3'
+      dative_pronunciation: heiːmɪlɪ
       genitive: heimilis
+      genitive_pronunciation: heiːmɪlɪs
     with article:
       nominative: heimilið
       nominative_translation: the home
+      nominative_pronunciation: heiːmɪlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: heimilið
+      accusative_pronunciation: heiːmɪlɪð
       dative: heimilinu
+      dative_pronunciation: heiːmɪlɪnʏ
       genitive: heimilisins
+      genitive_pronunciation: heiːmɪlɪsɪns
 id: 1105
 gender: neuter

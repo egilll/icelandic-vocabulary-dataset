@@ -6,19 +6,22 @@ conjugation:
     no article:
       nominative: vökvi
       nominative_translation: a liquid
-      nominative_sound: islex/381/381_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/381/381_73.mp3'
+      nominative_pronunciation: vœːkvɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: vökvinn
       nominative_translation: the liquid
+      nominative_pronunciation: <span class="guessed">vœːkvɪn</span>
       nominative_teach: false
       nominative_teachtable: false
   plural:
     no article:
       nominative: vökvar
       nominative_translation: liquids
+      nominative_pronunciation: vœːkvar
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

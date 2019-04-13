@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: sófi
       nominative_translation: a sofa
-      nominative_sound: islex/439/439_28.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/439/439_28.mp3'
+      nominative_pronunciation: souːfɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sófa
+      accusative_pronunciation: souːfa
       dative: sófa
+      dative_pronunciation: souːfa
       genitive: sófa
+      genitive_pronunciation: souːfa
     with article:
       nominative: sófinn
       nominative_translation: the sofa
       nominative_teach: true
       nominative_teachtable: true
       accusative: sófann
+      accusative_pronunciation: souːfan
       dative: sófanum
+      dative_pronunciation: souːfanʏm
       genitive: sófans
   plural:
     no article:
@@ -29,8 +35,10 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sófa
+      accusative_pronunciation: souːfa
       dative: sófum
       genitive: sófa
+      genitive_pronunciation: souːfa
     with article:
       nominative: sófarnir
       nominative_translation: the sofas
@@ -39,5 +47,6 @@ conjugation:
       accusative: sófana
       dative: sófunum
       genitive: sófanna
+      genitive_pronunciation: <span class="guessed">souːfanaː</span>
 id: 1704
 gender: masculine

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: stjórnmál
       nominative_translation: politics
-      nominative_sound: islex/339/339_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/339/339_73.mp3'
+      nominative_pronunciation: stjourtn̥maul
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: stjórnmálin
       nominative_translation: the politics
+      nominative_pronunciation: stjourtn̥maulɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1748

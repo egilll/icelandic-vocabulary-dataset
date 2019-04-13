@@ -6,47 +6,62 @@ conjugation:
     no article:
       nominative: nótt
       nominative_translation: night
-      nominative_sound: islex/117/117_72.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/117/117_72.mp3'
+      nominative_pronunciation: nouht
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nótt
-      accusative_sound: islex/117/117_72.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/117/117_72.mp3'
+      accusative_pronunciation: nouht
       dative: nótt
-      dative_sound: islex/117/117_72.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/117/117_72.mp3'
+      dative_pronunciation: nouht
       dative_alternative:
         - nóttu
       genitive: nætur
+      genitive_pronunciation: naiːtʏr
     with article:
       nominative: nóttin
       nominative_translation: the night
+      nominative_pronunciation: nouhtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: nóttina
+      accusative_pronunciation: nouhtɪːna
       dative: nóttinni
+      dative_pronunciation: nouhtɪnɪ
       dative_alternative:
         - nóttunni
       genitive: næturinnar
+      genitive_pronunciation: naiːtʏrɪnar
   plural:
     no article:
       nominative: nætur
       nominative_translation: nights
+      nominative_pronunciation: naiːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nætur
+      accusative_pronunciation: naiːtʏr
       dative: nóttum
+      dative_pronunciation: nouhtʏm
       genitive: nótta
+      genitive_pronunciation: <span class="guessed">nouhtaː</span>
       genitive_alternative:
         - nátta
     with article:
       nominative: næturnar
       nominative_translation: the nights
+      nominative_pronunciation: naiːtʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: næturnar
+      accusative_pronunciation: naiːtʏtnar
       dative: nóttunum
       genitive: nóttanna
+      genitive_pronunciation: <span class="guessed">nouhtana</span>
       genitive_alternative:
         - náttanna
 id: 1455

@@ -6,42 +6,57 @@ conjugation:
     no article:
       nominative: tá
       nominative_translation: a toe
-      nominative_sound: islex/302/302_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/302/302_04.mp3'
+      nominative_pronunciation: tʰauː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tá
-      accusative_sound: islex/302/302_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/302/302_04.mp3'
+      accusative_pronunciation: tʰauː
       dative: tá
-      dative_sound: islex/302/302_04.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/302/302_04.mp3'
+      dative_pronunciation: tʰauː
       genitive: táar
+      genitive_pronunciation: tʰauːar
     with article:
       nominative: táin
       nominative_translation: the toe
+      nominative_pronunciation: tʰauːɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: tána
+      accusative_pronunciation: tʰauna
       dative: tánni
+      dative_pronunciation: tʰaunɪ
       genitive: táarinnar
+      genitive_pronunciation: <span class="guessed">tʰauːarɪnar</span>
   plural:
     no article:
       nominative: tær
       nominative_translation: toes
-      nominative_sound: islex/293/293_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/293/293_45.mp3'
+      nominative_pronunciation: tʰaiːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tær
-      accusative_sound: islex/293/293_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/293/293_45.mp3'
+      accusative_pronunciation: tʰaiːr
       dative: tám
+      dative_pronunciation: tʰauːm
       genitive: táa
+      genitive_pronunciation: <span class="guessed">tʰauːaː</span>
     with article:
       nominative: tærnar
       nominative_translation: the toes
+      nominative_pronunciation: tʰaitnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: tærnar
+      accusative_pronunciation: tʰaitnar
       dative: tánum
+      dative_pronunciation: tʰaunʏm
       genitive: tánna
 id: 1806
 gender: feminine

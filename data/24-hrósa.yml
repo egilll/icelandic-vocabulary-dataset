@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] hrósa'
     infinitive_translation: to congratulate
-    infinitive_sound: islex/324/324_61.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/324/324_61.mp3'
+    infinitive_pronunciation: r̥ouːsa
     infinitive_teach: true
 id: 2168

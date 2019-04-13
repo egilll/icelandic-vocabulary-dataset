@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sólbað
       nominative_translation: a sunbath
-      nominative_sound: islex/449/449_56.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/449/449_56.mp3'
+      nominative_pronunciation: <span class="guessed">souːlpaːð</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sólbaðið
       nominative_translation: the sunbath
+      nominative_pronunciation: <span class="guessed">souːlpaːðɪð</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1709

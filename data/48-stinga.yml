@@ -5,22 +5,26 @@ conjugation:
   active voice:
     infinitive: '[að] stinga'
     infinitive_translation: 'to stab, to sting'
-    infinitive_sound: islex/022/022_66.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/022/022_66.mp3'
+    infinitive_pronunciation: stiŋka
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] sting'
           1st person_translation: 'I stab, I sting'
+          1st person_pronunciation: stiŋk
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] stakk'
           1st person_translation: 'I stabbed, I stung'
+          1st person_pronunciation: stahk
           1st person_teach: true
   supine:
     active voice: '[ég hef] stungið'
     active voice_translation: 'I have stabbed, I have stung'
+    active voice_pronunciation: stuɲcɪð
     active voice_teach: true
 id: 2380
 strong_verb_declension: true

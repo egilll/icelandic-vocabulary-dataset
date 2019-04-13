@@ -6,6 +6,7 @@ conjugation:
     with article:
       nominative: nútíminn
       nominative_translation: 'the present, modernity'
+      nominative_pronunciation: nuːtimɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1459

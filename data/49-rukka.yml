@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] rukka'
     infinitive_translation: to collect debt
-    infinitive_sound: islex/307/307_55.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/307/307_55.mp3'
+    infinitive_pronunciation: rʏhka
     infinitive_teach: true
 id: 2302

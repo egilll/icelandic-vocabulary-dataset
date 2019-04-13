@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: kaffihús
       nominative_translation: a coffeehouse
-      nominative_sound: islex/223/223_79.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/223/223_79.mp3'
+      nominative_pronunciation: kʰafɪhuːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kaffihús
-      accusative_sound: islex/223/223_79.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/223/223_79.mp3'
+      accusative_pronunciation: kʰafɪhuːs
       dative: kaffihúsi
+      dative_pronunciation: kʰafɪhuːsɪ
       genitive: kaffihúss
+      genitive_pronunciation: <span class="guessed">kʰafɪhus</span>
     with article:
       nominative: kaffihúsið
       nominative_translation: the coffeehouse
+      nominative_pronunciation: kʰafɪhuːsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: kaffihúsið
+      accusative_pronunciation: kʰafɪhuːsɪð
       dative: kaffihúsinu
+      dative_pronunciation: kʰafɪhuːsɪnʏ
       genitive: kaffihússins
+      genitive_pronunciation: <span class="guessed">kʰafɪhusɪns</span>
 id: 1209
 gender: neuter

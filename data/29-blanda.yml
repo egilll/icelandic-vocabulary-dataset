@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] blanda'
     infinitive_translation: 'to blend, to mix'
-    infinitive_sound: islex/008/008_49.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/008/008_49.mp3'
+    infinitive_pronunciation: planta
     infinitive_teach: true
 id: 2049

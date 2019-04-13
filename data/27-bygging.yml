@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: bygging
       nominative_translation: a building
-      nominative_sound: islex/190/190_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/190/190_30.mp3'
+      nominative_pronunciation: pɪciŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: byggingu
+      accusative_pronunciation: pɪciŋkʏ
       dative: byggingu
+      dative_pronunciation: pɪciŋkʏ
       genitive: byggingar
+      genitive_pronunciation: pɪciŋkar
     with article:
       nominative: byggingin
       nominative_translation: the building
+      nominative_pronunciation: pɪciɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bygginguna
+      accusative_pronunciation: pɪciŋkʏna
       dative: byggingunni
+      dative_pronunciation: pɪciŋkʏnɪ
       genitive: byggingarinnar
+      genitive_pronunciation: pɪciŋkarɪnar
   plural:
     no article:
       nominative: byggingar
       nominative_translation: buildings
+      nominative_pronunciation: pɪciŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: byggingar
+      accusative_pronunciation: pɪciŋkar
       dative: byggingum
+      dative_pronunciation: pɪciŋkʏm
       genitive: bygginga
+      genitive_pronunciation: pɪciŋka
     with article:
       nominative: byggingarnar
       nominative_translation: the buildings
+      nominative_pronunciation: pɪciŋkatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: byggingarnar
+      accusative_pronunciation: pɪciŋkatnar
       dative: byggingunum
       genitive: bygginganna
+      genitive_pronunciation: <span class="guessed">pɪciŋkana</span>
 id: 858
 gender: feminine

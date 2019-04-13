@@ -6,41 +6,53 @@ conjugation:
     no article:
       nominative: punktur
       nominative_translation: 'a point, a dot'
-      nominative_sound: islex/350/350_60.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/350/350_60.mp3'
+      nominative_pronunciation: pʰuŋ̊tʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: punkt
+      accusative_pronunciation: pʰuŋ̊t
       dative: punkti
+      dative_pronunciation: pʰuŋ̊tɪ
       genitive: punkts
     with article:
       nominative: punkturinn
       nominative_translation: 'the point, the dot'
+      nominative_pronunciation: pʰuŋ̊tʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: punktinn
+      accusative_pronunciation: pʰuŋ̥tɪn
       dative: punktinum
+      dative_pronunciation: pʰuŋ̊tɪnʏm
       genitive: punktsins
   plural:
     no article:
       nominative: punktar
       nominative_translation: 'points, dots'
+      nominative_pronunciation: pʰuŋ̊tar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: punkta
-      accusative_sound: islex/289/289_86.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/289/289_86.mp3'
+      accusative_pronunciation: pʰuŋ̊ta
       dative: punktum
+      dative_pronunciation: pʰuŋ̊tʏm
       genitive: punkta
-      genitive_sound: islex/289/289_86.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/289/289_86.mp3'
+      genitive_pronunciation: pʰuŋ̊ta
     with article:
       nominative: punktarnir
       nominative_translation: 'the points, the dots'
       nominative_teach: true
       nominative_teachtable: true
       accusative: punktana
+      accusative_pronunciation: pʰuŋ̊tana
       dative: punktunum
       genitive: punktanna
+      genitive_pronunciation: <span class="guessed">pʰuŋ̊tana</span>
 id: 1529
 gender: masculine
 recognizable: '1'

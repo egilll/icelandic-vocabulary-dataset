@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: kirkja
       nominative_translation: church
-      nominative_sound: islex/342/342_90.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/342/342_90.mp3'
+      nominative_pronunciation: cʰɪr̥ca
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kirkju
+      accusative_pronunciation: cʰɪr̥cʏ
       dative: kirkju
+      dative_pronunciation: cʰɪr̥cʏ
       genitive: kirkju
+      genitive_pronunciation: cʰɪr̥cʏ
     with article:
       nominative: kirkjan
       nominative_translation: the church
+      nominative_pronunciation: cʰɪr̥can
       nominative_teach: true
       nominative_teachtable: true
       accusative: kirkjuna
+      accusative_pronunciation: cʰɪr̥cʏna
       dative: kirkjunni
+      dative_pronunciation: cʰɪr̥cʏnɪ
       genitive: kirkjunnar
+      genitive_pronunciation: cʰɪr̥cʏnar
 id: 1235
 gender: feminine
 recognizable: '1'

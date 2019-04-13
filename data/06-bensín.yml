@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: bensín
       nominative_translation: gasoline
-      nominative_sound: islex/125/125_70.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/125/125_70.mp3'
+      nominative_pronunciation: pɛnsin
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bensín
-      accusative_sound: islex/125/125_70.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/125/125_70.mp3'
+      accusative_pronunciation: pɛnsin
       dative: bensíni
+      dative_pronunciation: pɛnsinɪ
       genitive: bensíns
     with article:
       nominative: bensínið
       nominative_translation: the gasoline
+      nominative_pronunciation: pɛnsinɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: bensínið
+      accusative_pronunciation: pɛnsinɪð
       dative: bensíninu
+      dative_pronunciation: <span class="guessed">pɛnsinɪːnʏ</span>
       genitive: bensínsins
 id: 788
 gender: neuter

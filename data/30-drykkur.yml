@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: drykkur
       nominative_translation: a drink
-      nominative_sound: islex/076/076_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/076/076_97.mp3'
+      nominative_pronunciation: trɪhkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: drykk
+      accusative_pronunciation: trɪhk
       dative: drykk
+      dative_pronunciation: trɪhk
       genitive: drykkjar
+      genitive_pronunciation: trɪhcar
     with article:
       nominative: drykkurinn
       nominative_translation: the drink
+      nominative_pronunciation: trɪhkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: drykkinn
+      accusative_pronunciation: trɪhcɪn
       dative: drykknum
+      dative_pronunciation: trɪhknʏm
       genitive: drykkjarins
   plural:
     no article:
@@ -29,15 +36,19 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: drykki
+      accusative_pronunciation: trɪhcɪ
       dative: drykkjum
+      dative_pronunciation: trɪhcʏm
       genitive: drykkja
-      genitive_sound: islex/461/461_19.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/461/461_19.mp3'
+      genitive_pronunciation: trɪhca
     with article:
       nominative: drykkirnir
       nominative_translation: the drinks
       nominative_teach: true
       nominative_teachtable: true
       accusative: drykkina
+      accusative_pronunciation: trɪhcɪna
       dative: drykkjunum
       genitive: drykkjanna
 id: 885

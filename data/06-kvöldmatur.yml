@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: kvöldmatur
       nominative_translation: dinner
-      nominative_sound: islex/375/375_49.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/375/375_49.mp3'
+      nominative_pronunciation: kʰvœltmatʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: evening food
       accusative: kvöldmat
+      accusative_pronunciation: kʰvœltmat
       dative: kvöldmat
+      dative_pronunciation: kʰvœltmat
       genitive: kvöldmatar
+      genitive_pronunciation: <span class="guessed">kʰvœltmaːtar</span>
     with article:
       nominative: kvöldmaturinn
       nominative_translation: the dinner
+      nominative_pronunciation: <span class="guessed">kʰvœltmaːtʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       nominative_literal: evening food
       accusative: kvöldmatinn
+      accusative_pronunciation: kʰvœltmatɪn
       dative: kvöldmatnum
+      dative_pronunciation: kʰvœltmahtnʏm
       genitive: kvöldmatarins
+      genitive_pronunciation: <span class="guessed">kʰvœltmaːtarɪns</span>
 id: 1280
 gender: masculine

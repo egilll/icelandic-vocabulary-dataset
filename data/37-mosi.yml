@@ -6,19 +6,25 @@ conjugation:
     no article:
       nominative: mosi
       nominative_translation: moss
-      nominative_sound: islex/261/261_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/261/261_91.mp3'
+      nominative_pronunciation: mɔːsɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mosa
+      accusative_pronunciation: mɔːsa
       dative: mosa
+      dative_pronunciation: mɔːsa
       genitive: mosa
+      genitive_pronunciation: mɔːsa
     with article:
       nominative: mosinn
       nominative_translation: the moss
+      nominative_pronunciation: mɔːsɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: mosann
+      accusative_pronunciation: mɔːsan
       dative: mosanum
       genitive: mosans
   plural:
@@ -29,8 +35,10 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mosa
+      accusative_pronunciation: mɔːsa
       dative: mosum
       genitive: mosa
+      genitive_pronunciation: mɔːsa
     with article:
       nominative: mosarnir
       nominative_translation: the mosses
@@ -39,6 +47,7 @@ conjugation:
       accusative: mosana
       dative: mosunum
       genitive: mosanna
+      genitive_pronunciation: <span class="guessed">mɔːsanaː</span>
 id: 1418
 gender: masculine
 recognizable: '1'

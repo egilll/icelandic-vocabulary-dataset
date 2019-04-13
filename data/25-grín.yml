@@ -6,17 +6,22 @@ conjugation:
     no article:
       nominative: grín
       nominative_translation: 'joke, banter'
-      nominative_sound: islex/210/210_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/210/210_31.mp3'
+      nominative_pronunciation: kriːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: grín
-      accusative_sound: islex/210/210_31.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/210/210_31.mp3'
+      accusative_pronunciation: kriːn
       dative: gríni
+      dative_pronunciation: kriːnɪ
       genitive: gríns
+      genitive_pronunciation: krins
     with article:
       nominative: grínið
       nominative_translation: 'the joke, the banter'
+      nominative_pronunciation: kriːnɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1051

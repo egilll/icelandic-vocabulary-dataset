@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: fita
       nominative_translation: fat
-      nominative_sound: islex/203/203_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/203/203_73.mp3'
+      nominative_pronunciation: fɪːta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fitu
+      accusative_pronunciation: fɪːtʏ
       dative: fitu
+      dative_pronunciation: fɪːtʏ
       genitive: fitu
+      genitive_pronunciation: fɪːtʏ
     with article:
       nominative: fitan
       nominative_translation: the fat
+      nominative_pronunciation: <span class="guessed">fɪːtaːn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: fituna
+      accusative_pronunciation: <span class="guessed">fɪːtʏːna</span>
       dative: fitunni
+      dative_pronunciation: <span class="guessed">fɪːtʏnɪ</span>
       genitive: fitunnar
+      genitive_pronunciation: <span class="guessed">fɪːtʏnar</span>
 id: 944
 gender: feminine

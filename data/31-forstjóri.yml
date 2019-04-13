@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: forstjóri
       nominative_translation: 'a director, CEO'
-      nominative_sound: islex/274/274_54.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/274/274_54.mp3'
+      nominative_pronunciation: fɔr̥stjourɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: forstjóra
+      accusative_pronunciation: fɔr̥stjoura
       dative: forstjóra
+      dative_pronunciation: fɔr̥stjoura
       genitive: forstjóra
+      genitive_pronunciation: fɔr̥stjoura
     with article:
       nominative: forstjórinn
       nominative_translation: 'the director, the CEO'
+      nominative_pronunciation: fɔr̥stjourɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: forstjórann
+      accusative_pronunciation: fɔr̥stjouran
       dative: forstjóranum
       genitive: forstjórans
+      genitive_pronunciation: fɔr̥stjourans
 id: 973
 gender: masculine

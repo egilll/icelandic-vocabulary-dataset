@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: sundlaug
       nominative_translation: a swimming pool
-      nominative_sound: islex/097/097_49.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/097/097_49.mp3'
+      nominative_pronunciation: sʏntlœiɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sundlaug
-      accusative_sound: islex/097/097_49.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/097/097_49.mp3'
+      accusative_pronunciation: sʏntlœiɣ
       dative: sundlaug
-      dative_sound: islex/097/097_49.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/097/097_49.mp3'
+      dative_pronunciation: sʏntlœiɣ
       genitive: sundlaugar
+      genitive_pronunciation: sʏntlœiɣar
     with article:
       nominative: sundlaugin
       nominative_translation: the swimming pool
+      nominative_pronunciation: sʏntlœijɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: sundlaugina
+      accusative_pronunciation: sʏntlœijɪna
       dative: sundlauginni
+      dative_pronunciation: sʏntlœijɪnɪ
       genitive: sundlaugarinnar
+      genitive_pronunciation: sʏntlœiɣarɪnar
   plural:
     no article:
       nominative: sundlaugar
       nominative_translation: swimming pools
+      nominative_pronunciation: sʏntlœiɣar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sundlaugar
+      accusative_pronunciation: sʏntlœiɣar
       dative: sundlaugum
+      dative_pronunciation: sʏntlœiɣʏm
       genitive: sundlauga
+      genitive_pronunciation: <span class="guessed">sʏntlœiːɣa</span>
     with article:
       nominative: sundlaugarnar
       nominative_translation: the swimming pools
+      nominative_pronunciation: <span class="guessed">sʏntlœiɣartnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: sundlaugarnar
+      accusative_pronunciation: <span class="guessed">sʏntlœiɣartnar</span>
       dative: sundlaugunum
+      dative_pronunciation: sʏntlœjɣɔnʏm
       genitive: sundlauganna
+      genitive_pronunciation: <span class="guessed">sʏntlœiɣana</span>
 id: 1781
 gender: feminine
 never_show_with: sund

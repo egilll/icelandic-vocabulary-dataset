@@ -1,5 +1,7 @@
 word: sko
 word_translation: You see...
+word_sound: 'https://media.egill.xyz/audio/islex/245/245_13.mp3'
+word_pronunciation: skɔː
 word_teach: true
 level: 9
 grammatical_category: phrase

@@ -5,19 +5,23 @@ conjugation:
   middle voice:
     infinitive: '[að] fæðast'
     infinitive_translation: to be born
-    infinitive_sound: islex/129/129_88.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/129/129_88.mp3'
+    infinitive_pronunciation: faiːðast
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] fæddist'
           1st person_translation: I was born
+          1st person_pronunciation: faitɪst
           1st person_teach: true
           3rd person: '[hann/hún/það] fæddist'
           3rd person_translation: he/she/it were born
+          3rd person_pronunciation: faitɪst
           3rd person_teach: true
         plural:
           3rd person: '[þeir/þær/þau] fæddust'
           3rd person_translation: they were born
+          3rd person_pronunciation: faitʏst
           3rd person_teach: true
 id: 2090

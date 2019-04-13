@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: nemandi
       nominative_translation: a student
-      nominative_sound: islex/082/082_89.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/082/082_89.mp3'
+      nominative_pronunciation: nɛːmantɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nemanda
+      accusative_pronunciation: nɛːmanta
       dative: nemanda
+      dative_pronunciation: nɛːmanta
       genitive: nemanda
+      genitive_pronunciation: nɛːmanta
     with article:
       nominative: nemandinn
       nominative_translation: the student
+      nominative_pronunciation: nɛːmantɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: nemandann
+      accusative_pronunciation: <span class="guessed">nɛːmantan</span>
       dative: nemandanum
+      dative_pronunciation: <span class="guessed">nɛːmantanʏm</span>
       genitive: nemandans
+      genitive_pronunciation: nɛːmantans
   plural:
     no article:
       nominative: nemendur
       nominative_translation: students
+      nominative_pronunciation: nɛːmɛntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nemendur
+      accusative_pronunciation: nɛːmɛntʏr
       dative: nemendum
+      dative_pronunciation: nɛːmɛntʏm
       genitive: nemenda
+      genitive_pronunciation: nɛːmɛnta
     with article:
       nominative: nemendurnir
       nominative_translation: the students
+      nominative_pronunciation: nɛmɛntʏtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: nemendurna
+      accusative_pronunciation: nɛmɛntʏtna
       dative: nemendunum
+      dative_pronunciation: nɛːmɛntɔnʏm
       genitive: nemendanna
+      genitive_pronunciation: nɛːmɛntana
 id: 1449
 gender: masculine

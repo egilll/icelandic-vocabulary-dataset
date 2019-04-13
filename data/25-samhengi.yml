@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: samhengi
       nominative_translation: context
-      nominative_sound: islex/444/444_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/444/444_57.mp3'
+      nominative_pronunciation: saːmheiɲcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: samhengi
-      accusative_sound: islex/444/444_57.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/444/444_57.mp3'
+      accusative_pronunciation: saːmheiɲcɪ
       dative: samhengi
-      dative_sound: islex/444/444_57.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/444/444_57.mp3'
+      dative_pronunciation: saːmheiɲcɪ
       genitive: samhengis
+      genitive_pronunciation: saːmheiɲcɪs
     with article:
       nominative: samhengið
       nominative_translation: the context
+      nominative_pronunciation: saːmheiɲcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: samhengið
+      accusative_pronunciation: saːmheiɲcɪð
       dative: samhenginu
       genitive: samhengisins
 id: 1592

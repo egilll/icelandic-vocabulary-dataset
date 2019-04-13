@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: rúm
       nominative_translation: a bed
-      nominative_sound: islex/255/255_54.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/255/255_54.mp3'
+      nominative_pronunciation: ruːm
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rúm
-      accusative_sound: islex/255/255_54.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/255/255_54.mp3'
+      accusative_pronunciation: ruːm
       dative: rúmi
+      dative_pronunciation: ruːmɪ
       genitive: rúms
+      genitive_pronunciation: rums
     with article:
       nominative: rúmið
       nominative_translation: the bed
+      nominative_pronunciation: ruːmɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: rúmið
+      accusative_pronunciation: ruːmɪð
       dative: rúminu
+      dative_pronunciation: ruːmɪnʏ
       genitive: rúmsins
+      genitive_pronunciation: rumsɪns
 id: 1575
 teach_the_difference: herbergi
 gender: neuter

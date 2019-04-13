@@ -5,14 +5,16 @@ conjugation:
   active voice:
     infinitive: '[að] giska'
     infinitive_translation: to guess
-    infinitive_sound: islex/177/177_12.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/177/177_12.mp3'
+    infinitive_pronunciation: cɪska
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] giska'
           1st person_translation: I guess
-          1st person_sound: islex/177/177_12.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/177/177_12.mp3'
+          1st person_pronunciation: cɪska
           1st person_teach: true
           2nd person: '[þú] giskar'
           2nd person_translation: you¹ guess
@@ -29,18 +31,21 @@ conjugation:
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] giska'
           3rd person_translation: they guess
-          3rd person_sound: islex/177/177_12.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/177/177_12.mp3'
+          3rd person_pronunciation: cɪska
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] giskaði'
           1st person_translation: I guessed
+          1st person_pronunciation: cɪskaðɪ
           1st person_teach: true
           2nd person: '[þú] giskaðir'
           2nd person_translation: you¹ guessed
           2nd person_teach: true
           3rd person: '[hann/hún/það] giskaði'
           3rd person_translation: he/she/it guessed
+          3rd person_pronunciation: cɪskaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] giskuðum'
@@ -55,6 +60,7 @@ conjugation:
   supine:
     active voice: '[ég hef] giskað'
     active voice_translation: I have guessed
+    active voice_pronunciation: cɪskað
     active voice_teach: true
   imperative:
     active voice:

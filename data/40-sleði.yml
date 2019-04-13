@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: sleði
       nominative_translation: a sled
-      nominative_sound: islex/301/301_67.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/301/301_67.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sleða
+      accusative_pronunciation: stlɛːða
       dative: sleða
+      dative_pronunciation: stlɛːða
       genitive: sleða
+      genitive_pronunciation: stlɛːða
     with article:
       nominative: sleðinn
       nominative_translation: the sled
+      nominative_pronunciation: stlɛːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: sleðann
+      accusative_pronunciation: stlɛːðan
       dative: sleðanum
+      dative_pronunciation: stlɛːðanʏm
       genitive: sleðans
 id: 1678
 gender: masculine

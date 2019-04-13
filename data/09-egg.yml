@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: egg
       nominative_translation: an egg
-      nominative_sound: islex/042/042_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/042/042_96.mp3'
+      nominative_pronunciation: ɛk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: eggið
       nominative_translation: the egg
+      nominative_pronunciation: ɛcɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 899

@@ -6,10 +6,14 @@ conjugation:
     with article:
       nominative: heimurinn
       nominative_translation: the world
+      nominative_pronunciation: heiːmʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: heiminn
+      accusative_pronunciation: heiːmɪn
       dative: heiminum
+      dative_pronunciation: heiːmɪnʏm
       genitive: heimsins
+      genitive_pronunciation: heimsɪns
 id: 1108
 gender: masculine

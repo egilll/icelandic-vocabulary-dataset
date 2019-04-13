@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] skipta'
     infinitive_translation: to divide; to exchange
-    infinitive_sound: islex/348/348_10.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/348/348_10.mp3'
+    infinitive_pronunciation: scɪfta
     infinitive_teach: true
 id: 2336

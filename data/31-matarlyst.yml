@@ -6,14 +6,14 @@ conjugation:
     no article:
       nominative: matarlyst
       nominative_translation: an appetite
-      nominative_sound: islex/359/359_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/359/359_96.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: matarlyst
-      accusative_sound: islex/359/359_96.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/359/359_96.mp3'
       dative: matarlyst
-      dative_sound: islex/359/359_96.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/359/359_96.mp3'
       genitive: matarlystar
     with article:
       nominative: matarlystin
@@ -21,6 +21,7 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: matarlystina
+      accusative_pronunciation: maːtarlɪstɪna
       dative: matarlystinni
       genitive: matarlystarinnar
 id: 1390

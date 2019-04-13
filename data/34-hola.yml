@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: hola
       nominative_translation: 'a hole, a cavity'
-      nominative_sound: islex/157/157_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/157/157_96.mp3'
+      nominative_pronunciation: hɔːla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: holu
+      accusative_pronunciation: hɔːlʏ
       dative: holu
+      dative_pronunciation: hɔːlʏ
       genitive: holu
+      genitive_pronunciation: hɔːlʏ
     with article:
       nominative: holan
       nominative_translation: 'the hole, the cavity'
+      nominative_pronunciation: hɔːlan
       nominative_teach: true
       nominative_teachtable: true
       accusative: holuna
+      accusative_pronunciation: hɔːlʏna
       dative: holunni
+      dative_pronunciation: hɔːlʏnɪ
       genitive: holunnar
+      genitive_pronunciation: <span class="guessed">hɔːlʏnar</span>
 id: 1151
 gender: feminine

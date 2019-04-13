@@ -5,6 +5,7 @@ conjugation:
   middle voice:
     infinitive: '[að] grínast'
     infinitive_translation: 'to joke, to be joking'
-    infinitive_sound: islex/328/328_43.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/328/328_43.mp3'
+    infinitive_pronunciation: kriːnast
     infinitive_teach: true
 id: 2135

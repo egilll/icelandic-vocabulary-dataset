@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: frí
       nominative_translation: a vacation
-      nominative_sound: islex/236/236_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/236/236_71.mp3'
+      nominative_pronunciation: friː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: frí
-      accusative_sound: islex/236/236_71.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/236/236_71.mp3'
+      accusative_pronunciation: friː
       dative: fríi
+      dative_pronunciation: friːjɪ
       genitive: frís
     with article:
       nominative: fríið
       nominative_translation: the vacation
+      nominative_pronunciation: friːjɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: fríið
+      accusative_pronunciation: friːjɪð
       dative: fríinu
+      dative_pronunciation: friːjɪnʏ
       genitive: frísins
 id: 991
 gender: neuter

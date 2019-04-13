@@ -6,17 +6,21 @@ conjugation:
     no article:
       nominative: djamm
       nominative_translation: 'night-clubbing, party'
-      nominative_sound: islex/233/233_60.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/233/233_60.mp3'
+      nominative_pronunciation: tjam
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: djammið
       nominative_translation: 'the night-clubbing, the party'
+      nominative_pronunciation: <span class="guessed">tjamɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: djammið
+      accusative_pronunciation: <span class="guessed">tjamɪːð</span>
       dative: djamminu
+      dative_pronunciation: <span class="guessed">tjamɪːnʏ</span>
       genitive: djammsins
 id: 873
 gender: neuter

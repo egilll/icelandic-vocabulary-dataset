@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: box
       nominative_translation: a box
-      nominative_sound: islex/363/363_44.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/363/363_44.mp3'
+      nominative_pronunciation: pɔks
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: box
-      accusative_sound: islex/363/363_44.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/363/363_44.mp3'
+      accusative_pronunciation: pɔks
       dative: boxi
+      dative_pronunciation: pɔksɪ
       genitive: box
-      genitive_sound: islex/363/363_44.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/363/363_44.mp3'
+      genitive_pronunciation: pɔks
     with article:
       nominative: boxið
       nominative_translation: the box
+      nominative_pronunciation: pɔksɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: boxið
+      accusative_pronunciation: pɔksɪð
       dative: boxinu
+      dative_pronunciation: <span class="guessed">pɔksɪːnʏ</span>
       genitive: boxins
 id: 840
 gender: neuter

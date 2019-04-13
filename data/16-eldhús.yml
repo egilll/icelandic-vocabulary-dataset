@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: eldhús
       nominative_translation: a kitchen
-      nominative_sound: islex/476/476_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/476/476_97.mp3'
+      nominative_pronunciation: ɛlthus
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: eldhús
-      accusative_sound: islex/476/476_97.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/476/476_97.mp3'
+      accusative_pronunciation: ɛlthus
       dative: eldhúsi
+      dative_pronunciation: ɛlthusɪ
       genitive: eldhúss
+      genitive_pronunciation: ɛlthus
     with article:
       nominative: eldhúsið
       nominative_translation: the kitchen
+      nominative_pronunciation: ɛlthusɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: eldhúsið
+      accusative_pronunciation: ɛlthusɪð
       dative: eldhúsinu
+      dative_pronunciation: ɛlthusɪnʏ
       genitive: eldhússins
+      genitive_pronunciation: ɛlthusɪns
 id: 909
 gender: neuter

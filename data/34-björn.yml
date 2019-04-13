@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: björn
       nominative_translation: a bear
-      nominative_sound: islex/089/089_62.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/089/089_62.mp3'
+      nominative_pronunciation: pjœtn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: björn
-      accusative_sound: islex/089/089_62.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/089/089_62.mp3'
+      accusative_pronunciation: pjœtn̥
       dative: birni
+      dative_pronunciation: pɪtnɪ
       genitive: bjarnar
     with article:
       nominative: björninn
       nominative_translation: the bear
+      nominative_pronunciation: pjœtnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: björninn
+      accusative_pronunciation: pjœtnɪn
       dative: birninum
+      dative_pronunciation: pɪtnɪnʏm
       genitive: bjarnarins
 id: 804
 gender: masculine

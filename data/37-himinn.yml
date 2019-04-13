@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: himinn
       nominative_translation: sky
-      nominative_sound: islex/102/102_14.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/102/102_14.mp3'
+      nominative_pronunciation: hɪːmɪn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: himin
+      accusative_pronunciation: hɪːmɪn
       dative: himni
+      dative_pronunciation: hɪmnɪ
       genitive: himins
+      genitive_pronunciation: hɪːmɪns
     with article:
       nominative: himinninn
       nominative_translation: the sky
+      nominative_pronunciation: hɪːmɪnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: himininn
+      accusative_pronunciation: hɪːmɪnɪn
       dative: himninum
+      dative_pronunciation: hɪmnɪnʏm
       genitive: himinsins
+      genitive_pronunciation: hɪːmɪnsɪns
 id: 1120
 gender: masculine

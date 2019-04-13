@@ -6,38 +6,51 @@ conjugation:
     no article:
       nominative: brandari
       nominative_translation: a joke
-      nominative_sound: islex/239/239_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/239/239_31.mp3'
+      nominative_pronunciation: prantarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: brandara
+      accusative_pronunciation: prantara
       dative: brandara
+      dative_pronunciation: prantara
       genitive: brandara
+      genitive_pronunciation: prantara
     with article:
       nominative: brandarinn
       nominative_translation: the joke
+      nominative_pronunciation: prantarɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: brandarann
+      accusative_pronunciation: <span class="guessed">prantaːran</span>
       dative: brandaranum
       genitive: brandarans
   plural:
     no article:
       nominative: brandarar
       nominative_translation: jokes
+      nominative_pronunciation: prantarar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: brandara
+      accusative_pronunciation: prantara
       dative: bröndurum
+      dative_pronunciation: prœntʏrʏm
       genitive: brandara
+      genitive_pronunciation: prantara
     with article:
       nominative: brandararnir
       nominative_translation: the jokes
       nominative_teach: true
       nominative_teachtable: true
       accusative: brandarana
+      accusative_pronunciation: <span class="guessed">prantaːraːna</span>
       dative: bröndurunum
+      dative_pronunciation: prœntʏrɔnʏm
       genitive: brandaranna
+      genitive_pronunciation: <span class="guessed">prantaːranaː</span>
 id: 842
 gender: masculine

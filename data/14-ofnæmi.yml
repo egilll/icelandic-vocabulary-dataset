@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: ofnæmi
       nominative_translation: an allergy
-      nominative_sound: islex/175/175_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/175/175_69.mp3'
+      nominative_pronunciation: ɔvnaimɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: too-sensitivity
       accusative: ofnæmi
-      accusative_sound: islex/175/175_69.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/175/175_69.mp3'
+      accusative_pronunciation: ɔvnaimɪ
       dative: ofnæmi
-      dative_sound: islex/175/175_69.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/175/175_69.mp3'
+      dative_pronunciation: ɔvnaimɪ
       genitive: ofnæmis
+      genitive_pronunciation: ɔvnaimɪs
     with article:
       nominative: ofnæmið
       nominative_translation: the allergy
+      nominative_pronunciation: <span class="guessed">ɔːvnaiːmɪːð</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1463

@@ -1,5 +1,7 @@
 word: sæll
 word_translation: <content> Hello
+word_sound: 'https://media.egill.xyz/audio/islex/237/237_14.mp3'
+word_pronunciation: saitl
 word_teach: true
 level: 2
 grammatical_category: adjective

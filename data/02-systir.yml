@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: systir
       nominative_translation: sister
-      nominative_sound: islex/059/059_43.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/059/059_43.mp3'
+      nominative_pronunciation: sɪstɪr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: systur
+      accusative_pronunciation: sɪstʏr
       dative: systur
+      dative_pronunciation: sɪstʏr
       genitive: systur
+      genitive_pronunciation: sɪstʏr
     with article:
       nominative: systirin
       nominative_translation: the sister
+      nominative_pronunciation: sɪstɪrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: systurina
       dative: systurinni
+      dative_pronunciation: <span class="guessed">sɪstʏrɪnɪ</span>
       genitive: systurinnar
+      genitive_pronunciation: <span class="guessed">sɪstʏrɪnar</span>
   plural:
     no article:
       nominative: systur
       nominative_translation: sisters
+      nominative_pronunciation: sɪstʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: systur
+      accusative_pronunciation: sɪstʏr
       dative: systrum
+      dative_pronunciation: sɪstrʏm
       genitive: systra
+      genitive_pronunciation: sɪstra
     with article:
       nominative: systurnar
       nominative_translation: the sisters
+      nominative_pronunciation: sɪstʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: systurnar
+      accusative_pronunciation: sɪstʏtnar
       dative: systrunum
+      dative_pronunciation: sɪstrɔnʏm
       genitive: systranna
+      genitive_pronunciation: sɪstrana
 id: 1803
 gender: feminine

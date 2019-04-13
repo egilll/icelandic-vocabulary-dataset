@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: bíll
       nominative_translation: a car
-      nominative_sound: islex/159/159_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/159/159_91.mp3'
+      nominative_pronunciation: pitl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bíl
       dative: bíl
       genitive: bíls
+      genitive_pronunciation: pils
     with article:
       nominative: bíllinn
       nominative_translation: the car
+      nominative_pronunciation: pitlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bílinn
+      accusative_pronunciation: piːlɪn
       dative: bílnum
+      dative_pronunciation: pilnʏm
       genitive: bílsins
+      genitive_pronunciation: pilsɪns
   plural:
     no article:
       nominative: bílar
       nominative_translation: cars
+      nominative_pronunciation: piːlar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bíla
+      accusative_pronunciation: <span class="guessed">piːlaː</span>
       dative: bílum
+      dative_pronunciation: piːlʏm
       genitive: bíla
+      genitive_pronunciation: <span class="guessed">piːlaː</span>
     with article:
       nominative: bílarnir
       nominative_translation: the cars
+      nominative_pronunciation: piːlatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: bílana
+      accusative_pronunciation: <span class="guessed">piːlaːna</span>
       dative: bílunum
+      dative_pronunciation: piːlɔnʏm
       genitive: bílanna
+      genitive_pronunciation: piːlana
 id: 794
 gender: masculine

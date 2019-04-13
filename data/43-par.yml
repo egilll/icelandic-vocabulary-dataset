@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: par
       nominative_translation: a couple
-      nominative_sound: islex/440/440_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/440/440_20.mp3'
+      nominative_pronunciation: pʰaːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: par
-      accusative_sound: islex/440/440_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/440/440_20.mp3'
+      accusative_pronunciation: pʰaːr
       dative: pari
+      dative_pronunciation: pʰaːrɪ
       genitive: pars
     with article:
       nominative: parið
       nominative_translation: the couple
+      nominative_pronunciation: pʰaːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: parið
+      accusative_pronunciation: pʰaːrɪð
       dative: parinu
+      dative_pronunciation: pʰaːrɪnʏ
       genitive: parsins
 id: 1486
 gender: neuter

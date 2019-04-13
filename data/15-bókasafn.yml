@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: bókasafn
       nominative_translation: a library
-      nominative_sound: islex/105/105_12.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/105/105_12.mp3'
+      nominative_pronunciation: pouːkasapn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bókasafn
-      accusative_sound: islex/105/105_12.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/105/105_12.mp3'
+      accusative_pronunciation: pouːkasapn̥
       dative: bókasafni
+      dative_pronunciation: pouːkasapnɪ
       genitive: bókasafns
+      genitive_pronunciation: pouːkasaps
     with article:
       nominative: bókasafnið
       nominative_translation: the library
+      nominative_pronunciation: pouːkasapnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: bókasafnið
+      accusative_pronunciation: pouːkasapnɪð
       dative: bókasafninu
+      dative_pronunciation: pouːkasapnɪnʏ
       genitive: bókasafnsins
+      genitive_pronunciation: pouːkasapsɪns
 id: 826
 gender: neuter

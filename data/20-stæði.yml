@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: stæði
       nominative_translation: a parking space
-      nominative_sound: islex/382/382_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/382/382_05.mp3'
+      nominative_pronunciation: staiːðɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: stæðið
       nominative_translation: the parking space
+      nominative_pronunciation: staiːðɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1729

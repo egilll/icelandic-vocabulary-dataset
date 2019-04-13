@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] lækka'
     infinitive_translation: 'to lower, to decrease'
-    infinitive_sound: islex/457/457_43.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/457/457_43.mp3'
+    infinitive_pronunciation: laihka
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] lækkaði'
           1st person_translation: 'I lowered, I decreased'
+          1st person_pronunciation: laihkaðɪ
           1st person_teach: true
 id: 2203

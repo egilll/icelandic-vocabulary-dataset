@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: örbylgjuofn
       nominative_translation: a microwave oven
-      nominative_sound: islex/472/472_16.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/472/472_16.mp3'
+      nominative_pronunciation: œrpɪlcʏɔpn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: örbylgjuofn
-      accusative_sound: islex/472/472_16.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/472/472_16.mp3'
+      accusative_pronunciation: œrpɪlcʏɔpn̥
       dative: örbylgjuofni
+      dative_pronunciation: <span class="guessed">œrpɪlcʏɔpn̥ɪː</span>
       genitive: örbylgjuofns
     with article:
       nominative: örbylgjuofninn
       nominative_translation: the microwave oven
+      nominative_pronunciation: <span class="guessed">œrpɪlcʏɔpn̥ɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: örbylgjuofninn
+      accusative_pronunciation: <span class="guessed">œrpɪlcʏɔpn̥ɪn</span>
       dative: örbylgjuofninum
+      dative_pronunciation: <span class="guessed">œːrpɪlcʏɔpnɪnʏm</span>
       genitive: örbylgjuofnsins
 id: 1472
 gender: masculine

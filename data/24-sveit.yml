@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: sveit
       nominative_translation: countryside
-      nominative_sound: islex/005/005_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/005/005_01.mp3'
+      nominative_pronunciation: sveiːt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sveit
-      accusative_sound: islex/005/005_01.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/005/005_01.mp3'
+      accusative_pronunciation: sveiːt
       dative: sveit
-      dative_sound: islex/005/005_01.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/005/005_01.mp3'
+      dative_pronunciation: sveiːt
       genitive: sveitar
+      genitive_pronunciation: sveiːtar
     with article:
       nominative: sveitin
       nominative_translation: the countryside
+      nominative_pronunciation: sveiːtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: sveitina
+      accusative_pronunciation: sveiːtɪna
       dative: sveitinni
+      dative_pronunciation: sveiːtɪnɪ
       genitive: sveitarinnar
+      genitive_pronunciation: sveiːtarɪnar
 id: 1790
 gender: feminine

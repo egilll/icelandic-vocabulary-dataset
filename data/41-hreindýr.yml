@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: hreindýr
       nominative_translation: reindeer
-      nominative_sound: islex/440/440_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/440/440_31.mp3'
+      nominative_pronunciation: r̥eintir
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: hreindýrið
       nominative_translation: the reindeer
+      nominative_pronunciation: r̥eintirɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1163

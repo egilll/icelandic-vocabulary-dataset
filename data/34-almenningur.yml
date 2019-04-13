@@ -6,12 +6,16 @@ conjugation:
     no article:
       nominative: almenningur
       nominative_translation: the public
-      nominative_sound: islex/023/023_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/023/023_50.mp3'
+      nominative_pronunciation: almɛniŋkʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: almenning
+      accusative_pronunciation: almɛniŋk
       dative: almenningi
+      dative_pronunciation: almɛniɲcɪ
       genitive: almennings
+      genitive_pronunciation: almɛniŋks
 id: 719
 gender: masculine

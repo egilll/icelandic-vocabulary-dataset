@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: bakari
       nominative_translation: a baker
-      nominative_sound: islex/230/230_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/230/230_59.mp3'
+      nominative_pronunciation: paːkarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: bakarinn
       nominative_translation: the baker
+      nominative_pronunciation: paːkarɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 761

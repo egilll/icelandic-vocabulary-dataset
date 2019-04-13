@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: úlpa
       nominative_translation: a winter coat
-      nominative_sound: islex/162/162_83.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/162/162_83.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -16,20 +16,26 @@ conjugation:
     with article:
       nominative: úlpan
       nominative_translation: the winter coat
+      nominative_pronunciation: ul̥pan
       nominative_teach: true
       nominative_teachtable: true
       accusative: úlpuna
+      accusative_pronunciation: ul̥pʏna
       dative: úlpunni
+      dative_pronunciation: ul̥pʏnɪ
       genitive: úlpunnar
   plural:
     no article:
       nominative: úlpur
       nominative_translation: winter coats
+      nominative_pronunciation: ul̥pʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: úlpur
+      accusative_pronunciation: ul̥pʏr
       dative: úlpum
+      dative_pronunciation: ul̥pʏm
       genitive: úlpna
     with article:
       nominative: úlpurnar

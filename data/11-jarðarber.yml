@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: jarðarber
       nominative_translation: strawberries
-      nominative_sound: islex/261/261_89.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/261/261_89.mp3'
+      nominative_pronunciation: jarðapɛːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: jarðarber
-      accusative_sound: islex/261/261_89.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/261/261_89.mp3'
+      accusative_pronunciation: jarðapɛːr
       dative: jarðarberjum
+      dative_pronunciation: jarðapɛrjʏm
       genitive: jarðarberja
+      genitive_pronunciation: jarðarpɛrja
     with article:
       nominative: jarðarberin
       nominative_translation: the strawberries
+      nominative_pronunciation: jarðarpɛːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: jarðarberin
+      accusative_pronunciation: jarðarpɛːrɪn
       dative: jarðarberjunum
       genitive: jarðarberjanna
 id: 1195

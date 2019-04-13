@@ -5,14 +5,16 @@ conjugation:
   active voice:
     infinitive: '[að] hata'
     infinitive_translation: to hate
-    infinitive_sound: islex/257/257_97.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/257/257_97.mp3'
+    infinitive_pronunciation: haːta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] hata'
           1st person_translation: I hate
-          1st person_sound: islex/257/257_97.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/257/257_97.mp3'
+          1st person_pronunciation: haːta
           1st person_teach: true
           2nd person: '[þú] hatar'
           2nd person_translation: you¹ hate
@@ -29,18 +31,21 @@ conjugation:
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hata'
           3rd person_translation: they hate
-          3rd person_sound: islex/257/257_97.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/257/257_97.mp3'
+          3rd person_pronunciation: haːta
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] hataði'
           1st person_translation: I hated
+          1st person_pronunciation: haːtaðɪ
           1st person_teach: true
           2nd person: '[þú] hataðir'
           2nd person_translation: you¹ hated
           2nd person_teach: true
           3rd person: '[hann/hún/það] hataði'
           3rd person_translation: he/she/it hated
+          3rd person_pronunciation: haːtaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] hötuðum'
@@ -51,10 +56,12 @@ conjugation:
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hötuðu'
           3rd person_translation: they hated
+          3rd person_pronunciation: hœːtʏðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] hatað'
     active voice_translation: I have hated
+    active voice_pronunciation: haːtað
     active voice_teach: true
 id: 2142
 recognizable: '1'

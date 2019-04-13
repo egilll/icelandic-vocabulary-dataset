@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: bakarí
       nominative_translation: a bakery
-      nominative_sound: islex/439/439_79.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/439/439_79.mp3'
+      nominative_pronunciation: paːkari
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bakarí
-      accusative_sound: islex/439/439_79.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/439/439_79.mp3'
+      accusative_pronunciation: paːkari
       dative: bakaríi
+      dative_pronunciation: <span class="guessed">paːkariɪː</span>
       genitive: bakarís
+      genitive_pronunciation: <span class="guessed">paːkariːs</span>
     with article:
       nominative: bakaríið
       nominative_translation: the bakery
+      nominative_pronunciation: paːkarijɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: bakaríið
+      accusative_pronunciation: paːkarijɪð
       dative: bakaríinu
+      dative_pronunciation: paːkarijɪnʏ
       genitive: bakarísins
 id: 762
 gender: neuter

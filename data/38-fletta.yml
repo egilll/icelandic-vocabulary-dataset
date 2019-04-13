@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] fletta'
     infinitive_translation: to turn a page
-    infinitive_sound: islex/261/261_48.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/261/261_48.mp3'
+    infinitive_pronunciation: flɛhta
     infinitive_teach: true
 id: 2103

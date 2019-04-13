@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: kort
       nominative_translation: a map; a card
-      nominative_sound: islex/365/365_72.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/365/365_72.mp3'
+      nominative_pronunciation: kʰɔr̥t
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kort
-      accusative_sound: islex/365/365_72.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/365/365_72.mp3'
+      accusative_pronunciation: kʰɔr̥t
       dative: korti
+      dative_pronunciation: kʰɔr̥tɪ
       genitive: korts
     with article:
       nominative: kortið
       nominative_translation: the map; the card
+      nominative_pronunciation: kʰɔr̥tɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: kortið
+      accusative_pronunciation: kʰɔr̥tɪð
       dative: kortinu
+      dative_pronunciation: kʰɔr̥tɪnʏ
       genitive: kortsins
+      genitive_pronunciation: kʰɔr̥tsɪns
 id: 1262
 gender: neuter

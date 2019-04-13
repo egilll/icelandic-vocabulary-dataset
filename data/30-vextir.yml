@@ -6,26 +6,30 @@ conjugation:
     no article:
       nominative: vöxtur
       nominative_translation: growth
-      nominative_sound: islex/022/022_43.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/022/022_43.mp3'
+      nominative_pronunciation: vœkstʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: vöxturinn
       nominative_translation: the growth
+      nominative_pronunciation: vœkstʏrɪn
       nominative_teach: true
       nominative_teachtable: false
   plural:
     no article:
       nominative: vextir
       nominative_translation: interest rates
-      nominative_sound: islex/448/448_77.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/448/448_77.mp3'
+      nominative_pronunciation: vɛkstɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: vextirnir
       nominative_translation: the interest rates
+      nominative_pronunciation: vɛkstɪtnɪr
       nominative_teach: true
       nominative_teachtable: false
 id: 1948

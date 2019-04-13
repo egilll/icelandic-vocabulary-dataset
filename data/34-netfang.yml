@@ -6,26 +6,33 @@ conjugation:
     no article:
       nominative: netfang
       nominative_translation: an email address
-      nominative_sound: islex/415/415_32.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/415/415_32.mp3'
+      nominative_pronunciation: nɛːtfauŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: netfang
-      accusative_sound: islex/415/415_32.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/415/415_32.mp3'
+      accusative_pronunciation: nɛːtfauŋk
       dative: netfangi
+      dative_pronunciation: <span class="guessed">nɛːtfaɲcɪ</span>
       genitive: netfangs
     with article:
       nominative: netfangið
       nominative_translation: the email address
+      nominative_pronunciation: nɛːtfauɲcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: netfangið
+      accusative_pronunciation: nɛːtfauɲcɪð
       dative: netfanginu
+      dative_pronunciation: <span class="guessed">nɛːtfauŋkɪːnʏ</span>
       genitive: netfangsins
   plural:
     no article:
       nominative: netföng
       nominative_translation: email addresses
+      nominative_pronunciation: nɛːtfœjŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

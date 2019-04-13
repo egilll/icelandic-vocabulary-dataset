@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: hljóð
       nominative_translation: a sound
-      nominative_sound: islex/038/038_06.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/038/038_06.mp3'
+      nominative_pronunciation: l̥jouːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hljóð
-      accusative_sound: islex/038/038_06.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/038/038_06.mp3'
+      accusative_pronunciation: l̥jouːð
       dative: hljóði
+      dative_pronunciation: l̥jouːðɪ
       genitive: hljóðs
+      genitive_pronunciation: l̥jouðs
     with article:
       nominative: hljóðið
       nominative_translation: the sound
+      nominative_pronunciation: l̥jouːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hljóðið
+      accusative_pronunciation: l̥jouːðɪð
       dative: hljóðinu
+      dative_pronunciation: l̥jouːðɪnʏ
       genitive: hljóðsins
 id: 1136
 gender: neuter

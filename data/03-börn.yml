@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: barn
       nominative_translation: a child
-      nominative_sound: islex/478/478_40.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/478/478_40.mp3'
+      nominative_pronunciation: patn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: barn
-      accusative_sound: islex/478/478_40.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/478/478_40.mp3'
+      accusative_pronunciation: patn̥
       dative: barni
+      dative_pronunciation: patnɪ
       genitive: barns
+      genitive_pronunciation: pas
     with article:
       nominative: barnið
       nominative_translation: the child
+      nominative_pronunciation: patnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: barnið
+      accusative_pronunciation: patnɪð
       dative: barninu
+      dative_pronunciation: patnɪnʏ
       genitive: barnsins
+      genitive_pronunciation: pasɪns
   plural:
     no article:
       nominative: börn
       nominative_translation: children
+      nominative_pronunciation: pœtn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: börn
+      accusative_pronunciation: pœtn̥
       dative: börnum
+      dative_pronunciation: pœtnʏm
       genitive: barna
-      genitive_sound: islex/460/460_39.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/460/460_39.mp3'
+      genitive_pronunciation: patna
     with article:
       nominative: börnin
       nominative_translation: the children
+      nominative_pronunciation: pœtnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: börnin
+      accusative_pronunciation: pœtnɪn
       dative: börnunum
+      dative_pronunciation: pœtnɔnʏm
       genitive: barnanna
+      genitive_pronunciation: patnana
 id: 838
 gender: neuter

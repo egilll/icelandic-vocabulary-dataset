@@ -6,40 +6,53 @@ conjugation:
     no article:
       nominative: mús
       nominative_translation: a mouse
-      nominative_sound: islex/254/254_07.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/254/254_07.mp3'
+      nominative_pronunciation: muːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mús
-      accusative_sound: islex/254/254_07.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/254/254_07.mp3'
+      accusative_pronunciation: muːs
       dative: mús
-      dative_sound: islex/254/254_07.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/254/254_07.mp3'
+      dative_pronunciation: muːs
       genitive: músar
     with article:
       nominative: músin
       nominative_translation: the mouse
+      nominative_pronunciation: muːsɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: músina
+      accusative_pronunciation: muːsɪna
       dative: músinni
+      dative_pronunciation: <span class="guessed">muːsɪnɪ</span>
       genitive: músarinnar
   plural:
     no article:
       nominative: mýs
       nominative_translation: mice
+      nominative_pronunciation: miːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mýs
+      accusative_pronunciation: miːs
       dative: músum
+      dative_pronunciation: muːsʏm
       genitive: músa
+      genitive_pronunciation: <span class="guessed">muːsaː</span>
     with article:
       nominative: mýsnar
       nominative_translation: the mice
+      nominative_pronunciation: mistnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: mýsnar
+      accusative_pronunciation: mistnar
       dative: músunum
       genitive: músanna
+      genitive_pronunciation: <span class="guessed">muːsana</span>
 id: 1425
 gender: feminine

@@ -6,15 +6,19 @@ conjugation:
     no article:
       nominative: aðstoð
       nominative_translation: assistance
-      nominative_sound: islex/200/200_86.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/200/200_86.mp3'
+      nominative_pronunciation: aðstɔð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: aðstoð
-      accusative_sound: islex/200/200_86.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/200/200_86.mp3'
+      accusative_pronunciation: aðstɔð
       dative: aðstoð
-      dative_sound: islex/200/200_86.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/200/200_86.mp3'
+      dative_pronunciation: aðstɔð
       genitive: aðstoðar
+      genitive_pronunciation: aðstɔðar
     with article:
       nominative: aðstoðin
       nominative_translation: the assistance

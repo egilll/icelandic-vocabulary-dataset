@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: sekúnda
       nominative_translation: a second
-      nominative_sound: islex/246/246_40.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/246/246_40.mp3'
+      nominative_pronunciation: sɛːkunta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sekúndu
+      accusative_pronunciation: sɛːkuntʏ
       dative: sekúndu
+      dative_pronunciation: sɛːkuntʏ
       genitive: sekúndu
+      genitive_pronunciation: sɛːkuntʏ
     with article:
       nominative: sekúndan
       nominative_translation: the second
@@ -25,12 +29,16 @@ conjugation:
     no article:
       nominative: sekúndur
       nominative_translation: seconds
+      nominative_pronunciation: sɛːkuntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sekúndur
+      accusative_pronunciation: sɛːkuntʏr
       dative: sekúndum
+      dative_pronunciation: sɛːkuntʏm
       genitive: sekúndna
+      genitive_pronunciation: sɛːkuntna
     with article:
       nominative: sekúndurnar
       nominative_translation: the seconds

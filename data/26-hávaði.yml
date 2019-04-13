@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: hávaði
       nominative_translation: noise
-      nominative_sound: islex/464/464_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/464/464_85.mp3'
+      nominative_pronunciation: hauːvaðɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hávaða
+      accusative_pronunciation: hauːvaða
       dative: hávaða
+      dative_pronunciation: hauːvaða
       genitive: hávaða
+      genitive_pronunciation: hauːvaða
     with article:
       nominative: hávaðinn
       nominative_translation: the noise
+      nominative_pronunciation: hauːvaðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hávaðann
+      accusative_pronunciation: hauːvaðan
       dative: hávaðanum
+      dative_pronunciation: hauːvaðanʏm
       genitive: hávaðans
 id: 1099
 gender: masculine

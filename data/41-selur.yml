@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: selur
       nominative_translation: a seal
-      nominative_sound: islex/449/449_90.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/449/449_90.mp3'
+      nominative_pronunciation: sɛːlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: selurinn
       nominative_translation: the seal
+      nominative_pronunciation: sɛːlʏrɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1608

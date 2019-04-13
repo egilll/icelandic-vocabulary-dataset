@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: skyn
       nominative_translation: a sense
-      nominative_sound: islex/117/117_67.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/117/117_67.mp3'
+      nominative_pronunciation: scɪːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: skynið
       nominative_translation: the sense
+      nominative_pronunciation: <span class="guessed">scɪːnɪːð</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1672

@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: iðnaðarmaður
       nominative_translation: a tradesman
-      nominative_sound: islex/169/169_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/169/169_08.mp3'
+      nominative_pronunciation: <span class="guessed">ɪðnaðarmaːðʏr</span>
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

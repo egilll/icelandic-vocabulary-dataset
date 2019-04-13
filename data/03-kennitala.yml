@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: kennitala
       nominative_translation: a national ID number
-      nominative_sound: islex/310/310_80.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/310/310_80.mp3'
+      nominative_pronunciation: <span class="guessed">cʰɛnɪtʰaːla</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kennitölu
+      accusative_pronunciation: cʰɛnɪtœːlʏ
       dative: kennitölu
+      dative_pronunciation: cʰɛnɪtœːlʏ
       genitive: kennitölu
+      genitive_pronunciation: cʰɛnɪtœːlʏ
     with article:
       nominative: kennitalan
       nominative_translation: the national ID number
+      nominative_pronunciation: <span class="guessed">cʰɛnɪtʰaːlan</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1228

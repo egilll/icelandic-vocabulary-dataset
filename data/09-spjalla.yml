@@ -5,55 +5,67 @@ conjugation:
   active voice:
     infinitive: '[að] spjalla'
     infinitive_translation: to chat
-    infinitive_sound: islex/468/468_83.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/468/468_83.mp3'
+    infinitive_pronunciation: spjatla
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] spjalla'
           1st person_translation: I chat
-          1st person_sound: islex/468/468_83.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/468/468_83.mp3'
+          1st person_pronunciation: spjatla
           1st person_teach: true
           2nd person: '[þú] spjallar'
           2nd person_translation: you¹ chat
+          2nd person_pronunciation: spjatlar
           2nd person_teach: true
           3rd person: '[hann/hún/það] spjallar'
           3rd person_translation: he/she/it chats
+          3rd person_pronunciation: spjatlar
           3rd person_teach: true
         plural:
           1st person: '[við] spjöllum'
           1st person_translation: we chat
+          1st person_pronunciation: spjœtlʏm
           1st person_teach: true
           2nd person: '[þið] spjallið'
           2nd person_translation: you² chat
+          2nd person_pronunciation: spjatlɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] spjalla'
           3rd person_translation: they chat
-          3rd person_sound: islex/468/468_83.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/468/468_83.mp3'
+          3rd person_pronunciation: spjatla
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] spjallaði'
           1st person_translation: I chatted
+          1st person_pronunciation: spjatlaðɪ
           1st person_teach: true
           2nd person: '[þú] spjallaðir'
           2nd person_translation: you¹ chatted
           2nd person_teach: true
           3rd person: '[hann/hún/það] spjallaði'
           3rd person_translation: he/she/it chatted
+          3rd person_pronunciation: spjatlaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] spjölluðum'
           1st person_translation: we chatted
+          1st person_pronunciation: spjœtlʏðʏm
           1st person_teach: true
           2nd person: '[þið] spjölluðuð'
           2nd person_translation: you² chatted
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] spjölluðu'
           3rd person_translation: they chatted
+          3rd person_pronunciation: spjœtlʏðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] spjallað'
     active voice_translation: I have chatted
+    active voice_pronunciation: spjatlað
     active voice_teach: true
 id: 2368

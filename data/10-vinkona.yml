@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: vinkona
       nominative_translation: a female friend
-      nominative_sound: islex/411/411_12.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/411/411_12.mp3'
+      nominative_pronunciation: vɪŋkɔna
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: vinkonu
+      accusative_pronunciation: vɪŋkɔnʏ
       dative: vinkonu
+      dative_pronunciation: vɪŋkɔnʏ
       genitive: vinkonu
+      genitive_pronunciation: vɪŋkɔnʏ
     with article:
       nominative: vinkonan
       nominative_translation: the female friend
+      nominative_pronunciation: <span class="guessed">vɪːnkʰɔːnan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: vinkonuna
+      accusative_pronunciation: <span class="guessed">vɪːnkʰɔːnʏna</span>
       dative: vinkonunni
+      dative_pronunciation: vɪŋkɔnʏnɪ
       genitive: vinkonunnar
+      genitive_pronunciation: <span class="guessed">vɪːnkʰɔːnʏnar</span>
   plural:
     no article:
       nominative: vinkonur
       nominative_translation: female friends
+      nominative_pronunciation: vɪŋkɔnʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: vinkonur
+      accusative_pronunciation: vɪŋkɔnʏr
       dative: vinkonum
+      dative_pronunciation: vɪŋkɔnʏm
       genitive: vinkvenna
+      genitive_pronunciation: vɪŋkvɛna
     with article:
       nominative: vinkonurnar
       nominative_translation: the female friends
+      nominative_pronunciation: vɪŋkɔnʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: vinkonurnar
+      accusative_pronunciation: vɪŋkɔnʏtnar
       dative: vinkonunum
+      dative_pronunciation: <span class="guessed">vɪːnkʰɔːnɔnʏm</span>
       genitive: vinkvennanna
+      genitive_pronunciation: <span class="guessed">vɪːnkʰvɛnana</span>
 id: 1932
 gender: feminine

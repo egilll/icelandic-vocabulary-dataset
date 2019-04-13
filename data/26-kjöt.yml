@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: kjöt
       nominative_translation: meat
-      nominative_sound: islex/374/374_68.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/374/374_68.mp3'
+      nominative_pronunciation: cʰœːt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kjöt
-      accusative_sound: islex/374/374_68.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/374/374_68.mp3'
+      accusative_pronunciation: cʰœːt
       dative: kjöti
+      dative_pronunciation: cʰœːtɪ
       genitive: kjöts
+      genitive_pronunciation: cʰœːts
     with article:
       nominative: kjötið
       nominative_translation: the meat
+      nominative_pronunciation: cʰœːtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: kjötið
+      accusative_pronunciation: cʰœːtɪð
       dative: kjötinu
+      dative_pronunciation: cʰœːtɪnʏ
       genitive: kjötsins
 id: 1242
 gender: neuter

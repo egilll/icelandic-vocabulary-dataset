@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: tungumál
       nominative_translation: a language
-      nominative_sound: islex/248/248_06.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/248/248_06.mp3'
+      nominative_pronunciation: tʰuŋkʏmauːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tungumál
-      accusative_sound: islex/248/248_06.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/248/248_06.mp3'
+      accusative_pronunciation: tʰuŋkʏmauːl
       dative: tungumáli
+      dative_pronunciation: tʰuŋkʏmauːlɪ
       genitive: tungumáls
+      genitive_pronunciation: tʰuŋkʏmauls
     with article:
       nominative: tungumálið
       nominative_translation: the language
+      nominative_pronunciation: tʰuŋkʏmauːlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: tungumálið
+      accusative_pronunciation: tʰuŋkʏmauːlɪð
       dative: tungumálinu
+      dative_pronunciation: tʰuŋkʏmauːlɪnʏ
       genitive: tungumálsins
+      genitive_pronunciation: tʰuŋkʏmaulsɪns
 id: 1857
 gender: neuter

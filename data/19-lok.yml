@@ -6,24 +6,32 @@ conjugation:
     no article:
       nominative: lok
       nominative_translation: lid
-      nominative_sound: islex/367/367_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/367/367_22.mp3'
+      nominative_pronunciation: lɔːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lok
-      accusative_sound: islex/367/367_22.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/367/367_22.mp3'
+      accusative_pronunciation: lɔːk
       dative: loki
-      dative_sound: islex/120/120_28.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/120/120_28.mp3'
+      dative_pronunciation: lɔːkɪ
       genitive: loks
-      genitive_sound: islex/438/438_72.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/438/438_72.mp3'
+      genitive_pronunciation: lɔks
     with article:
       nominative: lokið
       nominative_translation: the lid
+      nominative_pronunciation: lɔːkɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: lokið
+      accusative_pronunciation: lɔːkɪð
       dative: lokinu
+      dative_pronunciation: lɔːcɪnʏ
       genitive: loksins
-      genitive_sound: islex/085/085_52.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/085/085_52.mp3'
+      genitive_pronunciation: lɔksɪns
 id: 1354
 gender: neuter

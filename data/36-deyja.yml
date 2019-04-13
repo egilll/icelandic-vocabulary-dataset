@@ -5,51 +5,62 @@ conjugation:
   active voice:
     infinitive: '[að] deyja'
     infinitive_translation: to die
-    infinitive_sound: islex/012/012_07.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/012/012_07.mp3'
+    infinitive_pronunciation: teija
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] dey'
           1st person_translation: I die
+          1st person_pronunciation: teiː
           1st person_teach: true
           2nd person: '[þú] deyrð'
           2nd person_translation: you¹ die
+          2nd person_pronunciation: <span class="guessed">tɛːɪrð</span>
           2nd person_teach: true
           3rd person: '[hann/hún/það] deyr'
           3rd person_translation: he/she/it dies
+          3rd person_pronunciation: teiːr
           3rd person_teach: true
         plural:
           1st person: '[við] deyjum'
           1st person_translation: we die
+          1st person_pronunciation: teijʏm
           1st person_teach: true
           2nd person: '[þið] deyið'
           2nd person_translation: you² die
+          2nd person_pronunciation: <span class="guessed">teiːɪːð</span>
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] deyja'
           3rd person_translation: they die
-          3rd person_sound: islex/012/012_07.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/012/012_07.mp3'
+          3rd person_pronunciation: teija
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] dó'
           1st person_translation: I died
+          1st person_pronunciation: touː
           1st person_teach: true
           2nd person: '[þú] dóst'
           2nd person_translation: you¹ died
           2nd person_teach: true
           3rd person: '[hann/hún/það] dó'
           3rd person_translation: he/she/it died
+          3rd person_pronunciation: touː
           3rd person_teach: true
         plural:
           1st person: '[við] dóum'
           1st person_translation: we died
+          1st person_pronunciation: <span class="guessed">touːʏm</span>
           1st person_teach: true
           2nd person: '[þið] dóuð'
           2nd person_translation: you² died
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] dóu'
           3rd person_translation: they died
+          3rd person_pronunciation: touːʏ
           3rd person_teach: true
 id: 2070
 strong_verb_declension: true

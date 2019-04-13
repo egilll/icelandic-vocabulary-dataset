@@ -6,42 +6,57 @@ conjugation:
     no article:
       nominative: stóll
       nominative_translation: a chair
-      nominative_sound: islex/299/299_06.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/299/299_06.mp3'
+      nominative_pronunciation: stoutl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stól
+      accusative_pronunciation: stouːl
       dative: stól
+      dative_pronunciation: stouːl
       dative_alternative:
         - stóli
       genitive: stóls
     with article:
       nominative: stóllinn
       nominative_translation: the chair
+      nominative_pronunciation: stoutlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: stólinn
+      accusative_pronunciation: stouːlɪn
       dative: stólnum
+      dative_pronunciation: stoulnʏm
       genitive: stólsins
+      genitive_pronunciation: stoulsɪns
   plural:
     no article:
       nominative: stólar
       nominative_translation: chairs
+      nominative_pronunciation: stouːlar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stóla
-      accusative_sound: islex/034/034_60.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/034/034_60.mp3'
+      accusative_pronunciation: stouːla
       dative: stólum
+      dative_pronunciation: stouːlʏm
       genitive: stóla
-      genitive_sound: islex/034/034_60.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/034/034_60.mp3'
+      genitive_pronunciation: stouːla
     with article:
       nominative: stólarnir
       nominative_translation: the chairs
+      nominative_pronunciation: stouːlartnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: stólana
+      accusative_pronunciation: stouːlana
       dative: stólunum
+      dative_pronunciation: stouːlɔnʏm
       genitive: stólanna
+      genitive_pronunciation: <span class="guessed">stouːlana</span>
 id: 1751
 gender: masculine

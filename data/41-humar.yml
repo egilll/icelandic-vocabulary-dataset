@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: humar
       nominative_translation: a lobster
-      nominative_sound: islex/030/030_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/030/030_24.mp3'
+      nominative_pronunciation: hʏːmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: humarinn
       nominative_translation: the lobster
+      nominative_pronunciation: <span class="guessed">hʏːmarɪn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1173

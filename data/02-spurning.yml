@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: spurning
       nominative_translation: a question
-      nominative_sound: islex/291/291_68.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/291/291_68.mp3'
+      nominative_pronunciation: spʏrtniŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: spurningu
+      accusative_pronunciation: spʏrtniŋkʏ
       dative: spurningu
+      dative_pronunciation: spʏrtniŋkʏ
       genitive: spurningar
+      genitive_pronunciation: spʏrtniŋkar
     with article:
       nominative: spurningin
       nominative_translation: the question
+      nominative_pronunciation: spʏrtniɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: spurninguna
+      accusative_pronunciation: spʏrtniŋkʏna
       dative: spurningunni
+      dative_pronunciation: spʏrtniŋkʏnɪ
       genitive: spurningarinnar
+      genitive_pronunciation: spʏrtniŋkarɪnar
   plural:
     no article:
       nominative: spurningar
       nominative_translation: questions
+      nominative_pronunciation: spʏrtniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: spurningar
+      accusative_pronunciation: spʏrtniŋkar
       dative: spurningum
+      dative_pronunciation: spʏrtniŋkʏm
       genitive: spurninga
+      genitive_pronunciation: spʏrtniŋka
     with article:
       nominative: spurningarnar
       nominative_translation: the questions
+      nominative_pronunciation: spʏrtniŋkartnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: spurningarnar
+      accusative_pronunciation: spʏrtniŋkartnar
       dative: spurningunum
+      dative_pronunciation: spʏrtniŋkɔnʏm
       genitive: spurninganna
+      genitive_pronunciation: spʏrtniŋkana
 id: 1725
 gender: feminine

@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: röð
       nominative_translation: 'a row, a queue'
-      nominative_sound: islex/065/065_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/065/065_59.mp3'
+      nominative_pronunciation: rœːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: röð
-      accusative_sound: islex/065/065_59.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/065/065_59.mp3'
+      accusative_pronunciation: rœːð
       dative: röð
-      dative_sound: islex/065/065_59.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/065/065_59.mp3'
+      dative_pronunciation: rœːð
       genitive: raðar
+      genitive_pronunciation: raːðar
     with article:
       nominative: röðin
       nominative_translation: 'the row, the queue'
+      nominative_pronunciation: rœːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: röðina
+      accusative_pronunciation: rœːðɪna
       dative: röðinni
+      dative_pronunciation: rœːðɪnɪ
       genitive: raðarinnar
+      genitive_pronunciation: <span class="guessed">raːðarɪnar</span>
 id: 1566
 gender: feminine

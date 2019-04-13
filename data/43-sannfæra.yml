@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] sannfæra'
     infinitive_translation: to convince
-    infinitive_sound: islex/330/330_76.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/330/330_76.mp3'
+    infinitive_pronunciation: sanfaira
     infinitive_teach: true
 id: 2309

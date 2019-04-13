@@ -6,40 +6,52 @@ conjugation:
     no article:
       nominative: morgunn
       nominative_translation: a morning
-      nominative_sound: islex/025/025_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/025/025_96.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: morgun
+      accusative_pronunciation: mɔrkʏn
       dative: morgni
+      dative_pronunciation: mɔrtnɪ
       genitive: morguns
+      genitive_pronunciation: mɔrkʏns
     with article:
       nominative: morgunninn
       nominative_translation: the morning
+      nominative_pronunciation: mɔrkʏnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: morguninn
+      accusative_pronunciation: mɔrkʏnɪn
       dative: morgninum
+      dative_pronunciation: mɔrtnɪnʏm
       genitive: morgunsins
+      genitive_pronunciation: mɔrkʏnsɪns
   plural:
     no article:
       nominative: morgnar
       nominative_translation: mornings
+      nominative_pronunciation: mɔrtnar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: morgna
-      accusative_sound: islex/222/222_21.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/222/222_21.mp3'
+      accusative_pronunciation: mɔrtna
       dative: morgnum
       genitive: morgna
-      genitive_sound: islex/222/222_21.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/222/222_21.mp3'
+      genitive_pronunciation: mɔrtna
     with article:
       nominative: morgnarnir
       nominative_translation: the mornings
       nominative_teach: true
       nominative_teachtable: true
       accusative: morgnana
+      accusative_pronunciation: mɔtnana
       dative: morgnunum
       genitive: morgnanna
+      genitive_pronunciation: mɔrtnana
 id: 1417
 gender: masculine

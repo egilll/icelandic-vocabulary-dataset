@@ -6,43 +6,59 @@ conjugation:
     no article:
       nominative: ár
       nominative_translation: a year
-      nominative_sound: islex/209/209_65.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/209/209_65.mp3'
+      nominative_pronunciation: auːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ár
-      accusative_sound: islex/209/209_65.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/209/209_65.mp3'
+      accusative_pronunciation: auːr
       dative: ári
-      dative_sound: islex/186/186_30.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/186/186_30.mp3'
+      dative_pronunciation: auːrɪ
       genitive: árs
+      genitive_pronunciation: aur̥s
     with article:
       nominative: árið
       nominative_translation: the year
+      nominative_pronunciation: auːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: árið
+      accusative_pronunciation: auːrɪð
       dative: árinu
+      dative_pronunciation: auːrɪnʏ
       genitive: ársins
+      genitive_pronunciation: aur̥sɪns
   plural:
     no article:
       nominative: ár
       nominative_translation: years
-      nominative_sound: islex/209/209_65.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/209/209_65.mp3'
+      nominative_pronunciation: auːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ár
-      accusative_sound: islex/209/209_65.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/209/209_65.mp3'
+      accusative_pronunciation: auːr
       dative: árum
+      dative_pronunciation: auːrʏm
       genitive: ára
-      genitive_sound: islex/129/129_87.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/129/129_87.mp3'
+      genitive_pronunciation: auːra
     with article:
       nominative: árin
       nominative_translation: the years
+      nominative_pronunciation: auːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: árin
+      accusative_pronunciation: auːrɪn
       dative: árunum
+      dative_pronunciation: auːrɔnʏm
       genitive: áranna
+      genitive_pronunciation: auːrana
 id: 728
 gender: neuter

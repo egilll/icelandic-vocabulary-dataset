@@ -6,30 +6,39 @@ conjugation:
     no article:
       nominative: lauf
       nominative_translation: a leaf
-      nominative_sound: islex/414/414_63.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/414/414_63.mp3'
+      nominative_pronunciation: lœiːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lauf
-      accusative_sound: islex/414/414_63.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/414/414_63.mp3'
+      accusative_pronunciation: lœiːv
       dative: laufi
+      dative_pronunciation: lœiːvɪ
       genitive: laufs
     with article:
       nominative: laufið
       nominative_translation: the leaf
+      nominative_pronunciation: lœiːvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: laufið
+      accusative_pronunciation: lœiːvɪð
       dative: laufinu
+      dative_pronunciation: lœiːvɪnʏ
       genitive: laufsins
   plural:
     with article:
       nominative: laufin
       nominative_translation: the leaves
+      nominative_pronunciation: lœiːvɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: laufin
+      accusative_pronunciation: lœiːvɪn
       dative: laufunum
       genitive: laufanna
+      genitive_pronunciation: <span class="guessed">lœiːvana</span>
 id: 1299
 gender: neuter

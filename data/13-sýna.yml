@@ -5,23 +5,27 @@ conjugation:
   active voice:
     infinitive: '[að] sýna'
     infinitive_translation: to show
-    infinitive_sound: islex/326/326_84.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/326/326_84.mp3'
+    infinitive_pronunciation: siːna
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] sýni'
           1st person_translation: I show
-          1st person_sound: islex/401/401_05.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/401/401_05.mp3'
+          1st person_pronunciation: <span class="guessed">siːnɪː</span>
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] sýndi'
           1st person_translation: I showed
+          1st person_pronunciation: sintɪ
           1st person_teach: true
   supine:
     active voice: '[ég hef] sýnt'
     active voice_translation: I have shown
-    active voice_sound: islex/167/167_08.mp3
+    active voice_sound: 'https://media.egill.xyz/audio/islex/167/167_08.mp3'
+    active voice_pronunciation: siːn̥t
     active voice_teach: true
 id: 2392

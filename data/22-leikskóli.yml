@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: leikskóli
       nominative_translation: kindergarten
-      nominative_sound: islex/132/132_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/132/132_10.mp3'
+      nominative_pronunciation: leikskoulɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leikskóla
+      accusative_pronunciation: leikskoula
       dative: leikskóla
+      dative_pronunciation: leikskoula
       genitive: leikskóla
+      genitive_pronunciation: leikskoula
     with article:
       nominative: leikskólinn
       nominative_translation: the kindergarten
+      nominative_pronunciation: leikskoulɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: leikskólann
+      accusative_pronunciation: leikskoulan
       dative: leikskólanum
+      dative_pronunciation: leikskoulanʏm
       genitive: leikskólans
+      genitive_pronunciation: leikskoulans
 id: 1314
 gender: masculine

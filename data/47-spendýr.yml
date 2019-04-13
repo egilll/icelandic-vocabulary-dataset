@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: spendýr
       nominative_translation: a mammal
-      nominative_sound: islex/333/333_82.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/333/333_82.mp3'
+      nominative_pronunciation: spɛntir
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: spendýrið
       nominative_translation: the mammal
+      nominative_pronunciation: <span class="guessed">spɛntirɪːð</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1720

@@ -6,20 +6,25 @@ conjugation:
     no article:
       nominative: asni
       nominative_translation: an idiot
-      nominative_sound: islex/046/046_83.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/046/046_83.mp3'
+      nominative_pronunciation: astnɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: donkey
       accusative: asna
-      accusative_sound: islex/232/232_76.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/232/232_76.mp3'
+      accusative_pronunciation: astna
       dative: asna
-      dative_sound: islex/232/232_76.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/232/232_76.mp3'
+      dative_pronunciation: astna
       genitive: asna
-      genitive_sound: islex/232/232_76.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/232/232_76.mp3'
+      genitive_pronunciation: astna
     with article:
       nominative: asninn
       nominative_translation: the idiot
+      nominative_pronunciation: astnɪn
       nominative_teach: true
       nominative_teachtable: false
       nominative_literal: the donkey

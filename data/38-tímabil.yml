@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: tímabil
       nominative_translation: a time period
-      nominative_sound: islex/075/075_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/075/075_96.mp3'
+      nominative_pronunciation: tʰiːmapɪːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tímabil
-      accusative_sound: islex/075/075_96.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/075/075_96.mp3'
+      accusative_pronunciation: tʰiːmapɪːl
       dative: tímabili
+      dative_pronunciation: tʰiːmapɪːlɪ
       genitive: tímabils
+      genitive_pronunciation: tʰiːmapɪls
     with article:
       nominative: tímabilið
       nominative_translation: the time period
+      nominative_pronunciation: tʰiːmapɪːlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: tímabilið
+      accusative_pronunciation: tʰiːmapɪːlɪð
       dative: tímabilinu
+      dative_pronunciation: tʰiːmapɪːlɪnʏ
       genitive: tímabilsins
+      genitive_pronunciation: tʰiːmapɪlsɪns
 id: 1833
 gender: neuter

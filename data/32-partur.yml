@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: partur
       nominative_translation: a part of
-      nominative_sound: islex/408/408_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/408/408_71.mp3'
+      nominative_pronunciation: pʰar̥tʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: parturinn
       nominative_translation: the part of
+      nominative_pronunciation: <span class="guessed">pʰar̥tʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1488

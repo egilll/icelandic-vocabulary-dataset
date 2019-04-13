@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: lykilorð
       nominative_translation: a password
-      nominative_sound: islex/017/017_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/017/017_58.mp3'
+      nominative_pronunciation: lɪːcɪlɔrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lykilorð
-      accusative_sound: islex/017/017_58.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/017/017_58.mp3'
+      accusative_pronunciation: lɪːcɪlɔrð
       dative: lykilorði
+      dative_pronunciation: <span class="guessed">lɪːcɪlɔrðɪ</span>
       genitive: lykilorðs
+      genitive_pronunciation: <span class="guessed">lɪːcɪlɔrðs</span>
     with article:
       nominative: lykilorðið
       nominative_translation: the password
+      nominative_pronunciation: <span class="guessed">lɪːcɪlɔrðɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: lykilorðið
+      accusative_pronunciation: <span class="guessed">lɪːcɪlɔrðɪð</span>
       dative: lykilorðinu
+      dative_pronunciation: <span class="guessed">lɪːcɪlɔrðɪnʏ</span>
       genitive: lykilorðsins
+      genitive_pronunciation: <span class="guessed">lɪːcɪlɔrðsɪns</span>
 id: 1364
 gender: neuter

@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: stigi
       nominative_translation: a staircase; a ladder
-      nominative_sound: islex/014/014_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/014/014_97.mp3'
+      nominative_pronunciation: stiːjɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stiga
+      accusative_pronunciation: stɪːɣa
       dative: stiga
+      dative_pronunciation: stɪːɣa
       genitive: stiga
+      genitive_pronunciation: stɪːɣa
     with article:
       nominative: stiginn
       nominative_translation: the staircase; the ladder
       nominative_teach: true
       nominative_teachtable: true
       accusative: stigann
+      accusative_pronunciation: stɪːɣan
       dative: stiganum
+      dative_pronunciation: stɪːɣanʏm
       genitive: stigans
 id: 1744
 gender: masculine

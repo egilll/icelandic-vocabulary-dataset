@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: líf
       nominative_translation: life
-      nominative_sound: islex/075/075_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/075/075_04.mp3'
+      nominative_pronunciation: liːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: líf
-      accusative_sound: islex/075/075_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/075/075_04.mp3'
+      accusative_pronunciation: liːv
       dative: lífi
+      dative_pronunciation: <span class="guessed">liːvɪː</span>
       genitive: lífs
+      genitive_pronunciation: lifs
     with article:
       nominative: lífið
       nominative_translation: the life
+      nominative_pronunciation: liːvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: lífið
+      accusative_pronunciation: liːvɪð
       dative: lífinu
+      dative_pronunciation: liːvɪnʏ
       genitive: lífsins
+      genitive_pronunciation: lifsɪns
 id: 1324
 gender: neuter
 recognizable: '1'

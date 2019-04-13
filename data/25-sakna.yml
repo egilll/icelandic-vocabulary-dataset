@@ -5,13 +5,15 @@ conjugation:
   active voice:
     infinitive: '[að] sakna'
     infinitive_translation: to miss someone
-    infinitive_sound: islex/316/316_91.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/316/316_91.mp3'
+    infinitive_pronunciation: sahkna
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] sakna'
           1st person_translation: I miss someone
-          1st person_sound: islex/316/316_91.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/316/316_91.mp3'
+          1st person_pronunciation: sahkna
           1st person_teach: true
 id: 2306

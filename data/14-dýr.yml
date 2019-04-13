@@ -6,41 +6,55 @@ conjugation:
     no article:
       nominative: dýr
       nominative_translation: an animal
-      nominative_sound: islex/179/179_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/179/179_57.mp3'
+      nominative_pronunciation: tiːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dýr
-      accusative_sound: islex/179/179_57.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/179/179_57.mp3'
+      accusative_pronunciation: tiːr
       dative: dýri
+      dative_pronunciation: tiːrɪ
       genitive: dýrs
     with article:
       nominative: dýrið
       nominative_translation: the animal
+      nominative_pronunciation: tiːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: dýrið
+      accusative_pronunciation: tiːrɪð
       dative: dýrinu
+      dative_pronunciation: tiːrɪnʏ
       genitive: dýrsins
+      genitive_pronunciation: tir̥sɪns
   plural:
     no article:
       nominative: dýr
       nominative_translation: animals
-      nominative_sound: islex/179/179_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/179/179_57.mp3'
+      nominative_pronunciation: tiːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dýr
-      accusative_sound: islex/179/179_57.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/179/179_57.mp3'
+      accusative_pronunciation: tiːr
       dative: dýrum
+      dative_pronunciation: <span class="guessed">tiːrʏm</span>
       genitive: dýra
+      genitive_pronunciation: <span class="guessed">tiːraː</span>
     with article:
       nominative: dýrin
       nominative_translation: the animals
+      nominative_pronunciation: tiːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: dýrin
+      accusative_pronunciation: tiːrɪn
       dative: dýrunum
       genitive: dýranna
+      genitive_pronunciation: tiːrana
 id: 894
 gender: neuter

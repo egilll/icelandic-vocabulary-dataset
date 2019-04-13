@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: hæll
       nominative_translation: heel
-      nominative_sound: islex/248/248_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/248/248_22.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
@@ -16,7 +16,9 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: hælinn
+      accusative_pronunciation: haiːlɪn
       dative: hælnum
+      dative_pronunciation: hailnʏm
       genitive: hælsins
   plural:
     no article:
@@ -26,18 +28,25 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hæla
-      accusative_sound: islex/186/186_39.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/186/186_39.mp3'
+      accusative_pronunciation: haiːla
       dative: hælum
+      dative_pronunciation: haiːlʏm
       genitive: hæla
-      genitive_sound: islex/186/186_39.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/186/186_39.mp3'
+      genitive_pronunciation: haiːla
     with article:
       nominative: hælarnir
       nominative_translation: the heels
+      nominative_pronunciation: haiːlatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: hælana
+      accusative_pronunciation: haiːlana
       dative: hælunum
+      dative_pronunciation: haiːlɔnʏm
       genitive: hælanna
+      genitive_pronunciation: <span class="guessed">haiːlana</span>
 id: 1069
 gender: masculine
 recognizable: '1'

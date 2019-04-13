@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: ákvörðun
       nominative_translation: decision
-      nominative_sound: islex/313/313_78.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/313/313_78.mp3'
+      nominative_pronunciation: auːkvœrðʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ákvörðun
-      accusative_sound: islex/313/313_78.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/313/313_78.mp3'
+      accusative_pronunciation: auːkvœrðʏn
       dative: ákvörðun
-      dative_sound: islex/313/313_78.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/313/313_78.mp3'
+      dative_pronunciation: auːkvœrðʏn
       genitive: ákvörðunar
+      genitive_pronunciation: auːkvœrðʏnar
     with article:
       nominative: ákvörðunin
       nominative_translation: the decision
+      nominative_pronunciation: auːkvœrðʏnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ákvörðunina
+      accusative_pronunciation: auːkvœrðʏnɪna
       dative: ákvörðuninni
+      dative_pronunciation: auːkvœrðʏnɪnɪ
       genitive: ákvörðunarinnar
+      genitive_pronunciation: <span class="guessed">auːkvœrðʏnarɪnar</span>
   plural:
     no article:
       nominative: ákvarðanir
       nominative_translation: decisions
+      nominative_pronunciation: auːkvarðanɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ákvarðanir
+      accusative_pronunciation: auːkvarðanɪr
       dative: ákvörðunum
+      dative_pronunciation: auːkvœrðʏnʏm
       genitive: ákvarðana
+      genitive_pronunciation: auːkvarðana
     with article:
       nominative: ákvarðanirnar
       nominative_translation: the decisions
+      nominative_pronunciation: aːukʰvarðanɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: ákvarðanirnar
+      accusative_pronunciation: aːukʰvarðanɪtnar
       dative: ákvörðununum
       genitive: ákvarðananna
+      genitive_pronunciation: <span class="guessed">auːkvarðanana</span>
 id: 714
 gender: feminine

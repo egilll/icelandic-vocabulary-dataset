@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: álit
       nominative_translation: an opinion
-      nominative_sound: islex/254/254_67.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/254/254_67.mp3'
+      nominative_pronunciation: auːlɪt
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: álit
-      accusative_sound: islex/254/254_67.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/254/254_67.mp3'
+      accusative_pronunciation: auːlɪt
       dative: áliti
+      dative_pronunciation: auːlɪtɪ
       genitive: álits
+      genitive_pronunciation: auːlɪts
 id: 718
 gender: neuter

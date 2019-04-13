@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: veikindaleyfi
       nominative_translation: a sick leave
+      nominative_pronunciation: <span class="guessed">veiːcɪntaleiːvɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: veikindaleyfið
       nominative_translation: the sick leave
+      nominative_pronunciation: <span class="guessed">veiːcɪntaleiːvɪð</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1902

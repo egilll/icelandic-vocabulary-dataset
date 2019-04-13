@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: baðherbergi
       nominative_translation: a bathroom
-      nominative_sound: islex/198/198_63.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/198/198_63.mp3'
+      nominative_pronunciation: paːðhɛrpɛcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: baðherbergi
-      accusative_sound: islex/198/198_63.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/198/198_63.mp3'
+      accusative_pronunciation: paːðhɛrpɛcɪ
       dative: baðherbergi
-      dative_sound: islex/198/198_63.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/198/198_63.mp3'
+      dative_pronunciation: paːðhɛrpɛcɪ
       genitive: baðherbergis
+      genitive_pronunciation: <span class="guessed">paːðhɛːrpɛrkɪːs</span>
     with article:
       nominative: baðherbergið
       nominative_translation: the bathroom
+      nominative_pronunciation: paːðhɛrpɛcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: baðherbergið
+      accusative_pronunciation: paːðhɛrpɛcɪð
       dative: baðherberginu
+      dative_pronunciation: paːðhɛrpɛcɪnʏ
       genitive: baðherbergisins
+      genitive_pronunciation: <span class="guessed">paːðhɛrpɛcɪsɪns</span>
 id: 757
 gender: neuter

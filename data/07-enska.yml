@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: enska
       nominative_translation: English (language)
-      nominative_sound: islex/444/444_95.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/444/444_95.mp3'
+      nominative_pronunciation: ɛnska
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

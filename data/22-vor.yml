@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: vor
       nominative_translation: spring (season)
-      nominative_sound: islex/156/156_78.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/156/156_78.mp3'
+      nominative_pronunciation: vɔːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vor
-      accusative_sound: islex/156/156_78.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/156/156_78.mp3'
+      accusative_pronunciation: vɔːr
       dative: vori
+      dative_pronunciation: vɔːrɪ
       genitive: vors
+      genitive_pronunciation: vɔr̥s
     with article:
       nominative: vorið
       nominative_translation: the spring (season)
+      nominative_pronunciation: vɔːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: vorið
+      accusative_pronunciation: vɔːrɪð
       dative: vorinu
+      dative_pronunciation: vɔːrɪnʏ
       genitive: vorsins
+      genitive_pronunciation: vɔr̥sɪns
 id: 1944
 gender: neuter

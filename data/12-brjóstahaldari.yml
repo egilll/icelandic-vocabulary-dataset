@@ -6,14 +6,18 @@ conjugation:
     no article:
       nominative: brjóstahaldari
       nominative_translation: a bra
-      nominative_sound: islex/267/267_14.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/267/267_14.mp3'
+      nominative_pronunciation: <span class="guessed">prjoustahaltaːrɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: breast holder
       accusative: brjóstahaldara
+      accusative_pronunciation: prjoustahaltara
       dative: brjóstahaldara
+      dative_pronunciation: prjoustahaltara
       genitive: brjóstahaldara
+      genitive_pronunciation: prjoustahaltara
     with article:
       nominative: brjóstahaldarinn
       nominative_translation: the bra
@@ -21,6 +25,7 @@ conjugation:
       nominative_teachtable: true
       nominative_literal: breast holder
       accusative: brjóstahaldarann
+      accusative_pronunciation: prjoustahaltaranʏm
       dative: brjóstahaldaranum
       genitive: brjóstahaldarans
   plural:
@@ -32,8 +37,11 @@ conjugation:
       nominative_teachtable: true
       nominative_literal: breast holder
       accusative: brjóstahaldara
+      accusative_pronunciation: prjoustahaltara
       dative: brjóstahöldurum
+      dative_pronunciation: prjoustahœltʏrʏm
       genitive: brjóstahaldara
+      genitive_pronunciation: prjoustahaltara
     with article:
       nominative: brjóstahaldararnir
       nominative_translation: the bras
@@ -41,7 +49,9 @@ conjugation:
       nominative_teachtable: true
       nominative_literal: breast holder
       accusative: brjóstahaldarana
+      accusative_pronunciation: <span class="guessed">prjoustahaltaraːna</span>
       dative: brjóstahöldurunum
       genitive: brjóstahaldaranna
+      genitive_pronunciation: <span class="guessed">prjoustahaltaranʏmaː</span>
 id: 848
 gender: masculine

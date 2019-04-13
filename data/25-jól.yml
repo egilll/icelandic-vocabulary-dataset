@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: jól
       nominative_translation: christmas
-      nominative_sound: islex/145/145_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/145/145_45.mp3'
+      nominative_pronunciation: jouːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: jól
-      accusative_sound: islex/145/145_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/145/145_45.mp3'
+      accusative_pronunciation: jouːl
       dative: jólum
+      dative_pronunciation: jouːlʏm
       genitive: jóla
+      genitive_pronunciation: jouːla
     with article:
       nominative: jólin
       nominative_translation: the christmas
+      nominative_pronunciation: jouːlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: jólin
+      accusative_pronunciation: jouːlɪn
       dative: jólunum
+      dative_pronunciation: jouːlɔnʏm
       genitive: jólanna
+      genitive_pronunciation: jouːlana
 id: 1201
 gender: neuter

@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] klifra'
     infinitive_translation: to climb
-    infinitive_sound: islex/342/342_10.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/342/342_10.mp3'
+    infinitive_pronunciation: kʰlɪvra
     infinitive_teach: true
 id: 2187

@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] fresta'
     infinitive_translation: 'to postpone, to delay'
-    infinitive_sound: islex/304/304_28.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/304/304_28.mp3'
+    infinitive_pronunciation: frɛsta
     infinitive_teach: true
 id: 2112

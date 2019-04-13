@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: grill
       nominative_translation: a grill
-      nominative_sound: islex/204/204_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/204/204_30.mp3'
+      nominative_pronunciation: krɪl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: grill
-      accusative_sound: islex/204/204_30.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/204/204_30.mp3'
+      accusative_pronunciation: krɪl
       dative: grilli
+      dative_pronunciation: <span class="guessed">krɪlɪː</span>
       genitive: grills
     with article:
       nominative: grillið
       nominative_translation: the grill
+      nominative_pronunciation: krɪlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: grillið
+      accusative_pronunciation: krɪlɪð
       dative: grillinu
+      dative_pronunciation: krɪlɪnʏ
       genitive: grillsins
 id: 1050
 gender: neuter

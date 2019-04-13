@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: sulta
       nominative_translation: a jam
-      nominative_sound: islex/053/053_33.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/053/053_33.mp3'
+      nominative_pronunciation: sʏl̥ta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sultu
+      accusative_pronunciation: sʏl̥tʏ
       dative: sultu
+      dative_pronunciation: sʏl̥tʏ
       genitive: sultu
+      genitive_pronunciation: sʏl̥tʏ
     with article:
       nominative: sultan
       nominative_translation: the jam
       nominative_teach: true
       nominative_teachtable: true
       accusative: sultuna
+      accusative_pronunciation: sʏl̥tʏna
       dative: sultunni
+      dative_pronunciation: sʏl̥tʏnɪ
       genitive: sultunnar
 id: 1773
 gender: feminine

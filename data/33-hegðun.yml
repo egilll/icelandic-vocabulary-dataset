@@ -6,15 +6,19 @@ conjugation:
     no article:
       nominative: hegðun
       nominative_translation: behavior
-      nominative_sound: islex/032/032_17.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/032/032_17.mp3'
+      nominative_pronunciation: hɛɣðʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hegðun
-      accusative_sound: islex/032/032_17.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/032/032_17.mp3'
+      accusative_pronunciation: hɛɣðʏn
       dative: hegðun
-      dative_sound: islex/032/032_17.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/032/032_17.mp3'
+      dative_pronunciation: hɛɣðʏn
       genitive: hegðunar
+      genitive_pronunciation: hɛɣðʏnar
     with article:
       nominative: hegðunin
       nominative_translation: the behavior

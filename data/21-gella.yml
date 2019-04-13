@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: gella
       nominative_translation: 'a chick, a babe, a gal'
-      nominative_sound: islex/049/049_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/049/049_20.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -25,6 +25,7 @@ conjugation:
     no article:
       nominative: gellur
       nominative_translation: 'chicks, babes, gals'
+      nominative_pronunciation: cɛtlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

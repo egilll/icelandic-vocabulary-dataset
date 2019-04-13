@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: band
       nominative_translation: a string
-      nominative_sound: islex/197/197_75.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/197/197_75.mp3'
+      nominative_pronunciation: pant
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: bandið
       nominative_translation: the string
+      nominative_pronunciation: pantɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 769

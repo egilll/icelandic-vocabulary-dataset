@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: kýr
       nominative_translation: cows
-      nominative_sound: islex/339/339_63.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/339/339_63.mp3'
+      nominative_pronunciation: cʰiːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kýr
-      accusative_sound: islex/339/339_63.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/339/339_63.mp3'
+      accusative_pronunciation: cʰiːr
       dative: kúm
+      dative_pronunciation: kʰuːm
       genitive: kúa
+      genitive_pronunciation: <span class="guessed">kʰuːaː</span>
     with article:
       nominative: kýrnar
       nominative_translation: the cows
+      nominative_pronunciation: cʰirtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: kýrnar
+      accusative_pronunciation: cʰirtnar
       dative: kúnum
+      dative_pronunciation: kʰuːnʏm
       genitive: kúnna
 id: 1283
 gender: feminine

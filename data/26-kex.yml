@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: kex
       nominative_translation: 'a cookie, a biscuit'
-      nominative_sound: islex/147/147_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/147/147_87.mp3'
+      nominative_pronunciation: cʰɛks
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kex
-      accusative_sound: islex/147/147_87.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/147/147_87.mp3'
+      accusative_pronunciation: cʰɛks
       dative: kexi
+      dative_pronunciation: cʰɛksɪ
       genitive: kex
-      genitive_sound: islex/147/147_87.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/147/147_87.mp3'
+      genitive_pronunciation: cʰɛks
     with article:
       nominative: kexið
       nominative_translation: 'the cookie, the biscuit'
+      nominative_pronunciation: cʰɛksɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: kexið
+      accusative_pronunciation: cʰɛksɪð
       dative: kexinu
+      dative_pronunciation: <span class="guessed">cʰɛksɪːnʏ</span>
       genitive: kexins
 id: 1232
 gender: neuter

@@ -6,40 +6,53 @@ conjugation:
     no article:
       nominative: afmælisgjöf
       nominative_translation: a birthday present
-      nominative_sound: islex/437/437_67.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/437/437_67.mp3'
+      nominative_pronunciation: amailɪscœːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: afmælisgjöf
-      accusative_sound: islex/437/437_67.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/437/437_67.mp3'
+      accusative_pronunciation: amailɪscœːv
       dative: afmælisgjöf
-      dative_sound: islex/437/437_67.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/437/437_67.mp3'
+      dative_pronunciation: amailɪscœːv
       genitive: afmælisgjafar
     with article:
       nominative: afmælisgjöfin
       nominative_translation: the birthday present
+      nominative_pronunciation: <span class="guessed">amailɪscœːvɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: afmælisgjöfina
+      accusative_pronunciation: <span class="guessed">amailɪscœːvɪna</span>
       dative: afmælisgjöfinni
+      dative_pronunciation: <span class="guessed">amailɪscœːvɪnɪ</span>
       genitive: afmælisgjafarinnar
   plural:
     no article:
       nominative: afmælisgjafir
       nominative_translation: birthday presents
+      nominative_pronunciation: <span class="guessed">amailɪscaːvɪr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: afmælisgjafir
+      accusative_pronunciation: <span class="guessed">amailɪscaːvɪr</span>
       dative: afmælisgjöfum
+      dative_pronunciation: <span class="guessed">amailɪscœːvʏm</span>
       genitive: afmælisgjafa
+      genitive_pronunciation: <span class="guessed">amailɪscaːva</span>
     with article:
       nominative: afmælisgjafirnar
       nominative_translation: the birthday presents
+      nominative_pronunciation: <span class="guessed">amailɪscaːvɪtnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: afmælisgjafirnar
+      accusative_pronunciation: <span class="guessed">amailɪscaːvɪtnar</span>
       dative: afmælisgjöfunum
+      dative_pronunciation: <span class="guessed">amailɪscœːvɔnʏm</span>
       genitive: afmælisgjafanna
 id: 702
 gender: feminine

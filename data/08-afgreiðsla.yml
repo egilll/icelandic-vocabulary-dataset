@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: afgreiðsla
       nominative_translation: service; a counter
-      nominative_sound: islex/072/072_28.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/072/072_28.mp3'
+      nominative_pronunciation: avkreiðstla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: afgreiðslu
+      accusative_pronunciation: avkreiðstlʏ
       dative: afgreiðslu
+      dative_pronunciation: avkreiðstlʏ
       genitive: afgreiðslu
+      genitive_pronunciation: avkreiðstlʏ
     with article:
       nominative: afgreiðslan
       nominative_translation: the service; the counter
+      nominative_pronunciation: <span class="guessed">aːvkreiðstlan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: afgreiðsluna
+      accusative_pronunciation: avkreiðstlʏna
       dative: afgreiðslunni
+      dative_pronunciation: avkreiðstlʏnɪ
       genitive: afgreiðslunnar
 id: 697
 gender: feminine

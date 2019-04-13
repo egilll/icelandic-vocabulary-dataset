@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: próf
       nominative_translation: an exam
-      nominative_sound: islex/250/250_32.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/250/250_32.mp3'
+      nominative_pronunciation: pʰrouːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: próf
-      accusative_sound: islex/250/250_32.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/250/250_32.mp3'
+      accusative_pronunciation: pʰrouːv
       dative: prófi
+      dative_pronunciation: pʰrouːɪ
       genitive: prófs
+      genitive_pronunciation: pʰroufs
     with article:
       nominative: prófið
       nominative_translation: the exam
+      nominative_pronunciation: pʰrouːɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: prófið
+      accusative_pronunciation: pʰrouːɪð
       dative: prófinu
+      dative_pronunciation: pʰrouːɪnʏ
       genitive: prófsins
+      genitive_pronunciation: pʰroufsɪns
 id: 1523
 gender: neuter

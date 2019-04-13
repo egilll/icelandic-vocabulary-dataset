@@ -5,29 +5,35 @@ conjugation:
   active voice:
     infinitive: '[að] ákveða'
     infinitive_translation: to decide
-    infinitive_sound: islex/345/345_08.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/345/345_08.mp3'
+    infinitive_pronunciation: auːkvɛða
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] ákvað'
           1st person_translation: I decided
+          1st person_pronunciation: auːkvað
           1st person_teach: true
           2nd person: '[þú] ákvaðst'
           2nd person_translation: you¹ decided
+          2nd person_pronunciation: auːkvaðst
           2nd person_teach: true
           3rd person: '[hann/hún/það] ákvað'
           3rd person_translation: he/she/it decided
+          3rd person_pronunciation: auːkvað
           3rd person_teach: true
         plural:
           1st person: '[við] ákváðum'
           1st person_translation: we decided
+          1st person_pronunciation: auːkvauðʏm
           1st person_teach: true
           2nd person: '[þið] ákváðuð'
           2nd person_translation: you² decided
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] ákváðu'
           3rd person_translation: they decided
+          3rd person_pronunciation: auːkvauðʏ
           3rd person_teach: true
   imperative:
     active voice:
@@ -36,6 +42,8 @@ conjugation:
       singular_teach: true
       plural: ákveðið!
       plural_translation: decide!²
+      plural_sound: 'https://media.egill.xyz/audio/islex/401/401_20.mp3'
+      plural_pronunciation: auːkvɛðɪð
       plural_teach: true
 id: 2022
 strong_verb_declension: true

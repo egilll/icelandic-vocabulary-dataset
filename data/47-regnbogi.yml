@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: regnbogi
       nominative_translation: a rainbow
-      nominative_sound: islex/436/436_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/436/436_66.mp3'
+      nominative_pronunciation: rɛkpɔijɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: regnboga
+      accusative_pronunciation: <span class="guessed">rɛkn̥pɔːɣa</span>
       dative: regnboga
+      dative_pronunciation: <span class="guessed">rɛkn̥pɔːɣa</span>
       genitive: regnboga
+      genitive_pronunciation: <span class="guessed">rɛkn̥pɔːɣa</span>
     with article:
       nominative: regnboginn
       nominative_translation: the rainbow
+      nominative_pronunciation: rɛkpɔijɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: regnbogann
+      accusative_pronunciation: rɛkpɔɣan
       dative: regnboganum
+      dative_pronunciation: rɛkpɔɣanʏm
       genitive: regnbogans
+      genitive_pronunciation: rɛkpɔɣans
 id: 1547
 gender: masculine

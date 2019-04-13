@@ -5,21 +5,25 @@ conjugation:
   middle voice:
     infinitive: '[að] setjast'
     infinitive_translation: to sit
-    infinitive_sound: islex/123/123_57.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/123/123_57.mp3'
+    infinitive_pronunciation: sɛːtjast
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] sest'
           1st person_translation: I sit
+          1st person_pronunciation: sɛst
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] settist'
           1st person_translation: I sat
+          1st person_pronunciation: sɛhtɪst
           1st person_teach: true
   supine:
     middle voice: '[ég get] sest'
     middle voice_translation: I can sit
+    middle voice_pronunciation: sɛst
     middle voice_teach: true
 id: 2316

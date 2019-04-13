@@ -6,31 +6,41 @@ conjugation:
     no article:
       nominative: regla
       nominative_translation: a rule
-      nominative_sound: islex/479/479_29.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/479/479_29.mp3'
+      nominative_pronunciation: rɛkla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: reglu
+      accusative_pronunciation: rɛklʏ
       dative: reglu
+      dative_pronunciation: rɛklʏ
       genitive: reglu
+      genitive_pronunciation: rɛklʏ
     with article:
       nominative: reglan
       nominative_translation: the rule
+      nominative_pronunciation: rɛklan
       nominative_teach: true
       nominative_teachtable: true
       accusative: regluna
+      accusative_pronunciation: rɛklʏna
       dative: reglunni
+      dative_pronunciation: rɛklʏnɪ
       genitive: reglunnar
+      genitive_pronunciation: rɛklʏnar
   plural:
     no article:
       nominative: reglur
       nominative_translation: rules
+      nominative_pronunciation: rɛklʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: reglurnar
       nominative_translation: the rules
+      nominative_pronunciation: rɛklʏtnar
       nominative_teach: true
       nominative_teachtable: false
 id: 1546

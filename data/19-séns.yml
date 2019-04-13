@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: séns
       nominative_translation: a chance
-      nominative_sound: islex/015/015_39.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/015/015_39.mp3'
+      nominative_pronunciation: sjɛns
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sénsinn
       nominative_translation: the chance
+      nominative_pronunciation: sjɛnsɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1609

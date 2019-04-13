@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: hálsbólga
       nominative_translation: a sore throat
-      nominative_sound: islex/107/107_77.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/107/107_77.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -20,6 +20,8 @@ conjugation:
       nominative_teachtable: true
       accusative: hálsbólguna
       dative: hálsbólgunni
+      dative_pronunciation: <span class="guessed">haulspouːlkʏnɪ</span>
       genitive: hálsbólgunnar
+      genitive_pronunciation: <span class="guessed">haulspouːlkʏnar</span>
 id: 1081
 gender: feminine

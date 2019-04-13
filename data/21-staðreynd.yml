@@ -6,33 +6,45 @@ conjugation:
     no article:
       nominative: staðreynd
       nominative_translation: a fact
-      nominative_sound: islex/181/181_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/181/181_04.mp3'
+      nominative_pronunciation: staðreint
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: staðreynd
-      accusative_sound: islex/181/181_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/181/181_04.mp3'
+      accusative_pronunciation: staðreint
       dative: staðreynd
-      dative_sound: islex/181/181_04.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/181/181_04.mp3'
+      dative_pronunciation: staðreint
       genitive: staðreyndar
+      genitive_pronunciation: staðreintar
     with article:
       nominative: staðreyndin
       nominative_translation: the fact
+      nominative_pronunciation: staðreintɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: staðreyndina
+      accusative_pronunciation: <span class="guessed">staðreintɪnaː</span>
       dative: staðreyndinni
+      dative_pronunciation: <span class="guessed">staðreintɪnɪ</span>
       genitive: staðreyndarinnar
+      genitive_pronunciation: <span class="guessed">staðreintarɪnar</span>
   plural:
     no article:
       nominative: staðreyndir
       nominative_translation: facts
+      nominative_pronunciation: staðreintɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: staðreyndir
+      accusative_pronunciation: staðreintɪr
       dative: staðreyndum
+      dative_pronunciation: staðreintʏm
       genitive: staðreynda
+      genitive_pronunciation: staðreinta
     with article:
       nominative: staðreyndirnar
       nominative_translation: the facts
@@ -41,5 +53,6 @@ conjugation:
       accusative: staðreyndirnar
       dative: staðreyndunum
       genitive: staðreyndanna
+      genitive_pronunciation: <span class="guessed">staðreintana</span>
 id: 1727
 gender: feminine

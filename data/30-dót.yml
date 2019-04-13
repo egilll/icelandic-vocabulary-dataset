@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: dót
       nominative_translation: stuff; toys
-      nominative_sound: islex/404/404_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/404/404_18.mp3'
+      nominative_pronunciation: touːt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dót
-      accusative_sound: islex/404/404_18.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/404/404_18.mp3'
+      accusative_pronunciation: touːt
       dative: dóti
+      dative_pronunciation: touːtɪ
       genitive: dóts
     with article:
       nominative: dótið
       nominative_translation: the stuff; the toys
+      nominative_pronunciation: touːtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: dótið
+      accusative_pronunciation: touːtɪð
       dative: dótinu
+      dative_pronunciation: <span class="guessed">touːtɪːnʏ</span>
       genitive: dótsins
 id: 877
 gender: neuter

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: hjálp
       nominative_translation: help
-      nominative_sound: islex/196/196_98.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/196/196_98.mp3'
+      nominative_pronunciation: çaul̥p
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: hjálpin
       nominative_translation: the help
+      nominative_pronunciation: çaul̥pɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1124

@@ -6,21 +6,26 @@ conjugation:
     no article:
       nominative: súkkulaði
       nominative_translation: chocolate
-      nominative_sound: islex/030/030_21.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/030/030_21.mp3'
+      nominative_pronunciation: suːhkʏlaðɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: súkkulaði
-      accusative_sound: islex/030/030_21.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/030/030_21.mp3'
+      accusative_pronunciation: suːhkʏlaðɪ
       dative: súkkulaði
-      dative_sound: islex/030/030_21.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/030/030_21.mp3'
+      dative_pronunciation: suːhkʏlaðɪ
       genitive: súkkulaðis
     with article:
       nominative: súkkulaðið
       nominative_translation: the chocolate
+      nominative_pronunciation: suhkʏlaðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: súkkulaðið
+      accusative_pronunciation: suhkʏlaðɪð
       dative: súkkulaðinu
       genitive: súkkulaðisins
 id: 1772

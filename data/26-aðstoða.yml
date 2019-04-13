@@ -5,13 +5,15 @@ conjugation:
   active voice:
     infinitive: '[að] aðstoða'
     infinitive_translation: to assist
-    infinitive_sound: islex/056/056_84.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/056/056_84.mp3'
+    infinitive_pronunciation: aðstɔða
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] aðstoðaði'
           1st person_translation: I assisted
+          1st person_pronunciation: aðstɔðaðɪ
           1st person_teach: true
           1st person_teachtable: false
         plural:

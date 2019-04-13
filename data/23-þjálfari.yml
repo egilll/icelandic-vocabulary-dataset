@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: þjálfari
       nominative_translation: 'a trainer, a coach'
-      nominative_sound: islex/061/061_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/061/061_50.mp3'
+      nominative_pronunciation: θjaulvarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þjálfara
+      accusative_pronunciation: θjaulvara
       dative: þjálfara
+      dative_pronunciation: θjaulvara
       genitive: þjálfara
+      genitive_pronunciation: θjaulvara
     with article:
       nominative: þjálfarinn
       nominative_translation: 'the trainer, the coach'
+      nominative_pronunciation: θjaulvarɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: þjálfarann
+      accusative_pronunciation: θjaulvaran
       dative: þjálfaranum
+      dative_pronunciation: <span class="guessed">θjaulvaraːnʏm</span>
       genitive: þjálfarans
+      genitive_pronunciation: θjaulvarans
 id: 1954
 gender: masculine

@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: andlit
       nominative_translation: a face
-      nominative_sound: islex/302/302_54.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/302/302_54.mp3'
+      nominative_pronunciation: antlɪt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: andlit
-      accusative_sound: islex/302/302_54.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/302/302_54.mp3'
+      accusative_pronunciation: antlɪt
       dative: andliti
+      dative_pronunciation: antlɪtɪ
       genitive: andlits
+      genitive_pronunciation: antlɪts
     with article:
       nominative: andlitið
       nominative_translation: the face
+      nominative_pronunciation: antlɪtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: andlitið
+      accusative_pronunciation: antlɪtɪð
       dative: andlitinu
+      dative_pronunciation: antlɪtɪnʏ
       genitive: andlitsins
+      genitive_pronunciation: antlɪtsɪns
 id: 723
 gender: neuter

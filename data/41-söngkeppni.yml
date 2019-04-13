@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: söngkeppni
       nominative_translation: a singing contest
+      nominative_pronunciation: <span class="guessed">sœiŋkcʰɛhpnɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: söngkeppnin
       nominative_translation: the singing contest
+      nominative_pronunciation: <span class="guessed">sœiŋkcʰɛhpnɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1712

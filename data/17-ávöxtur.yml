@@ -6,32 +6,41 @@ conjugation:
     no article:
       nominative: ávöxtur
       nominative_translation: fruit
-      nominative_sound: islex/113/113_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/113/113_88.mp3'
+      nominative_pronunciation: auːvœkstʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ávöxt
+      accusative_pronunciation: auːvœkst
       dative: ávexti
+      dative_pronunciation: auːvɛkstɪ
       genitive: ávaxtar
     with article:
       nominative: ávöxturinn
       nominative_translation: the fruit
+      nominative_pronunciation: <span class="guessed">auːvœkstʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: ávöxtinn
+      accusative_pronunciation: <span class="guessed">auːvœkstɪn</span>
       dative: ávextinum
       genitive: ávaxtarins
   plural:
     no article:
       nominative: ávextir
       nominative_translation: fruits
+      nominative_pronunciation: auːvɛkstɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ávexti
+      accusative_pronunciation: auːvɛkstɪ
       dative: ávöxtum
+      dative_pronunciation: auːvœkstʏm
       genitive: ávaxta
-      genitive_sound: islex/420/420_04.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/420/420_04.mp3'
+      genitive_pronunciation: auːvaksta
     with article:
       nominative: ávextirnir
       nominative_translation: the fruits
@@ -39,6 +48,7 @@ conjugation:
       nominative_teachtable: true
       accusative: ávextina
       dative: ávöxtunum
+      dative_pronunciation: <span class="guessed">auːvœkstʏnʏm</span>
       genitive: ávaxtanna
 id: 755
 gender: masculine

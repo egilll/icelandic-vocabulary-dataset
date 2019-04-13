@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: lok
       nominative_translation: end
-      nominative_sound: islex/367/367_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/367/367_22.mp3'
+      nominative_pronunciation: lɔːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lok
-      accusative_sound: islex/367/367_22.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/367/367_22.mp3'
+      accusative_pronunciation: lɔːk
       dative: lokum
+      dative_pronunciation: lɔːkʏm
       genitive: loka
-      genitive_sound: islex/410/410_47.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/410/410_47.mp3'
+      genitive_pronunciation: lɔːka
     with article:
       nominative: lokin
       nominative_translation: the end
+      nominative_pronunciation: lɔːcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lokin
+      accusative_pronunciation: lɔːcɪn
       dative: lokunum
+      dative_pronunciation: <span class="guessed">lɔːkʏnʏm</span>
       genitive: lokanna
+      genitive_pronunciation: <span class="guessed">lɔːkana</span>
 id: 1355
 gender: neuter

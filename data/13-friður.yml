@@ -6,19 +6,25 @@ conjugation:
     no article:
       nominative: friður
       nominative_translation: peace
-      nominative_sound: islex/356/356_17.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/356/356_17.mp3'
+      nominative_pronunciation: frɪːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: frið
+      accusative_pronunciation: frɪːð
       dative: friði
+      dative_pronunciation: frɪːðɪ
       genitive: friðar
+      genitive_pronunciation: frɪːðar
     with article:
       nominative: friðurinn
       nominative_translation: the peace
+      nominative_pronunciation: frɪːðʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: friðinn
+      accusative_pronunciation: frɪːðɪn
       dative: friðinum
       genitive: friðarins
 id: 992

@@ -6,12 +6,16 @@ conjugation:
     no article:
       nominative: eyrnalokkar
       nominative_translation: earrings
+      nominative_pronunciation: <span class="guessed">eirtnalɔhkar</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: eyrnalokka
+      accusative_pronunciation: ɛjrtnalɔhka
       dative: eyrnalokkum
+      dative_pronunciation: <span class="guessed">eirtnalɔhkʏm</span>
       genitive: eyrnalokka
+      genitive_pronunciation: ɛjrtnalɔhka
     with article:
       nominative: eyrnalokkarnir
       nominative_translation: the earrings

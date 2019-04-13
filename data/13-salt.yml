@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: salt
       nominative_translation: salt
-      nominative_sound: islex/476/476_67.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/476/476_67.mp3'
+      nominative_pronunciation: sal̥t
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: saltið
       nominative_translation: the salt
+      nominative_pronunciation: sal̥tɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1588

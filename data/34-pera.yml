@@ -6,32 +6,44 @@ conjugation:
     no article:
       nominative: pera
       nominative_translation: a pear
-      nominative_sound: islex/289/289_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/289/289_27.mp3'
+      nominative_pronunciation: <span class="guessed">pʰɛːraː</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: peru
+      accusative_pronunciation: pʰɛːrʏ
       dative: peru
+      dative_pronunciation: pʰɛːrʏ
       genitive: peru
+      genitive_pronunciation: pʰɛːrʏ
     with article:
       nominative: peran
       nominative_translation: the pear
+      nominative_pronunciation: pʰɛːran
       nominative_teach: true
       nominative_teachtable: true
       accusative: peruna
+      accusative_pronunciation: <span class="guessed">pʰɛːrʏːna</span>
       dative: perunni
+      dative_pronunciation: pʰɛːrʏnɪ
       genitive: perunnar
+      genitive_pronunciation: <span class="guessed">pʰɛːrʏnar</span>
   plural:
     no article:
       nominative: perur
       nominative_translation: pears
+      nominative_pronunciation: pʰɛːrʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: perur
+      accusative_pronunciation: pʰɛːrʏr
       dative: perum
+      dative_pronunciation: pʰɛːrʏm
       genitive: pera
-      genitive_sound: islex/289/289_27.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/289/289_27.mp3'
+      genitive_pronunciation: <span class="guessed">pʰɛːraː</span>
     with article:
       nominative: perurnar
       nominative_translation: the pears
@@ -40,5 +52,6 @@ conjugation:
       accusative: perurnar
       dative: perunum
       genitive: peranna
+      genitive_pronunciation: <span class="guessed">pʰɛːrana</span>
 id: 1494
 gender: feminine

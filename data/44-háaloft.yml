@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: háaloft
       nominative_translation: attic
-      nominative_sound: islex/112/112_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/112/112_50.mp3'
+      nominative_pronunciation: hauːalɔft
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: háaloft
-      accusative_sound: islex/112/112_50.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/112/112_50.mp3'
+      accusative_pronunciation: hauːalɔft
       dative: háalofti
+      dative_pronunciation: hauːalɔftɪ
       genitive: háalofts
+      genitive_pronunciation: <span class="guessed">hauːalɔfts</span>
     with article:
       nominative: háaloftið
       nominative_translation: the attic
+      nominative_pronunciation: <span class="guessed">hauːalɔftɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: háaloftið
+      accusative_pronunciation: <span class="guessed">hauːalɔftɪð</span>
       dative: háaloftinu
+      dative_pronunciation: hauːalɔftɪnʏ
       genitive: háaloftsins
+      genitive_pronunciation: <span class="guessed">hauːalɔftsɪns</span>
 id: 1064
 gender: neuter

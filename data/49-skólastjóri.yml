@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: skólastjóri
       nominative_translation: a headmaster (of a school)
-      nominative_sound: islex/234/234_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/234/234_69.mp3'
+      nominative_pronunciation: skouːlastjouːrɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skólastjóra
+      accusative_pronunciation: skouːlastjouːra
       dative: skólastjóra
+      dative_pronunciation: skouːlastjouːra
       genitive: skólastjóra
+      genitive_pronunciation: skouːlastjouːra
     with article:
       nominative: skólastjórinn
       nominative_translation: the headmaster (of a school)
+      nominative_pronunciation: skouːlastjouːrɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1656

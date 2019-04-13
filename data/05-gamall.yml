@@ -1,5 +1,7 @@
 word: gamall
 word_translation: old
+word_sound: 'https://media.egill.xyz/audio/islex/377/377_00.mp3'
+word_pronunciation: kaːmatl
 word_teach: true
 level: 5
 grammatical_category: adjective

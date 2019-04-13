@@ -6,32 +6,44 @@ conjugation:
     no article:
       nominative: króna
       nominative_translation: krona (the Icelandic currency)
-      nominative_sound: islex/095/095_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/095/095_59.mp3'
+      nominative_pronunciation: kʰrouːna
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: krónu
+      accusative_pronunciation: kʰrouːnʏ
       dative: krónu
+      dative_pronunciation: kʰrouːnʏ
       genitive: krónu
+      genitive_pronunciation: kʰrouːnʏ
     with article:
       nominative: krónan
       nominative_translation: the krona (the Icelandic currency)
+      nominative_pronunciation: kʰrouːnan
       nominative_teach: true
       nominative_teachtable: true
       accusative: krónuna
+      accusative_pronunciation: kʰrouːnʏna
       dative: krónunni
+      dative_pronunciation: kʰrouːnʏnɪ
       genitive: krónunnar
+      genitive_pronunciation: kʰrouːnʏnar
   plural:
     no article:
       nominative: krónur
       nominative_translation: kronas (the Icelandic currency)
+      nominative_pronunciation: kʰrouːnʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: krónur
+      accusative_pronunciation: kʰrouːnʏr
       dative: krónum
+      dative_pronunciation: kʰrouːnʏm
       genitive: króna
-      genitive_sound: islex/095/095_59.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/095/095_59.mp3'
+      genitive_pronunciation: kʰrouːna
     with article:
       nominative: krónurnar
       nominative_translation: the kronas (the Icelandic currency)
@@ -40,5 +52,6 @@ conjugation:
       accusative: krónurnar
       dative: krónunum
       genitive: krónanna
+      genitive_pronunciation: <span class="guessed">kʰauː ɛrouːnana</span>
 id: 1272
 gender: feminine

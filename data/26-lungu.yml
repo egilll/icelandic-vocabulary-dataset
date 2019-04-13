@@ -6,19 +6,26 @@ conjugation:
     no article:
       nominative: lungu
       nominative_translation: lungs
+      nominative_pronunciation: luŋkʏ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lungu
+      accusative_pronunciation: luŋkʏ
       dative: lungum
+      dative_pronunciation: luŋkʏm
       genitive: lungna
+      genitive_pronunciation: luŋna
     with article:
       nominative: lungun
       nominative_translation: the lungs
+      nominative_pronunciation: luŋkʏn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lungun
+      accusative_pronunciation: luŋkʏn
       dative: lungunum
+      dative_pronunciation: luŋkɔnʏm
       genitive: lungnanna
 id: 1359
 gender: neuter

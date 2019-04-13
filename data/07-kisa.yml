@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: kisa
       nominative_translation: 'a kitty, a cat'
-      nominative_sound: islex/133/133_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/133/133_20.mp3'
+      nominative_pronunciation: cʰɪːsa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kisu
+      accusative_pronunciation: cʰɪːsʏ
       dative: kisu
+      dative_pronunciation: cʰɪːsʏ
       genitive: kisu
+      genitive_pronunciation: cʰɪːsʏ
     with article:
       nominative: kisan
       nominative_translation: 'the kitty, the cat'
@@ -21,4 +25,5 @@ conjugation:
 id: 1237
 gender: feminine
 synonyms: kisi
-synonyms_sound: islex/433/433_79.mp3
+synonyms_sound: 'https://media.egill.xyz/audio/islex/433/433_79.mp3'
+synonyms_pronunciation: cʰɪːsɪ

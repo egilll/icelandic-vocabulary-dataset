@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: diskur
       nominative_translation: a plate
-      nominative_sound: islex/025/025_33.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/025/025_33.mp3'
+      nominative_pronunciation: tɪskʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: disk
+      accusative_pronunciation: tɪsk
       dative: diski
+      dative_pronunciation: tɪscɪ
       genitive: disks
     with article:
       nominative: diskurinn
       nominative_translation: the plate
+      nominative_pronunciation: tɪskʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: diskinn
+      accusative_pronunciation: tɪscɪn
       dative: diskinum
+      dative_pronunciation: tɪscɪnʏm
       dative_alternative:
         - disknum
       genitive: disksins
+      genitive_pronunciation: tɪsksɪns
   plural:
     no article:
       nominative: diskar
       nominative_translation: plates
+      nominative_pronunciation: tɪskar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: diska
+      accusative_pronunciation: tɪska
       dative: diskum
+      dative_pronunciation: tɪskʏm
       genitive: diska
+      genitive_pronunciation: tɪska
     with article:
       nominative: diskarnir
       nominative_translation: the plates
+      nominative_pronunciation: tɪskatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: diskana
+      accusative_pronunciation: tɪskana
       dative: diskunum
+      dative_pronunciation: tɪskɔnʏm
       genitive: diskanna
+      genitive_pronunciation: <span class="guessed">tɪskana</span>
 id: 872
 gender: masculine

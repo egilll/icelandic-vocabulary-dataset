@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: bull
       nominative_translation: nonsense
-      nominative_sound: islex/078/078_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/078/078_19.mp3'
+      nominative_pronunciation: pʏtl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bull
-      accusative_sound: islex/078/078_19.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/078/078_19.mp3'
+      accusative_pronunciation: pʏtl̥
       dative: bulli
+      dative_pronunciation: pʏtlɪ
       genitive: bulls
     with article:
       nominative: bullið
       nominative_translation: the nonsense
+      nominative_pronunciation: <span class="guessed">pʏtl̥ɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bullið
+      accusative_pronunciation: <span class="guessed">pʏtl̥ɪːð</span>
       dative: bullinu
+      dative_pronunciation: pʏtlɪnʏ
       genitive: bullsins
 id: 854
 gender: neuter

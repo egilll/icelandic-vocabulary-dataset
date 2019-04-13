@@ -6,41 +6,55 @@ conjugation:
     no article:
       nominative: rás
       nominative_translation: a channel
-      nominative_sound: islex/298/298_52.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/298/298_52.mp3'
+      nominative_pronunciation: rauːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rás
-      accusative_sound: islex/298/298_52.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/298/298_52.mp3'
+      accusative_pronunciation: rauːs
       dative: rás
-      dative_sound: islex/298/298_52.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/298/298_52.mp3'
+      dative_pronunciation: rauːs
       genitive: rásar
+      genitive_pronunciation: rauːsar
     with article:
       nominative: rásin
       nominative_translation: the channel
       nominative_teach: true
       nominative_teachtable: true
       accusative: rásina
+      accusative_pronunciation: raːusɪna
       dative: rásinni
+      dative_pronunciation: <span class="guessed">rauːsɪnɪ</span>
       genitive: rásarinnar
+      genitive_pronunciation: <span class="guessed">rauːsarɪnar</span>
   plural:
     no article:
       nominative: rásir
       nominative_translation: channels
+      nominative_pronunciation: rauːsɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rásir
+      accusative_pronunciation: rauːsɪr
       dative: rásum
+      dative_pronunciation: rauːsʏm
       genitive: rása
-      genitive_sound: islex/223/223_80.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/223/223_80.mp3'
+      genitive_pronunciation: rauːsa
     with article:
       nominative: rásirnar
       nominative_translation: the channels
+      nominative_pronunciation: raːusɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: rásirnar
+      accusative_pronunciation: raːusɪtnar
       dative: rásunum
       genitive: rásanna
+      genitive_pronunciation: <span class="guessed">rauːsana</span>
 id: 1539
 gender: feminine

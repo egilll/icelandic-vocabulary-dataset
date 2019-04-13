@@ -5,14 +5,16 @@ conjugation:
   active voice:
     infinitive: '[að] kúka'
     infinitive_translation: to poop
-    infinitive_sound: islex/273/273_35.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/273/273_35.mp3'
+    infinitive_pronunciation: kʰuːka
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] kúka'
           1st person_translation: I poop
-          1st person_sound: islex/273/273_35.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/273/273_35.mp3'
+          1st person_pronunciation: kʰuːka
           1st person_teach: true
       past:
         singular:

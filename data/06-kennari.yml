@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: kennari
       nominative_translation: a teacher
-      nominative_sound: islex/002/002_44.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/002/002_44.mp3'
+      nominative_pronunciation: cʰɛnarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kennara
+      accusative_pronunciation: cʰɛnara
       dative: kennara
+      dative_pronunciation: cʰɛnara
       genitive: kennara
+      genitive_pronunciation: cʰɛnara
     with article:
       nominative: kennarinn
       nominative_translation: the teacher
+      nominative_pronunciation: cʰɛnarɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: kennarann
+      accusative_pronunciation: cʰɛnaran
       dative: kennaranum
+      dative_pronunciation: cʰɛnaranʏm
       genitive: kennarans
+      genitive_pronunciation: cʰɛnarans
   plural:
     no article:
       nominative: kennarar
       nominative_translation: teachers
+      nominative_pronunciation: cʰɛnarar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kennara
+      accusative_pronunciation: cʰɛnara
       dative: kennurum
+      dative_pronunciation: cʰɛnʏrʏm
       genitive: kennara
+      genitive_pronunciation: cʰɛnara
     with article:
       nominative: kennararnir
       nominative_translation: the teachers
+      nominative_pronunciation: cʰɛnaratnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: kennarana
+      accusative_pronunciation: cʰɛnarana
       dative: kennurunum
+      dative_pronunciation: cʰɛnʏrʏnʏm
       genitive: kennaranna
+      genitive_pronunciation: cʰɛnarana
 id: 1227
 gender: masculine

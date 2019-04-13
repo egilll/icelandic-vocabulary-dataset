@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: listi
       nominative_translation: a list
-      nominative_sound: islex/136/136_98.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/136/136_98.mp3'
+      nominative_pronunciation: lɪstɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lista
+      accusative_pronunciation: lɪsta
       dative: lista
+      dative_pronunciation: lɪsta
       genitive: lista
+      genitive_pronunciation: lɪsta
     with article:
       nominative: listinn
       nominative_translation: the list
+      nominative_pronunciation: lɪstɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: listann
+      accusative_pronunciation: lɪstan
       dative: listanum
+      dative_pronunciation: lɪstanʏm
       genitive: listans
+      genitive_pronunciation: lɪstans
 id: 1335
 gender: masculine
 recognizable: '1'

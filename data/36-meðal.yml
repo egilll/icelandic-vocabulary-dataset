@@ -6,38 +6,49 @@ conjugation:
     no article:
       nominative: meðal
       nominative_translation: among
-      nominative_sound: islex/217/217_12.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/217/217_12.mp3'
+      nominative_pronunciation: mɛːðal
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: meðal
-      accusative_sound: islex/217/217_12.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/217/217_12.mp3'
+      accusative_pronunciation: mɛːðal
       dative: meðali
+      dative_pronunciation: <span class="guessed">mɛːðaːlɪ</span>
       genitive: meðals
+      genitive_pronunciation: <span class="guessed">mɛːðals</span>
     with article:
       nominative: meðalið
       nominative_translation: the among
+      nominative_pronunciation: mɛːðalɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: meðalið
+      accusative_pronunciation: mɛːðalɪð
       dative: meðalinu
+      dative_pronunciation: <span class="guessed">mɛːðalɪːnʏ</span>
       genitive: meðalsins
   plural:
     no article:
       nominative: meðul
       nominative_translation: amongs
+      nominative_pronunciation: mɛːðœl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_alternative:
         - meðöl
       accusative: meðul
+      accusative_pronunciation: mɛːðœl
       accusative_alternative:
         - meðöl
       dative: meðulum
+      dative_pronunciation: mɛːðœlʏm
       dative_alternative:
         - meðölum
       genitive: meðala
+      genitive_pronunciation: <span class="guessed">mɛːðaːla</span>
     with article:
       nominative: meðulin
       nominative_translation: the amongs
@@ -52,5 +63,6 @@ conjugation:
       dative_alternative:
         - meðölunum
       genitive: meðalanna
+      genitive_pronunciation: <span class="guessed">mɛːðalana</span>
 id: 1393
 gender: neuter

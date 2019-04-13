@@ -6,6 +6,7 @@ conjugation:
     with article:
       nominative: eldavélin
       nominative_translation: the stove
+      nominative_pronunciation: <span class="guessed">ɛltavjɛːlɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 908

@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: bróðir
       nominative_translation: brother
-      nominative_sound: islex/023/023_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/023/023_88.mp3'
+      nominative_pronunciation: prouːðɪr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: bróður
+      accusative_pronunciation: prouːðʏr
       dative: bróður
+      dative_pronunciation: prouːðʏr
       genitive: bróður
+      genitive_pronunciation: prouːðʏr
     with article:
       nominative: bróðirinn
       nominative_translation: the brother
+      nominative_pronunciation: prouːðɪrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bróðurinn
+      accusative_pronunciation: <span class="guessed">prouːðʏrɪn</span>
       dative: bróðurnum
+      dative_pronunciation: prouːðʏtnʏm
       genitive: bróðurins
   plural:
     no article:
       nominative: bræður
       nominative_translation: brothers
+      nominative_pronunciation: praiːðʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: bræður
+      accusative_pronunciation: praiːðʏr
       dative: bræðrum
+      dative_pronunciation: praiðrʏm
       genitive: bræðra
+      genitive_pronunciation: praiðra
     with article:
       nominative: bræðurnir
       nominative_translation: the brothers
+      nominative_pronunciation: praiːðʏtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: bræðurna
+      accusative_pronunciation: praiːðʏtna
       dative: bræðrunum
+      dative_pronunciation: praiðrɔnʏm
       genitive: bræðranna
+      genitive_pronunciation: praiðrana
 id: 850
 gender: masculine

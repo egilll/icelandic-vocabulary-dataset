@@ -6,22 +6,27 @@ conjugation:
     no article:
       nominative: leki
       nominative_translation: a leak
-      nominative_sound: islex/462/462_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/462/462_73.mp3'
+      nominative_pronunciation: lɛːcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leka
-      accusative_sound: islex/115/115_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/115/115_04.mp3'
+      accusative_pronunciation: lɛːka
       dative: leka
-      dative_sound: islex/115/115_04.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/115/115_04.mp3'
+      dative_pronunciation: lɛːka
       genitive: leka
-      genitive_sound: islex/115/115_04.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/115/115_04.mp3'
+      genitive_pronunciation: lɛːka
     with article:
       nominative: lekinn
       nominative_translation: the leak
       nominative_teach: true
       nominative_teachtable: true
       accusative: lekann
+      accusative_pronunciation: lɛːkan
       dative: lekanum
       genitive: lekans
 id: 1317

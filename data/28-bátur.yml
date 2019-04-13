@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: bátur
       nominative_translation: a boat
-      nominative_sound: islex/383/383_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/383/383_38.mp3'
+      nominative_pronunciation: pauːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bát
+      accusative_pronunciation: pauːt
       dative: báti
+      dative_pronunciation: pauːtɪ
       dative_alternative:
         - bát
       genitive: báts
     with article:
       nominative: báturinn
       nominative_translation: the boat
+      nominative_pronunciation: pauːtʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bátinn
+      accusative_pronunciation: pauːtɪn
       dative: bátnum
+      dative_pronunciation: pauhtnʏm
       genitive: bátsins
+      genitive_pronunciation: pautsɪns
   plural:
     no article:
       nominative: bátar
       nominative_translation: boats
+      nominative_pronunciation: pauːtar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: báta
+      accusative_pronunciation: pauːta
       dative: bátum
+      dative_pronunciation: pauːtʏm
       genitive: báta
+      genitive_pronunciation: pauːta
     with article:
       nominative: bátarnir
       nominative_translation: the boats
+      nominative_pronunciation: pauːtatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: bátana
+      accusative_pronunciation: pauːtana
       dative: bátunum
+      dative_pronunciation: pauːtɔnʏm
       genitive: bátanna
+      genitive_pronunciation: pauːtana
 id: 776
 gender: masculine

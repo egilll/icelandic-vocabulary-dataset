@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: tré
       nominative_translation: a tree
-      nominative_sound: islex/378/378_86.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/378/378_86.mp3'
+      nominative_pronunciation: tʰrjɛː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: tréð
       nominative_translation: the tree
+      nominative_pronunciation: tʰrjɛːð
       nominative_teach: true
       nominative_teachtable: false
 id: 1851

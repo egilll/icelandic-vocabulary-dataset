@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: ofn
       nominative_translation: an oven; a radiator
-      nominative_sound: islex/417/417_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/417/417_66.mp3'
+      nominative_pronunciation: ɔpn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ofn
-      accusative_sound: islex/417/417_66.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/417/417_66.mp3'
+      accusative_pronunciation: ɔpn̥
       dative: ofni
+      dative_pronunciation: ɔpnɪ
       genitive: ofns
     with article:
       nominative: ofninn
       nominative_translation: the oven; the radiator
+      nominative_pronunciation: ɔpnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ofninn
+      accusative_pronunciation: ɔpnɪn
       dative: ofninum
+      dative_pronunciation: ɔpnɪnʏm
       genitive: ofnsins
 id: 1462
 gender: masculine

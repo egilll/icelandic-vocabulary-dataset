@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: kuldi
       nominative_translation: cold weather; coldness
-      nominative_sound: islex/329/329_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/329/329_45.mp3'
+      nominative_pronunciation: kʰʏltɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kulda
+      accusative_pronunciation: kʰʏlta
       dative: kulda
+      dative_pronunciation: kʰʏlta
       genitive: kulda
+      genitive_pronunciation: kʰʏlta
     with article:
       nominative: kuldinn
       nominative_translation: the cold weather; the coldness
+      nominative_pronunciation: kʰʏltɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: kuldann
+      accusative_pronunciation: kʰʏltan
       dative: kuldanum
+      dative_pronunciation: kʰʏltanʏm
       genitive: kuldans
+      genitive_pronunciation: <span class="guessed">kʰʏːltans</span>
 id: 1274
 gender: masculine

@@ -5,57 +5,70 @@ conjugation:
   active voice:
     infinitive: '[að] halda'
     infinitive_translation: 'to hold; to think, to believe, to assume'
-    infinitive_sound: islex/239/239_58.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/239/239_58.mp3'
+    infinitive_pronunciation: halta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] held'
           1st person_translation: 'I hold; I think, I believe, I assume'
+          1st person_pronunciation: hɛlt
           1st person_teach: true
           2nd person: '[þú] heldur'
           2nd person_translation: 'you¹ hold; you¹ think, you¹ believe, you¹ assume'
-          2nd person_sound: islex/087/087_47.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/087/087_47.mp3'
+          2nd person_pronunciation: hɛltʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] heldur'
           3rd person_translation: >-
             he/she/it holds; he/she/it thinks, he/she/it believes, he/she/it
             assumes
-          3rd person_sound: islex/087/087_47.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/087/087_47.mp3'
+          3rd person_pronunciation: hɛltʏr
           3rd person_teach: true
         plural:
           1st person: '[við] höldum'
           1st person_translation: 'we hold; we think, we believe, we assume'
+          1st person_pronunciation: hœltʏm
           1st person_teach: true
           2nd person: '[þið] haldið'
           2nd person_translation: 'you² hold; you² think, you² believe, you² assume'
+          2nd person_pronunciation: haltɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] halda'
           3rd person_translation: 'they hold; they think, they believe, they assume'
-          3rd person_sound: islex/239/239_58.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/239/239_58.mp3'
+          3rd person_pronunciation: halta
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] hélt'
           1st person_translation: 'I held; I thought, I believed, I assumed'
+          1st person_pronunciation: çɛl̥t
           1st person_teach: true
           2nd person: '[þú] hélst'
           2nd person_translation: 'you¹ held; you¹ thought, you¹ believed, you¹ assumed'
+          2nd person_pronunciation: çɛlst
           2nd person_teach: true
           3rd person: '[hann/hún/það] hélt'
           3rd person_translation: >-
             he/she/it held; he/she/it thought, he/she/it believed, he/she/it
             assumed
+          3rd person_pronunciation: çɛl̥t
           3rd person_teach: true
         plural:
           1st person: '[við] héldum'
           1st person_translation: 'we held; we thought, we believed, we assumed'
+          1st person_pronunciation: çɛltʏm
           1st person_teach: true
           2nd person: '[þið] hélduð'
           2nd person_translation: 'you² held; you² thought, you² believed, you² assumed'
+          2nd person_pronunciation: çɛltʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] héldu'
           3rd person_translation: 'they held; they thought, they believed, they assumed'
+          3rd person_pronunciation: çɛltʏ
           3rd person_teach: true
 id: 1977
 strong_verb_declension: true

@@ -5,6 +5,7 @@ conjugation:
   middle voice:
     infinitive: '[að] forðast'
     infinitive_translation: to avoid
-    infinitive_sound: islex/323/323_98.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/323/323_98.mp3'
+    infinitive_pronunciation: fɔrðast
     infinitive_teach: true
 id: 2110

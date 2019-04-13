@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: apótek
       nominative_translation: a pharmacy
-      nominative_sound: islex/055/055_76.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/055/055_76.mp3'
+      nominative_pronunciation: aːpoutɛːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: apótek
-      accusative_sound: islex/055/055_76.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/055/055_76.mp3'
+      accusative_pronunciation: aːpoutɛːk
       dative: apóteki
+      dative_pronunciation: <span class="guessed">aːpoutɛːkɪː</span>
       genitive: apóteks
     with article:
       nominative: apótekið
       nominative_translation: the pharmacy
+      nominative_pronunciation: aːpoutɛːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: apótekið
+      accusative_pronunciation: aːpoutɛːcɪð
       dative: apótekinu
+      dative_pronunciation: aːpoutɛːcɪnʏ
       genitive: apóteksins
 id: 725
 gender: neuter

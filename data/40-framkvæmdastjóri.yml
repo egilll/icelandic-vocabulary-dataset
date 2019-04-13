@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: framkvæmdastjóri
       nominative_translation: 'a manager, an executive director'
-      nominative_sound: islex/403/403_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/403/403_27.mp3'
+      nominative_pronunciation: framkvaimtastjouːrɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: framkvæmdastjórinn
       nominative_translation: 'the manager, the executive director'
+      nominative_pronunciation: framkvaimtastjouːrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 985

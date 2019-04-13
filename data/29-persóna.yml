@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: persóna
       nominative_translation: a character
-      nominative_sound: islex/323/323_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/323/323_01.mp3'
+      nominative_pronunciation: pʰɛr̥souna
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: persónu
+      accusative_pronunciation: pʰɛr̥sounʏ
       dative: persónu
+      dative_pronunciation: pʰɛr̥sounʏ
       genitive: persónu
+      genitive_pronunciation: pʰɛr̥sounʏ
     with article:
       nominative: persónan
       nominative_translation: the character
+      nominative_pronunciation: pʰɛr̥sounan
       nominative_teach: true
       nominative_teachtable: true
       accusative: persónuna
+      accusative_pronunciation: pʰɛr̥sounʏna
       dative: persónunni
+      dative_pronunciation: pʰɛr̥sounʏnɪ
       genitive: persónunnar
+      genitive_pronunciation: pʰɛr̥sounʏnar
   plural:
     no article:
       nominative: persónur
       nominative_translation: characters
+      nominative_pronunciation: pʰɛr̥sounʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: persónur
+      accusative_pronunciation: pʰɛr̥sounʏr
       dative: persónum
+      dative_pronunciation: pʰɛr̥sounʏm
       genitive: persóna
-      genitive_sound: islex/323/323_01.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/323/323_01.mp3'
+      genitive_pronunciation: pʰɛr̥souna
     with article:
       nominative: persónurnar
       nominative_translation: the characters
+      nominative_pronunciation: pʰɛr̥sounʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: persónurnar
+      accusative_pronunciation: pʰɛr̥sounʏtnar
       dative: persónunum
+      dative_pronunciation: pʰɛr̥sounɔnʏm
       genitive: persónanna
+      genitive_pronunciation: pʰɛr̥sounana
 id: 1495
 gender: feminine

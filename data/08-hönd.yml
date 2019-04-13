@@ -6,60 +6,76 @@ conjugation:
     no article:
       nominative: hönd
       nominative_translation: a hand
-      nominative_sound: islex/476/476_36.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/476/476_36.mp3'
+      nominative_pronunciation: hœnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_alternative:
         - hendi
       accusative: hönd
-      accusative_sound: islex/476/476_36.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/476/476_36.mp3'
+      accusative_pronunciation: hœnt
       accusative_alternative:
         - hendi
       dative: hendi
+      dative_pronunciation: hɛntɪ
       dative_alternative:
         - hönd
       genitive: handar
+      genitive_pronunciation: hantar
     with article:
       nominative: höndin
       nominative_translation: the hand
+      nominative_pronunciation: hœntɪn
       nominative_teach: true
       nominative_teachtable: true
       nominative_alternative:
         - hendin
       accusative: höndina
+      accusative_pronunciation: hœntɪna
       accusative_alternative:
         - hendina
       dative: hendinni
+      dative_pronunciation: hɛntɪnɪ
       dative_alternative:
         - höndinni
       genitive: handarinnar
+      genitive_pronunciation: hantarɪnar
   plural:
     no article:
       nominative: hendur
       nominative_translation: hands
+      nominative_pronunciation: hɛntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_alternative:
         - höndur
       accusative: hendur
+      accusative_pronunciation: hɛntʏr
       accusative_alternative:
         - höndur
       dative: höndum
+      dative_pronunciation: hœntʏm
       genitive: handa
-      genitive_sound: islex/294/294_79.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/294/294_79.mp3'
+      genitive_pronunciation: hanta
     with article:
       nominative: hendurnar
       nominative_translation: the hands
+      nominative_pronunciation: hɛntʏtnar
       nominative_teach: true
       nominative_teachtable: true
       nominative_alternative:
         - höndurnar
       accusative: hendurnar
+      accusative_pronunciation: hɛntʏtnar
       accusative_alternative:
         - höndurnar
       dative: höndunum
+      dative_pronunciation: hœntɔnʏm
       genitive: handanna
+      genitive_pronunciation: hantana
 id: 1152
 gender: feminine

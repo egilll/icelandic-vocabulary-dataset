@@ -6,13 +6,16 @@ conjugation:
     no article:
       nominative: skyldur
       nominative_translation: duties
-      nominative_sound: islex/237/237_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/237/237_96.mp3'
+      nominative_pronunciation: scɪltʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skyldur
-      accusative_sound: islex/237/237_96.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/237/237_96.mp3'
+      accusative_pronunciation: scɪltʏr
       dative: skyldum
+      dative_pronunciation: scɪltʏm
       genitive: skyldna
     with article:
       nominative: skyldurnar
@@ -22,5 +25,6 @@ conjugation:
       accusative: skyldurnar
       dative: skyldunum
       genitive: skyldnanna
+      genitive_pronunciation: <span class="guessed">scɪltnana</span>
 id: 1670
 gender: feminine

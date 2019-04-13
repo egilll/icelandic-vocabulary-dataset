@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: býfluga
       nominative_translation: a bee
-      nominative_sound: islex/170/170_84.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/170/170_84.mp3'
+      nominative_pronunciation: piːflʏɣa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: býflugu
+      accusative_pronunciation: <span class="guessed">piːflʏːɣʏ</span>
       dative: býflugu
+      dative_pronunciation: <span class="guessed">piːflʏːɣʏ</span>
       genitive: býflugu
+      genitive_pronunciation: <span class="guessed">piːflʏːɣʏ</span>
     with article:
       nominative: býflugan
       nominative_translation: the bee
+      nominative_pronunciation: <span class="guessed">piːflʏːɣan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: býfluguna
+      accusative_pronunciation: <span class="guessed">piːflʏːɣʏna</span>
       dative: býflugunni
+      dative_pronunciation: <span class="guessed">piːflʏːɣʏnɪ</span>
       genitive: býflugunnar
+      genitive_pronunciation: <span class="guessed">piːflʏːɣʏnar</span>
   plural:
     no article:
       nominative: býflugur
       nominative_translation: bees
+      nominative_pronunciation: <span class="guessed">piːflʏːɣʏr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: býflugur
+      accusative_pronunciation: <span class="guessed">piːflʏːɣʏr</span>
       dative: býflugum
+      dative_pronunciation: <span class="guessed">piːflʏːɣʏm</span>
       genitive: býflugna
     with article:
       nominative: býflugurnar
       nominative_translation: the bees
+      nominative_pronunciation: <span class="guessed">piːflʏːɣʏtnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: býflugurnar
+      accusative_pronunciation: <span class="guessed">piːflʏːɣʏtnar</span>
       dative: býflugunum
       genitive: býflugnanna
+      genitive_pronunciation: <span class="guessed">piːflʏːɣnana</span>
 id: 857
 gender: feminine

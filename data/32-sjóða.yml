@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] sjóða'
     infinitive_translation: to boil
-    infinitive_sound: islex/045/045_06.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/045/045_06.mp3'
+    infinitive_pronunciation: sjouːða
     infinitive_teach: true
     indicative:
       present:
@@ -20,10 +21,12 @@ conjugation:
         singular:
           1st person: '[ég] sauð'
           1st person_translation: I boiled
+          1st person_pronunciation: sœiːð
           1st person_teach: true
   supine:
     active voice: '[ég hef] soðið'
     active voice_translation: I have boiled
+    active voice_pronunciation: sɔːðɪð
     active voice_teach: true
 id: 2324
 strong_verb_declension: true

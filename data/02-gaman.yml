@@ -6,14 +6,18 @@ conjugation:
     no article:
       nominative: gaman
       nominative_translation: fun
-      nominative_sound: islex/213/213_07.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/213/213_07.mp3'
+      nominative_pronunciation: kaːman
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gaman
-      accusative_sound: islex/213/213_07.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/213/213_07.mp3'
+      accusative_pronunciation: kaːman
       dative: gamni
+      dative_pronunciation: kamnɪ
       genitive: gamans
+      genitive_pronunciation: kaːmans
     with article:
       nominative: gamnið
       nominative_translation: the fun

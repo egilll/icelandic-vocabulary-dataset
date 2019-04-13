@@ -6,17 +6,22 @@ conjugation:
     no article:
       nominative: atvinnuleysisbætur
       nominative_translation: unemployment compensations
-      nominative_sound: islex/079/079_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/079/079_19.mp3'
+      nominative_pronunciation: aːtvɪnʏleiːsɪspaiːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: atvinnuleysisbætur
-      accusative_sound: islex/079/079_19.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/079/079_19.mp3'
+      accusative_pronunciation: aːtvɪnʏleiːsɪspaiːtʏr
       dative: atvinnuleysisbótum
+      dative_pronunciation: aːtvɪnʏleiːsɪspouːtʏm
       genitive: atvinnuleysisbóta
+      genitive_pronunciation: <span class="guessed">aːtvɪnʏleiːsɪspouːta</span>
     with article:
       nominative: atvinnuleysisbæturnar
       nominative_translation: the unemployment compensations
+      nominative_pronunciation: aːtvɪnʏleiːsɪspaiːtʏtnar
       nominative_teach: false
       nominative_teachtable: false
 id: 746

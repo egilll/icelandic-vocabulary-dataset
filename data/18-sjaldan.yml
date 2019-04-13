@@ -1,5 +1,7 @@
 word: sjaldan
 word_translation: rarely
+word_sound: 'https://media.egill.xyz/audio/islex/185/185_10.mp3'
+word_pronunciation: sjaltan
 word_teach: true
 level: 18
 grammatical_category: other

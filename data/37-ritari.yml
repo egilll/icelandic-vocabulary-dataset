@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: ritari
       nominative_translation: a secretary
-      nominative_sound: islex/022/022_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/022/022_45.mp3'
+      nominative_pronunciation: rɪːtarɪ
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: ritara
+      accusative_pronunciation: rɪːtara
       dative: ritara
+      dative_pronunciation: rɪːtara
       genitive: ritara
+      genitive_pronunciation: rɪːtara
     with article:
       nominative: ritarinn
       nominative_translation: the secretary
+      nominative_pronunciation: <span class="guessed">rɪːtarɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: ritarann
+      accusative_pronunciation: rɪːtaran
       dative: ritaranum
+      dative_pronunciation: <span class="guessed">rɪːtaraːnʏm</span>
       genitive: ritarans
 id: 1562
 gender: masculine

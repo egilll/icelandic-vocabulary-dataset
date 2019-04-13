@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: hljóðfæri
       nominative_translation: a musical instrument
-      nominative_sound: islex/206/206_36.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/206/206_36.mp3'
+      nominative_pronunciation: l̥jouðfairɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hljóðfæri
-      accusative_sound: islex/206/206_36.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/206/206_36.mp3'
+      accusative_pronunciation: l̥jouðfairɪ
       dative: hljóðfæri
-      dative_sound: islex/206/206_36.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/206/206_36.mp3'
+      dative_pronunciation: l̥jouðfairɪ
       genitive: hljóðfæris
+      genitive_pronunciation: <span class="guessed">l̥jouːðfaiːrɪːs</span>
     with article:
       nominative: hljóðfærið
       nominative_translation: the musical instrument
+      nominative_pronunciation: l̥jouðfairɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hljóðfærið
+      accusative_pronunciation: l̥jouðfairɪð
       dative: hljóðfærinu
+      dative_pronunciation: <span class="guessed">l̥jouːðfaiːrɪːnʏ</span>
       genitive: hljóðfærisins
+      genitive_pronunciation: l̥jouðfairɪsɪns
 id: 1137
 gender: neuter

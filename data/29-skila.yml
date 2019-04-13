@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] skila'
     infinitive_translation: 'to give something back, to return something'
-    infinitive_sound: islex/036/036_55.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/036/036_55.mp3'
+    infinitive_pronunciation: scɪːla
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] skilaði'
           1st person_translation: 'I gave something back, I returned something'
+          1st person_pronunciation: scɪːlaðɪ
           1st person_teach: true
 id: 2334

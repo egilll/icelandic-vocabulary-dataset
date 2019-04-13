@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: málverk
       nominative_translation: a painting
-      nominative_sound: islex/176/176_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/176/176_37.mp3'
+      nominative_pronunciation: maulvɛr̥k
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: málverk
-      accusative_sound: islex/176/176_37.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/176/176_37.mp3'
+      accusative_pronunciation: maulvɛr̥k
       dative: málverki
+      dative_pronunciation: maulvɛr̥cɪ
       genitive: málverks
+      genitive_pronunciation: <span class="guessed">mauːlvɛr̥ks</span>
     with article:
       nominative: málverkið
       nominative_translation: the painting
+      nominative_pronunciation: maulvɛr̥cɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: málverkið
+      accusative_pronunciation: maulvɛr̥cɪð
       dative: málverkinu
+      dative_pronunciation: maulvɛr̥cɪnʏ
       genitive: málverksins
+      genitive_pronunciation: maulvɛr̥ksɪns
 id: 1378
 gender: neuter

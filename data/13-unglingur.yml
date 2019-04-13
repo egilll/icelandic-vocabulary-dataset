@@ -6,42 +6,57 @@ conjugation:
     no article:
       nominative: unglingur
       nominative_translation: a teenager
-      nominative_sound: islex/176/176_90.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/176/176_90.mp3'
+      nominative_pronunciation: uŋliŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: a youngling
       accusative: ungling
+      accusative_pronunciation: uŋliŋkʏr
       dative: unglingi
+      dative_pronunciation: uŋliɲcɪ
       genitive: unglings
+      genitive_pronunciation: uŋliŋs
     with article:
       nominative: unglingurinn
       nominative_translation: the teenager
+      nominative_pronunciation: uŋliŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       nominative_literal: the youngling
       accusative: unglinginn
+      accusative_pronunciation: uŋliɲcɪn
       dative: unglingnum
       genitive: unglingsins
+      genitive_pronunciation: uŋliŋsɪns
   plural:
     no article:
       nominative: unglingar
       nominative_translation: teenagers
+      nominative_pronunciation: uŋlinkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: younglings
       accusative: unglinga
+      accusative_pronunciation: uŋlinka
       dative: unglingum
+      dative_pronunciation: uŋliŋkʏm
       genitive: unglinga
+      genitive_pronunciation: uŋlinka
     with article:
       nominative: unglingarnir
       nominative_translation: the teenagers
+      nominative_pronunciation: uŋlinkatnɪr
       nominative_teach: true
       nominative_teachtable: true
       nominative_literal: the younglings
       accusative: unglingana
+      accusative_pronunciation: uŋlinkana
       dative: unglingunum
+      dative_pronunciation: uŋliŋkɔnʏm
       genitive: unglinganna
+      genitive_pronunciation: uŋlinkana
 id: 1869
 gender: masculine

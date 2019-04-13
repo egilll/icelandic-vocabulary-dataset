@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: upplýsingar
       nominative_translation: information
-      nominative_sound: islex/062/062_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/062/062_08.mp3'
+      nominative_pronunciation: ʏhplisiŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: upplýsingar
-      accusative_sound: islex/062/062_08.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/062/062_08.mp3'
+      accusative_pronunciation: ʏhplisiŋkar
       dative: upplýsingum
+      dative_pronunciation: ʏhplisiŋkʏm
       genitive: upplýsinga
+      genitive_pronunciation: ʏhplisiŋka
     with article:
       nominative: upplýsingarnar
       nominative_translation: the information
+      nominative_pronunciation: ʏhplisiŋkatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: upplýsingarnar
+      accusative_pronunciation: ʏhplisiŋkatnar
       dative: upplýsingunum
+      dative_pronunciation: ʏhplisiŋkɔnʏm
       genitive: upplýsinganna
+      genitive_pronunciation: <span class="guessed">ʏhpliːsiŋkana</span>
 id: 1873
 gender: feminine

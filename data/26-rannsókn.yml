@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: rannsókn
       nominative_translation: an investigation; research
-      nominative_sound: islex/415/415_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/415/415_97.mp3'
+      nominative_pronunciation: ransouhkn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rannsókn
-      accusative_sound: islex/415/415_97.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/415/415_97.mp3'
+      accusative_pronunciation: ransouhkn̥
       dative: rannsókn
-      dative_sound: islex/415/415_97.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/415/415_97.mp3'
+      dative_pronunciation: ransouhkn̥
       genitive: rannsóknar
+      genitive_pronunciation: ransouhknar
     with article:
       nominative: rannsóknin
       nominative_translation: the investigation; the research
+      nominative_pronunciation: ransouhknɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: rannsóknina
+      accusative_pronunciation: ransouhknɪna
       dative: rannsókninni
+      dative_pronunciation: ransouhknɪnɪ
       genitive: rannsóknarinnar
+      genitive_pronunciation: ransouhknarɪnar
 id: 1538
 gender: feminine

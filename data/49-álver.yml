@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: álver
       nominative_translation: an aluminum plant
-      nominative_sound: islex/272/272_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/272/272_22.mp3'
+      nominative_pronunciation: aulvɛr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: álver
-      accusative_sound: islex/272/272_22.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/272/272_22.mp3'
+      accusative_pronunciation: aulvɛr
       dative: álveri
+      dative_pronunciation: aulvɛrɪ
       genitive: álvers
+      genitive_pronunciation: aulvɛr̥s
     with article:
       nominative: álverið
       nominative_translation: the aluminum plant
+      nominative_pronunciation: aulvɛrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: álverið
+      accusative_pronunciation: aulvɛrɪð
       dative: álverinu
+      dative_pronunciation: aulvɛrɪnʏ
       genitive: álversins
+      genitive_pronunciation: aulvɛr̥sɪns
 id: 720
 gender: neuter

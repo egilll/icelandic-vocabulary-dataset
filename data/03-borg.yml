@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: borg
       nominative_translation: a city
-      nominative_sound: islex/191/191_61.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/191/191_61.mp3'
+      nominative_pronunciation: pɔrk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: borg
-      accusative_sound: islex/191/191_61.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/191/191_61.mp3'
+      accusative_pronunciation: pɔrk
       dative: borg
-      dative_sound: islex/191/191_61.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/191/191_61.mp3'
+      dative_pronunciation: pɔrk
       genitive: borgar
+      genitive_pronunciation: pɔrkar
     with article:
       nominative: borgin
       nominative_translation: the city
+      nominative_pronunciation: pɔrcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: borgina
+      accusative_pronunciation: pɔrcɪna
       dative: borginni
+      dative_pronunciation: pɔrcɪnɪ
       genitive: borgarinnar
+      genitive_pronunciation: pɔrkarɪnar
 id: 837
 gender: feminine

@@ -6,38 +6,51 @@ conjugation:
     no article:
       nominative: kjóll
       nominative_translation: a dress
-      nominative_sound: islex/336/336_90.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/336/336_90.mp3'
+      nominative_pronunciation: cʰoutl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kjól
+      accusative_pronunciation: cʰouːl
       dative: kjól
+      dative_pronunciation: cʰouːl
       genitive: kjóls
     with article:
       nominative: kjóllinn
       nominative_translation: the dress
+      nominative_pronunciation: cʰoutlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: kjólinn
+      accusative_pronunciation: cʰouːlɪn
       dative: kjólnum
+      dative_pronunciation: cʰoulnʏm
       genitive: kjólsins
   plural:
     no article:
       nominative: kjólar
       nominative_translation: dresses
+      nominative_pronunciation: cʰouːlar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kjóla
+      accusative_pronunciation: cʰouːla
       dative: kjólum
+      dative_pronunciation: cʰouːlʏm
       genitive: kjóla
+      genitive_pronunciation: cʰouːla
     with article:
       nominative: kjólarnir
       nominative_translation: the dresses
       nominative_teach: true
       nominative_teachtable: true
       accusative: kjólana
+      accusative_pronunciation: cʰouːlana
       dative: kjólunum
+      dative_pronunciation: cʰouːlɔnʏm
       genitive: kjólanna
+      genitive_pronunciation: <span class="guessed">cʰouːlana</span>
 id: 1241
 gender: masculine

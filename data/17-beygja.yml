@@ -5,11 +5,13 @@ conjugation:
   active voice:
     infinitive: '[að] beygja'
     infinitive_translation: to bend
-    infinitive_sound: islex/023/023_45.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/023/023_45.mp3'
+    infinitive_pronunciation: peija
     infinitive_teach: true
   imperative:
     active voice:
       singular: beygðu!
       singular_translation: bend!¹
+      singular_pronunciation: peiɣðʏ
       singular_teach: true
 id: 2042

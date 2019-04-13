@@ -6,40 +6,51 @@ conjugation:
     no article:
       nominative: stormur
       nominative_translation: a big storm
-      nominative_sound: islex/232/232_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/232/232_05.mp3'
+      nominative_pronunciation: stɔrmʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: storm
+      accusative_pronunciation: stɔrm
       dative: stormi
+      dative_pronunciation: stɔrmɪ
       genitive: storms
     with article:
       nominative: stormurinn
       nominative_translation: the big storm
+      nominative_pronunciation: stɔrmʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: storminn
+      accusative_pronunciation: <span class="guessed">stɔrmɪn</span>
       dative: storminum
       genitive: stormsins
   plural:
     no article:
       nominative: stormar
       nominative_translation: big storms
+      nominative_pronunciation: stɔrmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: storma
-      accusative_sound: islex/043/043_80.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/043/043_80.mp3'
+      accusative_pronunciation: <span class="guessed">stɔrmaː</span>
       dative: stormum
+      dative_pronunciation: <span class="guessed">stɔrmʏm</span>
       genitive: storma
-      genitive_sound: islex/043/043_80.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/043/043_80.mp3'
+      genitive_pronunciation: <span class="guessed">stɔrmaː</span>
     with article:
       nominative: stormarnir
       nominative_translation: the big storms
       nominative_teach: true
       nominative_teachtable: true
       accusative: stormana
+      accusative_pronunciation: <span class="guessed">stɔrmaːna</span>
       dative: stormunum
       genitive: stormanna
+      genitive_pronunciation: <span class="guessed">stɔrmana</span>
 id: 1752
 gender: masculine

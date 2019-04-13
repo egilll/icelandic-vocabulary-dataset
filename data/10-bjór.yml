@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: bjór
       nominative_translation: a beer
-      nominative_sound: islex/209/209_00.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/209/209_00.mp3'
+      nominative_pronunciation: pjouːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bjór
-      accusative_sound: islex/209/209_00.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/209/209_00.mp3'
+      accusative_pronunciation: pjouːr
       dative: bjór
-      dative_sound: islex/209/209_00.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/209/209_00.mp3'
+      dative_pronunciation: pjouːr
       genitive: bjórs
     with article:
       nominative: bjórinn
       nominative_translation: the beer
+      nominative_pronunciation: pjouːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bjórinn
+      accusative_pronunciation: pjouːrɪn
       dative: bjórnum
+      dative_pronunciation: pjourtnʏm
       genitive: bjórsins
 id: 803
 gender: masculine

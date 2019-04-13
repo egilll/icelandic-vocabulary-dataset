@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] enda'
     infinitive_translation: to end
-    infinitive_sound: islex/121/121_09.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/121/121_09.mp3'
+    infinitive_pronunciation: ɛnta
     infinitive_teach: true
 id: 2086

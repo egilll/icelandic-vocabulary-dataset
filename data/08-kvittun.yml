@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: kvittun
       nominative_translation: a receipt
-      nominative_sound: islex/420/420_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/420/420_99.mp3'
+      nominative_pronunciation: kʰvɪhtʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kvittun
-      accusative_sound: islex/420/420_99.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/420/420_99.mp3'
+      accusative_pronunciation: kʰvɪhtʏn
       dative: kvittun
-      dative_sound: islex/420/420_99.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/420/420_99.mp3'
+      dative_pronunciation: kʰvɪhtʏn
       genitive: kvittunar
     with article:
       nominative: kvittunin
@@ -21,7 +24,9 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: kvittunina
+      accusative_pronunciation: kʰvɪhtʏnɪna
       dative: kvittuninni
+      dative_pronunciation: kʰvɪhtʏnɪnɪ
       genitive: kvittunarinnar
 id: 1278
 gender: feminine

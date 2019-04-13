@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: foreldrar
       nominative_translation: parents
-      nominative_sound: islex/312/312_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/312/312_88.mp3'
+      nominative_pronunciation: fɔːrɛltrar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: foreldra
+      accusative_pronunciation: fɔːrɛltra
       dative: foreldrum
+      dative_pronunciation: fɔːrɛltrʏm
       genitive: foreldra
+      genitive_pronunciation: fɔːrɛltra
     with article:
       nominative: foreldrarnir
       nominative_translation: the parents
+      nominative_pronunciation: fɔːrɛltratnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: foreldrana
+      accusative_pronunciation: fɔːrɛltrana
       dative: foreldrunum
+      dative_pronunciation: fɔːrɛltrɔnʏm
       genitive: foreldranna
+      genitive_pronunciation: fɔːrɛltrana
 id: 967
 gender: masculine

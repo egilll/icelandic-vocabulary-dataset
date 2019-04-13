@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] hanga'
     infinitive_translation: to hang
-    infinitive_sound: islex/063/063_72.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/063/063_72.mp3'
+    infinitive_pronunciation: hauŋka
     infinitive_teach: true
 id: 2141
 strong_verb_declension: true

@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: listaverk
       nominative_translation: an artwork
-      nominative_sound: islex/102/102_62.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/102/102_62.mp3'
+      nominative_pronunciation: lɪstavɛr̥k
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: listaverk
-      accusative_sound: islex/102/102_62.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/102/102_62.mp3'
+      accusative_pronunciation: lɪstavɛr̥k
       dative: listaverki
+      dative_pronunciation: lɪstavɛr̥cɪ
       genitive: listaverks
+      genitive_pronunciation: <span class="guessed">lɪstavɛr̥ks</span>
     with article:
       nominative: listaverkið
       nominative_translation: the artwork
+      nominative_pronunciation: lɪstavɛr̥cɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: listaverkið
+      accusative_pronunciation: lɪstavɛr̥cɪð
       dative: listaverkinu
+      dative_pronunciation: <span class="guessed">lɪstavɛr̥cɪnʏ</span>
       genitive: listaverksins
+      genitive_pronunciation: <span class="guessed">lɪstavɛr̥ksɪns</span>
 id: 1334
 gender: neuter

@@ -6,15 +6,19 @@ conjugation:
     no article:
       nominative: sönnun
       nominative_translation: a proof
-      nominative_sound: islex/216/216_13.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/216/216_13.mp3'
+      nominative_pronunciation: sœnʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sönnun
-      accusative_sound: islex/216/216_13.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/216/216_13.mp3'
+      accusative_pronunciation: sœnʏn
       dative: sönnun
-      dative_sound: islex/216/216_13.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/216/216_13.mp3'
+      dative_pronunciation: sœnʏn
       genitive: sönnunar
+      genitive_pronunciation: sœnʏnar
     with article:
       nominative: sönnunin
       nominative_translation: the proof
@@ -22,17 +26,23 @@ conjugation:
       nominative_teachtable: true
       accusative: sönnunina
       dative: sönnuninni
+      dative_pronunciation: <span class="guessed">sœnʏnɪnɪ</span>
       genitive: sönnunarinnar
+      genitive_pronunciation: <span class="guessed">sœnʏnarɪnar</span>
   plural:
     no article:
       nominative: sannanir
       nominative_translation: proofs
+      nominative_pronunciation: sananɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sannanir
+      accusative_pronunciation: sananɪr
       dative: sönnunum
+      dative_pronunciation: sœnʏnʏm
       genitive: sannana
+      genitive_pronunciation: <span class="guessed">sananaː</span>
     with article:
       nominative: sannanirnar
       nominative_translation: the proofs
@@ -40,6 +50,7 @@ conjugation:
       nominative_teachtable: true
       accusative: sannanirnar
       dative: sönnununum
+      dative_pronunciation: <span class="guessed">sœnʏːnʏnʏm</span>
       genitive: sannananna
 id: 1714
 gender: feminine

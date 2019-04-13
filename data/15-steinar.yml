@@ -6,25 +6,29 @@ conjugation:
     no article:
       nominative: steinn
       nominative_translation: a stone
-      nominative_sound: islex/098/098_74.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/098/098_74.mp3'
+      nominative_pronunciation: steitn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: steinninn
       nominative_translation: the stone
+      nominative_pronunciation: steitnɪn
       nominative_teach: true
       nominative_teachtable: false
   plural:
     no article:
       nominative: steinar
       nominative_translation: stones
+      nominative_pronunciation: steiːnar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: steinarnir
       nominative_translation: the stones
+      nominative_pronunciation: steiːnatnɪr
       nominative_teach: true
       nominative_teachtable: false
 id: 1738

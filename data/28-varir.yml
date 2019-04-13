@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: varir
       nominative_translation: lips
+      nominative_pronunciation: vaːrɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: varir
+      accusative_pronunciation: vaːrɪr
       dative: vörum
+      dative_pronunciation: vœːrʏm
       genitive: vara
-      genitive_sound: islex/119/119_37.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/119/119_37.mp3'
+      genitive_pronunciation: vaːra
     with article:
       nominative: varirnar
       nominative_translation: the lips
+      nominative_pronunciation: vaːrɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: varirnar
+      accusative_pronunciation: vaːrɪtnar
       dative: vörunum
+      dative_pronunciation: vœːrɔnʏm
       genitive: varanna
+      genitive_pronunciation: <span class="guessed">vaːrana</span>
 id: 1892
 gender: feminine

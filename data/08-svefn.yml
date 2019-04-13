@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: svefn
       nominative_translation: sleep
-      nominative_sound: islex/288/288_83.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/288/288_83.mp3'
+      nominative_pronunciation: svɛpn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: svefn
-      accusative_sound: islex/288/288_83.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/288/288_83.mp3'
+      accusative_pronunciation: svɛpn̥
       dative: svefni
+      dative_pronunciation: svɛpnɪ
       genitive: svefns
+      genitive_pronunciation: svɛps
     with article:
       nominative: svefninn
       nominative_translation: the sleep
+      nominative_pronunciation: svɛpnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: svefninn
+      accusative_pronunciation: svɛpnɪn
       dative: svefninum
+      dative_pronunciation: svɛpnɪnʏm
       genitive: svefnsins
+      genitive_pronunciation: svɛpsɪns
 id: 1788
 gender: masculine

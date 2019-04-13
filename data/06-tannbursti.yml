@@ -6,16 +6,19 @@ conjugation:
     no article:
       nominative: tannbursti
       nominative_translation: a toothbrush
-      nominative_sound: islex/087/087_63.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/087/087_63.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tannbursta
-      accusative_sound: islex/344/344_80.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/344/344_80.mp3'
+      accusative_pronunciation: tʰanpʏr̥sta
       dative: tannbursta
-      dative_sound: islex/344/344_80.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/344/344_80.mp3'
+      dative_pronunciation: tʰanpʏr̥sta
       genitive: tannbursta
-      genitive_sound: islex/344/344_80.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/344/344_80.mp3'
+      genitive_pronunciation: tʰanpʏr̥sta
     with article:
       nominative: tannburstinn
       nominative_translation: the toothbrush

@@ -5,106 +5,133 @@ conjugation:
   active voice:
     infinitive: '[að] koma'
     infinitive_translation: to come
-    infinitive_sound: islex/026/026_46.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/026/026_46.mp3'
+    infinitive_pronunciation: kʰɔːma
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] kem'
           1st person_translation: I come
+          1st person_pronunciation: cʰɛːm
           1st person_teach: true
           2nd person: '[þú] kemur'
           2nd person_translation: you¹ come
+          2nd person_pronunciation: cʰɛːmʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] kemur'
           3rd person_translation: he/she/it comes
+          3rd person_pronunciation: cʰɛːmʏr
           3rd person_teach: true
         plural:
           1st person: '[við] komum'
           1st person_translation: we come
+          1st person_pronunciation: kʰɔːmʏm
           1st person_teach: true
           2nd person: '[þið] komið'
           2nd person_translation: you² come
+          2nd person_pronunciation: kʰɔːmɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] koma'
           3rd person_translation: they come
-          3rd person_sound: islex/026/026_46.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/026/026_46.mp3'
+          3rd person_pronunciation: kʰɔːma
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] kom'
           1st person_translation: I came
+          1st person_pronunciation: kʰɔːm
           1st person_teach: true
           2nd person: '[þú] komst'
           2nd person_translation: you¹ came
+          2nd person_pronunciation: kʰɔmst
           2nd person_teach: true
           3rd person: '[hann/hún/það] kom'
           3rd person_translation: he/she/it came
+          3rd person_pronunciation: kʰɔːm
           3rd person_teach: true
         plural:
           1st person: '[við] komum'
           1st person_translation: we came
+          1st person_pronunciation: kʰɔːmʏm
           1st person_teach: true
           2nd person: '[þið] komuð'
           2nd person_translation: you² came
+          2nd person_pronunciation: kʰɔːmʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] komu'
           3rd person_translation: they came
+          3rd person_pronunciation: kʰɔːmʏ
           3rd person_teach: true
     subjunctive:
       present:
         singular:
           1st person: '[ég held að] [ég] komi'
           1st person_translation: I think I come
+          1st person_pronunciation: kʰɔːmɪ
           1st person_teach: true
           2nd person: '[ég held að] [þú] komir'
           2nd person_translation: I think you¹ come
+          2nd person_pronunciation: kʰɔːmɪr
           2nd person_teach: true
           3rd person: '[ég held að] [hann/hún/það] komi'
           3rd person_translation: I think he/she/it comes
+          3rd person_pronunciation: kʰɔːmɪ
           3rd person_teach: true
         plural:
           1st person: '[ég held að] [við] komum'
           1st person_translation: I think we come
+          1st person_pronunciation: kʰɔːmʏm
           1st person_teach: true
           2nd person: '[ég held að] [þið] komið'
           2nd person_translation: I think you² come
+          2nd person_pronunciation: kʰɔːmɪð
           2nd person_teach: true
           3rd person: '[ég held að] [þeir/þær/þau] komi'
           3rd person_translation: I think they come
+          3rd person_pronunciation: kʰɔːmɪ
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég hélt að] [ég] kæmi'
           1st person_translation: I thought I would come
+          1st person_pronunciation: cʰaiːmɪ
           1st person_teach: true
           2nd person: '[ég hélt að] [þú] kæmir'
           2nd person_translation: I thought you¹ would come
+          2nd person_pronunciation: cʰaiːmɪr
           2nd person_teach: true
           3rd person: '[ég hélt að] [hann/hún/það] kæmi'
           3rd person_translation: I thought he/she/it would come
+          3rd person_pronunciation: cʰaiːmɪ
           3rd person_teach: true
         plural:
           1st person: '[ég hélt að] [við] kæmum'
           1st person_translation: I thought we would come
+          1st person_pronunciation: cʰaiːmʏm
           1st person_teach: true
           2nd person: '[ég hélt að] [þið] kæmuð'
           2nd person_translation: I thought you² would come
           2nd person_teach: true
           3rd person: '[ég hélt að] [þeir/þær/þau] kæmu'
           3rd person_translation: I thought they would come
+          3rd person_pronunciation: cʰaiːmʏ
           3rd person_teach: true
   supine:
     active voice: '[ég get] komið'
     active voice_translation: I can come
+    active voice_pronunciation: kʰɔːmɪð
     active voice_teach: true
   imperative:
     active voice:
       singular: komdu!
       singular_translation: come!¹
+      singular_pronunciation: kʰɔːmtʏ
       singular_teach: true
       plural: komið!
       plural_translation: come!²
+      plural_pronunciation: kʰɔːmɪð
       plural_teach: true
 id: 2190
 recognizable: '1'

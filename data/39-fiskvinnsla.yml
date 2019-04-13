@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: fiskvinnsla
       nominative_translation: fish processing
-      nominative_sound: islex/457/457_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/457/457_18.mp3'
+      nominative_pronunciation: <span class="guessed">fɪskvɪnstla</span>
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

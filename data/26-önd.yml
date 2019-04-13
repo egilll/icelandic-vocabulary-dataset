@@ -6,40 +6,52 @@ conjugation:
     no article:
       nominative: önd
       nominative_translation: a duck
-      nominative_sound: islex/308/308_26.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/308/308_26.mp3'
+      nominative_pronunciation: œnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: önd
-      accusative_sound: islex/308/308_26.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/308/308_26.mp3'
+      accusative_pronunciation: œnt
       dative: önd
-      dative_sound: islex/308/308_26.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/308/308_26.mp3'
+      dative_pronunciation: œnt
       genitive: andar
+      genitive_pronunciation: antar
     with article:
       nominative: öndin
       nominative_translation: the duck
+      nominative_pronunciation: œntɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: öndina
+      accusative_pronunciation: œntɪna
       dative: öndinni
+      dative_pronunciation: œntɪnɪ
       genitive: andarinnar
+      genitive_pronunciation: <span class="guessed">antarɪnar</span>
   plural:
     no article:
       nominative: endur
       nominative_translation: ducks
-      nominative_sound: islex/213/213_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/213/213_59.mp3'
+      nominative_pronunciation: ɛntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_alternative:
         - andir
       accusative: endur
-      accusative_sound: islex/213/213_59.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/213/213_59.mp3'
+      accusative_pronunciation: ɛntʏr
       accusative_alternative:
         - andir
       dative: öndum
+      dative_pronunciation: œntʏm
       genitive: anda
-      genitive_sound: islex/079/079_98.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/079/079_98.mp3'
+      genitive_pronunciation: anta
     with article:
       nominative: endurnar
       nominative_translation: the ducks
@@ -51,6 +63,8 @@ conjugation:
       accusative_alternative:
         - andirnar
       dative: öndunum
+      dative_pronunciation: œntɔnʏm
       genitive: andanna
+      genitive_pronunciation: <span class="guessed">antanaː</span>
 id: 1470
 gender: feminine

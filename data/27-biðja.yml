@@ -5,58 +5,71 @@ conjugation:
   active voice:
     infinitive: '[að] biðja'
     infinitive_translation: to request; to pray
-    infinitive_sound: islex/454/454_29.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/454/454_29.mp3'
+    infinitive_pronunciation: pɪðja
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] bið'
           1st person_translation: I request; I pray
-          1st person_sound: islex/154/154_43.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/154/154_43.mp3'
+          1st person_pronunciation: pɪːð
           1st person_teach: true
           2nd person: '[þú] biður'
           2nd person_translation: you¹ request; you¹ pray
+          2nd person_pronunciation: pɪːðʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] biður'
           3rd person_translation: he/she/it requests; he/she/it prays
+          3rd person_pronunciation: pɪːðʏr
           3rd person_teach: true
         plural:
           1st person: '[við] biðjum'
           1st person_translation: we request; we pray
+          1st person_pronunciation: pɪðjʏm
           1st person_teach: true
           2nd person: '[þið] biðjið'
           2nd person_translation: you² request; you² pray
+          2nd person_pronunciation: pɪðjɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] biðja'
           3rd person_translation: they request; they pray
-          3rd person_sound: islex/454/454_29.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/454/454_29.mp3'
+          3rd person_pronunciation: pɪðja
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] bað'
           1st person_translation: I requested; I prayed
-          1st person_sound: islex/003/003_19.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/003/003_19.mp3'
+          1st person_pronunciation: paːð
           1st person_teach: true
           2nd person: '[þú] baðst'
           2nd person_translation: you¹ requested; you¹ prayed
+          2nd person_pronunciation: paðst
           2nd person_teach: true
           3rd person: '[hann/hún/það] bað'
           3rd person_translation: he/she/it requested; he/she/it prayed
-          3rd person_sound: islex/003/003_19.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/003/003_19.mp3'
+          3rd person_pronunciation: paːð
           3rd person_teach: true
         plural:
           1st person: '[við] báðum'
           1st person_translation: we requested; we prayed
+          1st person_pronunciation: pauːðʏm
           1st person_teach: true
           2nd person: '[þið] báðuð'
           2nd person_translation: you² requested; you² prayed
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] báðu'
           3rd person_translation: they requested; they prayed
+          3rd person_pronunciation: pauːðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] beðið'
     active voice_translation: I have requested; I have prayed
+    active voice_pronunciation: pɛːðɪð
     active voice_teach: true
 id: 2044
 strong_verb_declension: true

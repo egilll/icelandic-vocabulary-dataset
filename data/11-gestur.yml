@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: gestur
       nominative_translation: a guest
-      nominative_sound: islex/317/317_36.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/317/317_36.mp3'
+      nominative_pronunciation: cɛstʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gest
+      accusative_pronunciation: cɛst
       dative: gesti
+      dative_pronunciation: cɛstɪ
       genitive: gests
+      genitive_pronunciation: cɛsts
     with article:
       nominative: gesturinn
       nominative_translation: the guest
+      nominative_pronunciation: cɛstʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: gestinn
+      accusative_pronunciation: cɛstɪn
       dative: gestinum
+      dative_pronunciation: cɛstɪnʏm
       genitive: gestsins
+      genitive_pronunciation: cɛstsɪns
   plural:
     no article:
       nominative: gestir
       nominative_translation: guests
+      nominative_pronunciation: cɛstɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gesti
+      accusative_pronunciation: cɛstɪ
       dative: gestum
+      dative_pronunciation: cɛstʏm
       genitive: gesta
+      genitive_pronunciation: cɛsta
     with article:
       nominative: gestirnir
       nominative_translation: the guests
+      nominative_pronunciation: cɛstɪtn̥ɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: gestina
+      accusative_pronunciation: cɛstɪna
       dative: gestunum
+      dative_pronunciation: cɛstɔnʏm
       genitive: gestanna
+      genitive_pronunciation: cɛstana
 id: 1023
 gender: masculine

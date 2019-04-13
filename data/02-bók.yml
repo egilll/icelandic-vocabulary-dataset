@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: bók
       nominative_translation: a book
-      nominative_sound: islex/448/448_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/448/448_20.mp3'
+      nominative_pronunciation: pouːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bók
-      accusative_sound: islex/448/448_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/448/448_20.mp3'
+      accusative_pronunciation: pouːk
       dative: bók
-      dative_sound: islex/448/448_20.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/448/448_20.mp3'
+      dative_pronunciation: pouːk
       genitive: bókar
+      genitive_pronunciation: pouːkar
     with article:
       nominative: bókin
       nominative_translation: the book
+      nominative_pronunciation: pouːcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bókina
+      accusative_pronunciation: pouːcɪna
       dative: bókinni
+      dative_pronunciation: pouːcɪnɪ
       genitive: bókarinnar
+      genitive_pronunciation: pouːkarɪnar
   plural:
     no article:
       nominative: bækur
       nominative_translation: books
+      nominative_pronunciation: paiːkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bækur
+      accusative_pronunciation: paiːkʏr
       dative: bókum
+      dative_pronunciation: pouːkʏm
       genitive: bóka
-      genitive_sound: islex/267/267_37.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/267/267_37.mp3'
+      genitive_pronunciation: pouːka
     with article:
       nominative: bækurnar
       nominative_translation: the books
+      nominative_pronunciation: paiːkʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: bækurnar
+      accusative_pronunciation: paiːkʏtnar
       dative: bókunum
+      dative_pronunciation: pouːkɔnʏm
       genitive: bókanna
+      genitive_pronunciation: pouːkana
 id: 823
 gender: feminine

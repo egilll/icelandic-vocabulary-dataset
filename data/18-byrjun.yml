@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: byrjun
       nominative_translation: a start
-      nominative_sound: islex/133/133_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/133/133_64.mp3'
+      nominative_pronunciation: pɪrjʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: byrjun
-      accusative_sound: islex/133/133_64.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/133/133_64.mp3'
+      accusative_pronunciation: pɪrjʏn
       dative: byrjun
-      dative_sound: islex/133/133_64.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/133/133_64.mp3'
+      dative_pronunciation: pɪrjʏn
       genitive: byrjunar
     with article:
       nominative: byrjunin
       nominative_translation: the start
+      nominative_pronunciation: pɪrjʏnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: byrjunina
+      accusative_pronunciation: <span class="guessed">pɪrjʏnɪnaː</span>
       dative: byrjuninni
+      dative_pronunciation: pɪrjʏnɪnɪ
       genitive: byrjunarinnar
 id: 859
 gender: feminine

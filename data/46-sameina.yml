@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] sameina'
     infinitive_translation: to combine
-    infinitive_sound: islex/475/475_82.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/475/475_82.mp3'
+    infinitive_pronunciation: saːmeina
     infinitive_teach: true
 id: 2307

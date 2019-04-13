@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sjór
       nominative_translation: sea
-      nominative_sound: islex/147/147_82.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/147/147_82.mp3'
+      nominative_pronunciation: sjouːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sjórinn
       nominative_translation: the sea
+      nominative_pronunciation: sjouːrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1625

@@ -6,43 +6,57 @@ conjugation:
     no article:
       nominative: gluggi
       nominative_translation: a window
-      nominative_sound: islex/440/440_75.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/440/440_75.mp3'
+      nominative_pronunciation: klʏcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: glugga
-      accusative_sound: islex/069/069_96.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/069/069_96.mp3'
+      accusative_pronunciation: klʏka
       dative: glugga
-      dative_sound: islex/069/069_96.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/069/069_96.mp3'
+      dative_pronunciation: klʏka
       genitive: glugga
-      genitive_sound: islex/069/069_96.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/069/069_96.mp3'
+      genitive_pronunciation: klʏka
     with article:
       nominative: glugginn
       nominative_translation: the window
+      nominative_pronunciation: klʏcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: gluggann
+      accusative_pronunciation: klʏkan
       dative: glugganum
+      dative_pronunciation: klʏkanʏm
       genitive: gluggans
   plural:
     no article:
       nominative: gluggar
       nominative_translation: windows
+      nominative_pronunciation: klʏkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: glugga
-      accusative_sound: islex/069/069_96.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/069/069_96.mp3'
+      accusative_pronunciation: klʏka
       dative: gluggum
+      dative_pronunciation: klʏkʏm
       genitive: glugga
-      genitive_sound: islex/069/069_96.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/069/069_96.mp3'
+      genitive_pronunciation: klʏka
     with article:
       nominative: gluggarnir
       nominative_translation: the windows
       nominative_teach: true
       nominative_teachtable: true
       accusative: gluggana
+      accusative_pronunciation: klʏkana
       dative: gluggunum
+      dative_pronunciation: klʏkɔnʏm
       genitive: glugganna
+      genitive_pronunciation: klʏkana
 id: 1035
 gender: masculine

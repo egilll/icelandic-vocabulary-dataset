@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: rok
       nominative_translation: storm
-      nominative_sound: islex/115/115_68.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/115/115_68.mp3'
+      nominative_pronunciation: rɔːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rok
-      accusative_sound: islex/115/115_68.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/115/115_68.mp3'
+      accusative_pronunciation: rɔːk
       dative: roki
+      dative_pronunciation: rɔːcɪ
       genitive: roks
     with article:
       nominative: rokið
       nominative_translation: the storm
+      nominative_pronunciation: rɔːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: rokið
+      accusative_pronunciation: rɔːcɪð
       dative: rokinu
+      dative_pronunciation: rɔːcɪnʏ
       genitive: roksins
 id: 1568
 gender: neuter

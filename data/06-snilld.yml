@@ -6,23 +6,31 @@ conjugation:
     no article:
       nominative: snilld
       nominative_translation: genius
-      nominative_sound: islex/196/196_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/196/196_51.mp3'
+      nominative_pronunciation: stnɪlt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snilld
-      accusative_sound: islex/196/196_51.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/196/196_51.mp3'
+      accusative_pronunciation: stnɪlt
       dative: snilld
-      dative_sound: islex/196/196_51.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/196/196_51.mp3'
+      dative_pronunciation: stnɪlt
       genitive: snilldar
+      genitive_pronunciation: stnɪltar
     with article:
       nominative: snilldin
       nominative_translation: the genius
+      nominative_pronunciation: stnɪltɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: snilldina
+      accusative_pronunciation: <span class="guessed">stnɪltɪnaː</span>
       dative: snilldinni
+      dative_pronunciation: <span class="guessed">stnɪltɪnɪ</span>
       genitive: snilldarinnar
+      genitive_pronunciation: <span class="guessed">stnɪltarɪnar</span>
   plural:
     no article:
       nominative: snilldir
@@ -32,7 +40,9 @@ conjugation:
       nominative_teachtable: true
       accusative: snilldir
       dative: snilldum
+      dative_pronunciation: <span class="guessed">stnɪltʏm</span>
       genitive: snillda
+      genitive_pronunciation: <span class="guessed">stnɪltaː</span>
     with article:
       nominative: snilldirnar
       nominative_translation: the geniuses
@@ -41,5 +51,6 @@ conjugation:
       accusative: snilldirnar
       dative: snilldunum
       genitive: snilldanna
+      genitive_pronunciation: <span class="guessed">stnɪltana</span>
 id: 1689
 gender: feminine

@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: hné
       nominative_translation: a knee
-      nominative_sound: islex/039/039_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/039/039_05.mp3'
+      nominative_pronunciation: n̥jɛː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hné
-      accusative_sound: islex/039/039_05.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/039/039_05.mp3'
+      accusative_pronunciation: n̥jɛː
       dative: hné
-      dative_sound: islex/039/039_05.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/039/039_05.mp3'
+      dative_pronunciation: n̥jɛː
       genitive: hnés
     with article:
       nominative: hnéð
       nominative_translation: the knee
+      nominative_pronunciation: n̥jɛːð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hnéð
+      accusative_pronunciation: n̥jɛːð
       dative: hnénu
+      dative_pronunciation: n̥jɛːnʏ
       genitive: hnésins
+      genitive_pronunciation: n̥jɛːsɪns
 id: 1142
 gender: neuter

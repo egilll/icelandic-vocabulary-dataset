@@ -5,26 +5,31 @@ conjugation:
   active voice:
     infinitive: '[að] labba'
     infinitive_translation: 'to walk, to stroll'
-    infinitive_sound: islex/031/031_84.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/031/031_84.mp3'
+    infinitive_pronunciation: lapa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] labba'
           1st person_translation: 'I walk, I stroll'
-          1st person_sound: islex/031/031_84.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/031/031_84.mp3'
+          1st person_pronunciation: lapa
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] labbaði'
           1st person_translation: 'I walked, I strolled'
+          1st person_pronunciation: lapaðɪ
           1st person_teach: true
         plural:
           1st person: '[við] löbbuðum'
           1st person_translation: 'we walked, we strolled'
+          1st person_pronunciation: lœpʏðʏm
           1st person_teach: true
   supine:
     active voice: '[ég hef] labbað'
     active voice_translation: 'I have walked, I have strolled'
+    active voice_pronunciation: lapað
     active voice_teach: true
 id: 2202

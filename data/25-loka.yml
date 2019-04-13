@@ -5,51 +5,63 @@ conjugation:
   active voice:
     infinitive: '[að] loka'
     infinitive_translation: to close
-    infinitive_sound: islex/410/410_47.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/410/410_47.mp3'
+    infinitive_pronunciation: lɔːka
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] loka'
           1st person_translation: I close
-          1st person_sound: islex/410/410_47.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/410/410_47.mp3'
+          1st person_pronunciation: lɔːka
           1st person_teach: true
           2nd person: '[þú] lokar'
           2nd person_translation: you¹ close
+          2nd person_pronunciation: lɔːkar
           2nd person_teach: true
           3rd person: '[hann/hún/það] lokar'
           3rd person_translation: he/she/it closes
+          3rd person_pronunciation: lɔːkar
           3rd person_teach: true
         plural:
           1st person: '[við] lokum'
           1st person_translation: we close
+          1st person_pronunciation: lɔːkʏm
           1st person_teach: true
           2nd person: '[þið] lokið'
           2nd person_translation: you² close
+          2nd person_pronunciation: lɔːkɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] loka'
           3rd person_translation: they close
-          3rd person_sound: islex/410/410_47.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/410/410_47.mp3'
+          3rd person_pronunciation: lɔːka
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] lokaði'
           1st person_translation: I closed
+          1st person_pronunciation: lɔːkaðɪ
           1st person_teach: true
           2nd person: '[þú] lokaðir'
           2nd person_translation: you¹ closed
+          2nd person_pronunciation: lɔːkaðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] lokaði'
           3rd person_translation: he/she/it closed
+          3rd person_pronunciation: lɔːkaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] lokuðum'
           1st person_translation: we closed
+          1st person_pronunciation: lɔːkʏðʏm
           1st person_teach: true
           2nd person: '[þið] lokuðuð'
           2nd person_translation: you² closed
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] lokuðu'
           3rd person_translation: they closed
+          3rd person_pronunciation: lɔːkʏðʏ
           3rd person_teach: true
 id: 2233

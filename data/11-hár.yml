@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: hár
       nominative_translation: hair
-      nominative_sound: islex/093/093_63.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/093/093_63.mp3'
+      nominative_pronunciation: hauːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hár
-      accusative_sound: islex/093/093_63.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/093/093_63.mp3'
+      accusative_pronunciation: hauːr
       dative: hári
+      dative_pronunciation: hauːrɪ
       genitive: hárs
     with article:
       nominative: hárið
       nominative_translation: the hair
+      nominative_pronunciation: hauːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hárið
+      accusative_pronunciation: hauːrɪð
       dative: hárinu
+      dative_pronunciation: hauːrɪnʏ
       genitive: hársins
   plural:
     with article:

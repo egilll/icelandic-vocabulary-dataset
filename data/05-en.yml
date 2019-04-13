@@ -1,5 +1,7 @@
 word: en
 word_translation: but
+word_sound: 'https://media.egill.xyz/audio/islex/013/013_21.mp3'
+word_pronunciation: ɛn
 word_teach: true
 level: 5
 grammatical_category: phrase

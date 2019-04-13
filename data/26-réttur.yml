@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: réttur
       nominative_translation: a right
-      nominative_sound: islex/072/072_32.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/072/072_32.mp3'
+      nominative_pronunciation: rjɛhtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: rétturinn
       nominative_translation: the right
+      nominative_pronunciation: rjɛhtʏrɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1557

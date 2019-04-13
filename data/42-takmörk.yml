@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: takmörk
       nominative_translation: limits
-      nominative_sound: islex/424/424_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/424/424_08.mp3'
+      nominative_pronunciation: tʰaːkmœr̥k
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: takmörk
-      accusative_sound: islex/424/424_08.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/424/424_08.mp3'
+      accusative_pronunciation: tʰaːkmœr̥k
       dative: takmörkum
+      dative_pronunciation: <span class="guessed">tʰaːkmœr̥kʏm</span>
       genitive: takmarka
-      genitive_sound: islex/020/020_56.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/020/020_56.mp3'
+      genitive_pronunciation: tʰaːkmar̥ka
     with article:
       nominative: takmörkin
       nominative_translation: the limits
+      nominative_pronunciation: <span class="guessed">tʰaːkmœr̥cɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: takmörkin
+      accusative_pronunciation: <span class="guessed">tʰaːkmœr̥cɪn</span>
       dative: takmörkunum
+      dative_pronunciation: tʰaːkmœr̥kɔnʏm
       genitive: takmarkanna
+      genitive_pronunciation: <span class="guessed">tʰaːkmar̥kana</span>
 id: 1813
 gender: neuter

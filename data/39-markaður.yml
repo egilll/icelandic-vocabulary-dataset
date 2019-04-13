@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: markaður
       nominative_translation: a market
-      nominative_sound: islex/173/173_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/173/173_91.mp3'
+      nominative_pronunciation: mar̥kaðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: markaðurinn
       nominative_translation: the market
+      nominative_pronunciation: mar̥kaðʏrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1384

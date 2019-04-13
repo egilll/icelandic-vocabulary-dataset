@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: tíska
       nominative_translation: fashion
-      nominative_sound: islex/107/107_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/107/107_38.mp3'
+      nominative_pronunciation: tʰiska
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tísku
+      accusative_pronunciation: tʰiskʏ
       dative: tísku
+      dative_pronunciation: tʰiskʏ
       genitive: tísku
+      genitive_pronunciation: tʰiskʏ
     with article:
       nominative: tískan
       nominative_translation: the fashion
+      nominative_pronunciation: tʰiskan
       nominative_teach: true
       nominative_teachtable: false
 id: 1836

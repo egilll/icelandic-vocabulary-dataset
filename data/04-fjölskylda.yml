@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: fjölskylda
       nominative_translation: a family
-      nominative_sound: islex/315/315_63.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/315/315_63.mp3'
+      nominative_pronunciation: fjœlscɪlta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fjölskyldu
+      accusative_pronunciation: fjœlscɪltʏ
       dative: fjölskyldu
+      dative_pronunciation: fjœlscɪltʏ
       genitive: fjölskyldu
+      genitive_pronunciation: fjœlscɪltʏ
     with article:
       nominative: fjölskyldan
       nominative_translation: the family
+      nominative_pronunciation: fjœlscɪltan
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjölskylduna
+      accusative_pronunciation: fjœlscɪltʏna
       dative: fjölskyldunni
+      dative_pronunciation: fjœlscɪltʏnɪ
       genitive: fjölskyldunnar
+      genitive_pronunciation: fjœlscɪltʏnar
   plural:
     no article:
       nominative: fjölskyldur
       nominative_translation: families
+      nominative_pronunciation: fjœlscɪltʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fjölskyldur
+      accusative_pronunciation: fjœlscɪltʏr
       dative: fjölskyldum
+      dative_pronunciation: fjœlscɪltʏm
       genitive: fjölskyldna
+      genitive_pronunciation: fjœlscɪltna
     with article:
       nominative: fjölskyldurnar
       nominative_translation: the families
+      nominative_pronunciation: fjœlscɪltʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjölskyldurnar
+      accusative_pronunciation: fjœlscɪltʏtnar
       dative: fjölskyldunum
       genitive: fjölskyldnanna
+      genitive_pronunciation: fjœlscɪltnana
 id: 953
 gender: feminine

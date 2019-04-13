@@ -6,31 +6,43 @@ conjugation:
     no article:
       nominative: manneskja
       nominative_translation: 'a human being, a person'
-      nominative_sound: islex/113/113_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/113/113_66.mp3'
+      nominative_pronunciation: manɛsca
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: manneskju
+      accusative_pronunciation: manɛscʏ
       dative: manneskju
+      dative_pronunciation: manɛscʏ
       genitive: manneskju
+      genitive_pronunciation: manɛscʏ
     with article:
       nominative: manneskjan
       nominative_translation: 'the human being, the person'
+      nominative_pronunciation: manɛscan
       nominative_teach: true
       nominative_teachtable: true
       accusative: manneskjuna
+      accusative_pronunciation: manɛscʏna
       dative: manneskjunni
+      dative_pronunciation: manɛscʏnɪ
       genitive: manneskjunnar
+      genitive_pronunciation: manɛscʏnar
   plural:
     no article:
       nominative: manneskjur
       nominative_translation: 'human beings, people'
+      nominative_pronunciation: manɛscʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: manneskjur
+      accusative_pronunciation: manɛscʏr
       dative: manneskjum
+      dative_pronunciation: manɛscʏm
       genitive: manneskja
-      genitive_sound: islex/113/113_66.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/113/113_66.mp3'
+      genitive_pronunciation: manɛsca
 id: 1381
 gender: feminine

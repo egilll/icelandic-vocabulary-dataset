@@ -6,41 +6,56 @@ conjugation:
     no article:
       nominative: gærkvöld
       nominative_translation: yesterday night
-      nominative_sound: islex/014/014_81.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/014/014_81.mp3'
+      nominative_pronunciation: cair̥kvœlt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gærkvöld
-      accusative_sound: islex/014/014_81.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/014/014_81.mp3'
+      accusative_pronunciation: cair̥kvœlt
       dative: gærkvöldi
+      dative_pronunciation: cair̥kvœltɪ
       genitive: gærkvölds
+      genitive_pronunciation: <span class="guessed">caiːrkʰvœlts</span>
     with article:
       nominative: gærkvöldið
       nominative_translation: the yesterday night
+      nominative_pronunciation: <span class="guessed">caiːrkʰvœltɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: gærkvöldið
+      accusative_pronunciation: <span class="guessed">caiːrkʰvœltɪð</span>
       dative: gærkvöldinu
+      dative_pronunciation: <span class="guessed">cair̥kvœltɪːnʏ</span>
       genitive: gærkvöldsins
+      genitive_pronunciation: <span class="guessed">caiːrkʰvœltsɪns</span>
   plural:
     no article:
       nominative: gærkvöld
       nominative_translation: yesterday nights
-      nominative_sound: islex/014/014_81.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/014/014_81.mp3'
+      nominative_pronunciation: cair̥kvœlt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gærkvöld
-      accusative_sound: islex/014/014_81.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/014/014_81.mp3'
+      accusative_pronunciation: cair̥kvœlt
       dative: gærkvöldum
+      dative_pronunciation: <span class="guessed">caiːrkʰvœltʏm</span>
       genitive: gærkvölda
+      genitive_pronunciation: <span class="guessed">caiːrkʰvœlta</span>
     with article:
       nominative: gærkvöldin
       nominative_translation: the yesterday nights
+      nominative_pronunciation: <span class="guessed">caiːrkʰvœltɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: gærkvöldin
+      accusative_pronunciation: <span class="guessed">caiːrkʰvœltɪn</span>
       dative: gærkvöldunum
       genitive: gærkvöldanna
+      genitive_pronunciation: <span class="guessed">cair̥kvœltana</span>
 id: 1006
 gender: neuter

@@ -6,38 +6,51 @@ conjugation:
     no article:
       nominative: kveðja
       nominative_translation: a greeting; farewell
-      nominative_sound: islex/113/113_52.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/113/113_52.mp3'
+      nominative_pronunciation: kʰvɛðja
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kveðju
+      accusative_pronunciation: kʰvɛðjʏ
       dative: kveðju
+      dative_pronunciation: kʰvɛðjʏ
       genitive: kveðju
+      genitive_pronunciation: kʰvɛðjʏ
     with article:
       nominative: kveðjan
       nominative_translation: the greeting; the farewell
+      nominative_pronunciation: <span class="guessed">kʰvɛːðjaːn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: kveðjuna
+      accusative_pronunciation: kʰvɛðjʏna
       dative: kveðjunni
+      dative_pronunciation: kʰvɛðjʏnɪ
       genitive: kveðjunnar
   plural:
     no article:
       nominative: kveðjur
       nominative_translation: greetings; farewells
+      nominative_pronunciation: kʰvɛðjʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kveðjur
+      accusative_pronunciation: kʰvɛðjʏr
       dative: kveðjum
+      dative_pronunciation: kʰvɛðjʏm
       genitive: kveðja
-      genitive_sound: islex/113/113_52.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/113/113_52.mp3'
+      genitive_pronunciation: kʰvɛðja
     with article:
       nominative: kveðjurnar
       nominative_translation: the greetings; the farewells
+      nominative_pronunciation: kʰvɛðjʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: kveðjurnar
+      accusative_pronunciation: kʰvɛðjʏtnar
       dative: kveðjunum
       genitive: kveðjanna
 id: 1275

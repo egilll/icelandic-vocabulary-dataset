@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: gleraugu
       nominative_translation: eyeglasses
-      nominative_sound: islex/178/178_42.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/178/178_42.mp3'
+      nominative_pronunciation: klɛːrœiɣʏ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gleraugu
-      accusative_sound: islex/178/178_42.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/178/178_42.mp3'
+      accusative_pronunciation: klɛːrœiɣʏ
       dative: gleraugum
+      dative_pronunciation: klɛːrœiɣʏm
       genitive: gleraugna
+      genitive_pronunciation: klɛːrœjkna
     with article:
       nominative: gleraugun
       nominative_translation: the eyeglasses
+      nominative_pronunciation: klɛːrœiɣʏn
       nominative_teach: true
       nominative_teachtable: true
       accusative: gleraugun
+      accusative_pronunciation: klɛːrœiɣʏn
       dative: gleraugunum
+      dative_pronunciation: klɛːrœiɣɔnʏm
       genitive: gleraugnanna
+      genitive_pronunciation: <span class="guessed">klɛːrœiknana</span>
 id: 1033
 teach_the_difference: ''
 gender: neuter

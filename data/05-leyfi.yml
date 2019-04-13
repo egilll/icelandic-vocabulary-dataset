@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: leyfi
       nominative_translation: vacation; permission
-      nominative_sound: islex/192/192_43.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/192/192_43.mp3'
+      nominative_pronunciation: leiːvɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leyfi
-      accusative_sound: islex/192/192_43.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/192/192_43.mp3'
+      accusative_pronunciation: leiːvɪ
       dative: leyfi
-      dative_sound: islex/192/192_43.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/192/192_43.mp3'
+      dative_pronunciation: leiːvɪ
       genitive: leyfis
+      genitive_pronunciation: leiːvɪs
     with article:
       nominative: leyfið
       nominative_translation: the vacation; the permission
+      nominative_pronunciation: leiːvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: leyfið
+      accusative_pronunciation: leiːvɪð
       dative: leyfinu
       genitive: leyfisins
 id: 1321

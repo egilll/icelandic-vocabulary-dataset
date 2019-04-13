@@ -6,40 +6,51 @@ conjugation:
     no article:
       nominative: verkur
       nominative_translation: 'an ache, a pain'
-      nominative_sound: islex/202/202_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/202/202_50.mp3'
+      nominative_pronunciation: vɛr̥kʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: verk
-      accusative_sound: islex/392/392_07.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/392/392_07.mp3'
+      accusative_pronunciation: vɛr̥k
       dative: verk
-      dative_sound: islex/392/392_07.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/392/392_07.mp3'
+      dative_pronunciation: vɛr̥k
       genitive: verkjar
+      genitive_pronunciation: vɛr̥car
     with article:
       nominative: verkurinn
       nominative_translation: 'the ache, the pain'
+      nominative_pronunciation: <span class="guessed">vɛr̥kʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: verkinn
+      accusative_pronunciation: <span class="guessed">vɛr̥kɪn</span>
       dative: verknum
       genitive: verkjarins
   plural:
     no article:
       nominative: verkir
       nominative_translation: 'aches, pains'
+      nominative_pronunciation: vɛr̥cɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: verki
+      accusative_pronunciation: vɛr̥cɪ
       dative: verkjum
+      dative_pronunciation: vɛr̥cʏm
       genitive: verkja
-      genitive_sound: islex/044/044_22.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/044/044_22.mp3'
+      genitive_pronunciation: vɛr̥ca
     with article:
       nominative: verkirnir
       nominative_translation: 'the aches, the pains'
       nominative_teach: true
       nominative_teachtable: true
       accusative: verkina
+      accusative_pronunciation: <span class="guessed">vɛr̥cɪnaː</span>
       dative: verkjunum
       genitive: verkjanna
 id: 1913

@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: félag
       nominative_translation: 'an association, a society'
-      nominative_sound: islex/374/374_72.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/374/374_72.mp3'
+      nominative_pronunciation: fjɛːlaɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: félag
-      accusative_sound: islex/374/374_72.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/374/374_72.mp3'
+      accusative_pronunciation: fjɛːlaɣ
       dative: félagi
-      dative_sound: islex/237/237_08.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/237/237_08.mp3'
+      dative_pronunciation: fjɛːlaijɪ
       genitive: félags
+      genitive_pronunciation: fjɛːlaxs
     with article:
       nominative: félagið
       nominative_translation: 'the association, the society'
+      nominative_pronunciation: fjɛːlaijɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: félagið
+      accusative_pronunciation: fjɛːlaijɪð
       dative: félaginu
+      dative_pronunciation: fjɛːlaiɪnʏ
       genitive: félagsins
+      genitive_pronunciation: fjɛːlaxsɪns
   plural:
     no article:
       nominative: félög
       nominative_translation: 'associations, societies'
+      nominative_pronunciation: fjɛːlœɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: félög
+      accusative_pronunciation: fjɛːlœɣ
       dative: félögum
+      dative_pronunciation: fjɛːlœɣʏm
       genitive: félaga
+      genitive_pronunciation: fjɛːlaɣa
     with article:
       nominative: félögin
       nominative_translation: 'the associations, the societies'
+      nominative_pronunciation: fjɛːlœijɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: félögin
+      accusative_pronunciation: fjɛːlœijɪn
       dative: félögunum
+      dative_pronunciation: fjɛːlœɣɔnʏm
       genitive: félaganna
+      genitive_pronunciation: fjɛːlaɣana
 id: 933
 gender: neuter

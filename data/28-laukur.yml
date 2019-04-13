@@ -6,17 +6,21 @@ conjugation:
     no article:
       nominative: laukur
       nominative_translation: an onion
-      nominative_sound: islex/422/422_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/422/422_51.mp3'
+      nominative_pronunciation: lœiːkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: laukurinn
       nominative_translation: the onion
+      nominative_pronunciation: lœiːkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: laukinn
+      accusative_pronunciation: lœiːcɪn
       dative: lauknum
+      dative_pronunciation: lœihknʏm
       genitive: lauksins
 id: 1300
 gender: masculine

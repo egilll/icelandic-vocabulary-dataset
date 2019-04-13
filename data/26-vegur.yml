@@ -6,44 +6,59 @@ conjugation:
     no article:
       nominative: vegur
       nominative_translation: a road
-      nominative_sound: islex/046/046_53.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/046/046_53.mp3'
+      nominative_pronunciation: vɛːɣʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: veg
+      accusative_pronunciation: vɛːɣ
       dative: vegi
+      dative_pronunciation: veijɪ
       genitive: vegar
+      genitive_pronunciation: vɛːɣar
       genitive_alternative:
         - vegs
     with article:
       nominative: vegurinn
       nominative_translation: the road
+      nominative_pronunciation: vɛːɣʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: veginn
-      accusative_sound: islex/370/370_03.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/370/370_03.mp3'
+      accusative_pronunciation: veiːjɪn
       dative: veginum
+      dative_pronunciation: veijɪnʏm
       genitive: vegarins
+      genitive_pronunciation: vɛːɣarɪns
       genitive_alternative:
         - vegsins
   plural:
     no article:
       nominative: vegir
       nominative_translation: roads
+      nominative_pronunciation: veijɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vegi
+      accusative_pronunciation: veijɪ
       dative: vegum
+      dative_pronunciation: vɛːɣʏm
       genitive: vega
-      genitive_sound: islex/265/265_43.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/265/265_43.mp3'
+      genitive_pronunciation: vɛːɣa
     with article:
       nominative: vegirnir
       nominative_translation: the roads
+      nominative_pronunciation: veijɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: vegina
+      accusative_pronunciation: vɛjɪna
       dative: vegunum
       genitive: veganna
+      genitive_pronunciation: <span class="guessed">vɛːɣana</span>
 id: 1901
 gender: masculine

@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] kosta'
     infinitive_translation: to cost
-    infinitive_sound: islex/424/424_29.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/424/424_29.mp3'
+    infinitive_pronunciation: kʰɔsta
     infinitive_teach: true
 id: 2192

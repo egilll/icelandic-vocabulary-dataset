@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: dúfa
       nominative_translation: 'a dove, a pigeon'
-      nominative_sound: islex/043/043_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/043/043_41.mp3'
+      nominative_pronunciation: tuːa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dúfu
+      accusative_pronunciation: tuːʏ
       dative: dúfu
+      dative_pronunciation: tuːʏ
       genitive: dúfu
+      genitive_pronunciation: tuːʏ
     with article:
       nominative: dúfan
       nominative_translation: 'the dove, the pigeon'
+      nominative_pronunciation: tuːan
       nominative_teach: true
       nominative_teachtable: true
       accusative: dúfuna
@@ -25,19 +30,24 @@ conjugation:
     no article:
       nominative: dúfur
       nominative_translation: 'doves, pigeons'
+      nominative_pronunciation: tuːʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dúfur
+      accusative_pronunciation: tuːʏr
       dative: dúfum
       genitive: dúfna
     with article:
       nominative: dúfurnar
       nominative_translation: 'the doves, the pigeons'
+      nominative_pronunciation: tuːʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: dúfurnar
+      accusative_pronunciation: tuːʏtnar
       dative: dúfunum
+      dative_pronunciation: tuːɔnʏm
       genitive: dúfnanna
 id: 886
 gender: feminine

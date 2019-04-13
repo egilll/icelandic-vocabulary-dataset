@@ -5,16 +5,19 @@ conjugation:
   active voice:
     infinitive: '[að] semja'
     infinitive_translation: to negotiate; to compose
-    infinitive_sound: islex/155/155_91.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/155/155_91.mp3'
+    infinitive_pronunciation: sɛmja
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] samdi'
           1st person_translation: I negotiated; I composed
+          1st person_pronunciation: samtɪ
           1st person_teach: true
         plural:
           1st person: '[við] sömdum'
           1st person_translation: we negotiated; we composed
+          1st person_pronunciation: sœmtʏm
           1st person_teach: true
 id: 2313

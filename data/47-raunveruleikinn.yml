@@ -6,11 +6,15 @@ conjugation:
     with article:
       nominative: raunveruleikinn
       nominative_translation: the reality
+      nominative_pronunciation: rœinvɛrʏleiːcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: raunveruleikann
+      accusative_pronunciation: rœinvɛrʏleiːkan
       dative: raunveruleikanum
+      dative_pronunciation: rœinvɛrʏleiːkanʏm
       genitive: raunveruleikans
+      genitive_pronunciation: rœinvɛrʏleiːkans
   plural:
     no article:
       nominative_teachtable: false

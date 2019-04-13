@@ -6,19 +6,25 @@ conjugation:
     no article:
       nominative: höfuðverkur
       nominative_translation: a headache
-      nominative_sound: islex/457/457_48.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/457/457_48.mp3'
+      nominative_pronunciation: hœːvʏðvɛr̥kʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: höfuðverk
+      accusative_pronunciation: hœːvʏðvɛr̥k
       dative: höfuðverk
+      dative_pronunciation: hœːvʏðvɛr̥k
       genitive: höfuðverkjar
+      genitive_pronunciation: <span class="guessed">hœːvʏðvɛr̥car</span>
     with article:
       nominative: höfuðverkurinn
       nominative_translation: the headache
+      nominative_pronunciation: hœːvʏðvɛr̥kʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: höfuðverkinn
+      accusative_pronunciation: <span class="guessed">hœːvʏðvɛr̥kɪn</span>
       dative: höfuðverknum
       genitive: höfuðverkjarins
 id: 1150

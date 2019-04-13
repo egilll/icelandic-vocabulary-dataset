@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: félagsfræði
       nominative_translation: sociology
-      nominative_sound: islex/151/151_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/151/151_58.mp3'
+      nominative_pronunciation: fjɛːlaxsfraiːðɪ
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

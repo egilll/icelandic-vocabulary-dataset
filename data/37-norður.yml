@@ -1,5 +1,7 @@
 word: norður
 word_translation: north
+word_sound: 'https://media.egill.xyz/audio/islex/311/311_51.mp3'
+word_pronunciation: nɔrðʏr
 word_teach: true
 level: 37
 grammatical_category: other

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: skott
       nominative_translation: a tail
-      nominative_sound: islex/351/351_76.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/351/351_76.mp3'
+      nominative_pronunciation: skɔht
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: skottið
       nominative_translation: the tail
+      nominative_pronunciation: skɔhtɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1660

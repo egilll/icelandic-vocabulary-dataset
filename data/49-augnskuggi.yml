@@ -6,13 +6,16 @@ conjugation:
     no article:
       nominative: augnskuggi
       nominative_translation: eye shadow
-      nominative_sound: islex/458/458_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/458/458_08.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: augnskugga
+      accusative_pronunciation: œiknskʏka
       dative: augnskugga
+      dative_pronunciation: œiknskʏka
       genitive: augnskugga
+      genitive_pronunciation: œiknskʏka
     with article:
       nominative: augnskugginn
       nominative_translation: the eye shadow

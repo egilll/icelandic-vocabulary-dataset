@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: vörubílstjóri
       nominative_translation: a truck driver
-      nominative_sound: islex/069/069_03.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/069/069_03.mp3'
+      nominative_pronunciation: <span class="guessed">vœːrʏpiːlstjouːrɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: vörubílstjórinn
       nominative_translation: the truck driver
+      nominative_pronunciation: <span class="guessed">vœːrʏpilstjourɪn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1947

@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: þjónn
       nominative_translation: 'a waiter, a server'
-      nominative_sound: islex/086/086_90.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/086/086_90.mp3'
+      nominative_pronunciation: θjoutn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þjón
+      accusative_pronunciation: θjouːn
       dative: þjóni
+      dative_pronunciation: θjouːnɪ
       genitive: þjóns
     with article:
       nominative: þjónninn
       nominative_translation: 'the waiter, the server'
+      nominative_pronunciation: θjoutnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: þjóninn
+      accusative_pronunciation: <span class="guessed">θjouːnɪn</span>
       dative: þjóninum
+      dative_pronunciation: θjouːnɪnʏm
       genitive: þjónsins
+      genitive_pronunciation: θjounsɪns
 id: 1957
 gender: masculine

@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: úr
       nominative_translation: a wrist watch
-      nominative_sound: islex/172/172_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/172/172_41.mp3'
+      nominative_pronunciation: uːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: úr
-      accusative_sound: islex/172/172_41.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/172/172_41.mp3'
+      accusative_pronunciation: uːr
       dative: úri
+      dative_pronunciation: <span class="guessed">uːrɪː</span>
       genitive: úrs
     with article:
       nominative: úrið
       nominative_translation: the wrist watch
+      nominative_pronunciation: uːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: úrið
+      accusative_pronunciation: uːrɪð
       dative: úrinu
+      dative_pronunciation: uːrɪnʏ
       genitive: úrsins
 id: 1876
 gender: neuter

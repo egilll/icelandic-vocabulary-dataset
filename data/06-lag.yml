@@ -6,43 +6,59 @@ conjugation:
     no article:
       nominative: lag
       nominative_translation: a song
-      nominative_sound: islex/478/478_43.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/478/478_43.mp3'
+      nominative_pronunciation: laːɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lag
-      accusative_sound: islex/478/478_43.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/478/478_43.mp3'
+      accusative_pronunciation: laːɣ
       dative: lagi
+      dative_pronunciation: laːjɪ
       genitive: lags
+      genitive_pronunciation: laxs
     with article:
       nominative: lagið
       nominative_translation: the song
+      nominative_pronunciation: laijɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: lagið
+      accusative_pronunciation: laijɪð
       dative: laginu
+      dative_pronunciation: laijɪnʏ
       genitive: lagsins
+      genitive_pronunciation: laxsɪns
   plural:
     no article:
       nominative: lög
       nominative_translation: songs
-      nominative_sound: islex/412/412_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/412/412_94.mp3'
+      nominative_pronunciation: lœːɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lög
-      accusative_sound: islex/412/412_94.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/412/412_94.mp3'
+      accusative_pronunciation: lœːɣ
       dative: lögum
+      dative_pronunciation: lœːɣʏm
       genitive: laga
-      genitive_sound: islex/066/066_16.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/066/066_16.mp3'
+      genitive_pronunciation: laːɣa
     with article:
       nominative: lögin
       nominative_translation: the songs
+      nominative_pronunciation: lœijɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lögin
+      accusative_pronunciation: lœijɪn
       dative: lögunum
+      dative_pronunciation: lœːɣɔnʏm
       genitive: laganna
+      genitive_pronunciation: laːɣana
 id: 1288
 gender: neuter
 never_show_with: lög

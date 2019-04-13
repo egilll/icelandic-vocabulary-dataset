@@ -1,5 +1,7 @@
 word: svangur
 word_translation: hungry
+word_sound: 'https://media.egill.xyz/audio/islex/054/054_47.mp3'
+word_pronunciation: svauŋkʏr
 word_teach: true
 level: 10
 grammatical_category: adjective

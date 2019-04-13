@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sundgleraugu
       nominative_translation: swimming goggles
-      nominative_sound: islex/116/116_60.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/116/116_60.mp3'
+      nominative_pronunciation: sʏntklɛrœiɣʏ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sundgleraugun
       nominative_translation: the swimming goggles
+      nominative_pronunciation: <span class="guessed">sʏntklɛːrœiɣʏn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1780

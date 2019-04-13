@@ -6,38 +6,51 @@ conjugation:
     no article:
       nominative: lykill
       nominative_translation: a key
-      nominative_sound: islex/422/422_72.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/422/422_72.mp3'
+      nominative_pronunciation: lɪːcɪtl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lykil
+      accusative_pronunciation: lɪːcɪl
       dative: lykli
+      dative_pronunciation: lɪhklɪ
       genitive: lykils
     with article:
       nominative: lykillinn
       nominative_translation: the key
+      nominative_pronunciation: lɪːcɪtlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lykilinn
+      accusative_pronunciation: lɪːcɪlɪn
       dative: lyklinum
+      dative_pronunciation: lɪhklɪnʏm
       genitive: lykilsins
   plural:
     no article:
       nominative: lyklar
       nominative_translation: keys
+      nominative_pronunciation: lɪhklar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lykla
+      accusative_pronunciation: lɪhkla
       dative: lyklum
+      dative_pronunciation: lɪhklʏm
       genitive: lykla
+      genitive_pronunciation: lɪhkla
     with article:
       nominative: lyklarnir
       nominative_translation: the keys
+      nominative_pronunciation: lɪhklatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: lyklana
+      accusative_pronunciation: lɪhklana
       dative: lyklunum
+      dative_pronunciation: lɪhklɔnʏm
       genitive: lyklanna
 id: 1363
 gender: masculine

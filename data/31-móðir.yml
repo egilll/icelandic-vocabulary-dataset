@@ -6,40 +6,54 @@ conjugation:
     no article:
       nominative: móðir
       nominative_translation: mother
-      nominative_sound: islex/475/475_02.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/475/475_02.mp3'
+      nominative_pronunciation: mouːðɪr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: móður
-      accusative_sound: islex/062/062_26.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/062/062_26.mp3'
+      accusative_pronunciation: mouːðʏr
       dative: móður
-      dative_sound: islex/062/062_26.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/062/062_26.mp3'
+      dative_pronunciation: mouːðʏr
       genitive: móður
-      genitive_sound: islex/062/062_26.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/062/062_26.mp3'
+      genitive_pronunciation: mouːðʏr
     with article:
       nominative: móðirin
       nominative_translation: the mother
+      nominative_pronunciation: mouːðɪrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: móðurina
+      accusative_pronunciation: mouːðʏrɪna
       dative: móðurinni
+      dative_pronunciation: mouːðʏrɪnɪ
       genitive: móðurinnar
+      genitive_pronunciation: mouːðʏrɪnar
   plural:
     no article:
       nominative: mæður
       nominative_translation: mothers
+      nominative_pronunciation: maiːðʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: mæður
+      accusative_pronunciation: maiːðʏr
       dative: mæðrum
+      dative_pronunciation: maiðrʏm
       genitive: mæðra
+      genitive_pronunciation: maiðra
     with article:
       nominative: mæðurnar
       nominative_translation: the mothers
+      nominative_pronunciation: maiːðʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: mæðurnar
+      accusative_pronunciation: maiːðʏtnar
       dative: mæðrunum
       genitive: mæðranna
 id: 1412

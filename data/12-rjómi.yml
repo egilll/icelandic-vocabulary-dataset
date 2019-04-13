@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: rjómi
       nominative_translation: cream (dairy product)
-      nominative_sound: islex/416/416_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/416/416_27.mp3'
+      nominative_pronunciation: rjouːmɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rjóma
+      accusative_pronunciation: rjouːma
       dative: rjóma
+      dative_pronunciation: rjouːma
       genitive: rjóma
+      genitive_pronunciation: rjouːma
     with article:
       nominative: rjóminn
       nominative_translation: the cream (dairy product)
       nominative_teach: true
       nominative_teachtable: true
       accusative: rjómann
+      accusative_pronunciation: rjouːman
       dative: rjómanum
+      dative_pronunciation: rjouːmanʏm
       genitive: rjómans
 id: 1565
 gender: masculine

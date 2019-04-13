@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: steik
       nominative_translation: steak
-      nominative_sound: islex/390/390_33.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/390/390_33.mp3'
+      nominative_pronunciation: steiːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

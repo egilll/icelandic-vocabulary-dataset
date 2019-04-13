@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: val
       nominative_translation: a choice
-      nominative_sound: islex/352/352_54.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/352/352_54.mp3'
+      nominative_pronunciation: vaːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: valið
       nominative_translation: the choice
+      nominative_pronunciation: vaːlɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1886

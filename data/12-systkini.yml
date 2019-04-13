@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: systkini
       nominative_translation: siblings
-      nominative_sound: islex/242/242_46.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/242/242_46.mp3'
+      nominative_pronunciation: sɪscɪnɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: systkini
-      accusative_sound: islex/242/242_46.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/242/242_46.mp3'
+      accusative_pronunciation: sɪscɪnɪ
       dative: systkinum
+      dative_pronunciation: sɪscɪnʏm
       genitive: systkina
+      genitive_pronunciation: sɪscɪna
     with article:
       nominative: systkinin
       nominative_translation: the siblings
+      nominative_pronunciation: sɪscɪnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: systkinin
+      accusative_pronunciation: sɪscɪnɪn
       dative: systkinunum
+      dative_pronunciation: sɪscɪnɔnʏm
       genitive: systkinanna
+      genitive_pronunciation: sɪscɪnana
 id: 1804
 gender: neuter

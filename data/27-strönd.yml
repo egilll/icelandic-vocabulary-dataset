@@ -6,38 +6,49 @@ conjugation:
     no article:
       nominative: strönd
       nominative_translation: a beach; a coast
-      nominative_sound: islex/027/027_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/027/027_20.mp3'
+      nominative_pronunciation: strœnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: strönd
-      accusative_sound: islex/027/027_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/027/027_20.mp3'
+      accusative_pronunciation: strœnt
       dative: strönd
-      dative_sound: islex/027/027_20.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/027/027_20.mp3'
+      dative_pronunciation: strœnt
       genitive: strandar
+      genitive_pronunciation: strantar
     with article:
       nominative: ströndin
       nominative_translation: the beach; the coast
       nominative_teach: true
       nominative_teachtable: true
       accusative: ströndina
+      accusative_pronunciation: strœntɪna
       dative: ströndinni
+      dative_pronunciation: strœntɪnɪ
       genitive: strandarinnar
+      genitive_pronunciation: <span class="guessed">strantarɪnar</span>
   plural:
     no article:
       nominative: strendur
       nominative_translation: beaches; coasts
+      nominative_pronunciation: strɛntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_alternative:
         - strandir
       accusative: strendur
+      accusative_pronunciation: strɛntʏr
       accusative_alternative:
         - strandir
       dative: ströndum
+      dative_pronunciation: strœntʏm
       genitive: stranda
-      genitive_sound: islex/010/010_13.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/010/010_13.mp3'
+      genitive_pronunciation: stranta
     with article:
       nominative: strendurnar
       nominative_translation: the beaches; the coasts
@@ -50,5 +61,6 @@ conjugation:
         - strandirnar
       dative: ströndunum
       genitive: strandanna
+      genitive_pronunciation: <span class="guessed">strantana</span>
 id: 1761
 gender: feminine

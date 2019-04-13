@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: þol
       nominative_translation: 'stamina, endurance'
-      nominative_sound: islex/338/338_81.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/338/338_81.mp3'
+      nominative_pronunciation: θɔːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þol
-      accusative_sound: islex/338/338_81.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/338/338_81.mp3'
+      accusative_pronunciation: θɔːl
       dative: þoli
+      dative_pronunciation: θɔːlɪ
       genitive: þols
     with article:
       nominative: þolið
       nominative_translation: 'the stamina, the endurance'
+      nominative_pronunciation: <span class="guessed">θɔːlɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: þolið
+      accusative_pronunciation: <span class="guessed">θɔːlɪːð</span>
       dative: þolinu
+      dative_pronunciation: <span class="guessed">θɔːlɪːnʏ</span>
       genitive: þolsins
 id: 1960
 gender: neuter

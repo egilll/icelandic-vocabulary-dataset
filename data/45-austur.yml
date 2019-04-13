@@ -1,5 +1,7 @@
 word: austur
 word_translation: east
+word_sound: 'https://media.egill.xyz/audio/islex/037/037_76.mp3'
+word_pronunciation: œistʏr
 word_teach: true
 level: 45
 grammatical_category: other

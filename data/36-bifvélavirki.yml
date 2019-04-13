@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: bifvélavirki
       nominative_translation: a car mechanic
-      nominative_sound: islex/143/143_76.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/143/143_76.mp3'
+      nominative_pronunciation: pɪvjɛlavɪr̥cɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: bifvélavirkinn
       nominative_translation: the car mechanic
+      nominative_pronunciation: pɪvjɛlavɪr̥cɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 792

@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: klukka
       nominative_translation: a clock
-      nominative_sound: islex/425/425_43.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/425/425_43.mp3'
+      nominative_pronunciation: kʰlʏhka
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: klukku
+      accusative_pronunciation: kʰlʏhkʏ
       dative: klukku
+      dative_pronunciation: kʰlʏhkʏ
       genitive: klukku
+      genitive_pronunciation: kʰlʏhkʏ
     with article:
       nominative: klukkan
       nominative_translation: the clock
+      nominative_pronunciation: kʰlʏhkan
       nominative_teach: true
       nominative_teachtable: true
       accusative: klukkuna
+      accusative_pronunciation: kʰlʏhkʏna
       dative: klukkunni
+      dative_pronunciation: kʰlʏhkʏnɪ
       genitive: klukkunnar
 id: 1250
 gender: feminine

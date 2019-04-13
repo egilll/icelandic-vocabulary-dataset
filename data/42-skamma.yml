@@ -1,5 +1,7 @@
 word: skamma
 word_translation: to scold
+word_sound: 'https://media.egill.xyz/audio/islex/476/476_48.mp3'
+word_pronunciation: skama
 word_teach: true
 level: 42
 grammatical_category: verb

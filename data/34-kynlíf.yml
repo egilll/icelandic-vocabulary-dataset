@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: kynlíf
       nominative_translation: 'sex, intercourse'
-      nominative_sound: islex/090/090_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/090/090_94.mp3'
+      nominative_pronunciation: cʰɪnliv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kynlíf
-      accusative_sound: islex/090/090_94.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/090/090_94.mp3'
+      accusative_pronunciation: cʰɪnliv
       dative: kynlífi
+      dative_pronunciation: cʰɪnlivɪ
       genitive: kynlífs
+      genitive_pronunciation: cʰɪnlifs
     with article:
       nominative: kynlífið
       nominative_translation: 'the sex, the intercourse'
+      nominative_pronunciation: cʰɪnlivɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: kynlífið
+      accusative_pronunciation: cʰɪnlivɪð
       dative: kynlífinu
+      dative_pronunciation: cʰɪnlivɪnʏ
       genitive: kynlífsins
+      genitive_pronunciation: cʰɪnlifsɪns
 id: 1281
 gender: neuter

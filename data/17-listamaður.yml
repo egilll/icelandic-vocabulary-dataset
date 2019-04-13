@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: listamaður
       nominative_translation: an artist
-      nominative_sound: islex/206/206_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/206/206_04.mp3'
+      nominative_pronunciation: lɪstamaːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: listamann
+      accusative_pronunciation: lɪstaman
       dative: listamanni
+      dative_pronunciation: lɪstamanɪ
       genitive: listamanns
+      genitive_pronunciation: lɪstamans
     with article:
       nominative: listamaðurinn
       nominative_translation: the artist
+      nominative_pronunciation: lɪstamaːðʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: listamanninn
+      accusative_pronunciation: lɪstamanɪn
       dative: listamanninum
+      dative_pronunciation: lɪstamanɪnʏm
       genitive: listamannsins
+      genitive_pronunciation: lɪstamansɪns
   plural:
     no article:
       nominative: listamenn
       nominative_translation: artists
+      nominative_pronunciation: lɪstamɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: listamenn
+      accusative_pronunciation: lɪstamɛn
       dative: listamönnum
+      dative_pronunciation: lɪstamœnʏm
       genitive: listamanna
+      genitive_pronunciation: lɪstamana
     with article:
       nominative: listamennirnir
       nominative_translation: the artists
+      nominative_pronunciation: lɪstamɛnɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: listamennina
+      accusative_pronunciation: lɪstamɛnɪna
       dative: listamönnunum
+      dative_pronunciation: lɪstamœnɔnʏm
       genitive: listamannanna
+      genitive_pronunciation: lɪstamanana
 id: 1333
 gender: masculine
 only_show_after: list

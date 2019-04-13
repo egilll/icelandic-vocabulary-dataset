@@ -6,44 +6,60 @@ conjugation:
     no article:
       nominative: vél
       nominative_translation: a machine
-      nominative_sound: islex/348/348_43.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/348/348_43.mp3'
+      nominative_pronunciation: vjɛːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vél
-      accusative_sound: islex/348/348_43.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/348/348_43.mp3'
+      accusative_pronunciation: vjɛːl
       dative: vél
-      dative_sound: islex/348/348_43.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/348/348_43.mp3'
+      dative_pronunciation: vjɛːl
       genitive: vélar
-      genitive_sound: islex/167/167_09.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/167/167_09.mp3'
+      genitive_pronunciation: vjɛːlar
     with article:
       nominative: vélin
       nominative_translation: the machine
+      nominative_pronunciation: vjɛːlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: vélina
+      accusative_pronunciation: vjɛːlɪna
       dative: vélinni
+      dative_pronunciation: vjɛːlɪnɪ
       genitive: vélarinnar
+      genitive_pronunciation: vjɛːlarɪnar
   plural:
     no article:
       nominative: vélar
       nominative_translation: machines
-      nominative_sound: islex/167/167_09.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/167/167_09.mp3'
+      nominative_pronunciation: vjɛːlar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vélar
-      accusative_sound: islex/167/167_09.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/167/167_09.mp3'
+      accusative_pronunciation: vjɛːlar
       dative: vélum
+      dative_pronunciation: vjɛːlʏm
       genitive: véla
-      genitive_sound: islex/192/192_01.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/192/192_01.mp3'
+      genitive_pronunciation: vjɛːla
     with article:
       nominative: vélarnar
       nominative_translation: the machines
+      nominative_pronunciation: vjɛːlatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: vélarnar
+      accusative_pronunciation: vjɛːlatnar
       dative: vélunum
+      dative_pronunciation: vjɛːlɔnʏm
       genitive: vélanna
+      genitive_pronunciation: vjɛːlana
 id: 1905
 gender: feminine

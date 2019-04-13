@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: fimleikar
       nominative_translation: gymnastics
-      nominative_sound: islex/102/102_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/102/102_22.mp3'
+      nominative_pronunciation: <span class="guessed">fɪːmleiːkar</span>
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

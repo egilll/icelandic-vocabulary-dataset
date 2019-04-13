@@ -6,33 +6,43 @@ conjugation:
     no article:
       nominative: plan
       nominative_translation: a plan
-      nominative_sound: islex/369/369_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/369/369_85.mp3'
+      nominative_pronunciation: pʰlaːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: plan
-      accusative_sound: islex/369/369_85.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/369/369_85.mp3'
+      accusative_pronunciation: pʰlaːn
       dative: plani
+      dative_pronunciation: pʰlaːnɪ
       genitive: plans
     with article:
       nominative: planið
       nominative_translation: the plan
+      nominative_pronunciation: pʰlaːnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: planið
+      accusative_pronunciation: pʰlaːnɪð
       dative: planinu
+      dative_pronunciation: pʰlaːnɪnʏ
       genitive: plansins
   plural:
     no article:
       nominative: plön
       nominative_translation: plans
+      nominative_pronunciation: pʰlœːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: plön
+      accusative_pronunciation: pʰlœːn
       dative: plönum
+      dative_pronunciation: <span class="guessed">pʰlœːnʏm</span>
       genitive: plana
-      genitive_sound: islex/318/318_87.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/318/318_87.mp3'
+      genitive_pronunciation: <span class="guessed">pʰlaːnaː</span>
     with article:
       nominative: plönin
       nominative_translation: the plans
@@ -41,6 +51,7 @@ conjugation:
       accusative: plönin
       dative: plönunum
       genitive: plananna
+      genitive_pronunciation: <span class="guessed">pʰlaːnana</span>
 id: 1506
 gender: neuter
 recognizable: '1'

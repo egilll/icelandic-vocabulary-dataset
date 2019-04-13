@@ -5,18 +5,21 @@ conjugation:
   active voice:
     infinitive: '[að] mála'
     infinitive_translation: to paint
-    infinitive_sound: islex/423/423_11.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/423/423_11.mp3'
+    infinitive_pronunciation: mauːla
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] mála'
           1st person_translation: I paint
-          1st person_sound: islex/423/423_11.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/423/423_11.mp3'
+          1st person_pronunciation: mauːla
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] málaði'
           1st person_translation: I painted
+          1st person_pronunciation: mauːlaðɪ
           1st person_teach: true
 id: 2240

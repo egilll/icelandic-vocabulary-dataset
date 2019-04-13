@@ -6,24 +6,32 @@ conjugation:
     no article:
       nominative: fiskur
       nominative_translation: a fish
-      nominative_sound: islex/158/158_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/158/158_73.mp3'
+      nominative_pronunciation: fɪskʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fisk
+      accusative_pronunciation: fɪsk
       dative: fiski
-      dative_sound: islex/332/332_26.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/332/332_26.mp3'
+      dative_pronunciation: fɪscɪ
       genitive: fisks
+      genitive_pronunciation: fɪsks
     with article:
       nominative: fiskurinn
       nominative_translation: the fish
+      nominative_pronunciation: fɪskʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fiskinn
-      accusative_sound: islex/257/257_99.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/257/257_99.mp3'
+      accusative_pronunciation: fɪscɪn
       dative: fiskinum
+      dative_pronunciation: fɪscɪnʏm
       dative_alternative:
         - fisknum
       genitive: fisksins
+      genitive_pronunciation: fɪsksɪns
 id: 942
 gender: masculine

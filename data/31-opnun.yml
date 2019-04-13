@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: opnun
       nominative_translation: an opening
-      nominative_sound: islex/054/054_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/054/054_08.mp3'
+      nominative_pronunciation: ɔhpnʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: opnun
-      accusative_sound: islex/054/054_08.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/054/054_08.mp3'
+      accusative_pronunciation: ɔhpnʏn
       dative: opnun
-      dative_sound: islex/054/054_08.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/054/054_08.mp3'
+      dative_pronunciation: ɔhpnʏn
       genitive: opnunar
+      genitive_pronunciation: ɔhpnʏnar
     with article:
       nominative: opnunin
       nominative_translation: the opening
       nominative_teach: true
       nominative_teachtable: true
       accusative: opnunina
+      accusative_pronunciation: ɔhpnʏnɪna
       dative: opnuninni
+      dative_pronunciation: <span class="guessed">ɔhpnʏnɪnɪ</span>
       genitive: opnunarinnar
+      genitive_pronunciation: <span class="guessed">ɔhpnʏnarɪnar</span>
 id: 1471
 gender: feminine

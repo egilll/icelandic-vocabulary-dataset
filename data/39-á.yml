@@ -6,23 +6,31 @@ conjugation:
     no article:
       nominative: á
       nominative_translation: a river
-      nominative_sound: islex/048/048_11.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/048/048_11.mp3'
+      nominative_pronunciation: auː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: á
-      accusative_sound: islex/048/048_11.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/048/048_11.mp3'
+      accusative_pronunciation: auː
       dative: á
-      dative_sound: islex/048/048_11.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/048/048_11.mp3'
+      dative_pronunciation: auː
       genitive: ár
-      genitive_sound: islex/209/209_65.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/209/209_65.mp3'
+      genitive_pronunciation: auːr
     with article:
       nominative: áin
       nominative_translation: the river
+      nominative_pronunciation: auːɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ána
+      accusative_pronunciation: auːna
       dative: ánni
+      dative_pronunciation: aunɪ
       genitive: árinnar
+      genitive_pronunciation: auːrɪnar
 id: 686
 gender: feminine

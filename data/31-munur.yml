@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: munur
       nominative_translation: a difference
-      nominative_sound: islex/231/231_48.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/231/231_48.mp3'
+      nominative_pronunciation: mʏːnʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mun
+      accusative_pronunciation: mʏːn
       dative: mun
+      dative_pronunciation: mʏːn
       genitive: munar
+      genitive_pronunciation: mʏːnar
     with article:
       nominative: munurinn
       nominative_translation: the difference
+      nominative_pronunciation: mʏːnʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: muninn
+      accusative_pronunciation: mʏːnɪn
       dative: muninum
+      dative_pronunciation: mʏːnɪnʏm
       genitive: munarins
 id: 1423
 gender: masculine

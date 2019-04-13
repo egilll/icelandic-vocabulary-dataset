@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: tröppur
       nominative_translation: stairs
+      nominative_pronunciation: tʰrœhpʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tröppur
+      accusative_pronunciation: tʰrœhpʏr
       dative: tröppum
+      dative_pronunciation: tʰrœhpʏm
       genitive: trappa
-      genitive_sound: islex/292/292_80.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/292/292_80.mp3'
     with article:
       nominative: tröppurnar
       nominative_translation: the stairs
+      nominative_pronunciation: tʰrœhpʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: tröppurnar
+      accusative_pronunciation: tʰrœhpʏtnar
       dative: tröppunum
+      dative_pronunciation: tʰrœhpɔnʏm
       genitive: trappanna
 id: 1850
 gender: feminine

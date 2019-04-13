@@ -6,22 +6,27 @@ conjugation:
     no article:
       nominative: smokkur
       nominative_translation: a condom
-      nominative_sound: islex/192/192_74.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/192/192_74.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: smokk
+      accusative_pronunciation: smɔhk
       dative: smokki
+      dative_pronunciation: <span class="guessed">smɔhkɪː</span>
       dative_alternative:
         - smokk
       genitive: smokks
     with article:
       nominative: smokkurinn
       nominative_translation: the condom
+      nominative_pronunciation: smɔhkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: smokkinn
+      accusative_pronunciation: smɔhcɪn
       dative: smokknum
+      dative_pronunciation: smɔhknʏm
       genitive: smokksins
   plural:
     no article:

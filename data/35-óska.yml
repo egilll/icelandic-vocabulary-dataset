@@ -5,18 +5,21 @@ conjugation:
   active voice:
     infinitive: '[að] óska'
     infinitive_translation: to wish for
-    infinitive_sound: islex/408/408_00.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/408/408_00.mp3'
+    infinitive_pronunciation: ouska
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] óska'
           1st person_translation: I wish for
-          1st person_sound: islex/408/408_00.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/408/408_00.mp3'
+          1st person_pronunciation: ouska
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] óskaði'
           1st person_translation: I wished for
+          1st person_pronunciation: ouskaðɪ
           1st person_teach: true
 id: 2266

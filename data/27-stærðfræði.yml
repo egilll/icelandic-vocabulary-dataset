@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: stærðfræði
       nominative_translation: mathematics
-      nominative_sound: islex/141/141_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/141/141_23.mp3'
+      nominative_pronunciation: stair̥fraiðɪ
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

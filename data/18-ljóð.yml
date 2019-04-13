@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: ljóð
       nominative_translation: a poem
-      nominative_sound: islex/160/160_93.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/160/160_93.mp3'
+      nominative_pronunciation: ljouːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ljóð
-      accusative_sound: islex/160/160_93.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/160/160_93.mp3'
+      accusative_pronunciation: ljouːð
       dative: ljóði
+      dative_pronunciation: ljouːðɪ
       genitive: ljóðs
     with article:
       nominative: ljóðið
       nominative_translation: the poem
+      nominative_pronunciation: ljouːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: ljóðið
+      accusative_pronunciation: ljouːðɪð
       dative: ljóðinu
+      dative_pronunciation: ljouːðɪnʏ
       genitive: ljóðsins
+      genitive_pronunciation: ljouːðsɪns
 id: 1338
 gender: neuter

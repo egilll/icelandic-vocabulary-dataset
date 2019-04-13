@@ -6,30 +6,39 @@ conjugation:
     no article:
       nominative: hilla
       nominative_translation: a shelf
-      nominative_sound: islex/280/280_43.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/280/280_43.mp3'
+      nominative_pronunciation: hɪtla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hillu
+      accusative_pronunciation: hɪtlʏ
       dative: hillu
+      dative_pronunciation: hɪtlʏ
       genitive: hillu
+      genitive_pronunciation: hɪtlʏ
     with article:
       nominative: hillan
       nominative_translation: the shelf
       nominative_teach: true
       nominative_teachtable: true
       accusative: hilluna
+      accusative_pronunciation: hɪtlʏna
       dative: hillunni
+      dative_pronunciation: hɪtlʏnɪ
       genitive: hillunnar
   plural:
     no article:
       nominative: hillur
       nominative_translation: shelves
+      nominative_pronunciation: hɪtlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hillur
+      accusative_pronunciation: hɪtlʏr
       dative: hillum
+      dative_pronunciation: hɪtlʏm
       genitive: hillna
       genitive_alternative:
         - hilla

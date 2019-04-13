@@ -6,17 +6,21 @@ conjugation:
     no article:
       nominative: armband
       nominative_translation: a bracelet
-      nominative_sound: islex/478/478_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/478/478_01.mp3'
+      nominative_pronunciation: armpant
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: armband
-      accusative_sound: islex/478/478_01.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/478/478_01.mp3'
+      accusative_pronunciation: armpant
       dative: armbandi
+      dative_pronunciation: <span class="guessed">armpantɪː</span>
       genitive: armbands
     with article:
       nominative: armbandið
       nominative_translation: the bracelet
+      nominative_pronunciation: <span class="guessed">armpantɪːð</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 735

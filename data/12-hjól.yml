@@ -6,26 +6,35 @@ conjugation:
     no article:
       nominative: hjól
       nominative_translation: a bicycle
-      nominative_sound: islex/023/023_34.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/023/023_34.mp3'
+      nominative_pronunciation: çouːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hjól
-      accusative_sound: islex/023/023_34.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/023/023_34.mp3'
+      accusative_pronunciation: çouːl
       dative: hjóli
+      dative_pronunciation: çouːlɪ
       genitive: hjóls
+      genitive_pronunciation: çouls
     with article:
       nominative: hjólið
       nominative_translation: the bicycle
+      nominative_pronunciation: çouːlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hjólið
+      accusative_pronunciation: çouːlɪð
       dative: hjólinu
+      dative_pronunciation: çouːlɪnʏ
       genitive: hjólsins
+      genitive_pronunciation: çoulsɪns
   plural:
     with article:
       nominative: hjólin
       nominative_translation: the bicycles
+      nominative_pronunciation: çouːlɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1126

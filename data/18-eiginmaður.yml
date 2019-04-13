@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: eiginmaður
       nominative_translation: husband
-      nominative_sound: islex/308/308_79.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/308/308_79.mp3'
+      nominative_pronunciation: eijɪnmaːðʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       nominative_literal: one's own man
       accusative: eiginmann
+      accusative_pronunciation: eiːjɪnman
       dative: eiginmanni
+      dative_pronunciation: eijɪnmanɪ
       genitive: eiginmanns
+      genitive_pronunciation: eijɪnmans
 id: 902
 gender: masculine

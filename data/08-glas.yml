@@ -6,40 +6,54 @@ conjugation:
     no article:
       nominative: glas
       nominative_translation: a glass (for drinking)
-      nominative_sound: islex/288/288_28.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/288/288_28.mp3'
+      nominative_pronunciation: klaːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: glas
-      accusative_sound: islex/288/288_28.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/288/288_28.mp3'
+      accusative_pronunciation: klaːs
       dative: glasi
+      dative_pronunciation: klaːsɪ
       genitive: glass
     with article:
       nominative: glasið
       nominative_translation: the glass (for drinking)
+      nominative_pronunciation: klaːsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: glasið
+      accusative_pronunciation: klaːsɪð
       dative: glasinu
+      dative_pronunciation: klaːsɪnʏ
       genitive: glassins
   plural:
     no article:
       nominative: glös
       nominative_translation: glasses (for drinking)
+      nominative_pronunciation: klœːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: glös
+      accusative_pronunciation: klœːs
       dative: glösum
+      dative_pronunciation: klœːsʏm
       genitive: glasa
+      genitive_pronunciation: <span class="guessed">klaːsaː</span>
     with article:
       nominative: glösin
       nominative_translation: the glasses (for drinking)
+      nominative_pronunciation: klœːsɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: glösin
+      accusative_pronunciation: klœːsɪn
       dative: glösunum
+      dative_pronunciation: klœːsɔnʏm
       genitive: glasanna
+      genitive_pronunciation: <span class="guessed">klaːsana</span>
 id: 1030
 teach_the_difference: 'gler, gleraugu'
 gender: neuter

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: kakó
       nominative_translation: chocolate milk
-      nominative_sound: islex/286/286_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/286/286_71.mp3'
+      nominative_pronunciation: kʰaːkou
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: kakóið
       nominative_translation: the chocolate milk
+      nominative_pronunciation: kʰaːkouɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1213

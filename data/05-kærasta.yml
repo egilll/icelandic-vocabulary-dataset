@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: kærasta
       nominative_translation: a girlfriend
-      nominative_sound: islex/059/059_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/059/059_88.mp3'
+      nominative_pronunciation: cʰaiːrasta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kærustu
+      accusative_pronunciation: cʰaiːrʏstʏ
       dative: kærustu
+      dative_pronunciation: cʰaiːrʏstʏ
       genitive: kærustu
+      genitive_pronunciation: cʰaiːrʏstʏ
     with article:
       nominative: kærastan
       nominative_translation: the girlfriend
+      nominative_pronunciation: cʰaiːrastan
       nominative_teach: true
       nominative_teachtable: true
       accusative: kærustuna
+      accusative_pronunciation: <span class="guessed">cʰaiːrʏstʏːna</span>
       dative: kærustunni
+      dative_pronunciation: cʰaiːrʏstʏnɪ
       genitive: kærustunnar
 id: 1205
 teach_the_difference: kærasti

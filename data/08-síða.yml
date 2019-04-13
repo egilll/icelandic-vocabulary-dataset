@@ -6,41 +6,55 @@ conjugation:
     no article:
       nominative: síða
       nominative_translation: a page
-      nominative_sound: islex/381/381_82.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/381/381_82.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: síðu
+      accusative_pronunciation: siːðʏ
       dative: síðu
+      dative_pronunciation: siːðʏ
       genitive: síðu
+      genitive_pronunciation: siːðʏ
     with article:
       nominative: síðan
       nominative_translation: the page
-      nominative_sound: islex/231/231_83.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/231/231_83.mp3'
+      nominative_pronunciation: siːðan
       nominative_teach: true
       nominative_teachtable: true
       accusative: síðuna
+      accusative_pronunciation: siːðʏna
       dative: síðunni
+      dative_pronunciation: siːðʏnɪ
       genitive: síðunnar
+      genitive_pronunciation: siːðʏnar
   plural:
     no article:
       nominative: síður
       nominative_translation: pages
-      nominative_sound: islex/297/297_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/297/297_30.mp3'
+      nominative_pronunciation: siːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: síður
-      accusative_sound: islex/297/297_30.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/297/297_30.mp3'
+      accusative_pronunciation: siːðʏr
       dative: síðum
+      dative_pronunciation: siːðʏm
       genitive: síðna
+      genitive_pronunciation: siðŋa
     with article:
       nominative: síðurnar
       nominative_translation: the pages
+      nominative_pronunciation: siːðʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: síðurnar
+      accusative_pronunciation: siːðʏtnar
       dative: síðunum
+      dative_pronunciation: siːðɔnʏm
       genitive: síðnanna
 id: 1612
 gender: feminine

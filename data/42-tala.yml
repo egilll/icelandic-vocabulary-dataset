@@ -6,39 +6,54 @@ conjugation:
     no article:
       nominative: tala
       nominative_translation: a numeral (number)
-      nominative_sound: islex/228/228_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/228/228_87.mp3'
+      nominative_pronunciation: tʰaːla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tölu
+      accusative_pronunciation: tʰœːlʏ
       dative: tölu
+      dative_pronunciation: tʰœːlʏ
       genitive: tölu
+      genitive_pronunciation: tʰœːlʏ
     with article:
       nominative: talan
       nominative_translation: the numeral (number)
+      nominative_pronunciation: tʰaːlan
       nominative_teach: true
       nominative_teachtable: true
       accusative: töluna
+      accusative_pronunciation: tʰœːlʏna
       dative: tölunni
+      dative_pronunciation: tʰœːlʏnɪ
       genitive: tölunnar
   plural:
     no article:
       nominative: tölur
       nominative_translation: numerals (numbers)
+      nominative_pronunciation: tʰœːlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tölur
+      accusative_pronunciation: tʰœːlʏr
       dative: tölum
+      dative_pronunciation: tʰœːlʏm
       genitive: talna
+      genitive_pronunciation: tʰalna
     with article:
       nominative: tölurnar
       nominative_translation: the numerals (numbers)
+      nominative_pronunciation: tʰœːlʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: tölurnar
+      accusative_pronunciation: tʰœːlʏtnar
       dative: tölunum
+      dative_pronunciation: tʰœːlɔnʏm
       genitive: talnanna
+      genitive_pronunciation: <span class="guessed">tʰaːlnana</span>
 id: 1814
 gender: feminine
 other_conneced_words: númer

@@ -6,10 +6,13 @@ conjugation:
     with article:
       nominative: botninn
       nominative_translation: the bottom
+      nominative_pronunciation: pɔhtnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: botninn
+      accusative_pronunciation: pɔhtnɪn
       dative: botninum
+      dative_pronunciation: pɔhtnɪnʏm
       genitive: botnsins
 id: 839
 gender: masculine

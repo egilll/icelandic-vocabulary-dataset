@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] auglýsa'
     infinitive_translation: to advertise
-    infinitive_sound: islex/405/405_90.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/405/405_90.mp3'
+    infinitive_pronunciation: œiɣlisa
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] auglýsti'
           1st person_translation: I advertised
+          1st person_pronunciation: œiɣlistɪ
           1st person_teach: true
 id: 2026

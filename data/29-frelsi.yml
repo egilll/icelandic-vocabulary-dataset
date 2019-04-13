@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: frelsi
       nominative_translation: freedom
-      nominative_sound: islex/161/161_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/161/161_91.mp3'
+      nominative_pronunciation: frɛlsɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: frelsi
-      accusative_sound: islex/161/161_91.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/161/161_91.mp3'
+      accusative_pronunciation: frɛlsɪ
       dative: frelsi
-      dative_sound: islex/161/161_91.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/161/161_91.mp3'
+      dative_pronunciation: frɛlsɪ
       genitive: frelsis
+      genitive_pronunciation: frɛlsɪs
     with article:
       nominative: frelsið
       nominative_translation: the freedom
+      nominative_pronunciation: frɛlsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: frelsið
+      accusative_pronunciation: frɛlsɪð
       dative: frelsinu
+      dative_pronunciation: frɛlsɪnʏ
       genitive: frelsisins
+      genitive_pronunciation: frɛlsɪsɪns
 id: 989
 gender: neuter

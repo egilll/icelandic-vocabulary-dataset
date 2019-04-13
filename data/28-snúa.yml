@@ -5,35 +5,43 @@ conjugation:
   active voice:
     infinitive: '[að] snúa'
     infinitive_translation: to turn
-    infinitive_sound: islex/359/359_03.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/359/359_03.mp3'
+    infinitive_pronunciation: stnuːa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] sný'
           1st person_translation: I turn
+          1st person_pronunciation: stniː
           1st person_teach: true
           2nd person: '[þú] snýrð'
           2nd person_translation: you¹ turn
+          2nd person_pronunciation: stnirð
           2nd person_teach: true
           3rd person: '[hann/hún/það] snýr'
           3rd person_translation: he/she/it turns
+          3rd person_pronunciation: stniːr
           3rd person_teach: true
         plural:
           1st person: '[við] snúum'
           1st person_translation: we turn
+          1st person_pronunciation: stnuːʏm
           1st person_teach: true
           2nd person: '[þið] snúið'
           2nd person_translation: you² turn
+          2nd person_pronunciation: stnuːɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] snúa'
           3rd person_translation: they turn
-          3rd person_sound: islex/359/359_03.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/359/359_03.mp3'
+          3rd person_pronunciation: stnuːa
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] sneri'
           1st person_translation: I turned
+          1st person_pronunciation: stnjɛːrɪ
           1st person_teach: true
           1st person_alternative:
             - snéri
@@ -44,12 +52,14 @@ conjugation:
             - snérir
           3rd person: '[hann/hún/það] sneri'
           3rd person_translation: he/she/it turned
+          3rd person_pronunciation: stnjɛːrɪ
           3rd person_teach: true
           3rd person_alternative:
             - snéri
         plural:
           1st person: '[við] snerum'
           1st person_translation: we turned
+          1st person_pronunciation: stnjɛːrʏm
           1st person_teach: true
           1st person_alternative:
             - snérum
@@ -60,12 +70,14 @@ conjugation:
             - snéruð
           3rd person: '[þeir/þær/þau] sneru'
           3rd person_translation: they turned
+          3rd person_pronunciation: stnjɛːrʏ
           3rd person_teach: true
           3rd person_alternative:
             - snéru
   supine:
     active voice: '[ég hef] snúið'
     active voice_translation: I have turned
+    active voice_pronunciation: stnuːɪð
     active voice_teach: true
   imperative:
     active voice:

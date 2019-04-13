@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: sandur
       nominative_translation: sand
-      nominative_sound: islex/079/079_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/079/079_94.mp3'
+      nominative_pronunciation: santʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sand
+      accusative_pronunciation: sant
       dative: sandi
+      dative_pronunciation: santɪ
       genitive: sands
     with article:
       nominative: sandurinn
       nominative_translation: the sand
+      nominative_pronunciation: santʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: sandinn
+      accusative_pronunciation: santɪn
       dative: sandinum
+      dative_pronunciation: santɪnʏm
       genitive: sandsins
 id: 1603
 gender: masculine

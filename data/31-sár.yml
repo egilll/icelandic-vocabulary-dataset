@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: sár
       nominative_translation: a wound
-      nominative_sound: islex/222/222_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/222/222_31.mp3'
+      nominative_pronunciation: sauːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sár
-      accusative_sound: islex/222/222_31.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/222/222_31.mp3'
+      accusative_pronunciation: sauːr
       dative: sári
+      dative_pronunciation: sauːrɪ
       genitive: sárs
     with article:
       nominative: sárið
       nominative_translation: the wound
+      nominative_pronunciation: sauːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: sárið
+      accusative_pronunciation: sauːrɪð
       dative: sárinu
+      dative_pronunciation: sauːrɪnʏ
       genitive: sársins
 id: 1605
 gender: neuter

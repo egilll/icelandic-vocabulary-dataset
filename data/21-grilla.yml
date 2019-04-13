@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] grilla'
     infinitive_translation: to grill
-    infinitive_sound: islex/145/145_91.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/145/145_91.mp3'
+    infinitive_pronunciation: krɪla
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] grillaði'
           1st person_translation: I grilled
+          1st person_pronunciation: <span class="guessed">krɪlaðɪː</span>
           1st person_teach: true
 id: 2134

@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: sölumaður
       nominative_translation: a salesman
-      nominative_sound: islex/325/325_65.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/325/325_65.mp3'
+      nominative_pronunciation: sœːlʏmaːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sölumann
+      accusative_pronunciation: <span class="guessed">sœːlʏman</span>
       dative: sölumanni
+      dative_pronunciation: <span class="guessed">sœːlʏmanɪ</span>
       genitive: sölumanns
+      genitive_pronunciation: <span class="guessed">sœːlʏmans</span>
     with article:
       nominative: sölumaðurinn
       nominative_translation: the salesman
+      nominative_pronunciation: <span class="guessed">sœːlʏmaːðʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1711

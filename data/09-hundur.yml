@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: hundur
       nominative_translation: a dog
-      nominative_sound: islex/036/036_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/036/036_20.mp3'
+      nominative_pronunciation: hʏntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hund
+      accusative_pronunciation: hʏnt
       dative: hundi
+      dative_pronunciation: hʏntɪ
       genitive: hunds
+      genitive_pronunciation: hʏnts
     with article:
       nominative: hundurinn
       nominative_translation: the dog
+      nominative_pronunciation: hʏntʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hundinn
+      accusative_pronunciation: hʏntɪn
       dative: hundinum
+      dative_pronunciation: hʏntɪnʏm
       genitive: hundsins
+      genitive_pronunciation: hʏntsɪns
   plural:
     no article:
       nominative: hundar
       nominative_translation: dogs
+      nominative_pronunciation: hʏntar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hunda
+      accusative_pronunciation: hʏnta
       dative: hundum
+      dative_pronunciation: hʏntʏm
       genitive: hunda
+      genitive_pronunciation: hʏnta
     with article:
       nominative: hundarnir
       nominative_translation: the dogs
+      nominative_pronunciation: hʏntatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: hundana
+      accusative_pronunciation: hʏntana
       dative: hundunum
+      dative_pronunciation: hʏntɔnʏm
       genitive: hundanna
+      genitive_pronunciation: hʏntana
 id: 1176
 gender: masculine
 recognizable: '1'

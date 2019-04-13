@@ -6,40 +6,53 @@ conjugation:
     no article:
       nominative: pappír
       nominative_translation: paper
-      nominative_sound: islex/107/107_52.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/107/107_52.mp3'
+      nominative_pronunciation: pʰahpir
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: pappír
-      accusative_sound: islex/107/107_52.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/107/107_52.mp3'
+      accusative_pronunciation: pʰahpir
       dative: pappír
-      dative_sound: islex/107/107_52.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/107/107_52.mp3'
+      dative_pronunciation: pʰahpir
       genitive: pappírs
     with article:
       nominative: pappírinn
       nominative_translation: the paper
+      nominative_pronunciation: pʰahpirɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: pappírinn
+      accusative_pronunciation: pʰahpirɪn
       dative: pappírnum
+      dative_pronunciation: pʰahpirtnʏm
       genitive: pappírsins
   plural:
     no article:
       nominative: pappírar
       nominative_translation: papers
+      nominative_pronunciation: pʰahpirar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: pappíra
+      accusative_pronunciation: pʰahpira
       dative: pappírum
+      dative_pronunciation: <span class="guessed">pʰahpirʏm</span>
       genitive: pappíra
+      genitive_pronunciation: pʰahpira
     with article:
       nominative: pappírarnir
       nominative_translation: the papers
       nominative_teach: true
       nominative_teachtable: true
       accusative: pappírana
+      accusative_pronunciation: <span class="guessed">pʰahpiraːna</span>
       dative: pappírunum
+      dative_pronunciation: pʰahpirɔnʏm
       genitive: pappíranna
+      genitive_pronunciation: <span class="guessed">pʰahpirana</span>
 id: 1484
 gender: masculine

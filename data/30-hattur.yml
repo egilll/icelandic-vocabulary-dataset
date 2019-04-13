@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: hattur
       nominative_translation: a hat
-      nominative_sound: islex/148/148_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/148/148_94.mp3'
+      nominative_pronunciation: hahtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hatt
+      accusative_pronunciation: haht
       dative: hatti
+      dative_pronunciation: hahtɪ
       genitive: hatts
     with article:
       nominative: hatturinn
       nominative_translation: the hat
+      nominative_pronunciation: <span class="guessed">hahtʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hattinn
+      accusative_pronunciation: hahtɪn
       dative: hattinum
+      dative_pronunciation: hahtɪnʏm
       genitive: hattsins
 id: 1096
 gender: masculine

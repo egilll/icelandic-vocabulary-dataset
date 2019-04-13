@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: hvítvín
       nominative_translation: white wine
-      nominative_sound: islex/227/227_25.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/227/227_25.mp3'
+      nominative_pronunciation: kʰviːtvin
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: hvítvínið
       nominative_translation: the white wine
+      nominative_pronunciation: <span class="guessed">kʰviːtviːnɪð</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1183

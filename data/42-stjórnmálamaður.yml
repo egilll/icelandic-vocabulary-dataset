@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: stjórnmálamaður
       nominative_translation: a politician
-      nominative_sound: islex/011/011_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/011/011_91.mp3'
+      nominative_pronunciation: stjourtn̥maulamaːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stjórnmálamann
+      accusative_pronunciation: <span class="guessed">stjourtn̥maulaman</span>
       dative: stjórnmálamanni
+      dative_pronunciation: <span class="guessed">stjourtn̥maulamanɪ</span>
       genitive: stjórnmálamanns
+      genitive_pronunciation: <span class="guessed">stjourtn̥maulamans</span>
     with article:
       nominative: stjórnmálamaðurinn
       nominative_translation: the politician
+      nominative_pronunciation: <span class="guessed">stjourtn̥maulamaːðʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: stjórnmálamanninn
+      accusative_pronunciation: <span class="guessed">stjourtn̥maulamanɪn</span>
       dative: stjórnmálamanninum
+      dative_pronunciation: <span class="guessed">stjourtn̥maulamanɪnʏm</span>
       genitive: stjórnmálamannsins
+      genitive_pronunciation: <span class="guessed">stjourtn̥maulamansɪns</span>
   plural:
     no article:
       nominative: stjórnmálamenn
       nominative_translation: politicians
+      nominative_pronunciation: stjourtn̥maulamɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stjórnmálamenn
+      accusative_pronunciation: stjourtn̥maulamɛn
       dative: stjórnmálamönnum
+      dative_pronunciation: stjourtn̥maulamœnʏm
       genitive: stjórnmálamanna
+      genitive_pronunciation: stjourtn̥maulamana
     with article:
       nominative: stjórnmálamennirnir
       nominative_translation: the politicians
+      nominative_pronunciation: stjourtn̥maulamɛnɪrtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: stjórnmálamennina
+      accusative_pronunciation: <span class="guessed">stjourtn̥maulamɛnɪna</span>
       dative: stjórnmálamönnunum
+      dative_pronunciation: <span class="guessed">stjourtn̥maulamœnɔnʏm</span>
       genitive: stjórnmálamannanna
+      genitive_pronunciation: <span class="guessed">stjourtn̥maulamanana</span>
 id: 1749
 gender: masculine

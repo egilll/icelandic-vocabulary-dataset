@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: hraun
       nominative_translation: lava
-      nominative_sound: islex/157/157_62.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/157/157_62.mp3'
+      nominative_pronunciation: r̥œiːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hraun
-      accusative_sound: islex/157/157_62.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/157/157_62.mp3'
+      accusative_pronunciation: r̥œiːn
       dative: hrauni
+      dative_pronunciation: r̥œiːnɪ
       genitive: hrauns
     with article:
       nominative: hraunið
       nominative_translation: the lava
+      nominative_pronunciation: r̥œiːnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hraunið
+      accusative_pronunciation: r̥œiːnɪð
       dative: hrauninu
+      dative_pronunciation: r̥œiːnɪnʏ
       genitive: hraunsins
+      genitive_pronunciation: r̥œjnsɪns
 id: 1161
 gender: neuter

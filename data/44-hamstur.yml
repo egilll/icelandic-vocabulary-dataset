@@ -6,20 +6,24 @@ conjugation:
     no article:
       nominative: hamstur
       nominative_translation: a hamster
-      nominative_sound: islex/148/148_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/148/148_04.mp3'
+      nominative_pronunciation: hamstʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hamstur
-      accusative_sound: islex/148/148_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/148/148_04.mp3'
+      accusative_pronunciation: hamstʏr
       dative: hamstri
       genitive: hamsturs
     with article:
       nominative: hamsturinn
       nominative_translation: the hamster
+      nominative_pronunciation: hamstʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hamsturinn
+      accusative_pronunciation: hamstʏrɪn
       dative: hamstrinum
       genitive: hamstursins
 id: 1085

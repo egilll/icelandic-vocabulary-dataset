@@ -5,25 +5,30 @@ conjugation:
   active voice:
     infinitive: '[að] hvetja'
     infinitive_translation: to encourage
-    infinitive_sound: islex/285/285_37.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/285/285_37.mp3'
+    infinitive_pronunciation: kʰvɛːtja
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] hvet'
           1st person_translation: I encourage
+          1st person_pronunciation: kʰvɛːt
           1st person_teach: true
         plural:
           1st person: '[við] hvetjum'
           1st person_translation: we encourage
+          1st person_pronunciation: kʰvɛːtjʏm
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] hvatti'
           1st person_translation: I encouraged
+          1st person_pronunciation: kʰvahtɪ
           1st person_teach: true
         plural:
           1st person: '[við] hvöttum'
           1st person_translation: we encouraged
+          1st person_pronunciation: <span class="guessed">kʰvœhtʏm</span>
           1st person_teach: true
 id: 2171

@@ -6,10 +6,13 @@ conjugation:
     with article:
       nominative: frostið
       nominative_translation: the frost
+      nominative_pronunciation: frɔstɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: frostið
+      accusative_pronunciation: frɔstɪð
       dative: frostinu
+      dative_pronunciation: frɔstɪnʏ
       genitive: frostsins
 id: 994
 gender: neuter

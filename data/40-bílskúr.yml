@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: bílskúr
       nominative_translation: a garage
-      nominative_sound: islex/370/370_11.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/370/370_11.mp3'
+      nominative_pronunciation: pilskur
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bílskúr
-      accusative_sound: islex/370/370_11.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/370/370_11.mp3'
+      accusative_pronunciation: pilskur
       dative: bílskúr
-      dative_sound: islex/370/370_11.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/370/370_11.mp3'
+      dative_pronunciation: pilskur
       genitive: bílskúrs
     with article:
       nominative: bílskúrinn
       nominative_translation: the garage
+      nominative_pronunciation: pilskurɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bílskúrinn
+      accusative_pronunciation: pilskurɪn
       dative: bílskúrnum
+      dative_pronunciation: pilskurtnʏm
       genitive: bílskúrsins
 id: 796
 gender: masculine

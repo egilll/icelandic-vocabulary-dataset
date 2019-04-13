@@ -8,79 +8,97 @@ conjugation:
         singular:
           1st person: '[ég] mun'
           1st person_translation: I will
+          1st person_pronunciation: mʏːn
           1st person_teach: true
           2nd person: '[þú] munt'
           2nd person_translation: you¹ will
+          2nd person_pronunciation: mʏn̥t
           2nd person_teach: true
           3rd person: '[hann/hún/það] mun'
           3rd person_translation: he/she/it will
+          3rd person_pronunciation: mʏːn
           3rd person_teach: true
         plural:
           1st person: '[við] munum'
           1st person_translation: we will
+          1st person_pronunciation: mʏːnʏm
           1st person_teach: true
           2nd person: '[þið] munuð'
           2nd person_translation: you² will
+          2nd person_pronunciation: mʏːnʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] munu'
           3rd person_translation: they will
-          3rd person_sound: islex/144/144_36.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/144/144_36.mp3'
+          3rd person_pronunciation: mʏːnʏ
           3rd person_teach: true
     subjunctive:
       present:
         singular:
           1st person: '[ég held að] [ég] muni'
           1st person_translation: I think I will
-          1st person_sound: islex/193/193_93.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/193/193_93.mp3'
+          1st person_pronunciation: mʏːnɪ
           1st person_teach: true
           2nd person: '[ég held að] [þú] munir'
           2nd person_translation: I think you¹ will
+          2nd person_pronunciation: mʏːnɪr
           2nd person_teach: true
           3rd person: '[ég held að] [hann/hún/það] muni'
           3rd person_translation: I think he/she/it will
-          3rd person_sound: islex/193/193_93.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/193/193_93.mp3'
+          3rd person_pronunciation: mʏːnɪ
           3rd person_teach: true
         plural:
           1st person: '[ég held að] [við] munum'
           1st person_translation: I think we will
+          1st person_pronunciation: mʏːnʏm
           1st person_teach: true
           2nd person: '[ég held að] [þið] munið'
           2nd person_translation: I think you² will
+          2nd person_pronunciation: mʏːnɪð
           2nd person_teach: true
           3rd person: '[ég held að] [þeir/þær/þau] muni'
           3rd person_translation: I think they will
-          3rd person_sound: islex/193/193_93.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/193/193_93.mp3'
+          3rd person_pronunciation: mʏːnɪ
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég hélt að] [ég] myndi'
           1st person_translation: I thought I would
+          1st person_pronunciation: mɪntɪ
           1st person_teach: true
           1st person_alternative:
             - mundi
           2nd person: '[ég hélt að] [þú] myndir'
           2nd person_translation: I thought you¹ would
+          2nd person_pronunciation: mɪntɪr
           2nd person_teach: true
           2nd person_alternative:
             - mundir
           3rd person: '[ég hélt að] [hann/hún/það] myndi'
           3rd person_translation: I thought he/she/it would
+          3rd person_pronunciation: mɪntɪ
           3rd person_teach: true
           3rd person_alternative:
             - mundi
         plural:
           1st person: '[ég hélt að] [við] myndum'
           1st person_translation: I thought we would
+          1st person_pronunciation: mɪntʏm
           1st person_teach: true
           1st person_alternative:
             - mundum
           2nd person: '[ég hélt að] [þið] mynduð'
           2nd person_translation: I thought you² would
+          2nd person_pronunciation: mɪntʏð
           2nd person_teach: true
           2nd person_alternative:
             - munduð
           3rd person: '[ég hélt að] [þeir/þær/þau] myndu'
           3rd person_translation: I thought they would
+          3rd person_pronunciation: mɪntʏ
           3rd person_teach: true
           3rd person_alternative:
             - mundu

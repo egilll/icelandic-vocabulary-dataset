@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: handrit
       nominative_translation: a script
-      nominative_sound: islex/312/312_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/312/312_30.mp3'
+      nominative_pronunciation: hantrɪt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: handrit
-      accusative_sound: islex/312/312_30.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/312/312_30.mp3'
+      accusative_pronunciation: hantrɪt
       dative: handriti
+      dative_pronunciation: hantrɪtɪ
       genitive: handrits
     with article:
       nominative: handritið
       nominative_translation: the script
+      nominative_pronunciation: hantrɪtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: handritið
+      accusative_pronunciation: hantrɪtɪð
       dative: handritinu
+      dative_pronunciation: hantrɪtɪnʏ
       genitive: handritsins
+      genitive_pronunciation: hantrɪtsɪns
 id: 1088
 gender: neuter

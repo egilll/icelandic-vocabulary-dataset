@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: derhúfa
       nominative_translation: a cap
-      nominative_sound: islex/100/100_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/100/100_91.mp3'
+      nominative_pronunciation: <span class="guessed">tɛːrhuːa</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: derhúfan
       nominative_translation: the cap
+      nominative_pronunciation: <span class="guessed">tɛːrhuːan</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 870

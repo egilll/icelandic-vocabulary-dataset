@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: hjólabretti
       nominative_translation: a skateboard
-      nominative_sound: islex/421/421_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/421/421_51.mp3'
+      nominative_pronunciation: <span class="guessed">çouːlaprɛhtɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hjólabretti
-      accusative_sound: islex/421/421_51.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/421/421_51.mp3'
+      accusative_pronunciation: <span class="guessed">çouːlaprɛhtɪ</span>
       dative: hjólabretti
-      dative_sound: islex/421/421_51.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/421/421_51.mp3'
+      dative_pronunciation: <span class="guessed">çouːlaprɛhtɪ</span>
       genitive: hjólabrettis
+      genitive_pronunciation: <span class="guessed">çouːlaprɛhtɪːs</span>
     with article:
       nominative: hjólabrettið
       nominative_translation: the skateboard
+      nominative_pronunciation: <span class="guessed">çouːlaprɛhtɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hjólabrettið
+      accusative_pronunciation: <span class="guessed">çouːlaprɛhtɪð</span>
       dative: hjólabrettinu
+      dative_pronunciation: <span class="guessed">çouːlaprɛhtɪnʏ</span>
       genitive: hjólabrettisins
 id: 1127
 gender: neuter

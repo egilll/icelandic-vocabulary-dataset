@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: rass
       nominative_translation: 'a butt, an ass'
-      nominative_sound: islex/192/192_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/192/192_38.mp3'
+      nominative_pronunciation: ras
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rass
-      accusative_sound: islex/192/192_38.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/192/192_38.mp3'
+      accusative_pronunciation: ras
       dative: rassi
+      dative_pronunciation: rasɪ
       genitive: rass
-      genitive_sound: islex/192/192_38.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/192/192_38.mp3'
+      genitive_pronunciation: ras
     with article:
       nominative: rassinn
       nominative_translation: 'the butt, the ass'
+      nominative_pronunciation: rasɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: rassinn
+      accusative_pronunciation: rasɪn
       dative: rassinum
+      dative_pronunciation: rasɪnʏm
       genitive: rassins
   plural:
     no article:
@@ -31,15 +38,19 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rassa
+      accusative_pronunciation: <span class="guessed">rasaː</span>
       dative: rössum
       genitive: rassa
+      genitive_pronunciation: <span class="guessed">rasaː</span>
     with article:
       nominative: rassarnir
       nominative_translation: 'the butts, the asses'
       nominative_teach: true
       nominative_teachtable: true
       accusative: rassana
+      accusative_pronunciation: <span class="guessed">rasaːna</span>
       dative: rössunum
       genitive: rassanna
+      genitive_pronunciation: <span class="guessed">rasana</span>
 id: 1540
 gender: masculine

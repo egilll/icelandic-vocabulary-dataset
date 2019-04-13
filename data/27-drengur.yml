@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: drengur
       nominative_translation: 'a boy, a lad'
-      nominative_sound: islex/321/321_83.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/321/321_83.mp3'
+      nominative_pronunciation: treiŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dreng
+      accusative_pronunciation: treiŋk
       dative: dreng
+      dative_pronunciation: treiŋk
       genitive: drengs
+      genitive_pronunciation: treiŋks
     with article:
       nominative: drengurinn
       nominative_translation: 'the boy, the lad'
+      nominative_pronunciation: treiŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: drenginn
+      accusative_pronunciation: treiɲcɪn
       dative: drengnum
+      dative_pronunciation: treiŋknʏm
       genitive: drengsins
+      genitive_pronunciation: treiŋksɪns
   plural:
     no article:
       nominative: drengir
       nominative_translation: 'boys, lads'
+      nominative_pronunciation: treiɲcɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: drengi
+      accusative_pronunciation: treiɲcɪ
       dative: drengjum
+      dative_pronunciation: treiɲcʏm
       genitive: drengja
+      genitive_pronunciation: treiɲca
     with article:
       nominative: drengirnir
       nominative_translation: 'the boys, the lads'
+      nominative_pronunciation: treiɲcɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: drengina
+      accusative_pronunciation: treiɲcɪna
       dative: drengjunum
+      dative_pronunciation: treiɲcɔnʏm
       genitive: drengjanna
+      genitive_pronunciation: treiɲcana
 id: 883
 gender: masculine

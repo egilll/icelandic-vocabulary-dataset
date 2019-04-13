@@ -6,20 +6,25 @@ conjugation:
     no article:
       nominative: toppur
       nominative_translation: 'a top, a peak'
-      nominative_sound: islex/443/443_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/443/443_10.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: topp
+      accusative_pronunciation: tʰɔhp
       dative: toppi
+      dative_pronunciation: tʰɔhpɪ
       genitive: topps
     with article:
       nominative: toppurinn
       nominative_translation: 'the top, the peak'
+      nominative_pronunciation: tʰɔhpʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: toppinn
+      accusative_pronunciation: tʰɔhpɪn
       dative: toppnum
+      dative_pronunciation: tʰɔhpnʏm
       dative_alternative:
         - toppinum
       genitive: toppsins

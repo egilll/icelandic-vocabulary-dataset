@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: fasteignasali
       nominative_translation: a real estate agent
-      nominative_sound: islex/128/128_13.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/128/128_13.mp3'
+      nominative_pronunciation: fasteiknasaːlɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: fasteignasalinn
       nominative_translation: the real estate agent
+      nominative_pronunciation: <span class="guessed">fasteiknasaːlɪn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 930

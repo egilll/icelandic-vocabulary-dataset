@@ -5,41 +5,51 @@ conjugation:
   active voice:
     infinitive: '[að] hringja'
     infinitive_translation: to call
-    infinitive_sound: islex/200/200_81.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/200/200_81.mp3'
+    infinitive_pronunciation: r̥iɲca
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] hringi'
           1st person_translation: I call
+          1st person_pronunciation: r̥iɲcɪ
           1st person_teach: true
           2nd person: '[þú] hringir'
           2nd person_translation: you¹ call
+          2nd person_pronunciation: r̥iɲcɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] hringir'
           3rd person_translation: he/she/it calls
+          3rd person_pronunciation: r̥iɲcɪr
           3rd person_teach: true
         plural:
           1st person: '[við] hringjum'
           1st person_translation: we call
+          1st person_pronunciation: r̥iɲcʏm
           1st person_teach: true
           2nd person: '[þið] hringið'
           2nd person_translation: you² call
+          2nd person_pronunciation: <span class="guessed">r̥iŋkɪːð</span>
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hringja'
           3rd person_translation: they call
-          3rd person_sound: islex/200/200_81.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/200/200_81.mp3'
+          3rd person_pronunciation: r̥iɲca
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] hringdi'
           1st person_translation: I called
+          1st person_pronunciation: r̥iŋtɪ
           1st person_teach: true
           2nd person: '[þú] hringdir'
           2nd person_translation: you¹ called
+          2nd person_pronunciation: r̥iŋtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] hringdi'
           3rd person_translation: he/she/it called
+          3rd person_pronunciation: r̥iŋtɪ
           3rd person_teach: true
         plural:
           1st person: '[við] hringdum'
@@ -50,9 +60,11 @@ conjugation:
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hringdu'
           3rd person_translation: they called
+          3rd person_pronunciation: r̥iŋtʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] hringt'
     active voice_translation: I have called
+    active voice_pronunciation: r̥iŋ̊t
     active voice_teach: true
 id: 2167

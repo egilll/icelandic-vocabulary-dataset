@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: stemning
       nominative_translation: 'good mood, good atmosphere'
+      nominative_pronunciation: stɛmiŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: stemningin
       nominative_translation: 'the good mod, the good atmosphere'
+      nominative_pronunciation: stɛmiɲcɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1742

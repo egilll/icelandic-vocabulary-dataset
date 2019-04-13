@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: lyfjafræðingur
       nominative_translation: a pharmacologist
-      nominative_sound: islex/181/181_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/181/181_30.mp3'
+      nominative_pronunciation: lɪvjafraiːðiŋkʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: setning
       nominative_translation: a sentence
-      nominative_sound: islex/031/031_74.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/031/031_74.mp3'
+      nominative_pronunciation: sɛhtniŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: setningu
+      accusative_pronunciation: sɛhtniŋkʏ
       dative: setningu
+      dative_pronunciation: sɛhtniŋkʏ
       genitive: setningar
+      genitive_pronunciation: sɛhtniŋkar
     with article:
       nominative: setningin
       nominative_translation: the sentence
+      nominative_pronunciation: sɛhtniɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: setninguna
+      accusative_pronunciation: sɛhtniŋkʏna
       dative: setningunni
+      dative_pronunciation: sɛhtniŋkʏnɪ
       genitive: setningarinnar
+      genitive_pronunciation: <span class="guessed">sɛhtniŋkarɪnar</span>
   plural:
     no article:
       nominative: setningar
       nominative_translation: sentences
+      nominative_pronunciation: sɛhtniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: setningar
+      accusative_pronunciation: sɛhtniŋkar
       dative: setningum
+      dative_pronunciation: sɛhtniŋkʏm
       genitive: setninga
+      genitive_pronunciation: <span class="guessed">sɛhtniŋkaː</span>
     with article:
       nominative: setningarnar
       nominative_translation: the sentences
+      nominative_pronunciation: sɛhtniŋkatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: setningarnar
+      accusative_pronunciation: sɛhtniŋkatnar
       dative: setningunum
       genitive: setninganna
+      genitive_pronunciation: <span class="guessed">sɛhtniŋkana</span>
 id: 1611
 gender: feminine

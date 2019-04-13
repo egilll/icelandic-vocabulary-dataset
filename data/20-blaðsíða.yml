@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: blaðsíða
       nominative_translation: a page
-      nominative_sound: islex/465/465_65.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/465/465_65.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blaðsíðu
+      accusative_pronunciation: plaðsiðʏ
       dative: blaðsíðu
+      dative_pronunciation: plaðsiðʏ
       genitive: blaðsíðu
+      genitive_pronunciation: plaðsiðʏ
     with article:
       nominative: blaðsíðan
       nominative_translation: the page
+      nominative_pronunciation: <span class="guessed">plaːðsiːðan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: blaðsíðuna
+      accusative_pronunciation: plaðsiðʏna
       dative: blaðsíðunni
+      dative_pronunciation: <span class="guessed">plaːðsiːðʏnɪ</span>
       genitive: blaðsíðunnar
+      genitive_pronunciation: <span class="guessed">plaːðsiːðʏnar</span>
   plural:
     no article:
       nominative: blaðsíður
       nominative_translation: pages
+      nominative_pronunciation: plaðsiðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blaðsíður
+      accusative_pronunciation: plaðsiðʏr
       dative: blaðsíðum
+      dative_pronunciation: plaðsiðʏm
       genitive: blaðsíðna
+      genitive_pronunciation: plaðsiðna
     with article:
       nominative: blaðsíðurnar
       nominative_translation: the pages
+      nominative_pronunciation: plaðsiðʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: blaðsíðurnar
+      accusative_pronunciation: plaðsiðʏtnar
       dative: blaðsíðunum
+      dative_pronunciation: plaðsiðɔnʏm
       genitive: blaðsíðnanna
 id: 808
 gender: feminine

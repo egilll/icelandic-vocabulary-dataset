@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: hjón
       nominative_translation: a married couple
-      nominative_sound: islex/318/318_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/318/318_94.mp3'
+      nominative_pronunciation: çouːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hjón
-      accusative_sound: islex/318/318_94.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/318/318_94.mp3'
+      accusative_pronunciation: çouːn
       dative: hjónum
+      dative_pronunciation: çouːnʏm
       genitive: hjóna
+      genitive_pronunciation: çouːna
     with article:
       nominative: hjónin
       nominative_translation: the married couple
+      nominative_pronunciation: çouːnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hjónin
+      accusative_pronunciation: çouːnɪn
       dative: hjónunum
+      dative_pronunciation: çouːnɔnʏm
       genitive: hjónanna
+      genitive_pronunciation: çouːnana
 id: 1129
 gender: neuter

@@ -6,40 +6,53 @@ conjugation:
     no article:
       nominative: lamb
       nominative_translation: a lamb
-      nominative_sound: islex/221/221_14.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/221/221_14.mp3'
+      nominative_pronunciation: lamp
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lamb
-      accusative_sound: islex/221/221_14.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/221/221_14.mp3'
+      accusative_pronunciation: lamp
       dative: lambi
+      dative_pronunciation: lampɪ
       genitive: lambs
     with article:
       nominative: lambið
       nominative_translation: the lamb
+      nominative_pronunciation: lampɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: lambið
+      accusative_pronunciation: lampɪð
       dative: lambinu
+      dative_pronunciation: lampɪnʏ
       genitive: lambsins
   plural:
     no article:
       nominative: lömb
       nominative_translation: lambs
+      nominative_pronunciation: lœmp
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lömb
+      accusative_pronunciation: lœmp
       dative: lömbum
+      dative_pronunciation: lœmpʏm
       genitive: lamba
+      genitive_pronunciation: <span class="guessed">laːɛm pjɛː aː</span>
     with article:
       nominative: lömbin
       nominative_translation: the lambs
+      nominative_pronunciation: lœmpɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lömbin
+      accusative_pronunciation: lœmpɪn
       dative: lömbunum
       genitive: lambanna
+      genitive_pronunciation: <span class="guessed">lampana</span>
 id: 1291
 gender: neuter
 recognizable: '0'

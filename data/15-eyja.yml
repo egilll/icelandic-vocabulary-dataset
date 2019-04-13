@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: eyja
       nominative_translation: an island
-      nominative_sound: islex/312/312_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/312/312_69.mp3'
+      nominative_pronunciation: eija
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: eyju
+      accusative_pronunciation: eijʏ
       dative: eyju
+      dative_pronunciation: eijʏ
       genitive: eyju
+      genitive_pronunciation: eijʏ
     with article:
       nominative: eyjan
       nominative_translation: the island
+      nominative_pronunciation: eijan
       nominative_teach: true
       nominative_teachtable: true
       accusative: eyjuna
+      accusative_pronunciation: eijʏna
       dative: eyjunni
+      dative_pronunciation: eijʏnɪ
       genitive: eyjunnar
+      genitive_pronunciation: eijʏnar
 id: 920
 gender: feminine

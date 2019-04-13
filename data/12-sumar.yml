@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: sumar
       nominative_translation: a summer
-      nominative_sound: islex/429/429_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/429/429_23.mp3'
+      nominative_pronunciation: sʏːmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sumar
-      accusative_sound: islex/429/429_23.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/429/429_23.mp3'
+      accusative_pronunciation: sʏːmar
       dative: sumri
+      dative_pronunciation: sʏmrɪ
       genitive: sumars
+      genitive_pronunciation: sʏːmar̥s
     with article:
       nominative: sumarið
       nominative_translation: the summer
+      nominative_pronunciation: sʏːmarɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: sumarið
+      accusative_pronunciation: sʏːmarɪð
       dative: sumrinu
+      dative_pronunciation: sʏmrɪnʏ
       genitive: sumarsins
+      genitive_pronunciation: sʏːmar̥sɪns
 id: 1774
 gender: neuter
 recognizable: '1'

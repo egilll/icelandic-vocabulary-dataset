@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: húð
       nominative_translation: skin
-      nominative_sound: islex/184/184_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/184/184_69.mp3'
+      nominative_pronunciation: huːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: húð
-      accusative_sound: islex/184/184_69.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/184/184_69.mp3'
+      accusative_pronunciation: huːð
       dative: húð
-      dative_sound: islex/184/184_69.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/184/184_69.mp3'
+      dative_pronunciation: huːð
       genitive: húðar
+      genitive_pronunciation: huːðar
     with article:
       nominative: húðin
       nominative_translation: the skin
+      nominative_pronunciation: huːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: húðina
+      accusative_pronunciation: huːðɪna
       dative: húðinni
+      dative_pronunciation: huːðɪnɪ
       genitive: húðarinnar
+      genitive_pronunciation: huːðarɪnar
 id: 1169
 gender: feminine

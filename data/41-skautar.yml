@@ -6,6 +6,7 @@ conjugation:
     no article:
       nominative: skautar
       nominative_translation: ice skates
+      nominative_pronunciation: <span class="guessed">skaːʏːtar</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

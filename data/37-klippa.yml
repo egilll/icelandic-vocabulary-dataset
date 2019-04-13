@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] klippa'
     infinitive_translation: to cut
-    infinitive_sound: islex/252/252_10.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/252/252_10.mp3'
+    infinitive_pronunciation: kʰlɪhpa
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] klippti'
           1st person_translation: I cut
+          1st person_pronunciation: kʰlɪftɪ
           1st person_teach: true
 id: 2189

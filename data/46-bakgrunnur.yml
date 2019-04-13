@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: bakgrunnur
       nominative_translation: a background
-      nominative_sound: islex/447/447_74.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/447/447_74.mp3'
+      nominative_pronunciation: paːkrʏnʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: bakgrunnurinn
       nominative_translation: the background
+      nominative_pronunciation: pakrʏnʏrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 763

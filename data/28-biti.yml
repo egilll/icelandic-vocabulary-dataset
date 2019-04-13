@@ -6,14 +6,16 @@ conjugation:
     no article:
       nominative: biti
       nominative_translation: a bite
-      nominative_sound: islex/224/224_32.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/224/224_32.mp3'
+      nominative_pronunciation: pɪːtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: bitinn
       nominative_translation: the bite
-      nominative_sound: islex/016/016_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/016/016_37.mp3'
+      nominative_pronunciation: pɪːtɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 802

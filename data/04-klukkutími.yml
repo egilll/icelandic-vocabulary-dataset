@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: klukkutími
       nominative_translation: an hour
-      nominative_sound: islex/160/160_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/160/160_69.mp3'
+      nominative_pronunciation: kʰlʏhkʏtiːmɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: klukkutíma
+      accusative_pronunciation: kʰlʏhkʏtiːma
       dative: klukkutíma
+      dative_pronunciation: kʰlʏhkʏtiːma
       genitive: klukkutíma
+      genitive_pronunciation: kʰlʏhkʏtiːma
     with article:
       nominative: klukkutíminn
       nominative_translation: the hour
+      nominative_pronunciation: <span class="guessed">kʰlʏhkʏtʰiːmɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: klukkutímann
+      accusative_pronunciation: kʰlʏhkʏtiːman
       dative: klukkutímanum
+      dative_pronunciation: <span class="guessed">kʰlʏhkʏtʰiːmanʏm</span>
       genitive: klukkutímans
+      genitive_pronunciation: <span class="guessed">kʰlʏhkʏtʰiːmans</span>
   plural:
     no article:
       nominative: klukkutímar
       nominative_translation: hours
+      nominative_pronunciation: kʰlʏhkʏtiːmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: klukkutíma
+      accusative_pronunciation: kʰlʏhkʏtiːma
       dative: klukkutímum
+      dative_pronunciation: kʰlʏhkʏtiːmʏm
       genitive: klukkutíma
+      genitive_pronunciation: kʰlʏhkʏtiːma
     with article:
       nominative: klukkutímarnir
       nominative_translation: the hours
+      nominative_pronunciation: <span class="guessed">kʰlʏhkʏtʰiːmatnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: klukkutímana
+      accusative_pronunciation: <span class="guessed">kʰlʏhkʏtʰiːmana</span>
       dative: klukkutímunum
+      dative_pronunciation: <span class="guessed">kʰlʏhkʏtʰiːmɔnʏm</span>
       genitive: klukkutímanna
+      genitive_pronunciation: <span class="guessed">kʰlʏhkʏtʰiːmana</span>
 id: 1251
 gender: masculine

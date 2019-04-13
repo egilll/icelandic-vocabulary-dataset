@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: hamborgari
       nominative_translation: a hamburger
-      nominative_sound: islex/182/182_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/182/182_58.mp3'
+      nominative_pronunciation: hampɔrkarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hamborgara
+      accusative_pronunciation: hampɔrkara
       dative: hamborgara
+      dative_pronunciation: hampɔrkara
       genitive: hamborgara
+      genitive_pronunciation: hampɔrkara
     with article:
       nominative: hamborgarinn
       nominative_translation: the hamburger
+      nominative_pronunciation: <span class="guessed">hampɔrkarɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hamborgarann
+      accusative_pronunciation: <span class="guessed">hampɔrkaran</span>
       dative: hamborgaranum
+      dative_pronunciation: <span class="guessed">hampɔrkaraːnʏm</span>
       genitive: hamborgarans
   plural:
     no article:
       nominative: hamborgarar
       nominative_translation: hamburgers
+      nominative_pronunciation: <span class="guessed">haːmpɔrkarar</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hamborgara
+      accusative_pronunciation: hampɔrkara
       dative: hamborgurum
+      dative_pronunciation: <span class="guessed">haːmpɔrkʏrʏm</span>
       genitive: hamborgara
+      genitive_pronunciation: hampɔrkara
     with article:
       nominative: hamborgararnir
       nominative_translation: the hamburgers
       nominative_teach: true
       nominative_teachtable: true
       accusative: hamborgarana
+      accusative_pronunciation: <span class="guessed">hampɔrkaraːna</span>
       dative: hamborgurunum
+      dative_pronunciation: <span class="guessed">haːmpɔrkʏrʏnʏm</span>
       genitive: hamborgaranna
+      genitive_pronunciation: <span class="guessed">hampɔrkarana</span>
 id: 1083
 gender: masculine

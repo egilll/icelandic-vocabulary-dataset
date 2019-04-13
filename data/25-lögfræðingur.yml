@@ -6,25 +6,29 @@ conjugation:
     no article:
       nominative: lögfræðingur
       nominative_translation: a lawyer
-      nominative_sound: islex/324/324_00.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/324/324_00.mp3'
+      nominative_pronunciation: lœxfraiðiŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: lögfræðingurinn
       nominative_translation: the lawyer
+      nominative_pronunciation: <span class="guessed">lœxfraiðiŋkʏrɪn</span>
       nominative_teach: false
       nominative_teachtable: false
   plural:
     no article:
       nominative: lögfræðingar
       nominative_translation: lawyers
+      nominative_pronunciation: lœxfraiðiŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: lögfræðingarnir
       nominative_translation: the lawyers
+      nominative_pronunciation: <span class="guessed">lœːɣfraiːðɪnkartnɪr</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1351

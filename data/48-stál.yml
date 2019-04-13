@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: stál
       nominative_translation: steel
-      nominative_sound: islex/373/373_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/373/373_50.mp3'
+      nominative_pronunciation: stauːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: stálið
       nominative_translation: the steel
+      nominative_pronunciation: stauːlɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1734

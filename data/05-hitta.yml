@@ -5,55 +5,68 @@ conjugation:
   active voice:
     infinitive: '[að] hitta'
     infinitive_translation: to meet someone
-    infinitive_sound: islex/390/390_06.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/390/390_06.mp3'
+    infinitive_pronunciation: hɪhta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] hitti'
           1st person_translation: I meet someone
+          1st person_pronunciation: hɪhtɪ
           1st person_teach: true
           2nd person: '[þú] hittir'
           2nd person_translation: you¹ meet someone
+          2nd person_pronunciation: hɪhtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] hittir'
           3rd person_translation: he/she/it meets someone
+          3rd person_pronunciation: hɪhtɪr
           3rd person_teach: true
         plural:
           1st person: '[við] hittum'
           1st person_translation: we meet someone
+          1st person_pronunciation: hɪhtʏm
           1st person_teach: true
           2nd person: '[þið] hittið'
           2nd person_translation: you² meet someone
+          2nd person_pronunciation: <span class="guessed">hɪhtɪːð</span>
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hitta'
           3rd person_translation: they meet someone
-          3rd person_sound: islex/390/390_06.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/390/390_06.mp3'
+          3rd person_pronunciation: hɪhta
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] hitti'
           1st person_translation: I met someone
+          1st person_pronunciation: hɪhtɪ
           1st person_teach: true
           2nd person: '[þú] hittir'
           2nd person_translation: you¹ met someone
+          2nd person_pronunciation: hɪhtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] hitti'
           3rd person_translation: he/she/it met someone
+          3rd person_pronunciation: hɪhtɪ
           3rd person_teach: true
         plural:
           1st person: '[við] hittum'
           1st person_translation: we met someone
+          1st person_pronunciation: hɪhtʏm
           1st person_teach: true
           2nd person: '[þið] hittuð'
           2nd person_translation: you² met someone
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hittu'
           3rd person_translation: they met someone
+          3rd person_pronunciation: hɪhtʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] hitt'
     active voice_translation: I have met
-    active voice_sound: islex/042/042_24.mp3
+    active voice_sound: 'https://media.egill.xyz/audio/islex/042/042_24.mp3'
+    active voice_pronunciation: hɪht
     active voice_teach: true
 id: 2152

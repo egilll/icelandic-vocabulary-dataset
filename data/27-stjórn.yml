@@ -6,6 +6,7 @@ conjugation:
     with article:
       nominative: stjórnin
       nominative_translation: the leadership; the government; the control
+      nominative_pronunciation: stjourtnɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1747

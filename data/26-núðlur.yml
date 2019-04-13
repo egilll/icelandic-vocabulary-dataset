@@ -12,7 +12,7 @@ conjugation:
       accusative: núðlur
       dative: núðlum
       genitive: núðla
-      genitive_sound: islex/139/139_16.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/139/139_16.mp3'
     with article:
       nominative: núðlurnar
       nominative_translation: the noodles

@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: verkefni
       nominative_translation: a project
-      nominative_sound: islex/232/232_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/232/232_45.mp3'
+      nominative_pronunciation: vɛr̥kɛpnɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: verkefni
-      accusative_sound: islex/232/232_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/232/232_45.mp3'
+      accusative_pronunciation: vɛr̥kɛpnɪ
       dative: verkefni
-      dative_sound: islex/232/232_45.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/232/232_45.mp3'
+      dative_pronunciation: vɛr̥kɛpnɪ
       genitive: verkefnis
+      genitive_pronunciation: vɛr̥kɛpnɪs
     with article:
       nominative: verkefnið
       nominative_translation: the project
+      nominative_pronunciation: vɛr̥kɛpnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: verkefnið
+      accusative_pronunciation: vɛr̥kɛpnɪð
       dative: verkefninu
+      dative_pronunciation: vɛr̥kɛpnɪnʏ
       genitive: verkefnisins
+      genitive_pronunciation: vɛr̥kɛpnɪsɪns
 id: 1909
 gender: neuter

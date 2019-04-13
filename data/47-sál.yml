@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sál
       nominative_translation: a soul
-      nominative_sound: islex/155/155_15.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/155/155_15.mp3'
+      nominative_pronunciation: sauːl
       nominative_teach: false
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sálin
       nominative_translation: the soul
+      nominative_pronunciation: sauːlɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1585

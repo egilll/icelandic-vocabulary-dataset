@@ -6,39 +6,53 @@ conjugation:
     no article:
       nominative: penni
       nominative_translation: a pen
-      nominative_sound: islex/300/300_02.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/300/300_02.mp3'
+      nominative_pronunciation: pʰɛtnɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: penna
+      accusative_pronunciation: pʰɛtna
       dative: penna
+      dative_pronunciation: pʰɛtna
       genitive: penna
+      genitive_pronunciation: pʰɛtna
     with article:
       nominative: penninn
       nominative_translation: the pen
+      nominative_pronunciation: pʰɛnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: pennann
+      accusative_pronunciation: <span class="guessed">pʰɛtn̥an</span>
       dative: pennanum
+      dative_pronunciation: pʰɛnanʏm
       genitive: pennans
+      genitive_pronunciation: pʰɛnans
   plural:
     no article:
       nominative: pennar
       nominative_translation: pens
+      nominative_pronunciation: pʰɛnar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: penna
+      accusative_pronunciation: pʰɛtna
       dative: pennum
+      dative_pronunciation: pʰɛnʏm
       genitive: penna
+      genitive_pronunciation: pʰɛtna
     with article:
       nominative: pennarnir
       nominative_translation: the pens
       nominative_teach: true
       nominative_teachtable: true
       accusative: pennana
+      accusative_pronunciation: <span class="guessed">pʰɛtn̥aːna</span>
       dative: pennunum
       genitive: pennanna
+      genitive_pronunciation: <span class="guessed">pʰɛtn̥ana</span>
 id: 1493
 gender: masculine
 recognizable: '1'

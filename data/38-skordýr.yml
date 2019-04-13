@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: skordýr
       nominative_translation: 'a bug, an insect'
-      nominative_sound: islex/098/098_06.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/098/098_06.mp3'
+      nominative_pronunciation: skɔrtir
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skordýr
-      accusative_sound: islex/098/098_06.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/098/098_06.mp3'
+      accusative_pronunciation: skɔrtir
       dative: skordýri
+      dative_pronunciation: <span class="guessed">skɔːrtiːrɪ</span>
       genitive: skordýrs
     with article:
       nominative: skordýrið
       nominative_translation: 'the bug, the insect'
+      nominative_pronunciation: <span class="guessed">skɔːrtiːrɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: skordýrið
+      accusative_pronunciation: <span class="guessed">skɔːrtiːrɪð</span>
       dative: skordýrinu
+      dative_pronunciation: <span class="guessed">skɔːrtiːrɪnʏ</span>
       genitive: skordýrsins
+      genitive_pronunciation: <span class="guessed">skɔːrtir̥sɪns</span>
 id: 1659
 gender: neuter

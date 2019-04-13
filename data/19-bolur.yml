@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: bolur
       nominative_translation: a T-shirt
-      nominative_sound: islex/257/257_54.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/257/257_54.mp3'
+      nominative_pronunciation: pɔːlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bol
+      accusative_pronunciation: pɔːl
       dative: bol
+      dative_pronunciation: pɔːl
       genitive: bols
     with article:
       nominative: bolurinn
       nominative_translation: the T-shirt
+      nominative_pronunciation: <span class="guessed">pɔːlʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bolinn
+      accusative_pronunciation: <span class="guessed">pɔːlɪn</span>
       dative: bolnum
+      dative_pronunciation: pɔlnʏm
       genitive: bolsins
   plural:
     no article:
@@ -29,10 +35,13 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: boli
-      accusative_sound: islex/294/294_46.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/294/294_46.mp3'
+      accusative_pronunciation: pɔːlɪ
       dative: bolum
+      dative_pronunciation: <span class="guessed">pɔːlʏm</span>
       genitive: bola
-      genitive_sound: islex/129/129_53.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/129/129_53.mp3'
+      genitive_pronunciation: pɔːla
     with article:
       nominative: bolirnir
       nominative_translation: the T-shirts
@@ -41,5 +50,6 @@ conjugation:
       accusative: bolina
       dative: bolunum
       genitive: bolanna
+      genitive_pronunciation: <span class="guessed">pɔːlana</span>
 id: 829
 gender: masculine

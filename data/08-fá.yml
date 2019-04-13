@@ -5,62 +5,77 @@ conjugation:
   active voice:
     infinitive: '[að] fá'
     infinitive_translation: to get
-    infinitive_sound: islex/053/053_36.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/053/053_36.mp3'
+    infinitive_pronunciation: fauː
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] fæ'
           1st person_translation: I get
+          1st person_pronunciation: faiː
           1st person_teach: true
           2nd person: '[þú] færð'
           2nd person_translation: you¹ get
-          2nd person_sound: islex/443/443_53.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/443/443_53.mp3'
+          2nd person_pronunciation: fairð
           2nd person_teach: true
           3rd person: '[hann/hún/það] fær'
           3rd person_translation: he/she/it gets
-          3rd person_sound: islex/413/413_43.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/413/413_43.mp3'
+          3rd person_pronunciation: faiːr
           3rd person_teach: true
         plural:
           1st person: '[við] fáum'
           1st person_translation: we get
+          1st person_pronunciation: fauːʏm
           1st person_teach: true
           2nd person: '[þið] fáið'
           2nd person_translation: you² get
+          2nd person_pronunciation: fauːɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] fá'
           3rd person_translation: they get
-          3rd person_sound: islex/053/053_36.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/053/053_36.mp3'
+          3rd person_pronunciation: fauː
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] fékk'
           1st person_translation: I got
+          1st person_pronunciation: fjɛhk
           1st person_teach: true
           2nd person: '[þú] fékkst'
           2nd person_translation: you¹ got
+          2nd person_pronunciation: fjɛxst
           2nd person_teach: true
           3rd person: '[hann/hún/það] fékk'
           3rd person_translation: he/she/it got
+          3rd person_pronunciation: fjɛhk
           3rd person_teach: true
         plural:
           1st person: '[við] fengum'
           1st person_translation: we got
+          1st person_pronunciation: feiŋkʏm
           1st person_teach: true
           2nd person: '[þið] fenguð'
           2nd person_translation: you² got
+          2nd person_pronunciation: feiŋkʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] fengu'
           3rd person_translation: they got
+          3rd person_pronunciation: feiŋkʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] fengið'
     active voice_translation: I have gotten
+    active voice_pronunciation: feiɲcɪð
     active voice_teach: true
   imperative:
     active voice:
       singular: fáðu!
       singular_translation: get!¹
+      singular_pronunciation: fauːðʏ
       singular_teach: true
 id: 2088
 strong_verb_declension: true

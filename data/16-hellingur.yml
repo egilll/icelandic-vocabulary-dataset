@@ -6,12 +6,15 @@ conjugation:
     no article:
       nominative: hellingur
       nominative_translation: 'a bunch, lots'
-      nominative_sound: islex/111/111_52.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/111/111_52.mp3'
+      nominative_pronunciation: hɛtliŋkʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: helling
+      accusative_pronunciation: hɛtliŋk
       dative: hellingi
+      dative_pronunciation: <span class="guessed">hɛtliŋkɪː</span>
       genitive: hellings
 id: 1112
 gender: masculine

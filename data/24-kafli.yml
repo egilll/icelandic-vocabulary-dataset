@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: kafli
       nominative_translation: a chapter
-      nominative_sound: islex/153/153_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/153/153_04.mp3'
+      nominative_pronunciation: kʰaplɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kafla
+      accusative_pronunciation: kʰapla
       dative: kafla
+      dative_pronunciation: kʰapla
       genitive: kafla
+      genitive_pronunciation: kʰapla
     with article:
       nominative: kaflinn
       nominative_translation: the chapter
+      nominative_pronunciation: kʰaplɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: kaflann
+      accusative_pronunciation: kʰaplan
       dative: kaflanum
+      dative_pronunciation: kʰaplanʏm
       genitive: kaflans
+      genitive_pronunciation: kʰaplans
   plural:
     no article:
       nominative: kaflar
       nominative_translation: chapters
+      nominative_pronunciation: kʰaplar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kafla
+      accusative_pronunciation: kʰapla
       dative: köflum
+      dative_pronunciation: kʰœplʏm
       genitive: kafla
+      genitive_pronunciation: kʰapla
     with article:
       nominative: kaflarnir
       nominative_translation: the chapters
+      nominative_pronunciation: kʰaplatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: kaflana
+      accusative_pronunciation: <span class="guessed">kʰaːvlaːna</span>
       dative: köflunum
+      dative_pronunciation: kʰœplɔnʏm
       genitive: kaflanna
+      genitive_pronunciation: <span class="guessed">kʰaplanaː</span>
 id: 1210
 gender: masculine

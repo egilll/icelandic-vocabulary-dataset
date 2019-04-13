@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: takki
       nominative_translation: 'a button, a switch'
-      nominative_sound: islex/364/364_03.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/364/364_03.mp3'
+      nominative_pronunciation: <span class="guessed">tʰaːkcʰɪː</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: takka
+      accusative_pronunciation: tʰahka
       dative: takka
+      dative_pronunciation: tʰahka
       genitive: takka
+      genitive_pronunciation: tʰahka
     with article:
       nominative: takkinn
       nominative_translation: 'the button, the switch'
+      nominative_pronunciation: <span class="guessed">tʰahkɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: takkann
+      accusative_pronunciation: <span class="guessed">tʰahkan</span>
       dative: takkanum
+      dative_pronunciation: <span class="guessed">tʰaːkkʰaːnʏm</span>
       genitive: takkans
 id: 1811
 gender: masculine

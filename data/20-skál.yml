@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: skál
       nominative_translation: a bowl
-      nominative_sound: islex/441/441_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/441/441_27.mp3'
+      nominative_pronunciation: skauːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skál
-      accusative_sound: islex/441/441_27.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/441/441_27.mp3'
+      accusative_pronunciation: skauːl
       dative: skál
-      dative_sound: islex/441/441_27.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/441/441_27.mp3'
+      dative_pronunciation: skauːl
       genitive: skálar
+      genitive_pronunciation: skauːlar
     with article:
       nominative: skálin
       nominative_translation: the bowl
       nominative_teach: true
       nominative_teachtable: true
       accusative: skálina
+      accusative_pronunciation: skauːlɪna
       dative: skálinni
+      dative_pronunciation: skauːlɪnɪ
       genitive: skálarinnar
+      genitive_pronunciation: <span class="guessed">skauːlarɪnar</span>
 id: 1633
 gender: feminine

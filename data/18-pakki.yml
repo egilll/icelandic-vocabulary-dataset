@@ -6,23 +6,30 @@ conjugation:
     no article:
       nominative: pakki
       nominative_translation: a package; a present
-      nominative_sound: islex/408/408_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/408/408_87.mp3'
+      nominative_pronunciation: pʰahcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: pakka
-      accusative_sound: islex/062/062_60.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/062/062_60.mp3'
+      accusative_pronunciation: pʰahka
       dative: pakka
-      dative_sound: islex/062/062_60.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/062/062_60.mp3'
+      dative_pronunciation: pʰahka
       genitive: pakka
-      genitive_sound: islex/062/062_60.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/062/062_60.mp3'
+      genitive_pronunciation: pʰahka
     with article:
       nominative: pakkinn
       nominative_translation: the package; a present
+      nominative_pronunciation: pʰahkɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: pakkann
+      accusative_pronunciation: pʰahkan
       dative: pakkanum
+      dative_pronunciation: pʰahkanʏm
       genitive: pakkans
 id: 1482
 gender: masculine

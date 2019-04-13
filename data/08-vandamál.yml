@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: vandamál
       nominative_translation: a problem
-      nominative_sound: islex/083/083_90.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/083/083_90.mp3'
+      nominative_pronunciation: vantamauːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vandamál
-      accusative_sound: islex/083/083_90.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/083/083_90.mp3'
+      accusative_pronunciation: vantamauːl
       dative: vandamáli
+      dative_pronunciation: vantamauːlɪ
       genitive: vandamáls
+      genitive_pronunciation: <span class="guessed">vantamauls</span>
     with article:
       nominative: vandamálið
       nominative_translation: the problem
+      nominative_pronunciation: vantamauːlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: vandamálið
+      accusative_pronunciation: vantamauːlɪð
       dative: vandamálinu
+      dative_pronunciation: vantamauːlɪnʏ
       genitive: vandamálsins
+      genitive_pronunciation: <span class="guessed">vantamaulsɪns</span>
 id: 1887
 gender: neuter

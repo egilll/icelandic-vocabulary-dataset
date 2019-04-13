@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: land
       nominative_translation: 'a country, land'
-      nominative_sound: islex/370/370_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/370/370_73.mp3'
+      nominative_pronunciation: lant
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: land
-      accusative_sound: islex/370/370_73.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/370/370_73.mp3'
+      accusative_pronunciation: lant
       dative: landi
-      dative_sound: islex/029/029_69.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/029/029_69.mp3'
+      dative_pronunciation: lantɪ
       genitive: lands
+      genitive_pronunciation: lants
     with article:
       nominative: landið
       nominative_translation: 'the country, the land'
+      nominative_pronunciation: lantɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: landið
+      accusative_pronunciation: lantɪð
       dative: landinu
+      dative_pronunciation: lantɪnʏ
       genitive: landsins
+      genitive_pronunciation: lantsɪns
   plural:
     no article:
       nominative: lönd
       nominative_translation: 'countries, lands'
+      nominative_pronunciation: lœnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lönd
+      accusative_pronunciation: lœnt
       dative: löndum
+      dative_pronunciation: lœntʏm
       genitive: landa
-      genitive_sound: islex/305/305_74.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/305/305_74.mp3'
+      genitive_pronunciation: lanta
     with article:
       nominative: löndin
       nominative_translation: 'the countries, the lands'
+      nominative_pronunciation: lœntɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: löndin
+      accusative_pronunciation: lœntɪn
       dative: löndunum
+      dative_pronunciation: lœntɔnʏm
       genitive: landanna
+      genitive_pronunciation: lantana
 id: 1295
 gender: neuter

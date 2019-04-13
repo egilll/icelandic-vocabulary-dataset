@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: tölvupóstur
       nominative_translation: an email
-      nominative_sound: islex/180/180_55.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/180/180_55.mp3'
+      nominative_pronunciation: tʰœlvʏpoustʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tölvupóst
+      accusative_pronunciation: tʰœlvʏpoust
       dative: tölvupósti
+      dative_pronunciation: tʰœlvʏpoustɪ
       genitive: tölvupósts
+      genitive_pronunciation: tʰœlvʏpousts
     with article:
       nominative: tölvupósturinn
       nominative_translation: the email
+      nominative_pronunciation: <span class="guessed">tʰœlvʏpʰoustʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: tölvupóstinn
+      accusative_pronunciation: <span class="guessed">tʰœlvʏpʰoustɪn</span>
       dative: tölvupóstinum
+      dative_pronunciation: <span class="guessed">tʰœlvʏpʰoustɪnʏm</span>
       genitive: tölvupóstsins
+      genitive_pronunciation: <span class="guessed">tʰœlvʏpʰoustsɪns</span>
 id: 1841
 gender: masculine

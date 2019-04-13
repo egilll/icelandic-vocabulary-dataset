@@ -5,10 +5,12 @@ conjugation:
   active voice:
     infinitive: '[að] byggja'
     infinitive_translation: to build
-    infinitive_sound: islex/190/190_18.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/190/190_18.mp3'
+    infinitive_pronunciation: pɪca
     infinitive_teach: true
   supine:
     active voice: '[ég hef] byggt'
     active voice_translation: I have built
+    active voice_pronunciation: pɪxt
     active voice_teach: true
 id: 2061

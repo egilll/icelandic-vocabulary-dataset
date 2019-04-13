@@ -6,13 +6,16 @@ conjugation:
     no article:
       nominative: rúsínur
       nominative_translation: raisins
+      nominative_pronunciation: ruːsinʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rúsínur
+      accusative_pronunciation: ruːsinʏr
       dative: rúsínum
+      dative_pronunciation: ruːsinʏm
       genitive: rúsína
-      genitive_sound: islex/022/022_61.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/022/022_61.mp3'
     with article:
       nominative: rúsínurnar
       nominative_translation: the raisins

@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: varalitur
       nominative_translation: lipstick
-      nominative_sound: islex/358/358_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/358/358_88.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: varalit
+      accusative_pronunciation: <span class="guessed">vaːralɪːt</span>
       dative: varalit
+      dative_pronunciation: <span class="guessed">vaːralɪːt</span>
       genitive: varalitar
+      genitive_pronunciation: <span class="guessed">vaːralɪːtar</span>
     with article:
       nominative: varaliturinn
       nominative_translation: the lipstick
+      nominative_pronunciation: <span class="guessed">vaːralɪːtʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: varalitinn
+      accusative_pronunciation: vaːralɪːtɪn
       dative: varalitnum
+      dative_pronunciation: <span class="guessed">vaːralɪhtnʏm</span>
       genitive: varalitarins
 id: 1890
 gender: masculine

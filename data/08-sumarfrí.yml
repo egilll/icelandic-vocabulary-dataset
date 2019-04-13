@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sumarfrí
       nominative_translation: summer vacation
-      nominative_sound: islex/027/027_13.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/027/027_13.mp3'
+      nominative_pronunciation: sʏːmar̥friː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sumarfríið
       nominative_translation: the summer vacation
+      nominative_pronunciation: sʏːmar̥friːjɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1776

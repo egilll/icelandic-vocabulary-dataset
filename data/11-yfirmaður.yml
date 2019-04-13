@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: yfirmaður
       nominative_translation: a boss
-      nominative_sound: islex/017/017_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/017/017_19.mp3'
+      nominative_pronunciation: ɪːvɪrmaːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: yfirmann
+      accusative_pronunciation: ɪːvɪrman
       dative: yfirmanni
+      dative_pronunciation: ɪːvɪrmanɪ
       genitive: yfirmanns
+      genitive_pronunciation: ɪːvɪrmans
     with article:
       nominative: yfirmaðurinn
       nominative_translation: the boss
+      nominative_pronunciation: ɪːvɪrmaːðʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: yfirmanninn
+      accusative_pronunciation: <span class="guessed">ɪːvɪrmanɪn</span>
       dative: yfirmanninum
+      dative_pronunciation: <span class="guessed">ɪːvɪrmanɪnʏm</span>
       genitive: yfirmannsins
+      genitive_pronunciation: <span class="guessed">ɪːvɪrmansɪns</span>
 id: 1949
 gender: masculine

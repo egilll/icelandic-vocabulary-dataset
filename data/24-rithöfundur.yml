@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: rithöfundur
       nominative_translation: a writer
-      nominative_sound: islex/199/199_16.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/199/199_16.mp3'
+      nominative_pronunciation: rɪːthœvʏntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rithöfund
+      accusative_pronunciation: rɪːthœvʏnt
       dative: rithöfundi
+      dative_pronunciation: rɪːthœvʏntɪ
       genitive: rithöfundar
+      genitive_pronunciation: rɪːthœvʏntar
     with article:
       nominative: rithöfundurinn
       nominative_translation: the writer
+      nominative_pronunciation: rɪːthœvʏntʏrɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1564

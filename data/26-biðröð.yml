@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: biðröð
       nominative_translation: a queue
-      nominative_sound: islex/293/293_34.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/293/293_34.mp3'
+      nominative_pronunciation: pɪðrœð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: biðröð
-      accusative_sound: islex/293/293_34.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/293/293_34.mp3'
+      accusative_pronunciation: pɪðrœð
       dative: biðröð
-      dative_sound: islex/293/293_34.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/293/293_34.mp3'
+      dative_pronunciation: pɪðrœð
       genitive: biðraðar
+      genitive_pronunciation: <span class="guessed">pɪːðraːðar</span>
     with article:
       nominative: biðröðin
       nominative_translation: the queue
+      nominative_pronunciation: <span class="guessed">pɪːðrœːðɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: biðröðina
+      accusative_pronunciation: <span class="guessed">pɪːðrœːðɪna</span>
       dative: biðröðinni
+      dative_pronunciation: pɪðrœðɪnɪ
       genitive: biðraðarinnar
+      genitive_pronunciation: <span class="guessed">pɪːðraːðarɪnar</span>
 id: 791
 gender: feminine

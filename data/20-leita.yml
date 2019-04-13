@@ -5,42 +5,50 @@ conjugation:
   active voice:
     infinitive: '[að] leita'
     infinitive_translation: to search
-    infinitive_sound: islex/093/093_01.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/093/093_01.mp3'
+    infinitive_pronunciation: leiːta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] leita'
           1st person_translation: I search
-          1st person_sound: islex/093/093_01.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/093/093_01.mp3'
+          1st person_pronunciation: leiːta
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] leitaði'
           1st person_translation: I searched
+          1st person_pronunciation: leiːtaðɪ
           1st person_teach: true
           2nd person: '[þú] leitaðir'
           2nd person_translation: you¹ searched
           2nd person_teach: true
           3rd person: '[hann/hún/það] leitaði'
           3rd person_translation: he/she/it searched
+          3rd person_pronunciation: leiːtaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] leituðum'
           1st person_translation: we searched
+          1st person_pronunciation: leiːtʏðʏm
           1st person_teach: true
           2nd person: '[þið] leituðuð'
           2nd person_translation: you² searched
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] leituðu'
           3rd person_translation: they searched
+          3rd person_pronunciation: leiːtʏðʏ
           3rd person_teach: true
   imperative:
     active voice:
       singular: leitaðu!
       singular_translation: search!¹
+      singular_pronunciation: leiːtaðʏ
       singular_teach: true
       plural: leitið!
       plural_translation: search!²
+      plural_pronunciation: leiːtɪð
       plural_teach: true
 id: 2215

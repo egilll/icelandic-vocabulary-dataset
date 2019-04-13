@@ -5,25 +5,30 @@ conjugation:
   active voice:
     infinitive: '[að] þekkja'
     infinitive_translation: 'to know someone, to be familiar with something'
-    infinitive_sound: islex/145/145_36.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/145/145_36.mp3'
+    infinitive_pronunciation: θɛhca
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] þekki'
           1st person_translation: 'I know someone, I am familiar with something'
+          1st person_pronunciation: θɛhcɪ
           1st person_teach: true
         plural:
           1st person: '[við] þekkjum'
           1st person_translation: 'we know someone, we are familiar with something'
+          1st person_pronunciation: θɛhcʏm
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] þekkti'
           1st person_translation: 'I knew someone, I was familiar with something'
+          1st person_pronunciation: θɛxtɪ
           1st person_teach: true
         plural:
           1st person: '[við] þekktum'
           1st person_translation: 'we knew someone, we were familiar with something'
+          1st person_pronunciation: θɛxtʏm
           1st person_teach: true
 id: 2439

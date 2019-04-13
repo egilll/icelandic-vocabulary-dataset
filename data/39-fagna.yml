@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] fagna'
     infinitive_translation: to celebrate
-    infinitive_sound: islex/064/064_85.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/064/064_85.mp3'
+    infinitive_pronunciation: fakna
     infinitive_teach: true
 id: 2092

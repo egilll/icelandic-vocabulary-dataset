@@ -5,7 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] bíta'
     infinitive_translation: to bite
-    infinitive_sound: islex/164/164_71.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/164/164_71.mp3'
     infinitive_teach: true
     indicative:
       present:
@@ -28,30 +28,34 @@ conjugation:
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] bíta'
           3rd person_translation: they bite
-          3rd person_sound: islex/164/164_71.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/164/164_71.mp3'
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] beit'
           1st person_translation: I bit
-          1st person_sound: islex/325/325_27.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/325/325_27.mp3'
+          1st person_pronunciation: peiːt
           1st person_teach: true
           2nd person: '[þú] beist'
           2nd person_translation: you¹ bit
           2nd person_teach: true
           3rd person: '[hann/hún/það] beit'
           3rd person_translation: he/she/it bit
-          3rd person_sound: islex/325/325_27.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/325/325_27.mp3'
+          3rd person_pronunciation: peiːt
           3rd person_teach: true
         plural:
           1st person: '[við] bitum'
           1st person_translation: we bit
+          1st person_pronunciation: pɪːtʏm
           1st person_teach: true
           2nd person: '[þið] bituð'
           2nd person_translation: you² bit
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] bitu'
           3rd person_translation: they bit
+          3rd person_pronunciation: pɪːtʏ
           3rd person_teach: true
   imperative:
     active voice:

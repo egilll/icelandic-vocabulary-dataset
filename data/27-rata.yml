@@ -5,14 +5,16 @@ conjugation:
   active voice:
     infinitive: '[að] rata'
     infinitive_translation: to know the way
-    infinitive_sound: islex/117/117_87.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/117/117_87.mp3'
+    infinitive_pronunciation: raːta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] rata'
           1st person_translation: I know the way
-          1st person_sound: islex/117/117_87.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/117/117_87.mp3'
+          1st person_pronunciation: raːta
           1st person_teach: true
         plural:
           1st person: '[við] rötum'

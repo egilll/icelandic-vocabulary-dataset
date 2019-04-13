@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: bekkur
       nominative_translation: a class; a bench
-      nominative_sound: islex/227/227_42.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/227/227_42.mp3'
+      nominative_pronunciation: pɛhkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bekk
+      accusative_pronunciation: pɛhk
       dative: bekk
+      dative_pronunciation: pɛhk
       genitive: bekkjar
+      genitive_pronunciation: pɛhcar
       genitive_alternative:
         - bekks
     with article:
       nominative: bekkurinn
       nominative_translation: the class; the bench
+      nominative_pronunciation: pɛhkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bekkinn
+      accusative_pronunciation: pɛhcɪn
       dative: bekknum
+      dative_pronunciation: pɛhknʏm
       genitive: bekkjarins
       genitive_alternative:
         - bekksins
@@ -29,19 +36,26 @@ conjugation:
     no article:
       nominative: bekkir
       nominative_translation: classes; benches
+      nominative_pronunciation: pɛhcɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bekki
+      accusative_pronunciation: pɛhcɪ
       dative: bekkjum
+      dative_pronunciation: pɛhcʏm
       genitive: bekkja
+      genitive_pronunciation: pɛhca
     with article:
       nominative: bekkirnir
       nominative_translation: the classes; the benches
+      nominative_pronunciation: pɛhcɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: bekkina
+      accusative_pronunciation: pɛhcɪna
       dative: bekkjunum
+      dative_pronunciation: pɛhcɔnʏm
       genitive: bekkjanna
 id: 786
 gender: masculine

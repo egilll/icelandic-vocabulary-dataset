@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: tilfinning
       nominative_translation: a feeling
-      nominative_sound: islex/391/391_67.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/391/391_67.mp3'
+      nominative_pronunciation: tʰɪlfɪniŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tilfinningu
+      accusative_pronunciation: tʰɪlfɪniŋkʏ
       dative: tilfinningu
+      dative_pronunciation: tʰɪlfɪniŋkʏ
       genitive: tilfinningar
+      genitive_pronunciation: tʰɪlfɪniŋkar
     with article:
       nominative: tilfinningin
       nominative_translation: the feeling
+      nominative_pronunciation: tʰɪlfɪniɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: tilfinninguna
+      accusative_pronunciation: tʰɪlfɪniŋkʏna
       dative: tilfinningunni
+      dative_pronunciation: tʰɪlfɪniŋkʏnɪ
       genitive: tilfinningarinnar
+      genitive_pronunciation: <span class="guessed">tʰɪlfɪniŋkarɪnar</span>
   plural:
     no article:
       nominative: tilfinningar
       nominative_translation: feelings
+      nominative_pronunciation: tʰɪlfɪniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tilfinningar
+      accusative_pronunciation: tʰɪlfɪniŋkar
       dative: tilfinningum
+      dative_pronunciation: tʰɪlfɪniŋkʏm
       genitive: tilfinninga
+      genitive_pronunciation: tʰɪlfɪniŋka
     with article:
       nominative: tilfinningarnar
       nominative_translation: the feelings
+      nominative_pronunciation: tʰɪlfɪniŋkatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: tilfinningarnar
+      accusative_pronunciation: tʰɪlfɪniŋkatnar
       dative: tilfinningunum
+      dative_pronunciation: tʰɪlfɪniŋkɔnʏm
       genitive: tilfinninganna
+      genitive_pronunciation: tʰɪlfɪniŋkana
 id: 1828
 gender: feminine

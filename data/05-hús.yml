@@ -6,26 +6,35 @@ conjugation:
     no article:
       nominative: hús
       nominative_translation: a house
-      nominative_sound: islex/091/091_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/091/091_24.mp3'
+      nominative_pronunciation: huːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hús
-      accusative_sound: islex/091/091_24.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/091/091_24.mp3'
+      accusative_pronunciation: huːs
       dative: húsi
+      dative_pronunciation: huːsɪ
       genitive: húss
+      genitive_pronunciation: hus
     with article:
       nominative: húsið
       nominative_translation: the house
+      nominative_pronunciation: huːsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: húsið
+      accusative_pronunciation: huːsɪð
       dative: húsinu
+      dative_pronunciation: huːsɪnʏ
       genitive: hússins
+      genitive_pronunciation: husɪns
   plural:
     with article:
       nominative: húsin
       nominative_translation: the houses
+      nominative_pronunciation: huːsɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1178

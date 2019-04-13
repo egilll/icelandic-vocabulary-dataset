@@ -6,19 +6,25 @@ conjugation:
     no article:
       nominative: afsláttur
       nominative_translation: a discount
-      nominative_sound: islex/099/099_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/099/099_19.mp3'
+      nominative_pronunciation: afstlauhtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: afslátt
+      accusative_pronunciation: afstlauht
       dative: afslætti
+      dative_pronunciation: afstlaihtɪ
       genitive: afsláttar
+      genitive_pronunciation: afstlauhtar
     with article:
       nominative: afslátturinn
       nominative_translation: the discount
+      nominative_pronunciation: <span class="guessed">afstlauhtʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: afsláttinn
+      accusative_pronunciation: <span class="guessed">afstlauhtɪn</span>
       dative: afslættinum
       genitive: afsláttarins
 id: 704

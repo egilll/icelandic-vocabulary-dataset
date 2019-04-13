@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: stúdentspróf
       nominative_translation: 'junior college degree, highschool degree'
-      nominative_sound: islex/360/360_29.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/360/360_29.mp3'
+      nominative_pronunciation: stuːtɛn̥tspʰrouːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: stúdentsprófið
       nominative_translation: 'the junior college degree, the highschool degree'
+      nominative_pronunciation: <span class="guessed">stuːtɛn̥tspʰrouːvɪːð</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1764

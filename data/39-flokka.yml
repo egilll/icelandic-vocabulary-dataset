@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] flokka'
     infinitive_translation: to sort
-    infinitive_sound: islex/121/121_46.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/121/121_46.mp3'
+    infinitive_pronunciation: flɔhka
     infinitive_teach: true
 id: 2105

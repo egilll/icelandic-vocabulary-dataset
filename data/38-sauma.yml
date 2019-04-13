@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] sauma'
     infinitive_translation: to sew
-    infinitive_sound: islex/261/261_39.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/261/261_39.mp3'
+    infinitive_pronunciation: sœiːma
     infinitive_teach: true
 id: 2310

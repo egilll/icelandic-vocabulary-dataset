@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: kippa
       nominative_translation: six pack (of beer)
-      nominative_sound: islex/002/002_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/002/002_99.mp3'
+      nominative_pronunciation: cʰɪhpa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kippu
+      accusative_pronunciation: cʰɪhpʏ
       dative: kippu
+      dative_pronunciation: cʰɪhpʏ
       genitive: kippu
+      genitive_pronunciation: cʰɪhpʏ
     with article:
       nominative: kippan
       nominative_translation: the six pack (of beer)
+      nominative_pronunciation: <span class="guessed">cʰɪhpaːn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: kippuna
+      accusative_pronunciation: <span class="guessed">cʰɪhpʏːna</span>
       dative: kippunni
+      dative_pronunciation: <span class="guessed">cʰɪhpʏnɪ</span>
       genitive: kippunnar
+      genitive_pronunciation: <span class="guessed">cʰɪhpʏnar</span>
 id: 1234
 gender: feminine

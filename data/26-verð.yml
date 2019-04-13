@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: verð
       nominative_translation: price
-      nominative_sound: islex/338/338_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/338/338_69.mp3'
+      nominative_pronunciation: vɛrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: verð
-      accusative_sound: islex/338/338_69.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/338/338_69.mp3'
+      accusative_pronunciation: vɛrð
       dative: verði
+      dative_pronunciation: vɛrðɪ
       genitive: verðs
+      genitive_pronunciation: vɛrðs
     with article:
       nominative: verðið
       nominative_translation: the price
+      nominative_pronunciation: vɛrðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: verðið
+      accusative_pronunciation: vɛrðɪð
       dative: verðinu
+      dative_pronunciation: vɛrðɪnʏ
       genitive: verðsins
 id: 1906
 gender: neuter

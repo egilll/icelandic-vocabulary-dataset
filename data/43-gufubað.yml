@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: gufubað
       nominative_translation: a steam bath
-      nominative_sound: islex/027/027_62.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/027/027_62.mp3'
+      nominative_pronunciation: kʏːvʏpaːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gufubað
-      accusative_sound: islex/027/027_62.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/027/027_62.mp3'
+      accusative_pronunciation: kʏːvʏpaːð
       dative: gufubaði
+      dative_pronunciation: <span class="guessed">kʏːvʏpaːðɪ</span>
       genitive: gufubaðs
     with article:
       nominative: gufubaðið
       nominative_translation: the steam bath
+      nominative_pronunciation: <span class="guessed">kʏːvʏpaːðɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: gufubaðið
+      accusative_pronunciation: <span class="guessed">kʏːvʏpaːðɪð</span>
       dative: gufubaðinu
+      dative_pronunciation: <span class="guessed">kʏːvʏpaːðɪnʏ</span>
       genitive: gufubaðsins
 id: 1056
 gender: neuter

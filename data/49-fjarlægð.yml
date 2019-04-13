@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: fjarlægð
       nominative_translation: a distance
-      nominative_sound: islex/247/247_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/247/247_45.mp3'
+      nominative_pronunciation: fjarlaiɣð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fjarlægð
-      accusative_sound: islex/247/247_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/247/247_45.mp3'
+      accusative_pronunciation: fjarlaiɣð
       dative: fjarlægð
-      dative_sound: islex/247/247_45.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/247/247_45.mp3'
+      dative_pronunciation: fjarlaiɣð
       genitive: fjarlægðar
+      genitive_pronunciation: fjarlaiɣðar
     with article:
       nominative: fjarlægðin
       nominative_translation: the distance
+      nominative_pronunciation: fjarlaiɣðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjarlægðina
+      accusative_pronunciation: fjarlaiɣðɪna
       dative: fjarlægðinni
+      dative_pronunciation: fjarlaiɣðɪnɪ
       genitive: fjarlægðarinnar
+      genitive_pronunciation: <span class="guessed">fjarlaiɣðarɪnar</span>
 id: 949
 gender: feminine

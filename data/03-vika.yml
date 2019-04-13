@@ -6,41 +6,56 @@ conjugation:
     no article:
       nominative: vika
       nominative_translation: a week
-      nominative_sound: islex/124/124_44.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/124/124_44.mp3'
+      nominative_pronunciation: vɪːka
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: viku
+      accusative_pronunciation: vɪːkʏ
       dative: viku
+      dative_pronunciation: vɪːkʏ
       genitive: viku
+      genitive_pronunciation: vɪːkʏ
     with article:
       nominative: vikan
       nominative_translation: the week
+      nominative_pronunciation: vɪːkan
       nominative_teach: true
       nominative_teachtable: true
       accusative: vikuna
+      accusative_pronunciation: vɪːkʏna
       dative: vikunni
+      dative_pronunciation: vɪːkʏnɪ
       genitive: vikunnar
+      genitive_pronunciation: vɪːkʏnar
   plural:
     no article:
       nominative: vikur
       nominative_translation: weeks
-      nominative_sound: islex/169/169_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/169/169_05.mp3'
+      nominative_pronunciation: vɪːkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vikur
-      accusative_sound: islex/169/169_05.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/169/169_05.mp3'
+      accusative_pronunciation: vɪːkʏr
       dative: vikum
+      dative_pronunciation: vɪːkʏm
       genitive: vikna
-      genitive_sound: islex/290/290_11.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/290/290_11.mp3'
+      genitive_pronunciation: vɪhkna
     with article:
       nominative: vikurnar
       nominative_translation: the weeks
+      nominative_pronunciation: vɪːkʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: vikurnar
+      accusative_pronunciation: vɪːkʏtnar
       dative: vikunum
       genitive: viknanna
+      genitive_pronunciation: <span class="guessed">vɪːknana</span>
 id: 1925
 gender: feminine

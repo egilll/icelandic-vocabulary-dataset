@@ -6,6 +6,7 @@ conjugation:
     no article:
       nominative: freknur
       nominative_translation: freckels
+      nominative_pronunciation: frɛhknʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

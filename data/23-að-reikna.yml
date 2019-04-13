@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] reikna'
     infinitive_translation: to calculate
-    infinitive_sound: islex/153/153_23.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/153/153_23.mp3'
+    infinitive_pronunciation: reihkna
     infinitive_teach: true
 id: 2289

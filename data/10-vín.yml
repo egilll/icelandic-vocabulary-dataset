@@ -6,21 +6,25 @@ conjugation:
     no article:
       nominative: vín
       nominative_translation: wine
-      nominative_sound: islex/313/313_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/313/313_04.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vín
-      accusative_sound: islex/313/313_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/313/313_04.mp3'
       dative: víni
       genitive: víns
+      genitive_pronunciation: vins
     with article:
       nominative: vínið
       nominative_translation: the wine
+      nominative_pronunciation: viːnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: vínið
+      accusative_pronunciation: viːnɪð
       dative: víninu
+      dative_pronunciation: viːnɪnʏ
       genitive: vínsins
 id: 1928
 gender: neuter

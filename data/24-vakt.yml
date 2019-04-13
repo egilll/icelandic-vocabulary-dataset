@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: vakt
       nominative_translation: a shift
-      nominative_sound: islex/392/392_82.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/392/392_82.mp3'
+      nominative_pronunciation: vaxt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vakt
-      accusative_sound: islex/392/392_82.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/392/392_82.mp3'
+      accusative_pronunciation: vaxt
       dative: vakt
-      dative_sound: islex/392/392_82.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/392/392_82.mp3'
+      dative_pronunciation: vaxt
       genitive: vaktar
     with article:
       nominative: vaktin
@@ -21,19 +24,25 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: vaktina
+      accusative_pronunciation: vaxtɪna
       dative: vaktinni
+      dative_pronunciation: vaxtɪnɪ
       genitive: vaktarinnar
   plural:
     no article:
       nominative: vaktir
       nominative_translation: shifts
+      nominative_pronunciation: vaxtɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vaktir
+      accusative_pronunciation: vaxtɪr
       dative: vöktum
+      dative_pronunciation: vœxtʏm
       genitive: vakta
-      genitive_sound: islex/096/096_15.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/096/096_15.mp3'
+      genitive_pronunciation: vaxta
     with article:
       nominative: vaktirnar
       nominative_translation: the shifts
@@ -41,6 +50,8 @@ conjugation:
       nominative_teachtable: true
       accusative: vaktirnar
       dative: vöktunum
+      dative_pronunciation: <span class="guessed">vœxtʏnʏm</span>
       genitive: vaktanna
+      genitive_pronunciation: <span class="guessed">vaxtana</span>
 id: 1884
 gender: feminine

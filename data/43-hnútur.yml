@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: hnútur
       nominative_translation: a knot
-      nominative_sound: islex/196/196_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/196/196_50.mp3'
+      nominative_pronunciation: n̥uːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hnút
+      accusative_pronunciation: n̥uːt
       dative: hnút
+      dative_pronunciation: n̥uːt
       genitive: hnúts
     with article:
       nominative: hnúturinn
       nominative_translation: the knot
+      nominative_pronunciation: n̥uːtʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hnútinn
+      accusative_pronunciation: n̥uːtɪn
       dative: hnútnum
+      dative_pronunciation: n̥uhtnʏm
       genitive: hnútsins
 id: 1147
 gender: masculine

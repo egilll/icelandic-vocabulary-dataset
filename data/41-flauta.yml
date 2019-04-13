@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: flauta
       nominative_translation: a flute
-      nominative_sound: islex/182/182_35.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/182/182_35.mp3'
+      nominative_pronunciation: flœiːta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flautu
+      accusative_pronunciation: flœiːtʏ
       dative: flautu
+      dative_pronunciation: flœiːtʏ
       genitive: flautu
+      genitive_pronunciation: flœiːtʏ
     with article:
       nominative: flautan
       nominative_translation: the flute
+      nominative_pronunciation: <span class="guessed">flœiːtaːn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: flautuna
+      accusative_pronunciation: flœiːtʏna
       dative: flautunni
+      dative_pronunciation: <span class="guessed">flœiːtʏnɪ</span>
       genitive: flautunnar
+      genitive_pronunciation: <span class="guessed">flœiːtʏnar</span>
 id: 956
 gender: feminine

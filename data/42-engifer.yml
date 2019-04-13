@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: engifer
       nominative_translation: ginger
-      nominative_sound: islex/230/230_03.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/230/230_03.mp3'
+      nominative_pronunciation: <span class="guessed">eiɲcɪfɛːr</span>
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

@@ -5,58 +5,70 @@ conjugation:
   active voice:
     infinitive: '[að] selja'
     infinitive_translation: to sell
-    infinitive_sound: islex/276/276_07.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/276/276_07.mp3'
+    infinitive_pronunciation: sɛlja
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] sel'
           1st person_translation: I sell
-          1st person_sound: islex/062/062_99.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/062/062_99.mp3'
+          1st person_pronunciation: sɛːl
           1st person_teach: true
           2nd person: '[þú] selur'
           2nd person_translation: you¹ sell
-          2nd person_sound: islex/449/449_90.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/449/449_90.mp3'
+          2nd person_pronunciation: sɛːlʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] selur'
           3rd person_translation: he/she/it sells
-          3rd person_sound: islex/449/449_90.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/449/449_90.mp3'
+          3rd person_pronunciation: sɛːlʏr
           3rd person_teach: true
         plural:
           1st person: '[við] seljum'
           1st person_translation: we sell
+          1st person_pronunciation: sɛljʏm
           1st person_teach: true
           2nd person: '[þið] seljið'
           2nd person_translation: you² sell
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] selja'
           3rd person_translation: they sell
-          3rd person_sound: islex/276/276_07.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/276/276_07.mp3'
+          3rd person_pronunciation: sɛlja
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] seldi'
           1st person_translation: I sold
+          1st person_pronunciation: sɛltɪ
           1st person_teach: true
           2nd person: '[þú] seldir'
           2nd person_translation: you¹ sold
+          2nd person_pronunciation: sɛltɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] seldi'
           3rd person_translation: he/she/it sold
+          3rd person_pronunciation: sɛltɪ
           3rd person_teach: true
         plural:
           1st person: '[við] seldum'
           1st person_translation: we sold
+          1st person_pronunciation: sɛltʏm
           1st person_teach: true
           2nd person: '[þið] selduð'
           2nd person_translation: you² sold
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] seldu'
           3rd person_translation: they sold
+          3rd person_pronunciation: sɛltʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] selt'
     active voice_translation: I have sold
+    active voice_pronunciation: sɛl̥t
     active voice_teach: true
 id: 2312
 recognizable: '1'

@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: lögregla
       nominative_translation: police
-      nominative_sound: islex/321/321_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/321/321_27.mp3'
+      nominative_pronunciation: lœɣrɛkla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lögreglu
+      accusative_pronunciation: lœɣrɛklʏ
       dative: lögreglu
+      dative_pronunciation: lœɣrɛklʏ
       genitive: lögreglu
+      genitive_pronunciation: lœɣrɛklʏ
     with article:
       nominative: lögreglan
       nominative_translation: the police
+      nominative_pronunciation: lœɣrɛklan
       nominative_teach: true
       nominative_teachtable: true
       accusative: lögregluna
+      accusative_pronunciation: lœɣrɛklʏna
       dative: lögreglunni
+      dative_pronunciation: lœɣrɛklʏnɪ
       genitive: lögreglunnar
+      genitive_pronunciation: lœɣrɛklʏnar
 id: 1353
 gender: feminine

@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: ferðamaður
       nominative_translation: tourists
-      nominative_sound: islex/028/028_79.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/028/028_79.mp3'
+      nominative_pronunciation: fɛrðamaːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ferðamann
+      accusative_pronunciation: <span class="guessed">fɛrðaman</span>
       dative: ferðamanni
+      dative_pronunciation: <span class="guessed">fɛrðamanɪ</span>
       genitive: ferðamanns
+      genitive_pronunciation: <span class="guessed">fɛrðamans</span>
     with article:
       nominative: ferðamaðurinn
       nominative_translation: the tourists
+      nominative_pronunciation: <span class="guessed">fɛrðamaːðʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: ferðamanninn
+      accusative_pronunciation: <span class="guessed">fɛrðamanɪn</span>
       dative: ferðamanninum
+      dative_pronunciation: <span class="guessed">fɛrðamanɪnʏm</span>
       genitive: ferðamannsins
+      genitive_pronunciation: <span class="guessed">fɛrðamansɪns</span>
   plural:
     no article:
       nominative: ferðamenn
       nominative_translation: tourists
+      nominative_pronunciation: fɛrðamɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ferðamenn
+      accusative_pronunciation: fɛrðamɛn
       dative: ferðamönnum
+      dative_pronunciation: fɛrðamœnʏm
       genitive: ferðamanna
+      genitive_pronunciation: fɛrðamana
     with article:
       nominative: ferðamennirnir
       nominative_translation: the tourists
+      nominative_pronunciation: fɛrðamɛnɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: ferðamennina
+      accusative_pronunciation: <span class="guessed">fɛrðamɛnɪna</span>
       dative: ferðamönnunum
+      dative_pronunciation: <span class="guessed">fɛrðamœnɔnʏm</span>
       genitive: ferðamannanna
+      genitive_pronunciation: <span class="guessed">fɛrðamanana</span>
 id: 939
 gender: masculine
 synonyms: túristi
-synonyms_sound: islex/267/267_99.mp3
+synonyms_sound: 'https://media.egill.xyz/audio/islex/267/267_99.mp3'

@@ -6,6 +6,7 @@ conjugation:
     no article:
       nominative: smákökur
       nominative_translation: cookies
+      nominative_pronunciation: smauːkœkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
@@ -13,6 +14,7 @@ conjugation:
     with article:
       nominative: smákökurnar
       nominative_translation: the cookies
+      nominative_pronunciation: <span class="guessed">smauːkʰœːkʏtnar</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1684

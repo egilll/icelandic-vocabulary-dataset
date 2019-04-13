@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: morð
       nominative_translation: a murder
-      nominative_sound: islex/332/332_29.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/332/332_29.mp3'
+      nominative_pronunciation: mɔrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: morð
-      accusative_sound: islex/332/332_29.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/332/332_29.mp3'
+      accusative_pronunciation: mɔrð
       dative: morði
+      dative_pronunciation: mɔrðɪ
       genitive: morðs
+      genitive_pronunciation: mɔrðs
     with article:
       nominative: morðið
       nominative_translation: the murder
+      nominative_pronunciation: mɔrðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: morðið
+      accusative_pronunciation: mɔrðɪð
       dative: morðinu
+      dative_pronunciation: mɔrðɪnʏ
       genitive: morðsins
+      genitive_pronunciation: mɔrðsɪns
 id: 1415
 gender: neuter

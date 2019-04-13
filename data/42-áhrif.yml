@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: áhrif
       nominative_translation: effects
-      nominative_sound: islex/463/463_78.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/463/463_78.mp3'
+      nominative_pronunciation: auːr̥ɪv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: áhrif
-      accusative_sound: islex/463/463_78.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/463/463_78.mp3'
+      accusative_pronunciation: auːr̥ɪv
       dative: áhrifum
+      dative_pronunciation: auːr̥ɪvʏm
       genitive: áhrifa
+      genitive_pronunciation: auːr̥ɪva
     with article:
       nominative: áhrifin
       nominative_translation: the effects
+      nominative_pronunciation: auːr̥ɪvɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: áhrifin
+      accusative_pronunciation: auːr̥ɪvɪn
       dative: áhrifunum
       genitive: áhrifanna
+      genitive_pronunciation: <span class="guessed">auːr̥ɪvana</span>
 id: 710
 gender: neuter

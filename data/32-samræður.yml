@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: samræður
       nominative_translation: conversations
-      nominative_sound: islex/443/443_92.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/443/443_92.mp3'
+      nominative_pronunciation: samraiðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: samræðurnar
       nominative_translation: the conversations
+      nominative_pronunciation: samraiðʏtnar
       nominative_teach: true
       nominative_teachtable: false
 id: 1596

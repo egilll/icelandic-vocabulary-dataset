@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: námskeið
       nominative_translation: 'a course, a workshop'
-      nominative_sound: islex/396/396_68.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/396/396_68.mp3'
+      nominative_pronunciation: naumsceið
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: námskeið
-      accusative_sound: islex/396/396_68.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/396/396_68.mp3'
+      accusative_pronunciation: naumsceið
       dative: námskeiði
+      dative_pronunciation: naumsceiðtɪ
       genitive: námskeiðs
+      genitive_pronunciation: naumsceiðs
     with article:
       nominative: námskeiðið
       nominative_translation: 'the course, the workshop'
+      nominative_pronunciation: naumsceiðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: námskeiðið
+      accusative_pronunciation: naumsceiðɪð
       dative: námskeiðinu
+      dative_pronunciation: naumsceiðɪnʏ
       genitive: námskeiðsins
+      genitive_pronunciation: naumsceiðsɪns
 id: 1440
 gender: neuter

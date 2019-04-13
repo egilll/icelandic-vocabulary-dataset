@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: hæð
       nominative_translation: height; hill
-      nominative_sound: islex/232/232_33.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/232/232_33.mp3'
+      nominative_pronunciation: haiːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: hæðin
       nominative_translation: the height; the hill
+      nominative_pronunciation: haiːðɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1067

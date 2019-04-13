@@ -6,38 +6,51 @@ conjugation:
     no article:
       nominative: málari
       nominative_translation: a painter
-      nominative_sound: islex/232/232_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/232/232_94.mp3'
+      nominative_pronunciation: mauːlarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: málara
+      accusative_pronunciation: mauːlara
       dative: málara
+      dative_pronunciation: mauːlara
       genitive: málara
+      genitive_pronunciation: mauːlara
     with article:
       nominative: málarinn
       nominative_translation: the painter
+      nominative_pronunciation: mauːlarɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: málarann
+      accusative_pronunciation: mauːlaran
       dative: málaranum
+      dative_pronunciation: mauːlaranʏm
       genitive: málarans
+      genitive_pronunciation: mauːlarans
   plural:
     no article:
       nominative: málarar
       nominative_translation: painters
+      nominative_pronunciation: mauːlarar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: málara
+      accusative_pronunciation: mauːlara
       dative: málurum
       genitive: málara
+      genitive_pronunciation: mauːlara
     with article:
       nominative: málararnir
       nominative_translation: the painters
       nominative_teach: true
       nominative_teachtable: true
       accusative: málarana
+      accusative_pronunciation: <span class="guessed">mauːlaraːna</span>
       dative: málurunum
       genitive: málaranna
+      genitive_pronunciation: <span class="guessed">mauːlarana</span>
 id: 1375
 gender: masculine

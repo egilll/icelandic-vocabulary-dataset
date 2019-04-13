@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: nærbuxur
       nominative_translation: underwear
-      nominative_sound: islex/114/114_70.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/114/114_70.mp3'
+      nominative_pronunciation: nairpʏksʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nærbuxur
-      accusative_sound: islex/114/114_70.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/114/114_70.mp3'
+      accusative_pronunciation: nairpʏksʏr
       dative: nærbuxum
+      dative_pronunciation: nairpʏksʏm
       genitive: nærbuxna
     with article:
       nominative: nærbuxurnar
       nominative_translation: the underwear
+      nominative_pronunciation: <span class="guessed">naiːrpʏksʏtnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: nærbuxurnar
+      accusative_pronunciation: <span class="guessed">naiːrpʏksʏtnar</span>
       dative: nærbuxunum
+      dative_pronunciation: nairpʏksɔnʏm
       genitive: nærbuxnanna
 id: 1433
 gender: feminine

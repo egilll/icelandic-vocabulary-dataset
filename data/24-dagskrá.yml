@@ -6,25 +6,33 @@ conjugation:
     no article:
       nominative: dagskrá
       nominative_translation: a schedule
-      nominative_sound: islex/296/296_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/296/296_57.mp3'
+      nominative_pronunciation: taxskrau
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dagskrá
-      accusative_sound: islex/296/296_57.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/296/296_57.mp3'
+      accusative_pronunciation: taxskrau
       dative: dagskrá
-      dative_sound: islex/296/296_57.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/296/296_57.mp3'
+      dative_pronunciation: taxskrau
       genitive: dagskrár
+      genitive_pronunciation: taxskraur
       genitive_alternative:
         - dagskráar
     with article:
       nominative: dagskráin
       nominative_translation: the schedule
+      nominative_pronunciation: taxskrauɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: dagskrána
+      accusative_pronunciation: taxskrauna
       dative: dagskránni
+      dative_pronunciation: taxskraunɪ
       genitive: dagskrárinnar
+      genitive_pronunciation: taxskraurɪnar
       genitive_alternative:
         - dagskráarinnar
 id: 863

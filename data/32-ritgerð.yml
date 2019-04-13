@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: ritgerð
       nominative_translation: an essay
-      nominative_sound: islex/468/468_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/468/468_38.mp3'
+      nominative_pronunciation: rɪːtcɛrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ritgerð
-      accusative_sound: islex/468/468_38.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/468/468_38.mp3'
+      accusative_pronunciation: rɪːtcɛrð
       dative: ritgerð
-      dative_sound: islex/468/468_38.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/468/468_38.mp3'
+      dative_pronunciation: rɪːtcɛrð
       genitive: ritgerðar
+      genitive_pronunciation: <span class="guessed">rɪːtcɛrðar</span>
     with article:
       nominative: ritgerðin
       nominative_translation: the essay
+      nominative_pronunciation: rɪːtcɛrðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ritgerðina
+      accusative_pronunciation: rɪːtcɛrðɪna
       dative: ritgerðinni
+      dative_pronunciation: rɪːtcɛrðɪnɪ
       genitive: ritgerðarinnar
+      genitive_pronunciation: rɪːtcɛrðarɪnar
 id: 1563
 gender: feminine

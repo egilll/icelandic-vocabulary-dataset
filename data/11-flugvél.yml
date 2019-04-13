@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: flugvél
       nominative_translation: an airplane
-      nominative_sound: islex/134/134_63.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/134/134_63.mp3'
+      nominative_pronunciation: flʏɣvjɛl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flugvél
-      accusative_sound: islex/134/134_63.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/134/134_63.mp3'
+      accusative_pronunciation: flʏɣvjɛl
       dative: flugvél
-      dative_sound: islex/134/134_63.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/134/134_63.mp3'
+      dative_pronunciation: flʏɣvjɛl
       genitive: flugvélar
+      genitive_pronunciation: flʏɣvjɛlar
     with article:
       nominative: flugvélin
       nominative_translation: the airplane
+      nominative_pronunciation: flʏɣvjɛlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: flugvélina
+      accusative_pronunciation: flʏɣvjɛlɪna
       dative: flugvélinni
+      dative_pronunciation: flʏɣvjɛlɪnɪ
       genitive: flugvélarinnar
+      genitive_pronunciation: flʏɣvjɛlarɪnar
   plural:
     no article:
       nominative: flugvélar
       nominative_translation: airplanes
+      nominative_pronunciation: flʏɣvjɛlar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flugvélar
+      accusative_pronunciation: flʏɣvjɛlar
       dative: flugvélum
+      dative_pronunciation: flʏɣvjɛlʏm
       genitive: flugvéla
+      genitive_pronunciation: flʏɣvjɛla
     with article:
       nominative: flugvélarnar
       nominative_translation: the airplanes
+      nominative_pronunciation: flʏɣvjɛlatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: flugvélarnar
+      accusative_pronunciation: flʏɣvjɛlatnar
       dative: flugvélunum
+      dative_pronunciation: <span class="guessed">flʏːɣvjɛːlɔnʏm</span>
       genitive: flugvélanna
+      genitive_pronunciation: flʏɣvjɛlana
 id: 964
 gender: feminine

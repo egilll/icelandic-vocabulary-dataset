@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: gufa
       nominative_translation: steam
-      nominative_sound: islex/162/162_80.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/162/162_80.mp3'
+      nominative_pronunciation: kʏːva
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gufu
+      accusative_pronunciation: kʏːvʏ
       dative: gufu
+      dative_pronunciation: kʏːvʏ
       genitive: gufu
+      genitive_pronunciation: kʏːvʏ
     with article:
       nominative: gufan
       nominative_translation: the steam
       nominative_teach: true
       nominative_teachtable: true
       accusative: gufuna
+      accusative_pronunciation: kʏːvʏna
       dative: gufunni
+      dative_pronunciation: kʏːvʏnɪ
       genitive: gufunnar
 id: 1055
 gender: feminine

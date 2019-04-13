@@ -6,43 +6,57 @@ conjugation:
     no article:
       nominative: bein
       nominative_translation: bone
-      nominative_sound: islex/074/074_92.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/074/074_92.mp3'
+      nominative_pronunciation: peiːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bein
-      accusative_sound: islex/074/074_92.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/074/074_92.mp3'
+      accusative_pronunciation: peiːn
       dative: beini
-      dative_sound: islex/326/326_05.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/326/326_05.mp3'
+      dative_pronunciation: peiːnɪ
       genitive: beins
+      genitive_pronunciation: peins
     with article:
       nominative: beinið
       nominative_translation: the bone
+      nominative_pronunciation: peiːnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: beinið
+      accusative_pronunciation: peiːnɪð
       dative: beininu
+      dative_pronunciation: peiːnɪnʏ
       genitive: beinsins
   plural:
     no article:
       nominative: bein
       nominative_translation: bones
-      nominative_sound: islex/074/074_92.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/074/074_92.mp3'
+      nominative_pronunciation: peiːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bein
-      accusative_sound: islex/074/074_92.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/074/074_92.mp3'
+      accusative_pronunciation: peiːn
       dative: beinum
+      dative_pronunciation: peiːnʏm
       genitive: beina
-      genitive_sound: islex/256/256_71.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/256/256_71.mp3'
+      genitive_pronunciation: peiːna
     with article:
       nominative: beinin
       nominative_translation: the bones
+      nominative_pronunciation: peiːnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: beinin
+      accusative_pronunciation: peiːnɪn
       dative: beinunum
       genitive: beinanna
+      genitive_pronunciation: <span class="guessed">peiːnana</span>
 id: 781
 gender: neuter

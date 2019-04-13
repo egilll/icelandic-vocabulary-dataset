@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: ball
       nominative_translation: 'a dance, a ball'
-      nominative_sound: islex/295/295_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/295/295_59.mp3'
+      nominative_pronunciation: pal
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ball
-      accusative_sound: islex/295/295_59.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/295/295_59.mp3'
+      accusative_pronunciation: pal
       dative: balli
-      dative_sound: islex/160/160_78.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/160/160_78.mp3'
+      dative_pronunciation: palɪ
       genitive: balls
     with article:
       nominative: ballið
       nominative_translation: 'the dance, the ball'
+      nominative_pronunciation: palɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: ballið
+      accusative_pronunciation: palɪð
       dative: ballinu
+      dative_pronunciation: palɪnʏ
       genitive: ballsins
 id: 766
 gender: neuter

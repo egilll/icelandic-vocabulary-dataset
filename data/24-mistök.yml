@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: mistök
       nominative_translation: mistakes
-      nominative_sound: islex/026/026_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/026/026_88.mp3'
+      nominative_pronunciation: mɪːstœk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mistök
-      accusative_sound: islex/026/026_88.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/026/026_88.mp3'
+      accusative_pronunciation: mɪːstœk
       dative: mistökum
+      dative_pronunciation: mɪːstœkʏm
       genitive: mistaka
+      genitive_pronunciation: mɪːstaka
     with article:
       nominative: mistökin
       nominative_translation: the mistakes
+      nominative_pronunciation: mɪːstœcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: mistökin
+      accusative_pronunciation: mɪːstœcɪn
       dative: mistökunum
+      dative_pronunciation: mɪːstœkɔnʏm
       genitive: mistakanna
+      genitive_pronunciation: <span class="guessed">mɪːstʰaːkana</span>
 id: 1409
 gender: neuter
 recognizable: '1'

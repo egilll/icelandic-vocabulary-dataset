@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: ljósmóðir
       nominative_translation: a midwife
-      nominative_sound: islex/446/446_67.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/446/446_67.mp3'
+      nominative_pronunciation: ljouːsmouðɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: light-mother
       accusative: ljósmóður
+      accusative_pronunciation: ljouːsmouðʏr
       dative: ljósmóður
+      dative_pronunciation: ljouːsmouðʏr
       genitive: ljósmóður
+      genitive_pronunciation: ljouːsmouðʏr
     with article:
       nominative: ljósmóðirin
       nominative_translation: the midwife
+      nominative_pronunciation: ljouːsmouðɪrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ljósmóðurina
+      accusative_pronunciation: ljouːsmouðʏrɪna
       dative: ljósmóðurinni
+      dative_pronunciation: <span class="guessed">ljouːsmouðʏrɪnɪ</span>
       genitive: ljósmóðurinnar
+      genitive_pronunciation: <span class="guessed">ljouːsmouðʏrɪnar</span>
 id: 1344
 gender: feminine

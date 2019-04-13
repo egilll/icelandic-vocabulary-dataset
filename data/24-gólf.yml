@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: gólf
       nominative_translation: floor
-      nominative_sound: islex/340/340_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/340/340_05.mp3'
+      nominative_pronunciation: koulv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gólf
-      accusative_sound: islex/340/340_05.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/340/340_05.mp3'
+      accusative_pronunciation: koulv
       dative: gólfi
+      dative_pronunciation: koulvɪ
       genitive: gólfs
     with article:
       nominative: gólfið
       nominative_translation: the floor
+      nominative_pronunciation: koulvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: gólfið
+      accusative_pronunciation: koulvɪð
       dative: gólfinu
+      dative_pronunciation: koulvɪnʏ
       genitive: gólfsins
 id: 1038
 gender: neuter

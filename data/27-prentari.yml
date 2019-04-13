@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: prentari
       nominative_translation: a printer
-      nominative_sound: islex/222/222_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/222/222_71.mp3'
+      nominative_pronunciation: pʰrɛn̥tarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: prentara
+      accusative_pronunciation: pʰrɛn̥tara
       dative: prentara
+      dative_pronunciation: pʰrɛn̥tara
       genitive: prentara
+      genitive_pronunciation: pʰrɛn̥tara
     with article:
       nominative: prentarinn
       nominative_translation: the printer
+      nominative_pronunciation: pʰrɛn̥tarɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: prentarann
+      accusative_pronunciation: <span class="guessed">pʰrɛn̥taran</span>
       dative: prentaranum
+      dative_pronunciation: <span class="guessed">pʰrɛn̥taraːnʏm</span>
       genitive: prentarans
 id: 1521
 gender: masculine

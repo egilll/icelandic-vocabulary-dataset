@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] batna'
     infinitive_translation: 'to recover from an illness, to get better'
-    infinitive_sound: islex/360/360_89.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/360/360_89.mp3'
+    infinitive_pronunciation: pahtna
     infinitive_teach: true
 id: 2034

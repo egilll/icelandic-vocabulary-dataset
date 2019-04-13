@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: rauðvín
       nominative_translation: red wine
-      nominative_sound: islex/231/231_81.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/231/231_81.mp3'
+      nominative_pronunciation: rœiðvin
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rauðvín
-      accusative_sound: islex/231/231_81.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/231/231_81.mp3'
+      accusative_pronunciation: rœiðvin
       dative: rauðvíni
+      dative_pronunciation: rœiːðvinɪ
       genitive: rauðvíns
+      genitive_pronunciation: <span class="guessed">rœiːðvins</span>
     with article:
       nominative: rauðvínið
       nominative_translation: the red wine
+      nominative_pronunciation: <span class="guessed">rœiːðviːnɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: rauðvínið
+      accusative_pronunciation: <span class="guessed">rœiːðviːnɪð</span>
       dative: rauðvíninu
+      dative_pronunciation: <span class="guessed">rœiːðviːnɪnʏ</span>
       genitive: rauðvínsins
 id: 1542
 gender: neuter

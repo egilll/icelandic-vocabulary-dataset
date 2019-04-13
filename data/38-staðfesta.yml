@@ -5,11 +5,13 @@ conjugation:
   active voice:
     infinitive: '[að] staðfesta'
     infinitive_translation: to confirm
-    infinitive_sound: islex/299/299_11.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/299/299_11.mp3'
+    infinitive_pronunciation: staðfɛsta
     infinitive_teach: true
   imperative:
     active voice:
       singular: staðfestu!
       singular_translation: confirm!¹
+      singular_pronunciation: staðfɛstʏ
       singular_teach: true
 id: 2371

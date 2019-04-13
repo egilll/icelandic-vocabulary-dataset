@@ -6,40 +6,51 @@ conjugation:
     no article:
       nominative: gaur
       nominative_translation: a dude
-      nominative_sound: islex/118/118_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/118/118_94.mp3'
+      nominative_pronunciation: kœiːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gaur
-      accusative_sound: islex/118/118_94.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/118/118_94.mp3'
+      accusative_pronunciation: kœiːr
       dative: gaur
-      dative_sound: islex/118/118_94.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/118/118_94.mp3'
+      dative_pronunciation: kœiːr
       genitive: gaurs
     with article:
       nominative: gaurinn
       nominative_translation: the dude
+      nominative_pronunciation: kœiːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: gaurinn
+      accusative_pronunciation: kœiːrɪn
       dative: gaurnum
       genitive: gaursins
   plural:
     no article:
       nominative: gaurar
       nominative_translation: dudes
+      nominative_pronunciation: kœiːrar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gaura
+      accusative_pronunciation: <span class="guessed">kœiːraː</span>
       dative: gaurum
+      dative_pronunciation: <span class="guessed">kœiːrʏm</span>
       genitive: gaura
+      genitive_pronunciation: <span class="guessed">kœiːraː</span>
     with article:
       nominative: gaurarnir
       nominative_translation: the dudes
       nominative_teach: true
       nominative_teachtable: true
       accusative: gaurana
+      accusative_pronunciation: <span class="guessed">kœiːraːna</span>
       dative: gaurunum
       genitive: gauranna
+      genitive_pronunciation: <span class="guessed">kœiːrana</span>
 id: 1014
 gender: masculine

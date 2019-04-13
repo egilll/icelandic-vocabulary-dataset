@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] rækta'
     infinitive_translation: to cultivate
-    infinitive_sound: islex/256/256_58.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/256/256_58.mp3'
+    infinitive_pronunciation: raixta
     infinitive_teach: true
 id: 2281

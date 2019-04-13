@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: myndavél
       nominative_translation: a camera
-      nominative_sound: islex/267/267_78.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/267/267_78.mp3'
+      nominative_pronunciation: mɪntavjɛːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: myndavél
-      accusative_sound: islex/267/267_78.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/267/267_78.mp3'
+      accusative_pronunciation: mɪntavjɛːl
       dative: myndavél
-      dative_sound: islex/267/267_78.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/267/267_78.mp3'
+      dative_pronunciation: mɪntavjɛːl
       genitive: myndavélar
+      genitive_pronunciation: mɪntavjɛːlar
     with article:
       nominative: myndavélin
       nominative_translation: the camera
+      nominative_pronunciation: mɪntavjɛːlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: myndavélina
+      accusative_pronunciation: mɪntavjɛːlɪna
       dative: myndavélinni
+      dative_pronunciation: mɪntavjɛːlɪni
       genitive: myndavélarinnar
+      genitive_pronunciation: <span class="guessed">mɪntavjɛːlarɪnar</span>
   plural:
     no article:
       nominative: myndavélar
       nominative_translation: cameras
+      nominative_pronunciation: mɪntavjɛːlar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: myndavélar
+      accusative_pronunciation: mɪntavjɛːlar
       dative: myndavélum
+      dative_pronunciation: mɪntavjɛːlʏm
       genitive: myndavéla
+      genitive_pronunciation: <span class="guessed">mɪntavjɛːla</span>
     with article:
       nominative: myndavélarnar
       nominative_translation: the cameras
+      nominative_pronunciation: mɪntavjɛːlatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: myndavélarnar
+      accusative_pronunciation: mɪntavjɛːlatnar
       dative: myndavélunum
+      dative_pronunciation: mɪntavjɛːlɔnʏm
       genitive: myndavélanna
+      genitive_pronunciation: <span class="guessed">mɪntavjɛːlana</span>
 id: 1429
 gender: feminine

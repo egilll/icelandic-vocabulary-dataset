@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: morgunkorn
       nominative_translation: breakfast cereal
-      nominative_sound: islex/007/007_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/007/007_87.mp3'
+      nominative_pronunciation: <span class="guessed">mɔrkʏnkʰɔrtn̥</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: morgunkorn
-      accusative_sound: islex/007/007_87.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/007/007_87.mp3'
+      accusative_pronunciation: <span class="guessed">mɔrkʏnkʰɔrtn̥</span>
       dative: morgunkorni
+      dative_pronunciation: <span class="guessed">mɔrkʏnkʰɔrtnɪ</span>
       genitive: morgunkorns
     with article:
       nominative: morgunkornið
       nominative_translation: the breakfast cereal
+      nominative_pronunciation: <span class="guessed">mɔrkʏnkʰɔrtnɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: morgunkornið
+      accusative_pronunciation: <span class="guessed">mɔrkʏnkʰɔrtnɪð</span>
       dative: morgunkorninu
+      dative_pronunciation: <span class="guessed">mɔrkʏnkʰɔrtn̥ɪːnʏ</span>
       genitive: morgunkornsins
 id: 1416
 gender: neuter

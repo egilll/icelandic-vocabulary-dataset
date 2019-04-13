@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: prestur
       nominative_translation: a priest
-      nominative_sound: islex/029/029_54.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/029/029_54.mp3'
+      nominative_pronunciation: pʰrɛstʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: prest
+      accusative_pronunciation: pʰrɛst
       dative: presti
+      dative_pronunciation: pʰrɛstɪ
       genitive: prests
+      genitive_pronunciation: pʰrɛsts
     with article:
       nominative: presturinn
       nominative_translation: the priest
+      nominative_pronunciation: pʰrɛstʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: prestinn
+      accusative_pronunciation: pʰrɛstɪn
       dative: prestinum
+      dative_pronunciation: pʰrɛstɪnʏm
       genitive: prestsins
+      genitive_pronunciation: pʰrɛstsɪns
 id: 1522
 gender: masculine

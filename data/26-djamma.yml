@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] djamma'
     infinitive_translation: 'to go out partying [slang]'
-    infinitive_sound: islex/474/474_24.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/474/474_24.mp3'
+    infinitive_pronunciation: tjama
     infinitive_teach: true
 id: 2071

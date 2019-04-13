@@ -6,33 +6,45 @@ conjugation:
     no article:
       nominative: þörf
       nominative_translation: a need
-      nominative_sound: islex/340/340_35.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/340/340_35.mp3'
+      nominative_pronunciation: θœrv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þörf
-      accusative_sound: islex/340/340_35.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/340/340_35.mp3'
+      accusative_pronunciation: θœrv
       dative: þörf
-      dative_sound: islex/340/340_35.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/340/340_35.mp3'
+      dative_pronunciation: θœrv
       genitive: þarfar
+      genitive_pronunciation: <span class="guessed">θaːrfaːr</span>
     with article:
       nominative: þörfin
       nominative_translation: the need
+      nominative_pronunciation: θœrvɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: þörfina
+      accusative_pronunciation: θœrvɪna
       dative: þörfinni
+      dative_pronunciation: θœrvɪnɪ
       genitive: þarfarinnar
+      genitive_pronunciation: <span class="guessed">θaːrfaːrɪnar</span>
   plural:
     no article:
       nominative: þarfir
       nominative_translation: needs
+      nominative_pronunciation: θarvɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þarfir
+      accusative_pronunciation: θarvɪr
       dative: þörfum
+      dative_pronunciation: θœrvʏm
       genitive: þarfa
+      genitive_pronunciation: θarva
     with article:
       nominative: þarfirnar
       nominative_translation: the needs
@@ -41,5 +53,6 @@ conjugation:
       accusative: þarfirnar
       dative: þörfunum
       genitive: þarfanna
+      genitive_pronunciation: <span class="guessed">θarvana</span>
 id: 1961
 gender: feminine

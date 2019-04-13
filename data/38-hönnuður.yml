@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: hönnuður
       nominative_translation: a designer
-      nominative_sound: islex/445/445_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/445/445_85.mp3'
+      nominative_pronunciation: hœnʏðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: hönnuðurinn
       nominative_translation: the designer
+      nominative_pronunciation: hœnʏðʏrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1153

@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: hugmynd
       nominative_translation: an idea
-      nominative_sound: islex/069/069_81.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/069/069_81.mp3'
+      nominative_pronunciation: hʏɣmɪnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hugmynd
-      accusative_sound: islex/069/069_81.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/069/069_81.mp3'
+      accusative_pronunciation: hʏɣmɪnt
       dative: hugmynd
-      dative_sound: islex/069/069_81.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/069/069_81.mp3'
+      dative_pronunciation: hʏɣmɪnt
       genitive: hugmyndar
+      genitive_pronunciation: hʏɣmɪntar
     with article:
       nominative: hugmyndin
       nominative_translation: the idea
+      nominative_pronunciation: hʏɣmɪntɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hugmyndina
+      accusative_pronunciation: hʏɣmɪntɪna
       dative: hugmyndinni
+      dative_pronunciation: hʏɣmɪntɪnɪ
       genitive: hugmyndarinnar
+      genitive_pronunciation: hʏɣmɪntarɪnar
 id: 1171
 gender: feminine

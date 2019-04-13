@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] hella'
     infinitive_translation: to pour
-    infinitive_sound: islex/032/032_02.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/032/032_02.mp3'
+    infinitive_pronunciation: hɛtla
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] hellti'
           1st person_translation: I poured
+          1st person_pronunciation: hɛl̥tɪ
           1st person_teach: true
 id: 2147

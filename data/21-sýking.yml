@@ -6,13 +6,16 @@ conjugation:
     no article:
       nominative: sýking
       nominative_translation: an infection
-      nominative_sound: islex/345/345_46.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/345/345_46.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sýkingu
+      accusative_pronunciation: siːciŋkʏ
       dative: sýkingu
+      dative_pronunciation: siːciŋkʏ
       genitive: sýkingar
+      genitive_pronunciation: siːciŋkar
     with article:
       nominative: sýkingin
       nominative_translation: the infection
@@ -21,5 +24,6 @@ conjugation:
       accusative: sýkinguna
       dative: sýkingunni
       genitive: sýkingarinnar
+      genitive_pronunciation: <span class="guessed">siːciŋkarɪnar</span>
 id: 1798
 gender: feminine

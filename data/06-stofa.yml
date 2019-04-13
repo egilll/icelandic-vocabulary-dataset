@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: stofa
       nominative_translation: a living room
-      nominative_sound: islex/301/301_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/301/301_97.mp3'
+      nominative_pronunciation: stɔːva
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stofu
+      accusative_pronunciation: stɔːvʏ
       dative: stofu
+      dative_pronunciation: stɔːvʏ
       genitive: stofu
+      genitive_pronunciation: stɔːvʏ
     with article:
       nominative: stofan
       nominative_translation: the living room
+      nominative_pronunciation: stɔːvan
       nominative_teach: true
       nominative_teachtable: true
       accusative: stofuna
+      accusative_pronunciation: stɔːvʏna
       dative: stofunni
+      dative_pronunciation: stɔːvʏnɪ
       genitive: stofunnar
+      genitive_pronunciation: stɔːvʏnar
   plural:
     no article:
       nominative: stofur
       nominative_translation: living rooms
+      nominative_pronunciation: stɔːvʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stofur
+      accusative_pronunciation: stɔːvʏr
       dative: stofum
+      dative_pronunciation: stɔːvʏm
       genitive: stofa
-      genitive_sound: islex/301/301_97.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/301/301_97.mp3'
+      genitive_pronunciation: stɔːva
     with article:
       nominative: stofurnar
       nominative_translation: the living rooms
+      nominative_pronunciation: stɔːvʏrtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: stofurnar
+      accusative_pronunciation: stɔːvʏrtnar
       dative: stofunum
       genitive: stofanna
 id: 1750

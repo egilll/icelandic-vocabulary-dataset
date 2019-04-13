@@ -1,5 +1,7 @@
 word: stuttur
 word_translation: short
+word_sound: 'https://media.egill.xyz/audio/islex/422/422_35.mp3'
+word_pronunciation: stʏhtʏr
 word_teach: true
 level: 7
 grammatical_category: adjective

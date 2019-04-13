@@ -5,32 +5,38 @@ conjugation:
   active voice:
     infinitive: '[að] snerta'
     infinitive_translation: to touch
-    infinitive_sound: islex/258/258_47.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/258/258_47.mp3'
+    infinitive_pronunciation: stnɛr̥ta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] snerti'
           1st person_translation: I touch
+          1st person_pronunciation: stnɛr̥tɪ
           1st person_teach: true
           2nd person: '[þú] snertir'
           2nd person_translation: you¹ touch
+          2nd person_pronunciation: stnɛr̥tɪr
           2nd person_teach: true
       past:
         singular:
           1st person: '[ég] snerti'
           1st person_translation: I touched
+          1st person_pronunciation: stnɛr̥tɪ
           1st person_teach: true
           1st person_alternative:
             - snart
           2nd person: '[þú] snertir'
           2nd person_translation: you¹ touched
+          2nd person_pronunciation: stnɛr̥tɪr
           2nd person_teach: true
           2nd person_alternative:
             - snarst
   supine:
     active voice: '[ég hef] snert'
     active voice_translation: I have touched
+    active voice_pronunciation: stnɛr̥t
     active voice_teach: true
     active voice_alternative:
       - snortið
@@ -38,5 +44,6 @@ conjugation:
     active voice:
       singular: snertu!
       singular_translation: touch!¹
+      singular_pronunciation: stnɛr̥tʏ
       singular_teach: true
 id: 2358

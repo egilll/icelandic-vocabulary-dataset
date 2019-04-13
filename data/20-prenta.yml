@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] prenta'
     infinitive_translation: to print
-    infinitive_sound: islex/057/057_22.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/057/057_22.mp3'
+    infinitive_pronunciation: pʰrɛn̥ta
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] prentaði'
           1st person_translation: I printed
+          1st person_pronunciation: <span class="guessed">pʰrɛn̥taðɪː</span>
           1st person_teach: true
 id: 2277

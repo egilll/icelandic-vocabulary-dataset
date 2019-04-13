@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: bær
       nominative_translation: a town
-      nominative_sound: islex/319/319_61.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/319/319_61.mp3'
+      nominative_pronunciation: paiːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bæ
-      accusative_sound: islex/137/137_33.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/137/137_33.mp3'
+      accusative_pronunciation: paiː
       dative: bæ
-      dative_sound: islex/137/137_33.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/137/137_33.mp3'
+      dative_pronunciation: paiː
       genitive: bæjar
+      genitive_pronunciation: paiːjar
     with article:
       nominative: bærinn
       nominative_translation: the town
+      nominative_pronunciation: paiːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bæinn
+      accusative_pronunciation: paiːjɪn
       dative: bænum
+      dative_pronunciation: paiːnʏm
       genitive: bæjarins
+      genitive_pronunciation: paiːjarɪns
 id: 759
 gender: masculine

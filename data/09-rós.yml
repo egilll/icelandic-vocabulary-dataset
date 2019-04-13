@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: rós
       nominative_translation: a rose
-      nominative_sound: islex/231/231_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/231/231_30.mp3'
+      nominative_pronunciation: rouːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rós
-      accusative_sound: islex/231/231_30.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/231/231_30.mp3'
+      accusative_pronunciation: rouːs
       dative: rós
-      dative_sound: islex/231/231_30.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/231/231_30.mp3'
+      dative_pronunciation: rouːs
       genitive: rósar
+      genitive_pronunciation: rouːsar
     with article:
       nominative: rósin
       nominative_translation: the rose
+      nominative_pronunciation: rouːsɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: rósina
+      accusative_pronunciation: rouːsɪna
       dative: rósinni
+      dative_pronunciation: <span class="guessed">rouːsɪnɪ</span>
       genitive: rósarinnar
+      genitive_pronunciation: <span class="guessed">rouːsarɪnar</span>
   plural:
     no article:
       nominative: rósir
       nominative_translation: roses
+      nominative_pronunciation: rouːsɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rósir
+      accusative_pronunciation: rouːsɪr
       dative: rósum
+      dative_pronunciation: rouːsʏm
       genitive: rósa
+      genitive_pronunciation: rouːsa
     with article:
       nominative: rósirnar
       nominative_translation: the roses
+      nominative_pronunciation: rouːsɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: rósirnar
+      accusative_pronunciation: rouːsɪtnar
       dative: rósunum
       genitive: rósanna
+      genitive_pronunciation: rouːsana
 id: 1570
 gender: feminine

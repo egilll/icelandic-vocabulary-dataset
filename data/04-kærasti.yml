@@ -6,24 +6,32 @@ conjugation:
     no article:
       nominative: kærasti
       nominative_translation: a boyfriend
-      nominative_sound: islex/480/480_89.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/480/480_89.mp3'
+      nominative_pronunciation: cʰaiːrastɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: dearest
       accusative: kærasta
-      accusative_sound: islex/059/059_88.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/059/059_88.mp3'
+      accusative_pronunciation: cʰaiːrasta
       dative: kærasta
-      dative_sound: islex/059/059_88.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/059/059_88.mp3'
+      dative_pronunciation: cʰaiːrasta
       genitive: kærasta
-      genitive_sound: islex/059/059_88.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/059/059_88.mp3'
+      genitive_pronunciation: cʰaiːrasta
     with article:
       nominative: kærastinn
       nominative_translation: the boyfriend
+      nominative_pronunciation: cʰaiːrastɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: kærastann
+      accusative_pronunciation: cʰaiːrastan
       dative: kærastanum
+      dative_pronunciation: cʰaiːrastanʏm
       genitive: kærastans
+      genitive_pronunciation: <span class="guessed">cʰaiːrastans</span>
 id: 1206
 gender: masculine

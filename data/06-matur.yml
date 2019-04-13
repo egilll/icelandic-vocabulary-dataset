@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: matur
       nominative_translation: food
-      nominative_sound: islex/022/022_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/022/022_85.mp3'
+      nominative_pronunciation: maːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mat
-      accusative_sound: islex/482/482_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/482/482_45.mp3'
+      accusative_pronunciation: maːt
       dative: mat
-      dative_sound: islex/482/482_45.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/482/482_45.mp3'
+      dative_pronunciation: maːt
       genitive: matar
+      genitive_pronunciation: maːtar
     with article:
       nominative: maturinn
       nominative_translation: the food
+      nominative_pronunciation: maːtʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: matinn
+      accusative_pronunciation: maːtɪn
       dative: matnum
+      dative_pronunciation: mahtnʏm
       genitive: matarins
+      genitive_pronunciation: maːtarɪns
 id: 1392
 gender: masculine

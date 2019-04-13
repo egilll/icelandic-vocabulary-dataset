@@ -5,104 +5,130 @@ conjugation:
   active voice:
     infinitive: '[að] eiga'
     infinitive_translation: to own
-    infinitive_sound: islex/294/294_67.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/294/294_67.mp3'
+    infinitive_pronunciation: eiːɣa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] á'
           1st person_translation: I own
-          1st person_sound: islex/048/048_11.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/048/048_11.mp3'
+          1st person_pronunciation: auː
           1st person_teach: true
           2nd person: '[þú] átt'
           2nd person_translation: you¹ own
-          2nd person_sound: islex/413/413_48.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/413/413_48.mp3'
+          2nd person_pronunciation: auht
           2nd person_teach: true
           3rd person: '[hann/hún/það] á'
           3rd person_translation: he/she/it owns
-          3rd person_sound: islex/048/048_11.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/048/048_11.mp3'
+          3rd person_pronunciation: auː
           3rd person_teach: true
         plural:
           1st person: '[við] eigum'
           1st person_translation: we own
+          1st person_pronunciation: eiːɣʏm
           1st person_teach: true
           2nd person: '[þið] eigið'
           2nd person_translation: you² own
+          2nd person_pronunciation: eiːjɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] eiga'
           3rd person_translation: they own
-          3rd person_sound: islex/294/294_67.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/294/294_67.mp3'
+          3rd person_pronunciation: eiːɣa
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] átti'
           1st person_translation: I owned
+          1st person_pronunciation: auhtɪ
           1st person_teach: true
           2nd person: '[þú] áttir'
           2nd person_translation: you¹ owned
+          2nd person_pronunciation: auhtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] átti'
           3rd person_translation: he/she/it owned
+          3rd person_pronunciation: auhtɪ
           3rd person_teach: true
         plural:
           1st person: '[við] áttum'
           1st person_translation: we owned
+          1st person_pronunciation: auhtʏm
           1st person_teach: true
           2nd person: '[þið] áttuð'
           2nd person_translation: you² owned
+          2nd person_pronunciation: auhtʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] áttu'
           3rd person_translation: they owned
+          3rd person_pronunciation: auhtʏ
           3rd person_teach: true
     subjunctive:
       present:
         singular:
           1st person: '[ég held að] [ég] eigi'
           1st person_translation: I think I own
-          1st person_sound: islex/151/151_51.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/151/151_51.mp3'
+          1st person_pronunciation: eiːjɪ
           1st person_teach: true
           2nd person: '[ég held að] [þú] eigir'
           2nd person_translation: I think you¹ own
+          2nd person_pronunciation: eijɪr
           2nd person_teach: true
           3rd person: '[ég held að] [hann/hún/það] eigi'
           3rd person_translation: I think he/she/it owns
-          3rd person_sound: islex/151/151_51.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/151/151_51.mp3'
+          3rd person_pronunciation: eiːjɪ
           3rd person_teach: true
         plural:
           1st person: '[ég held að] [við] eigum'
           1st person_translation: I think we own
+          1st person_pronunciation: eiːɣʏm
           1st person_teach: true
           2nd person: '[ég held að] [þið] eigið'
           2nd person_translation: I think you² own
+          2nd person_pronunciation: eiːjɪð
           2nd person_teach: true
           3rd person: '[ég held að] [þeir/þær/þau] eigi'
           3rd person_translation: I think they own
-          3rd person_sound: islex/151/151_51.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/151/151_51.mp3'
+          3rd person_pronunciation: eiːjɪ
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég hélt að] [ég] ætti'
           1st person_translation: I thought I would own
+          1st person_pronunciation: aihtɪ
           1st person_teach: true
           2nd person: '[ég hélt að] [þú] ættir'
           2nd person_translation: I thought you¹ would own
+          2nd person_pronunciation: aihtɪr
           2nd person_teach: true
           3rd person: '[ég hélt að] [hann/hún/það] ætti'
           3rd person_translation: I thought he/she/it would own
+          3rd person_pronunciation: aihtɪ
           3rd person_teach: true
         plural:
           1st person: '[ég hélt að] [við] ættum'
           1st person_translation: I thought we would own
+          1st person_pronunciation: aihtʏm
           1st person_teach: true
           2nd person: '[ég hélt að] [þið] ættuð'
           2nd person_translation: I thought you² would own
+          2nd person_pronunciation: aihtʏð
           2nd person_teach: true
           3rd person: '[ég hélt að] [þeir/þær/þau] ættu'
           3rd person_translation: I thought they would own
+          3rd person_pronunciation: aihtʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] átt'
     active voice_translation: I have owned
-    active voice_sound: islex/413/413_48.mp3
+    active voice_sound: 'https://media.egill.xyz/audio/islex/413/413_48.mp3'
+    active voice_pronunciation: auht
     active voice_teach: true
 id: 2081

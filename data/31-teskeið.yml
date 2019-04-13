@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: teskeið
       nominative_translation: a teaspoon
-      nominative_sound: islex/360/360_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/360/360_73.mp3'
+      nominative_pronunciation: tʰɛːscɛjð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: teskeið
-      accusative_sound: islex/360/360_73.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/360/360_73.mp3'
+      accusative_pronunciation: tʰɛːscɛjð
       dative: teskeið
-      dative_sound: islex/360/360_73.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/360/360_73.mp3'
+      dative_pronunciation: tʰɛːscɛjð
       genitive: teskeiðar
+      genitive_pronunciation: <span class="guessed">tʰɛːsceiːðar</span>
     with article:
       nominative: teskeiðin
       nominative_translation: the teaspoon
+      nominative_pronunciation: <span class="guessed">tʰɛːscɛːɪːðɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: teskeiðina
+      accusative_pronunciation: tʰɛːsceiðɪna
       dative: teskeiðinni
+      dative_pronunciation: <span class="guessed">tʰɛːscɛjðɪnɪ</span>
       genitive: teskeiðarinnar
+      genitive_pronunciation: <span class="guessed">tʰɛːsceiːðarɪnar</span>
   plural:
     no article:
       nominative: teskeiðar
       nominative_translation: teaspoons
+      nominative_pronunciation: <span class="guessed">tʰɛːsceiːðar</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: teskeiðar
+      accusative_pronunciation: <span class="guessed">tʰɛːsceiːðar</span>
       dative: teskeiðum
+      dative_pronunciation: tʰɛːsceiðʏm
       genitive: teskeiða
+      genitive_pronunciation: <span class="guessed">tʰɛːscɛːjða</span>
     with article:
       nominative: teskeiðarnar
       nominative_translation: the teaspoons
+      nominative_pronunciation: <span class="guessed">tʰɛːscɛjðartnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: teskeiðarnar
+      accusative_pronunciation: <span class="guessed">tʰɛːscɛjðartnar</span>
       dative: teskeiðunum
       genitive: teskeiðanna
+      genitive_pronunciation: <span class="guessed">tʰɛːscɛjðana</span>
 id: 1825
 gender: feminine

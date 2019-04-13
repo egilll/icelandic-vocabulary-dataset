@@ -6,18 +6,23 @@ conjugation:
     no article:
       nominative: öryggi
       nominative_translation: safety
-      nominative_sound: islex/115/115_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/115/115_41.mp3'
+      nominative_pronunciation: œːrɪcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: öryggi
-      accusative_sound: islex/115/115_41.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/115/115_41.mp3'
+      accusative_pronunciation: œːrɪcɪ
       dative: öryggi
-      dative_sound: islex/115/115_41.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/115/115_41.mp3'
+      dative_pronunciation: œːrɪcɪ
       genitive: öryggis
+      genitive_pronunciation: œːrɪcɪs
     with article:
       nominative: öryggið
       nominative_translation: the safety
+      nominative_pronunciation: œːrɪcɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1476

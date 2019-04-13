@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: skipstjóri
       nominative_translation: a ship's captain
-      nominative_sound: islex/188/188_53.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/188/188_53.mp3'
+      nominative_pronunciation: scɪpstjourɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skipstjóra
+      accusative_pronunciation: scɪpstjoura
       dative: skipstjóra
+      dative_pronunciation: scɪpstjoura
       genitive: skipstjóra
+      genitive_pronunciation: scɪpstjoura
     with article:
       nominative: skipstjórinn
       nominative_translation: the ship's captain
+      nominative_pronunciation: scɪpstjourɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1649

@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: myndband
       nominative_translation: a video
-      nominative_sound: islex/075/075_84.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/075/075_84.mp3'
+      nominative_pronunciation: mɪntpant
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: myndband
-      accusative_sound: islex/075/075_84.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/075/075_84.mp3'
+      accusative_pronunciation: mɪntpant
       dative: myndbandi
+      dative_pronunciation: mɪntpantɪ
       genitive: myndbands
+      genitive_pronunciation: mɪntpants
     with article:
       nominative: myndbandið
       nominative_translation: the video
+      nominative_pronunciation: mɪntpantɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: myndbandið
+      accusative_pronunciation: mɪntpantɪð
       dative: myndbandinu
+      dative_pronunciation: mɪntpantɪnʏ
       genitive: myndbandsins
+      genitive_pronunciation: <span class="guessed">mɪntpantsɪns</span>
   plural:
     no article:
       nominative: myndbönd
       nominative_translation: videos
+      nominative_pronunciation: mɪntpœnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: myndbönd
+      accusative_pronunciation: mɪntpœnt
       dative: myndböndum
+      dative_pronunciation: mɪntpœntʏm
       genitive: myndbanda
+      genitive_pronunciation: <span class="guessed">mɪntpanta</span>
     with article:
       nominative: myndböndin
       nominative_translation: the videos
+      nominative_pronunciation: mɪntpœntɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: myndböndin
+      accusative_pronunciation: mɪntpœntɪn
       dative: myndböndunum
+      dative_pronunciation: <span class="guessed">mɪntpœntɔnʏm</span>
       genitive: myndbandanna
+      genitive_pronunciation: <span class="guessed">mɪntpantana</span>
 id: 1430
 gender: neuter

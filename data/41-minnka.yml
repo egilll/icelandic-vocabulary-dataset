@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] minnka'
     infinitive_translation: 'to decrease, to get lower'
-    infinitive_sound: islex/129/129_03.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/129/129_03.mp3'
+    infinitive_pronunciation: miŋ̊ka
     infinitive_teach: true
 id: 2250

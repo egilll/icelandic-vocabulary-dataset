@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: íþróttamaður
       nominative_translation: an athlete
-      nominative_sound: islex/173/173_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/173/173_20.mp3'
+      nominative_pronunciation: iːθrouhtamaːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: íþróttamann
+      accusative_pronunciation: <span class="guessed">iːθrouhtaman</span>
       dative: íþróttamanni
+      dative_pronunciation: <span class="guessed">iːθrouhtamanɪ</span>
       genitive: íþróttamanns
+      genitive_pronunciation: <span class="guessed">iːθrouhtamans</span>
     with article:
       nominative: íþróttamaðurinn
       nominative_translation: the athlete
+      nominative_pronunciation: <span class="guessed">iːθrouhtamaːðʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: íþróttamanninn
+      accusative_pronunciation: <span class="guessed">iːθrouhtamanɪn</span>
       dative: íþróttamanninum
+      dative_pronunciation: <span class="guessed">iːθrouhtamanɪnʏm</span>
       genitive: íþróttamannsins
+      genitive_pronunciation: <span class="guessed">iːθrouhtamansɪns</span>
   plural:
     no article:
       nominative: íþróttamenn
       nominative_translation: athletes
+      nominative_pronunciation: iːθrouhtamɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: íþróttamenn
+      accusative_pronunciation: iːθrouhtamɛn
       dative: íþróttamönnum
+      dative_pronunciation: iːθrouhtamœnʏm
       genitive: íþróttamanna
+      genitive_pronunciation: iːθrouhtamana
     with article:
       nominative: íþróttamennirnir
       nominative_translation: the athletes
+      nominative_pronunciation: <span class="guessed">iːθrouhtamɛnɪtnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: íþróttamennina
+      accusative_pronunciation: <span class="guessed">iːθrouhtamɛnɪna</span>
       dative: íþróttamönnunum
+      dative_pronunciation: <span class="guessed">iːθrouhtamœnɔnʏm</span>
       genitive: íþróttamannanna
+      genitive_pronunciation: <span class="guessed">iːθrouhtamanana</span>
 id: 1192
 gender: masculine

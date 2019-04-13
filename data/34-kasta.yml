@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] kasta'
     infinitive_translation: to throw an object
-    infinitive_sound: islex/098/098_18.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/098/098_18.mp3'
+    infinitive_pronunciation: kʰasta
     infinitive_teach: true
 id: 2178

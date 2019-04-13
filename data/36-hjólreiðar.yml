@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: hjólreiðar
       nominative_translation: cycling (sport)
-      nominative_sound: islex/374/374_60.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/374/374_60.mp3'
+      nominative_pronunciation: çoulreiðar
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

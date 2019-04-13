@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: staður
       nominative_translation: a place
-      nominative_sound: islex/234/234_40.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/234/234_40.mp3'
+      nominative_pronunciation: staːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stað
+      accusative_pronunciation: staːð
       dative: stað
+      dative_pronunciation: staːð
       genitive: staðar
+      genitive_pronunciation: staːðar
     with article:
       nominative: staðurinn
       nominative_translation: the place
+      nominative_pronunciation: staːðʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: staðinn
-      accusative_sound: islex/390/390_43.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/390/390_43.mp3'
+      accusative_pronunciation: staːðɪn
       dative: staðnum
+      dative_pronunciation: staðnʏm
       genitive: staðarins
+      genitive_pronunciation: staːðarɪns
   plural:
     no article:
       nominative: staðir
       nominative_translation: places
+      nominative_pronunciation: staːðɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: staði
+      accusative_pronunciation: staːðɪ
       dative: stöðum
+      dative_pronunciation: stœːðʏm
       genitive: staða
-      genitive_sound: islex/259/259_41.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/259/259_41.mp3'
+      genitive_pronunciation: staːða
     with article:
       nominative: staðirnir
       nominative_translation: the places
+      nominative_pronunciation: staːðɪrtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: staðina
+      accusative_pronunciation: staːðɪna
       dative: stöðunum
+      dative_pronunciation: stœːðɔnʏm
       genitive: staðanna
+      genitive_pronunciation: staːðana
 id: 1728
 gender: masculine

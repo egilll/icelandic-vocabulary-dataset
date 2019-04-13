@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: starfsmaður
       nominative_translation: an employee
-      nominative_sound: islex/153/153_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/153/153_69.mp3'
+      nominative_pronunciation: starvsmaðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: starfsmann
+      accusative_pronunciation: starvsman
       dative: starfsmanni
+      dative_pronunciation: starvsmanɪ
       genitive: starfsmanns
+      genitive_pronunciation: starvsmans
     with article:
       nominative: starfsmaðurinn
       nominative_translation: the employee
+      nominative_pronunciation: starvsmaðʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: starfsmanninn
+      accusative_pronunciation: <span class="guessed">starvsmanɪn</span>
       dative: starfsmanninum
+      dative_pronunciation: <span class="guessed">starvsmanɪnʏm</span>
       genitive: starfsmannsins
+      genitive_pronunciation: <span class="guessed">starvsmansɪns</span>
   plural:
     no article:
       nominative: starfsmenn
       nominative_translation: employees
+      nominative_pronunciation: starvsmɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: starfsmenn
+      accusative_pronunciation: starvsmɛn
       dative: starfsmönnum
+      dative_pronunciation: starvsmœnʏm
       genitive: starfsmanna
+      genitive_pronunciation: starvsmana
     with article:
       nominative: starfsmennirnir
       nominative_translation: the employees
+      nominative_pronunciation: starvsmɛnɪrtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: starfsmennina
+      accusative_pronunciation: starvsmɛnɪna
       dative: starfsmönnunum
+      dative_pronunciation: starvsmœnɔnʏm
       genitive: starfsmannanna
+      genitive_pronunciation: starvsmanana
 id: 1736
 gender: masculine

@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: kerfi
       nominative_translation: a system
-      nominative_sound: islex/167/167_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/167/167_99.mp3'
+      nominative_pronunciation: cʰɛrvɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kerfi
-      accusative_sound: islex/167/167_99.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/167/167_99.mp3'
+      accusative_pronunciation: cʰɛrvɪ
       dative: kerfi
-      dative_sound: islex/167/167_99.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/167/167_99.mp3'
+      dative_pronunciation: cʰɛrvɪ
       genitive: kerfis
+      genitive_pronunciation: cʰɛrvɪs
     with article:
       nominative: kerfið
       nominative_translation: the system
+      nominative_pronunciation: cʰɛrvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: kerfið
+      accusative_pronunciation: cʰɛrvɪð
       dative: kerfinu
+      dative_pronunciation: cʰɛrvɪnʏ
       genitive: kerfisins
+      genitive_pronunciation: cʰɛrvɪsɪns
 id: 1231
 gender: neuter

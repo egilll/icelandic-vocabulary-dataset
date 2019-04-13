@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: gítar
       nominative_translation: a guitar
-      nominative_sound: islex/426/426_80.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/426/426_80.mp3'
+      nominative_pronunciation: ciːtar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: gítarinn
       nominative_translation: the guitar
+      nominative_pronunciation: ciːtarɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1026

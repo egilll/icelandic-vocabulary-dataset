@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: auglýsing
       nominative_translation: an advertisement
-      nominative_sound: islex/243/243_43.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/243/243_43.mp3'
+      nominative_pronunciation: œiɣlisiŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: auglýsingu
+      accusative_pronunciation: œiɣlisiŋkʏ
       dative: auglýsingu
+      dative_pronunciation: œiɣlisiŋkʏ
       genitive: auglýsingar
+      genitive_pronunciation: œiɣlisiŋkar
     with article:
       nominative: auglýsingin
       nominative_translation: the advertisement
+      nominative_pronunciation: œiːɣlisiɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: auglýsinguna
+      accusative_pronunciation: œiɣlisiŋkʏna
       dative: auglýsingunni
+      dative_pronunciation: œiɣlisiŋkʏnɪ
       genitive: auglýsingarinnar
+      genitive_pronunciation: <span class="guessed">œiɣlisiŋkarɪnar</span>
   plural:
     no article:
       nominative: auglýsingar
       nominative_translation: advertisements
+      nominative_pronunciation: œiɣlisiŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: auglýsingar
+      accusative_pronunciation: œiɣlisiŋkar
       dative: auglýsingum
+      dative_pronunciation: œiɣlisiŋkʏm
       genitive: auglýsinga
+      genitive_pronunciation: œiɣlisiŋka
     with article:
       nominative: auglýsingarnar
       nominative_translation: the advertisements
+      nominative_pronunciation: œiɣlisiŋkatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: auglýsingarnar
+      accusative_pronunciation: œiɣlisiŋkatnar
       dative: auglýsingunum
       genitive: auglýsinganna
+      genitive_pronunciation: <span class="guessed">œiɣlisiŋkana</span>
 id: 749
 gender: feminine

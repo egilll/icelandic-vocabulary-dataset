@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: kassi
       nominative_translation: a box
-      nominative_sound: islex/353/353_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/353/353_37.mp3'
+      nominative_pronunciation: kʰasɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kassa
+      accusative_pronunciation: kʰasa
       dative: kassa
+      dative_pronunciation: kʰasa
       genitive: kassa
+      genitive_pronunciation: kʰasa
     with article:
       nominative: kassinn
       nominative_translation: the box
+      nominative_pronunciation: kʰasɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: kassann
+      accusative_pronunciation: kʰasan
       dative: kassanum
+      dative_pronunciation: kʰasanʏm
       genitive: kassans
   plural:
     no article:
       nominative: kassar
       nominative_translation: boxes
+      nominative_pronunciation: kʰasar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kassa
+      accusative_pronunciation: kʰasa
       dative: kössum
+      dative_pronunciation: kʰœsʏm
       genitive: kassa
+      genitive_pronunciation: kʰasa
     with article:
       nominative: kassarnir
       nominative_translation: the boxes
       nominative_teach: true
       nominative_teachtable: true
       accusative: kassana
+      accusative_pronunciation: kʰasana
       dative: kössunum
+      dative_pronunciation: kʰœsɔnʏm
       genitive: kassanna
+      genitive_pronunciation: <span class="guessed">kʰasanaː</span>
 id: 1225
 gender: masculine

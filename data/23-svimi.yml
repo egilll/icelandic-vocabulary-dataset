@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: svimi
       nominative_translation: dizziness
-      nominative_sound: islex/150/150_82.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/150/150_82.mp3'
+      nominative_pronunciation: svɪːmɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: svima
-      accusative_sound: islex/040/040_75.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/040/040_75.mp3'
+      accusative_pronunciation: svɪːma
       dative: svima
-      dative_sound: islex/040/040_75.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/040/040_75.mp3'
+      dative_pronunciation: svɪːma
       genitive: svima
-      genitive_sound: islex/040/040_75.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/040/040_75.mp3'
+      genitive_pronunciation: svɪːma
     with article:
       nominative: sviminn
       nominative_translation: the dizziness
+      nominative_pronunciation: svɪːmɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: svimann

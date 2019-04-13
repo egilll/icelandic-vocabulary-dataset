@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] kynna'
     infinitive_translation: 'to present, to introduce'
-    infinitive_sound: islex/060/060_31.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/060/060_31.mp3'
+    infinitive_pronunciation: cʰɪna
     infinitive_teach: true
 id: 2199

@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] spila'
     infinitive_translation: 'to play a song, to play a video, to play cards'
-    infinitive_sound: islex/180/180_22.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/180/180_22.mp3'
+    infinitive_pronunciation: spɪːla
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] spilaði'
           1st person_translation: 'I played a song, I played a video, I played cards'
+          1st person_pronunciation: spɪːlaði
           1st person_teach: true
 id: 2367

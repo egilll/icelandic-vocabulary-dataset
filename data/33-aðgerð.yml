@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: aðgerð
       nominative_translation: an operation; surgery
-      nominative_sound: islex/351/351_83.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/351/351_83.mp3'
+      nominative_pronunciation: aðcɛrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: aðgerðin
       nominative_translation: the operation; the surgery
+      nominative_pronunciation: aðcɛrðɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 690

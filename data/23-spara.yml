@@ -5,13 +5,15 @@ conjugation:
   active voice:
     infinitive: '[að] spara'
     infinitive_translation: to save money
-    infinitive_sound: islex/194/194_40.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/194/194_40.mp3'
+    infinitive_pronunciation: spaːra
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] sparaði'
           1st person_translation: I saved money
+          1st person_pronunciation: spaːraðɪ
           1st person_teach: true
         plural:
           1st person: '[við] spöruðum'

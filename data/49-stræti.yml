@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: stræti
       nominative_translation: streets
-      nominative_sound: islex/398/398_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/398/398_41.mp3'
+      nominative_pronunciation: straiːtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

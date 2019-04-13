@@ -5,50 +5,62 @@ conjugation:
   active voice:
     infinitive: '[að] vita'
     infinitive_translation: to know
-    infinitive_sound: islex/101/101_22.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/101/101_22.mp3'
+    infinitive_pronunciation: vɪːta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] veit'
           1st person_translation: I know
+          1st person_pronunciation: veiːt
           1st person_teach: true
           2nd person: '[þú] veist'
           2nd person_translation: you¹ know
           2nd person_teach: true
           3rd person: '[hann/hún/það] veit'
           3rd person_translation: he/she/it knows
+          3rd person_pronunciation: veiːt
           3rd person_teach: true
         plural:
           1st person: '[við] vitum'
           1st person_translation: we know
+          1st person_pronunciation: vɪːtʏm
           1st person_teach: true
           2nd person: '[þið] vitið'
           2nd person_translation: you² know
+          2nd person_pronunciation: vɪːtɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] vita'
           3rd person_translation: they know
-          3rd person_sound: islex/101/101_22.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/101/101_22.mp3'
+          3rd person_pronunciation: vɪːta
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] vissi'
           1st person_translation: I knew
+          1st person_pronunciation: vɪsɪ
           1st person_teach: true
           2nd person: '[þú] vissir'
           2nd person_translation: you¹ knew
+          2nd person_pronunciation: vɪsɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] vissi'
           3rd person_translation: he/she/it knew
+          3rd person_pronunciation: vɪsɪ
           3rd person_teach: true
         plural:
           1st person: '[við] vissum'
           1st person_translation: we knew
+          1st person_pronunciation: vɪsʏm
           1st person_teach: true
           2nd person: '[þið] vissuð'
           2nd person_translation: you² knew
+          2nd person_pronunciation: vɪsʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] vissu'
           3rd person_translation: they knew
+          3rd person_pronunciation: vɪsʏ
           3rd person_teach: true
 id: 2010

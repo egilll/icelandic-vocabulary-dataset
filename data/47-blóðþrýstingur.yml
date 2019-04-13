@@ -6,19 +6,25 @@ conjugation:
     no article:
       nominative: blóðþrýstingur
       nominative_translation: a blood pressure
-      nominative_sound: islex/091/091_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/091/091_18.mp3'
+      nominative_pronunciation: <span class="guessed">plouːðθristiŋkʏr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blóðþrýsting
+      accusative_pronunciation: plouθristiŋk
       dative: blóðþrýstingi
+      dative_pronunciation: plouθristiɲcɪ
       genitive: blóðþrýstings
+      genitive_pronunciation: <span class="guessed">plouːðθristiŋks</span>
     with article:
       nominative: blóðþrýstingurinn
       nominative_translation: the blood pressure
+      nominative_pronunciation: plouθristiŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: blóðþrýstinginn
+      accusative_pronunciation: <span class="guessed">plouːðθristiɲcɪn</span>
       dative: blóðþrýstingnum
       genitive: blóðþrýstingsins
 id: 815

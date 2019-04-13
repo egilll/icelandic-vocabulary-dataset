@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: kaffibaunir
       nominative_translation: coffee beans
+      nominative_pronunciation: <span class="guessed">kʰafɪpœiːnɪr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: kaffibaunirnar
       nominative_translation: the coffee beans
+      nominative_pronunciation: <span class="guessed">kʰafɪpœinɪtnar</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1208

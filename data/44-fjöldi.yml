@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: fjöldi
       nominative_translation: a large number; a crowd
-      nominative_sound: islex/162/162_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/162/162_64.mp3'
+      nominative_pronunciation: fjœltɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: fjöldinn
       nominative_translation: the large number; the crowd
+      nominative_pronunciation: fjœltɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 952

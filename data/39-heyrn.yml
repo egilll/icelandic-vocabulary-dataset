@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: heyrn
       nominative_translation: a hearing
-      nominative_sound: islex/364/364_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/364/364_91.mp3'
+      nominative_pronunciation: heirtn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: heyrn
-      accusative_sound: islex/364/364_91.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/364/364_91.mp3'
+      accusative_pronunciation: heirtn̥
       dative: heyrn
-      dative_sound: islex/364/364_91.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/364/364_91.mp3'
+      dative_pronunciation: heirtn̥
       genitive: heyrnar
     with article:
       nominative: heyrnin
@@ -21,7 +24,9 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: heyrnina
+      accusative_pronunciation: heirtnɪna
       dative: heyrninni
+      dative_pronunciation: <span class="guessed">heirtn̥ɪnɪ</span>
       genitive: heyrnarinnar
 id: 1118
 gender: feminine

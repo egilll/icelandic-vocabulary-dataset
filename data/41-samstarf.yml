@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: samstarf
       nominative_translation: cooperation
-      nominative_sound: islex/350/350_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/350/350_85.mp3'
+      nominative_pronunciation: samstarv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: samstarfið
       nominative_translation: the cooperation
+      nominative_pronunciation: samstarvɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1598

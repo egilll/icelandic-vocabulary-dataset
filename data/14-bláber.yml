@@ -6,17 +6,22 @@ conjugation:
     no article:
       nominative: bláber
       nominative_translation: blueberries
-      nominative_sound: islex/155/155_00.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/155/155_00.mp3'
+      nominative_pronunciation: <span class="guessed">plauːpɛːr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bláber
-      accusative_sound: islex/155/155_00.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/155/155_00.mp3'
+      accusative_pronunciation: <span class="guessed">plauːpɛːr</span>
       dative: bláberjum
+      dative_pronunciation: <span class="guessed">plauːpɛrjʏm</span>
       genitive: bláberja
+      genitive_pronunciation: <span class="guessed">plauːpɛrja</span>
     with article:
       nominative: bláberin
       nominative_translation: the blueberries
+      nominative_pronunciation: <span class="guessed">plauːpɛːrɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 805

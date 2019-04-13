@@ -6,30 +6,38 @@ conjugation:
     no article:
       nominative: flaska
       nominative_translation: a bottle
-      nominative_sound: islex/360/360_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/360/360_85.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flösku
+      accusative_pronunciation: flœskʏ
       dative: flösku
+      dative_pronunciation: flœskʏ
       genitive: flösku
+      genitive_pronunciation: flœskʏ
     with article:
       nominative: flaskan
       nominative_translation: the bottle
       nominative_teach: true
       nominative_teachtable: true
       accusative: flöskuna
+      accusative_pronunciation: flœskʏna
       dative: flöskunni
+      dative_pronunciation: flœskʏnɪ
       genitive: flöskunnar
   plural:
     no article:
       nominative: flöskur
       nominative_translation: bottles
+      nominative_pronunciation: flœskʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flöskur
+      accusative_pronunciation: flœskʏr
       dative: flöskum
+      dative_pronunciation: flœskʏm
       genitive: flaskna
     with article:
       nominative: flöskurnar
@@ -38,6 +46,7 @@ conjugation:
       nominative_teachtable: true
       accusative: flöskurnar
       dative: flöskunum
+      dative_pronunciation: flœskɔnʏm
       genitive: flasknanna
 id: 955
 gender: feminine

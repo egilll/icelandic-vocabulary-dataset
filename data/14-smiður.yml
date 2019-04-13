@@ -6,19 +6,22 @@ conjugation:
     no article:
       nominative: smiður
       nominative_translation: a carpenter
-      nominative_sound: islex/020/020_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/020/020_10.mp3'
+      nominative_pronunciation: smɪːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: smiðurinn
       nominative_translation: the carpenter
+      nominative_pronunciation: <span class="guessed">smɪːðʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: false
   plural:
     no article:
       nominative: smiðir
       nominative_translation: carpenters
+      nominative_pronunciation: smɪːðɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

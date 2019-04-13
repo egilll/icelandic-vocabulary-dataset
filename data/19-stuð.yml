@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: stuð
       nominative_translation: 'a good mood, excitement'
-      nominative_sound: islex/050/050_44.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/050/050_44.mp3'
+      nominative_pronunciation: stʏːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: stuðið
       nominative_translation: 'the good mood, the excitement'
+      nominative_pronunciation: <span class="guessed">stʏːðɪːð</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1762

@@ -5,11 +5,13 @@ conjugation:
   active voice:
     infinitive: '[að] ýta'
     infinitive_translation: to push
-    infinitive_sound: islex/210/210_20.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/210/210_20.mp3'
+    infinitive_pronunciation: iːta
     infinitive_teach: true
   imperative:
     active voice:
       singular: ýttu!
       singular_translation: push!¹
+      singular_pronunciation: ihtʏ
       singular_teach: true
 id: 2011

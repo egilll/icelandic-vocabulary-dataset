@@ -6,10 +6,14 @@ conjugation:
     with article:
       nominative: framtíðin
       nominative_translation: the future
+      nominative_pronunciation: framtiðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: framtíðina
+      accusative_pronunciation: framtiðɪna
       dative: framtíðinni
+      dative_pronunciation: framtiðɪnɪ
       genitive: framtíðarinnar
+      genitive_pronunciation: framtiðarɪnar
 id: 986
 gender: feminine

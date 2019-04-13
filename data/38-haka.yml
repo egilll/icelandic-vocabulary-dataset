@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: haka
       nominative_translation: a chin
-      nominative_sound: islex/270/270_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/270/270_20.mp3'
+      nominative_pronunciation: haːka
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: höku
+      accusative_pronunciation: hœːkʏ
       dative: höku
+      dative_pronunciation: hœːkʏ
       genitive: höku
+      genitive_pronunciation: hœːkʏ
     with article:
       nominative: hakan
       nominative_translation: the chin
+      nominative_pronunciation: <span class="guessed">haːkʰaːn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hökuna
+      accusative_pronunciation: hœːkʏna
       dative: hökunni
+      dative_pronunciation: hœːkʏnɪ
       genitive: hökunnar
 id: 1075
 gender: feminine

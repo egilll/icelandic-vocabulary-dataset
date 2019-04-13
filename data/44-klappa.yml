@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] klappa'
     infinitive_translation: to clap
-    infinitive_sound: islex/442/442_45.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/442/442_45.mp3'
+    infinitive_pronunciation: kʰlahpa
     infinitive_teach: true
 id: 2185

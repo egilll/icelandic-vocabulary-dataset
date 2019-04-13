@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: kokkur
       nominative_translation: 'a cook, a chef'
-      nominative_sound: islex/217/217_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/217/217_85.mp3'
+      nominative_pronunciation: kʰɔhkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kokk
+      accusative_pronunciation: kʰɔhk
       dative: kokki
+      dative_pronunciation: <span class="guessed">kʰɔːkcʰɪː</span>
       genitive: kokks
     with article:
       nominative: kokkurinn
       nominative_translation: 'the cook, the chef'
+      nominative_pronunciation: <span class="guessed">kʰɔhkʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: kokkinn
+      accusative_pronunciation: kʰɔhcɪn
       dative: kokkinum
       dative_alternative:
         - kokknum
       genitive: kokksins
+      genitive_pronunciation: kʰɔhksɪns
 id: 1253
 gender: masculine

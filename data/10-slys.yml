@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: slys
       nominative_translation: an accident
-      nominative_sound: islex/463/463_93.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/463/463_93.mp3'
+      nominative_pronunciation: stlɪːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: slys
-      accusative_sound: islex/463/463_93.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/463/463_93.mp3'
+      accusative_pronunciation: stlɪːs
       dative: slysi
+      dative_pronunciation: stlɪːsɪ
       genitive: slyss
+      genitive_pronunciation: stlɪs
     with article:
       nominative: slysið
       nominative_translation: the accident
+      nominative_pronunciation: stlɪːsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: slysið
+      accusative_pronunciation: stlɪːsɪð
       dative: slysinu
+      dative_pronunciation: stlɪːsɪnʏ
       genitive: slyssins
+      genitive_pronunciation: stlɪsɪns
 id: 1681
 gender: neuter

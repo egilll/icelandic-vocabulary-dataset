@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: bílpróf
       nominative_translation: driver's licence
-      nominative_sound: islex/066/066_49.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/066/066_49.mp3'
+      nominative_pronunciation: pilpʰrouv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bílpróf
-      accusative_sound: islex/066/066_49.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/066/066_49.mp3'
+      accusative_pronunciation: pilpʰrouv
       dative: bílprófi
+      dative_pronunciation: <span class="guessed">pilpʰrouvɪː</span>
       genitive: bílprófs
     with article:
       nominative: bílprófið
       nominative_translation: the driver's licence
+      nominative_pronunciation: pilpʰrouvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: bílprófið
+      accusative_pronunciation: pilpʰrouvɪð
       dative: bílprófinu
+      dative_pronunciation: <span class="guessed">pilpʰrouvɪːnʏ</span>
       genitive: bílprófsins
 id: 795
 gender: neuter

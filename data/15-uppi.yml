@@ -1,5 +1,7 @@
 word: uppi
 word_translation: upstairs
+word_sound: 'https://media.egill.xyz/audio/islex/212/212_16.mp3'
+word_pronunciation: ʏhpɪ
 word_teach: true
 level: 15
 grammatical_category: other

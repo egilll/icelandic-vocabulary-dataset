@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] reka'
     infinitive_translation: to fire someone
-    infinitive_sound: islex/162/162_65.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/162/162_65.mp3'
+    infinitive_pronunciation: rɛːka
     infinitive_teach: true
 id: 1994
 strong_verb_declension: true

@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: bíómynd
       nominative_translation: a film
-      nominative_sound: islex/210/210_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/210/210_27.mp3'
+      nominative_pronunciation: piːjoumɪnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bíómynd
-      accusative_sound: islex/210/210_27.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/210/210_27.mp3'
+      accusative_pronunciation: piːjoumɪnt
       dative: bíómynd
-      dative_sound: islex/210/210_27.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/210/210_27.mp3'
+      dative_pronunciation: piːjoumɪnt
       genitive: bíómyndar
+      genitive_pronunciation: <span class="guessed">piːjoumɪntar</span>
     with article:
       nominative: bíómyndin
       nominative_translation: the film
+      nominative_pronunciation: <span class="guessed">piːjoumɪntɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bíómyndina
+      accusative_pronunciation: <span class="guessed">piːjoumɪntɪna</span>
       dative: bíómyndinni
+      dative_pronunciation: <span class="guessed">piːjoumɪntɪnɪ</span>
       genitive: bíómyndarinnar
+      genitive_pronunciation: <span class="guessed">piːjoumɪntarɪnar</span>
   plural:
     no article:
       nominative: bíómyndir
       nominative_translation: films
+      nominative_pronunciation: piːjoumɪntɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bíómyndir
+      accusative_pronunciation: piːjoumɪntɪr
       dative: bíómyndum
+      dative_pronunciation: piːjoumɪntʏm
       genitive: bíómynda
+      genitive_pronunciation: piːjoumɪnta
     with article:
       nominative: bíómyndirnar
       nominative_translation: the films
+      nominative_pronunciation: <span class="guessed">piːjoumɪntɪtnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bíómyndirnar
+      accusative_pronunciation: <span class="guessed">piːjoumɪntɪtnar</span>
       dative: bíómyndunum
+      dative_pronunciation: piːjoumɪntɔnʏm
       genitive: bíómyndanna
+      genitive_pronunciation: <span class="guessed">piːjoumɪntana</span>
 id: 801
 gender: feminine

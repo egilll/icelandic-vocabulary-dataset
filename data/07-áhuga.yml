@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: áhugi
       nominative_translation: an interest
-      nominative_sound: islex/055/055_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/055/055_10.mp3'
+      nominative_pronunciation: auːhʏijɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: áhuga
+      accusative_pronunciation: auːhʏɣa
       dative: áhuga
+      dative_pronunciation: auːhʏɣa
       genitive: áhuga
+      genitive_pronunciation: auːhʏɣa
     with article:
       nominative: áhuginn
       nominative_translation: the interest
+      nominative_pronunciation: auːhʏijɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 712

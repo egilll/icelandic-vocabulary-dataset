@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: náttúra
       nominative_translation: nature
-      nominative_sound: islex/312/312_33.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/312/312_33.mp3'
+      nominative_pronunciation: nauhtura
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: náttúru
+      accusative_pronunciation: nauhturʏ
       dative: náttúru
+      dative_pronunciation: nauhturʏ
       genitive: náttúru
+      genitive_pronunciation: nauhturʏ
     with article:
       nominative: náttúran
       nominative_translation: the nature
+      nominative_pronunciation: nauhturan
       nominative_teach: true
       nominative_teachtable: true
       accusative: náttúruna
+      accusative_pronunciation: nauhturʏna
       dative: náttúrunni
+      dative_pronunciation: nauhturʏnɪ
       genitive: náttúrunnar
+      genitive_pronunciation: nauhturʏnar
 id: 1446
 gender: feminine

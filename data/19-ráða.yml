@@ -8,7 +8,8 @@ conjugation:
         singular:
           2nd person: '[þú] ræður'
           2nd person_translation: 'you¹ decide, it''s up to you¹'
-          2nd person_sound: islex/293/293_64.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/293/293_64.mp3'
+          2nd person_pronunciation: raiːðʏr
           2nd person_teach: true
 id: 2279
 never_show_with: ákveða

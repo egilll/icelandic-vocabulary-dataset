@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: blaðamaður
       nominative_translation: a journalist
-      nominative_sound: islex/447/447_95.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/447/447_95.mp3'
+      nominative_pronunciation: plaːðamaːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blaðamann
+      accusative_pronunciation: plaːðaman
       dative: blaðamanni
+      dative_pronunciation: plaːðamanɪ
       genitive: blaðamanns
+      genitive_pronunciation: plaːðamans
     with article:
       nominative: blaðamaðurinn
       nominative_translation: the journalist
+      nominative_pronunciation: plaːðamaːðʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: blaðamanninn
+      accusative_pronunciation: plaːðamanɪn
       dative: blaðamanninum
+      dative_pronunciation: plaːðamanɪnʏm
       genitive: blaðamannsins
+      genitive_pronunciation: plaːðamansɪns
   plural:
     no article:
       nominative: blaðamenn
       nominative_translation: journalists
+      nominative_pronunciation: plaːðamɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blaðamenn
+      accusative_pronunciation: plaːðamɛn
       dative: blaðamönnum
+      dative_pronunciation: plaːðamœnʏm
       genitive: blaðamanna
+      genitive_pronunciation: plaːðamana
     with article:
       nominative: blaðamennirnir
       nominative_translation: the journalists
+      nominative_pronunciation: plaːðamɛnɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: blaðamennina
+      accusative_pronunciation: <span class="guessed">plaːðamɛnɪna</span>
       dative: blaðamönnunum
+      dative_pronunciation: <span class="guessed">plaːðamœnɔnʏm</span>
       genitive: blaðamannanna
+      genitive_pronunciation: <span class="guessed">plaːðamanana</span>
 id: 807
 gender: masculine

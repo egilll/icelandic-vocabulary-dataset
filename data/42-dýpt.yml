@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: dýpt
       nominative_translation: a depth
-      nominative_sound: islex/054/054_06.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/054/054_06.mp3'
+      nominative_pronunciation: tift
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

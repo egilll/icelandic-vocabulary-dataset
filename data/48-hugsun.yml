@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: hugsun
       nominative_translation: a thought
-      nominative_sound: islex/240/240_02.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/240/240_02.mp3'
+      nominative_pronunciation: hʏksʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hugsun
-      accusative_sound: islex/240/240_02.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/240/240_02.mp3'
+      accusative_pronunciation: hʏksʏn
       dative: hugsun
-      dative_sound: islex/240/240_02.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/240/240_02.mp3'
+      dative_pronunciation: hʏksʏn
       genitive: hugsunar
+      genitive_pronunciation: hʏksʏnar
     with article:
       nominative: hugsunin
       nominative_translation: the thought
+      nominative_pronunciation: hʏksʏnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hugsunina
+      accusative_pronunciation: <span class="guessed">hʏksʏnɪnaː</span>
       dative: hugsuninni
+      dative_pronunciation: <span class="guessed">hʏksʏnɪnɪ</span>
       genitive: hugsunarinnar
+      genitive_pronunciation: <span class="guessed">hʏksʏnarɪnar</span>
   plural:
     no article:
       nominative: hugsanir
       nominative_translation: thoughts
+      nominative_pronunciation: hʏksanɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hugsanir
+      accusative_pronunciation: hʏksanɪr
       dative: hugsunum
+      dative_pronunciation: hʏksʏnʏm
       genitive: hugsana
+      genitive_pronunciation: hʏksana
     with article:
       nominative: hugsanirnar
       nominative_translation: the thoughts
+      nominative_pronunciation: hʏksanɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: hugsanirnar
+      accusative_pronunciation: hʏksanɪtnar
       dative: hugsununum
       genitive: hugsananna
+      genitive_pronunciation: <span class="guessed">hʏksanana</span>
 id: 1172
 gender: feminine

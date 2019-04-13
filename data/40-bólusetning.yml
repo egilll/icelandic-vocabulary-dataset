@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: bólusetning
       nominative_translation: vaccination
-      nominative_sound: islex/422/422_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/422/422_38.mp3'
+      nominative_pronunciation: <span class="guessed">pouːlʏsɛhtniŋk</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bólusetningu
+      accusative_pronunciation: pouːlʏsɛhtniŋkʏ
       dative: bólusetningu
+      dative_pronunciation: pouːlʏsɛhtniŋkʏ
       genitive: bólusetningar
+      genitive_pronunciation: pouːlʏsɛhtniŋkar
     with article:
       nominative: bólusetningin
       nominative_translation: the vaccination
+      nominative_pronunciation: <span class="guessed">pouːlʏsɛhtniɲcɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bólusetninguna
+      accusative_pronunciation: <span class="guessed">pouːlʏsɛhtniŋkʏna</span>
       dative: bólusetningunni
+      dative_pronunciation: <span class="guessed">pouːlʏsɛhtniŋkʏnɪ</span>
       genitive: bólusetningarinnar
+      genitive_pronunciation: <span class="guessed">pouːlʏsɛhtniŋkarɪnar</span>
   plural:
     no article:
       nominative: bólusetningar
       nominative_translation: vaccinations
+      nominative_pronunciation: pouːlʏsɛhtniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bólusetningar
+      accusative_pronunciation: pouːlʏsɛhtniŋkar
       dative: bólusetningum
+      dative_pronunciation: <span class="guessed">pouːlʏsɛhtniŋkʏm</span>
       genitive: bólusetninga
+      genitive_pronunciation: <span class="guessed">pouːlʏsɛhtniŋkaː</span>
     with article:
       nominative: bólusetningarnar
       nominative_translation: the vaccinations
+      nominative_pronunciation: <span class="guessed">pouːlʏsɛhtniŋkatnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bólusetningarnar
+      accusative_pronunciation: <span class="guessed">pouːlʏsɛhtniŋkatnar</span>
       dative: bólusetningunum
       genitive: bólusetninganna
+      genitive_pronunciation: <span class="guessed">pouːlʏsɛhtniŋkana</span>
 id: 830
 gender: feminine

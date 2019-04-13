@@ -5,63 +5,77 @@ conjugation:
   active voice:
     infinitive: '[að] setja'
     infinitive_translation: to put
-    infinitive_sound: islex/434/434_52.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/434/434_52.mp3'
+    infinitive_pronunciation: sɛːtja
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] set'
           1st person_translation: I put
-          1st person_sound: islex/083/083_27.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/083/083_27.mp3'
+          1st person_pronunciation: sɛːt
           1st person_teach: true
           2nd person: '[þú] setur'
           2nd person_translation: you¹ put
-          2nd person_sound: islex/058/058_35.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/058/058_35.mp3'
+          2nd person_pronunciation: sɛːtʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] setur'
           3rd person_translation: he/she/it puts
-          3rd person_sound: islex/058/058_35.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/058/058_35.mp3'
+          3rd person_pronunciation: sɛːtʏr
           3rd person_teach: true
         plural:
           1st person: '[við] setjum'
           1st person_translation: we put
+          1st person_pronunciation: sɛːtjʏm
           1st person_teach: true
           2nd person: '[þið] setjið'
           2nd person_translation: you² put
+          2nd person_pronunciation: sɛːtjɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] setja'
           3rd person_translation: they put
-          3rd person_sound: islex/434/434_52.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/434/434_52.mp3'
+          3rd person_pronunciation: sɛːtja
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] setti'
           1st person_translation: I put
+          1st person_pronunciation: sɛhtɪ
           1st person_teach: true
           2nd person: '[þú] settir'
           2nd person_translation: you¹ put
+          2nd person_pronunciation: sɛhtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] setti'
           3rd person_translation: he/she/it put
+          3rd person_pronunciation: sɛhtɪ
           3rd person_teach: true
         plural:
           1st person: '[við] settum'
           1st person_translation: we put
+          1st person_pronunciation: sɛhtʏm
           1st person_teach: true
           2nd person: '[þið] settuð'
           2nd person_translation: you² put
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] settu'
           3rd person_translation: they put
+          3rd person_pronunciation: sɛhtʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] sett'
     active voice_translation: I have put
-    active voice_sound: islex/283/283_26.mp3
+    active voice_sound: 'https://media.egill.xyz/audio/islex/283/283_26.mp3'
+    active voice_pronunciation: sɛht
     active voice_teach: true
   imperative:
     active voice:
       singular: settu!
       singular_translation: put!¹
+      singular_pronunciation: sɛhtʏ
       singular_teach: true
 id: 2315

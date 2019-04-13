@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: minning
       nominative_translation: a memory
-      nominative_sound: islex/159/159_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/159/159_27.mp3'
+      nominative_pronunciation: mɪniŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: minningu
+      accusative_pronunciation: mɪniŋkʏ
       dative: minningu
+      dative_pronunciation: mɪniŋkʏ
       genitive: minningar
+      genitive_pronunciation: mɪniŋkar
     with article:
       nominative: minningin
       nominative_translation: the memory
+      nominative_pronunciation: mɪniɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: minninguna
+      accusative_pronunciation: mɪniŋkʏna
       dative: minningunni
+      dative_pronunciation: mɪniŋkʏnɪ
       genitive: minningarinnar
+      genitive_pronunciation: <span class="guessed">mɪniŋkarɪnar</span>
   plural:
     no article:
       nominative: minningar
       nominative_translation: memories
+      nominative_pronunciation: mɪniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: minningar
+      accusative_pronunciation: mɪniŋkar
       dative: minningum
+      dative_pronunciation: mɪniŋkʏm
       genitive: minninga
+      genitive_pronunciation: mɪniŋka
     with article:
       nominative: minningarnar
       nominative_translation: the memories
+      nominative_pronunciation: mɪniŋkartnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: minningarnar
+      accusative_pronunciation: mɪniŋkartnar
       dative: minningunum
+      dative_pronunciation: mɪniŋkɔnʏm
       genitive: minninganna
+      genitive_pronunciation: mɪniŋkana
 id: 1406
 gender: feminine

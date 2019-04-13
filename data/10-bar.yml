@@ -6,24 +6,30 @@ conjugation:
     no article:
       nominative: bar
       nominative_translation: a bar
-      nominative_sound: islex/191/191_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/191/191_08.mp3'
+      nominative_pronunciation: paːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bar
-      accusative_sound: islex/191/191_08.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/191/191_08.mp3'
+      accusative_pronunciation: paːr
       dative: bar
-      dative_sound: islex/191/191_08.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/191/191_08.mp3'
+      dative_pronunciation: paːr
       genitive: bars
     with article:
       nominative: barinn
       nominative_translation: the bar
-      nominative_sound: islex/001/001_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/001/001_37.mp3'
+      nominative_pronunciation: paːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: barinn
-      accusative_sound: islex/001/001_37.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/001/001_37.mp3'
+      accusative_pronunciation: paːrɪn
       dative: barnum
+      dative_pronunciation: partnʏm
       genitive: barsins
   plural:
     no article:
@@ -33,16 +39,22 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bari
+      accusative_pronunciation: paːrɪ
       dative: börum
+      dative_pronunciation: pœːrʏm
       genitive: bara
-      genitive_sound: islex/325/325_76.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/325/325_76.mp3'
+      genitive_pronunciation: paːra
     with article:
       nominative: barirnir
       nominative_translation: the bars
       nominative_teach: true
       nominative_teachtable: true
       accusative: barina
+      accusative_pronunciation: <span class="guessed">paːrɪnaː</span>
       dative: börunum
+      dative_pronunciation: pœːrɔnʏm
       genitive: baranna
+      genitive_pronunciation: <span class="guessed">paːrana</span>
 id: 771
 gender: masculine

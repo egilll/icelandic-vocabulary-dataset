@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] uppfæra'
     infinitive_translation: to upgrade
-    infinitive_sound: islex/241/241_75.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/241/241_75.mp3'
+    infinitive_pronunciation: ʏhpfaira
     infinitive_teach: true
 id: 2412

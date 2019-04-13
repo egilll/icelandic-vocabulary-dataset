@@ -5,61 +5,76 @@ conjugation:
   active voice:
     infinitive: '[að] gera'
     infinitive_translation: to do
-    infinitive_sound: islex/381/381_43.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/381/381_43.mp3'
+    infinitive_pronunciation: cɛːra
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] geri'
           1st person_translation: I do
+          1st person_pronunciation: cɛːrɪ
           1st person_teach: true
           2nd person: '[þú] gerir'
           2nd person_translation: you¹ do
+          2nd person_pronunciation: cɛːrɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] gerir'
           3rd person_translation: he/she/it does
+          3rd person_pronunciation: cɛːrɪr
           3rd person_teach: true
         plural:
           1st person: '[við] gerum'
           1st person_translation: we do
+          1st person_pronunciation: cɛːrʏm
           1st person_teach: true
           2nd person: '[þið] gerið'
           2nd person_translation: you² do
+          2nd person_pronunciation: cɛːrɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] gera'
           3rd person_translation: they do
-          3rd person_sound: islex/381/381_43.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/381/381_43.mp3'
+          3rd person_pronunciation: cɛːra
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] gerði'
           1st person_translation: I did
-          1st person_sound: islex/094/094_63.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/094/094_63.mp3'
+          1st person_pronunciation: cɛrðɪ
           1st person_teach: true
           2nd person: '[þú] gerðir'
           2nd person_translation: you¹ did
+          2nd person_pronunciation: cɛrðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] gerði'
           3rd person_translation: he/she/it did
-          3rd person_sound: islex/094/094_63.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/094/094_63.mp3'
+          3rd person_pronunciation: cɛrðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] gerðum'
           1st person_translation: we did
+          1st person_pronunciation: cɛrðʏm
           1st person_teach: true
           2nd person: '[þið] gerðuð'
           2nd person_translation: you² did
+          2nd person_pronunciation: cɛrðʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] gerðu'
           3rd person_translation: they did
+          3rd person_pronunciation: cɛrðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] gert'
     active voice_translation: I have done
+    active voice_pronunciation: cɛr̥t
     active voice_teach: true
   imperative:
     active voice:
       singular: gerðu!
       singular_translation: do!¹
+      singular_pronunciation: cɛrðʏ
       singular_teach: true
 id: 2121

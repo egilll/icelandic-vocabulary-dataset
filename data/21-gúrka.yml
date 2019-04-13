@@ -6,29 +6,36 @@ conjugation:
     no article:
       nominative: gúrka
       nominative_translation: a cucumber
-      nominative_sound: islex/397/397_53.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/397/397_53.mp3'
+      nominative_pronunciation: kur̥ka
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gúrku
+      accusative_pronunciation: kur̥kʏ
       dative: gúrku
+      dative_pronunciation: kur̥kʏ
       genitive: gúrku
+      genitive_pronunciation: kur̥kʏ
     with article:
       nominative: gúrkan
       nominative_translation: the cucumber
       nominative_teach: true
       nominative_teachtable: true
       accusative: gúrkuna
+      accusative_pronunciation: kur̥kʏna
       dative: gúrkunni
       genitive: gúrkunnar
   plural:
     no article:
       nominative: gúrkur
       nominative_translation: cucumbers
+      nominative_pronunciation: kur̥kʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gúrkur
+      accusative_pronunciation: kur̥kʏr
       dative: gúrkum
       genitive: gúrkna
       genitive_alternative:
@@ -40,6 +47,7 @@ conjugation:
       nominative_teachtable: true
       accusative: gúrkurnar
       dative: gúrkunum
+      dative_pronunciation: kur̥kʏnʏm
       genitive: gúrknanna
       genitive_alternative:
         - gúrkanna

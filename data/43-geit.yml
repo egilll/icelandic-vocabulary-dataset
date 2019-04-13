@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: geit
       nominative_translation: a goat
-      nominative_sound: islex/252/252_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/252/252_57.mp3'
+      nominative_pronunciation: ceiːt
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

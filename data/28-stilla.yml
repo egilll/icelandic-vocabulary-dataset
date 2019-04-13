@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] stilla'
     infinitive_translation: to adjust (a machine or instrument)
-    infinitive_sound: islex/283/283_10.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/283/283_10.mp3'
+    infinitive_pronunciation: stɪtla
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] stillti'
           1st person_translation: I adjusted (a machine or instrument)
+          1st person_pronunciation: stɪl̥tɪ
           1st person_teach: true
 id: 2378

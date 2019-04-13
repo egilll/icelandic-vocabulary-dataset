@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: skip
       nominative_translation: a ship
-      nominative_sound: islex/175/175_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/175/175_37.mp3'
+      nominative_pronunciation: scɪːp
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skip
-      accusative_sound: islex/175/175_37.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/175/175_37.mp3'
+      accusative_pronunciation: scɪːp
       dative: skipi
+      dative_pronunciation: scɪːpɪ
       genitive: skips
+      genitive_pronunciation: scɪps
     with article:
       nominative: skipið
       nominative_translation: the ship
+      nominative_pronunciation: scɪːpɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: skipið
+      accusative_pronunciation: scɪːpɪð
       dative: skipinu
+      dative_pronunciation: scɪːpɪnʏ
       genitive: skipsins
+      genitive_pronunciation: scɪpsɪns
 id: 1648
 gender: neuter
 recognizable: '1'

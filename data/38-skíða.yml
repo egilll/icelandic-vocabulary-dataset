@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] skíða'
     infinitive_translation: 'to ski, to go skiing'
-    infinitive_sound: islex/417/417_67.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/417/417_67.mp3'
+    infinitive_pronunciation: sciːða
     infinitive_teach: true
 id: 2333

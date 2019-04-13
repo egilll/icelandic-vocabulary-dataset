@@ -5,55 +5,67 @@ conjugation:
   active voice:
     infinitive: '[að] mæta'
     infinitive_translation: 'to show up, to arrive'
-    infinitive_sound: islex/194/194_72.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/194/194_72.mp3'
+    infinitive_pronunciation: maiːta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] mæti'
           1st person_translation: 'I show up, I arrive'
+          1st person_pronunciation: maiːtɪ
           1st person_teach: true
           2nd person: '[þú] mætir'
           2nd person_translation: 'you¹ show up, you¹ arrive'
+          2nd person_pronunciation: maiːtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] mætir'
           3rd person_translation: 'he/she/it shows up, he/she/it arrives'
+          3rd person_pronunciation: maiːtɪr
           3rd person_teach: true
         plural:
           1st person: '[við] mætum'
           1st person_translation: 'we show up, we arrive'
+          1st person_pronunciation: maiːtʏm
           1st person_teach: true
           2nd person: '[þið] mætið'
           2nd person_translation: 'you² show up, you² arrive'
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] mæta'
           3rd person_translation: 'they show up, they arrive'
-          3rd person_sound: islex/194/194_72.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/194/194_72.mp3'
+          3rd person_pronunciation: maiːta
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] mætti'
           1st person_translation: 'I showed up, I arrived'
+          1st person_pronunciation: maihtɪ
           1st person_teach: true
           2nd person: '[þú] mættir'
           2nd person_translation: 'you¹ showed up, you¹ arrived'
+          2nd person_pronunciation: maihtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] mætti'
           3rd person_translation: 'he/she/it showed up, he/she/it arrived'
+          3rd person_pronunciation: maihtɪ
           3rd person_teach: true
         plural:
           1st person: '[við] mættum'
           1st person_translation: 'we showed up, we arrived'
+          1st person_pronunciation: maihtʏm
           1st person_teach: true
           2nd person: '[þið] mættuð'
           2nd person_translation: 'you² showed up, you² arrived'
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] mættu'
           3rd person_translation: 'they showed up, they arrived'
+          3rd person_pronunciation: maihtʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] mætt'
     active voice_translation: 'I have shown, I have arrived'
+    active voice_pronunciation: maiht
     active voice_teach: true
 id: 2239
 teach_the_difference: hitta

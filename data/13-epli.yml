@@ -6,18 +6,23 @@ conjugation:
     no article:
       nominative: epli
       nominative_translation: an apple
-      nominative_sound: islex/176/176_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/176/176_20.mp3'
+      nominative_pronunciation: ɛhplɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: epli
-      accusative_sound: islex/176/176_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/176/176_20.mp3'
+      accusative_pronunciation: ɛhplɪ
       dative: epli
-      dative_sound: islex/176/176_20.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/176/176_20.mp3'
+      dative_pronunciation: ɛhplɪ
       genitive: eplis
+      genitive_pronunciation: ɛhplɪs
     with article:
       nominative: eplið
       nominative_translation: the apple
+      nominative_pronunciation: ɛhplɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 919

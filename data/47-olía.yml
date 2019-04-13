@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: olía
       nominative_translation: oil
-      nominative_sound: islex/298/298_40.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/298/298_40.mp3'
+      nominative_pronunciation: ɔːlija
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: olíu
+      accusative_pronunciation: ɔːlijʏ
       dative: olíu
+      dative_pronunciation: ɔːlijʏ
       genitive: olíu
+      genitive_pronunciation: ɔːlijʏ
     with article:
       nominative: olían
       nominative_translation: the oil
+      nominative_pronunciation: ɔːlijan
       nominative_teach: true
       nominative_teachtable: true
       accusative: olíuna
+      accusative_pronunciation: ɔːlijʏna
       dative: olíunni
+      dative_pronunciation: ɔːlijʏnɪ
       genitive: olíunnar
 id: 1467
 gender: feminine

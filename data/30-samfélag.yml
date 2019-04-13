@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: samfélag
       nominative_translation: a society
-      nominative_sound: islex/440/440_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/440/440_19.mp3'
+      nominative_pronunciation: samfjɛlaɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: samfélag
-      accusative_sound: islex/440/440_19.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/440/440_19.mp3'
+      accusative_pronunciation: samfjɛlaɣ
       dative: samfélagi
+      dative_pronunciation: samfjɛlaijɪ
       genitive: samfélags
+      genitive_pronunciation: samfjɛlaxs
     with article:
       nominative: samfélagið
       nominative_translation: the society
+      nominative_pronunciation: samfjɛlaijɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: samfélagið
+      accusative_pronunciation: samfjɛlaijɪð
       dative: samfélaginu
+      dative_pronunciation: samfjɛlaijɪnʏ
       genitive: samfélagsins
+      genitive_pronunciation: samfjɛlaxsɪns
 id: 1591
 gender: neuter

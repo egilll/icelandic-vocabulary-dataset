@@ -6,19 +6,22 @@ conjugation:
     no article:
       nominative: smábarn
       nominative_translation: 'an infant, a toddler'
-      nominative_sound: islex/098/098_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/098/098_22.mp3'
+      nominative_pronunciation: smauːpartn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: smábarnið
       nominative_translation: 'the infant, the toddler'
+      nominative_pronunciation: smauːpartnɪð
       nominative_teach: true
       nominative_teachtable: false
   plural:
     no article:
       nominative: smábörn
       nominative_translation: 'infants, toddlers'
+      nominative_pronunciation: smauːpœrtn̥
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

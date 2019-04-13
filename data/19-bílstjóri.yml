@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: bílstjóri
       nominative_translation: a driver
-      nominative_sound: islex/234/234_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/234/234_24.mp3'
+      nominative_pronunciation: pilstjourɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bílstjóra
+      accusative_pronunciation: pilstjoura
       dative: bílstjóra
+      dative_pronunciation: pilstjoura
       genitive: bílstjóra
+      genitive_pronunciation: pilstjoura
     with article:
       nominative: bílstjórinn
       nominative_translation: the driver
+      nominative_pronunciation: pilstjourɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bílstjórann
+      accusative_pronunciation: pilstjouran
       dative: bílstjóranum
+      dative_pronunciation: pilstjouranʏm
       genitive: bílstjórans
+      genitive_pronunciation: pilstjourans
 id: 797
 gender: masculine

@@ -6,33 +6,41 @@ conjugation:
     no article:
       nominative: ský
       nominative_translation: a cloud
-      nominative_sound: islex/332/332_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/332/332_18.mp3'
+      nominative_pronunciation: sciː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ský
-      accusative_sound: islex/332/332_18.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/332/332_18.mp3'
+      accusative_pronunciation: sciː
       dative: skýi
+      dative_pronunciation: <span class="guessed">sciːɪː</span>
       genitive: skýs
     with article:
       nominative: skýið
       nominative_translation: the cloud
+      nominative_pronunciation: <span class="guessed">sciːɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: skýið
+      accusative_pronunciation: <span class="guessed">sciːɪːð</span>
       dative: skýinu
+      dative_pronunciation: sciːjɪnʏ
       genitive: skýsins
   plural:
     no article:
       nominative: ský
       nominative_translation: clouds
-      nominative_sound: islex/332/332_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/332/332_18.mp3'
+      nominative_pronunciation: sciː
       nominative_teach: false
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: skýin
       nominative_translation: the clouds
+      nominative_pronunciation: sciːjɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1668

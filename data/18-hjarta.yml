@@ -6,24 +6,32 @@ conjugation:
     no article:
       nominative: hjarta
       nominative_translation: a heart
-      nominative_sound: islex/029/029_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/029/029_30.mp3'
+      nominative_pronunciation: çar̥ta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hjarta
-      accusative_sound: islex/029/029_30.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/029/029_30.mp3'
+      accusative_pronunciation: çar̥ta
       dative: hjarta
-      dative_sound: islex/029/029_30.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/029/029_30.mp3'
+      dative_pronunciation: çar̥ta
       genitive: hjarta
-      genitive_sound: islex/029/029_30.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/029/029_30.mp3'
+      genitive_pronunciation: çar̥ta
     with article:
       nominative: hjartað
       nominative_translation: the heart
+      nominative_pronunciation: çar̥tað
       nominative_teach: true
       nominative_teachtable: true
       accusative: hjartað
+      accusative_pronunciation: çar̥tað
       dative: hjartanu
+      dative_pronunciation: çar̥tanʏ
       genitive: hjartans
-      genitive_sound: islex/436/436_10.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/436/436_10.mp3'
+      genitive_pronunciation: çar̥tans
 id: 1125
 gender: neuter

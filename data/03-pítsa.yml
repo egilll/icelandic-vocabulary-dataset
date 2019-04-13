@@ -6,12 +6,16 @@ conjugation:
     no article:
       nominative: pítsa
       nominative_translation: pizza
+      nominative_pronunciation: pʰitsa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: pítsu
+      accusative_pronunciation: pʰitsʏ
       dative: pítsu
+      dative_pronunciation: pʰitsʏ
       genitive: pítsu
+      genitive_pronunciation: pʰitsʏ
     with article:
       nominative: pítsan
       nominative_translation: the pizza
@@ -30,6 +34,7 @@ conjugation:
       accusative: pítsur
       dative: pítsum
       genitive: pítsa
+      genitive_pronunciation: pʰitsa
     with article:
       nominative: pítsurnar
       nominative_translation: the pizzas

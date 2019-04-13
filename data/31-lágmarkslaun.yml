@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: lágmarkslaun
       nominative_translation: minimum wages
-      nominative_sound: islex/063/063_56.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/063/063_56.mp3'
+      nominative_pronunciation: lauːmar̥kstlœiːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: lágmarkslaunin
       nominative_translation: the minimum wages
+      nominative_pronunciation: <span class="guessed">lauːmar̥kslœiːnɪn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1289

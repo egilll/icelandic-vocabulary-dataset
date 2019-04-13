@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: strigaskór
       nominative_translation: sneakers
-      nominative_sound: islex/360/360_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/360/360_20.mp3'
+      nominative_pronunciation: <span class="guessed">strɪːɣaskouːr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: strigaskó
+      accusative_pronunciation: <span class="guessed">strɪːɣaskouː</span>
       dative: strigaskóm
+      dative_pronunciation: <span class="guessed">strɪːɣaskouːm</span>
       genitive: strigaskóa
+      genitive_pronunciation: <span class="guessed">strɪːɣaskouːaː</span>
     with article:
       nominative: strigaskórnir
       nominative_translation: the sneakers
+      nominative_pronunciation: <span class="guessed">strɪːɣaskourtnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: strigaskóna
+      accusative_pronunciation: <span class="guessed">strɪːɣaskouna</span>
       dative: strigaskónum
+      dative_pronunciation: <span class="guessed">strɪːɣaskouːnʏm</span>
       genitive: strigaskónna
 id: 1760
 gender: masculine

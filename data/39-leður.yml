@@ -6,20 +6,25 @@ conjugation:
     no article:
       nominative: leður
       nominative_translation: leather
-      nominative_sound: islex/336/336_95.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/336/336_95.mp3'
+      nominative_pronunciation: lɛːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leður
-      accusative_sound: islex/336/336_95.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/336/336_95.mp3'
+      accusative_pronunciation: lɛːðʏr
       dative: leðri
+      dative_pronunciation: lɛðrɪ
       genitive: leðurs
     with article:
       nominative: leðrið
       nominative_translation: the leather
+      nominative_pronunciation: lɛðrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: leðrið
+      accusative_pronunciation: lɛðrɪð
       dative: leðrinu
       genitive: leðursins
 id: 1304

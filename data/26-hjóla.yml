@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] hjóla'
     infinitive_translation: to bike
-    infinitive_sound: islex/354/354_48.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/354/354_48.mp3'
+    infinitive_pronunciation: çouːla
     infinitive_teach: true
 id: 1971

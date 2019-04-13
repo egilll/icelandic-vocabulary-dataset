@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: magi
       nominative_translation: 'a stomach, a belly'
-      nominative_sound: islex/304/304_55.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/304/304_55.mp3'
+      nominative_pronunciation: maːjɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: maga
+      accusative_pronunciation: maːɣa
       dative: maga
+      dative_pronunciation: maːɣa
       genitive: maga
+      genitive_pronunciation: maːɣa
     with article:
       nominative: maginn
       nominative_translation: 'the stomach, the belly'
+      nominative_pronunciation: maːjɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: magann
+      accusative_pronunciation: maːɣan
       dative: maganum
+      dative_pronunciation: maːɣanʏm
       genitive: magans
 id: 1370
 gender: masculine

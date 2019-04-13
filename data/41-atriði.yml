@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: atriði
       nominative_translation: 'an item, a point; a scene'
-      nominative_sound: islex/433/433_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/433/433_58.mp3'
+      nominative_pronunciation: aːtrɪðɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: atriðið
       nominative_translation: 'the item, the point; the scene'
+      nominative_pronunciation: aːtrɪðɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 744

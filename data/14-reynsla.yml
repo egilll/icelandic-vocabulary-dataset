@@ -6,12 +6,16 @@ conjugation:
     no article:
       nominative: reynsla
       nominative_translation: experience
-      nominative_sound: islex/295/295_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/295/295_66.mp3'
+      nominative_pronunciation: reinstla
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: reynslu
+      accusative_pronunciation: reinstlʏ
       dative: reynslu
+      dative_pronunciation: reinstlʏ
       genitive: reynslu
+      genitive_pronunciation: reinstlʏ
 id: 1558
 gender: feminine

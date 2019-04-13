@@ -6,10 +6,14 @@ conjugation:
     with article:
       nominative: tunglið
       nominative_translation: the moon
+      nominative_pronunciation: tʰuŋlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: tunglið
+      accusative_pronunciation: tʰuŋlɪð
       dative: tunglinu
+      dative_pronunciation: tʰuŋlɪnʏ
       genitive: tunglsins
+      genitive_pronunciation: tʰuŋlsɪns
 id: 1856
 gender: neuter

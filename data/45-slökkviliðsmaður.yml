@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: slökkviliðsmaður
       nominative_translation: a firefighter
-      nominative_sound: islex/167/167_93.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/167/167_93.mp3'
+      nominative_pronunciation: <span class="guessed">stlœhkvɪlɪðsmaːðʏr</span>
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

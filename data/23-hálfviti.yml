@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: hálfviti
       nominative_translation: moron
-      nominative_sound: islex/165/165_84.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/165/165_84.mp3'
+      nominative_pronunciation: haulvɪtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hálfvita
+      accusative_pronunciation: haulvɪta
       dative: hálfvita
+      dative_pronunciation: haulvɪta
       genitive: hálfvita
+      genitive_pronunciation: haulvɪta
     with article:
       nominative: hálfvitinn
       nominative_translation: the moron
+      nominative_pronunciation: haulvɪtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hálfvitann
+      accusative_pronunciation: <span class="guessed">haulvvɪːtan</span>
       dative: hálfvitanum
+      dative_pronunciation: <span class="guessed">haulvvɪːtanʏm</span>
       genitive: hálfvitans
   plural:
     no article:
       nominative: hálfvitar
       nominative_translation: morons
+      nominative_pronunciation: haulvɪtar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hálfvita
+      accusative_pronunciation: haulvɪta
       dative: hálfvitum
+      dative_pronunciation: <span class="guessed">haulvvɪːtʏm</span>
       genitive: hálfvita
+      genitive_pronunciation: haulvɪta
     with article:
       nominative: hálfvitarnir
       nominative_translation: the morons
       nominative_teach: true
       nominative_teachtable: true
       accusative: hálfvitana
+      accusative_pronunciation: <span class="guessed">haulvvɪːtaːna</span>
       dative: hálfvitunum
+      dative_pronunciation: <span class="guessed">haulvvɪːtɔnʏm</span>
       genitive: hálfvitanna
+      genitive_pronunciation: <span class="guessed">haulvvɪːtana</span>
 id: 1079
 gender: masculine

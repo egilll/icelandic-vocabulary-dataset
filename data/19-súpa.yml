@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: súpa
       nominative_translation: soup
-      nominative_sound: islex/118/118_68.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/118/118_68.mp3'
+      nominative_pronunciation: suːpa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: súpu
+      accusative_pronunciation: suːpʏ
       dative: súpu
+      dative_pronunciation: suːpʏ
       genitive: súpu
+      genitive_pronunciation: suːpʏ
     with article:
       nominative: súpan
       nominative_translation: the soup
       nominative_teach: true
       nominative_teachtable: true
       accusative: súpuna
+      accusative_pronunciation: suːpʏna
       dative: súpunni
+      dative_pronunciation: suːpʏnɪ
       genitive: súpunnar
 id: 1782
 gender: feminine

@@ -6,36 +6,48 @@ conjugation:
     no article:
       nominative: sonur
       nominative_translation: son
-      nominative_sound: islex/351/351_53.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/351/351_53.mp3'
+      nominative_pronunciation: sɔːnʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: son
+      accusative_pronunciation: sɔːn
       dative: syni
+      dative_pronunciation: sɪːnɪ
       genitive: sonar
+      genitive_pronunciation: sɔːnar
     with article:
       nominative: sonurinn
       nominative_translation: the son
+      nominative_pronunciation: sɔːnʏrɪn
       nominative_teach: true
       nominative_teachtable: false
   plural:
     no article:
       nominative: synir
       nominative_translation: sons
+      nominative_pronunciation: sɪːnɪr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: syni
+      accusative_pronunciation: sɪːnɪ
       dative: sonum
+      dative_pronunciation: sɔːnʏm
       genitive: sona
-      genitive_sound: islex/161/161_37.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/161/161_37.mp3'
+      genitive_pronunciation: sɔːna
     with article:
       nominative: synirnir
       nominative_translation: the sons
+      nominative_pronunciation: sɪːnɪrtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: synina
+      accusative_pronunciation: sɪːnɪna
       dative: sonunum
       genitive: sonanna
+      genitive_pronunciation: <span class="guessed">sɔːnana</span>
 id: 1715
 gender: masculine

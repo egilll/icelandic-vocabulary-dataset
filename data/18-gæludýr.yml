@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: gæludýr
       nominative_translation: a pet
-      nominative_sound: islex/280/280_56.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/280/280_56.mp3'
+      nominative_pronunciation: caiːlʏtiːr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

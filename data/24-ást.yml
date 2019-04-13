@@ -6,17 +6,22 @@ conjugation:
     no article:
       nominative: ást
       nominative_translation: a love
-      nominative_sound: islex/446/446_32.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/446/446_32.mp3'
+      nominative_pronunciation: aust
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: ástin
       nominative_translation: the love
+      nominative_pronunciation: austɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ástina
+      accusative_pronunciation: austɪna
       dative: ástinni
+      dative_pronunciation: austɪnɪ
       genitive: ástarinnar
+      genitive_pronunciation: austarɪnar
 id: 740
 gender: feminine

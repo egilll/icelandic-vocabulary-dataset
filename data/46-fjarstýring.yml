@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: fjarstýring
       nominative_translation: a remote control
-      nominative_sound: islex/263/263_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/263/263_23.mp3'
+      nominative_pronunciation: fjar̥stiriŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fjarstýringu
+      accusative_pronunciation: fjar̥stiriŋkʏ
       dative: fjarstýringu
+      dative_pronunciation: fjar̥stiriŋkʏ
       genitive: fjarstýringar
     with article:
       nominative: fjarstýringin
       nominative_translation: the remote control
+      nominative_pronunciation: fjar̥stiriɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjarstýringuna
+      accusative_pronunciation: fjar̥stiriŋkʏna
       dative: fjarstýringunni
+      dative_pronunciation: fjar̥stiriŋkʏnɪ
       genitive: fjarstýringarinnar
 id: 950
 gender: feminine

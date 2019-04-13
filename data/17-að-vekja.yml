@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] vekja'
     infinitive_translation: to wake (someone) up
-    infinitive_sound: islex/066/066_73.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/066/066_73.mp3'
+    infinitive_pronunciation: vɛːca
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] vakti'
           1st person_translation: I woke (someone) up
+          1st person_pronunciation: vaxðɪ
           1st person_teach: true
 id: 2002

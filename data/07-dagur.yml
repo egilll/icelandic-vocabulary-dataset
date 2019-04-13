@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: dagur
       nominative_translation: a day
-      nominative_sound: islex/007/007_49.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/007/007_49.mp3'
+      nominative_pronunciation: taːɣʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dag
+      accusative_pronunciation: taːɣ
       dative: degi
+      dative_pronunciation: teiːjɪ
       genitive: dags
+      genitive_pronunciation: taxs
     with article:
       nominative: dagurinn
       nominative_translation: the day
+      nominative_pronunciation: taːɣʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: daginn
+      accusative_pronunciation: taːjɪn
       dative: deginum
+      dative_pronunciation: teijɪnʏm
       genitive: dagsins
+      genitive_pronunciation: taxsɪns
   plural:
     no article:
       nominative: dagar
       nominative_translation: days
+      nominative_pronunciation: taːɣar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: daga
-      accusative_sound: islex/188/188_56.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/188/188_56.mp3'
+      accusative_pronunciation: taːɣa
       dative: dögum
+      dative_pronunciation: tœːɣʏm
       genitive: daga
-      genitive_sound: islex/188/188_56.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/188/188_56.mp3'
+      genitive_pronunciation: taːɣa
     with article:
       nominative: dagarnir
       nominative_translation: the days
+      nominative_pronunciation: taːɣatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: dagana
+      accusative_pronunciation: taːɣana
       dative: dögunum
+      dative_pronunciation: tœːɣɔnʏm
       genitive: daganna
+      genitive_pronunciation: taːɣana
 id: 864
 gender: masculine

@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: miðja
       nominative_translation: middle
-      nominative_sound: islex/121/121_80.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/121/121_80.mp3'
+      nominative_pronunciation: mɪðja
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: miðju
+      accusative_pronunciation: mɪðjʏ
       dative: miðju
+      dative_pronunciation: mɪðjʏ
       genitive: miðju
+      genitive_pronunciation: mɪðjʏ
     with article:
       nominative: miðjan
       nominative_translation: the middle
+      nominative_pronunciation: mɪðjan
       nominative_teach: true
       nominative_teachtable: true
       accusative: miðjuna
+      accusative_pronunciation: mɪðjʏna
       dative: miðjunni
+      dative_pronunciation: mɪðjʏnɪ
       genitive: miðjunnar
 id: 1403
 gender: feminine

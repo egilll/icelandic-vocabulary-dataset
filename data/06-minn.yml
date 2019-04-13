@@ -1,5 +1,7 @@
 word: minn
 word_translation: mine
+word_sound: 'https://media.egill.xyz/audio/islex/188/188_20.mp3'
+word_pronunciation: mɪn
 word_teach: true
 level: 6
 grammatical_category: pronoun

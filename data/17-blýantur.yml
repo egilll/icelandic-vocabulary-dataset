@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: blýantur
       nominative_translation: a pencil
-      nominative_sound: islex/388/388_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/388/388_59.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blýant
+      accusative_pronunciation: pliːjan̥t
       dative: blýanti
+      dative_pronunciation: pliːjan̥tɪ
       genitive: blýants
     with article:
       nominative: blýanturinn
@@ -19,25 +21,32 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: blýantinn
+      accusative_pronunciation: pliːjan̥tɪn
       dative: blýantinum
+      dative_pronunciation: pliːjan̥tɪnʏm
       genitive: blýantsins
   plural:
     no article:
       nominative: blýantar
       nominative_translation: pencils
+      nominative_pronunciation: pliːjan̥tar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blýanta
+      accusative_pronunciation: <span class="guessed">pliːjan̥taː</span>
       dative: blýöntum
       genitive: blýanta
+      genitive_pronunciation: <span class="guessed">pliːjan̥taː</span>
     with article:
       nominative: blýantarnir
       nominative_translation: the pencils
       nominative_teach: true
       nominative_teachtable: true
       accusative: blýantana
+      accusative_pronunciation: pliːjan̥tana
       dative: blýöntunum
       genitive: blýantanna
+      genitive_pronunciation: <span class="guessed">pliːjan̥tana</span>
 id: 821
 gender: masculine

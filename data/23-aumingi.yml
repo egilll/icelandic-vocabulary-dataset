@@ -6,36 +6,45 @@ conjugation:
     no article:
       nominative: aumingi
       nominative_translation: a loser; a weakling
-      nominative_sound: islex/284/284_74.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/284/284_74.mp3'
+      nominative_pronunciation: œiːmiɲcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: aumingja
-      accusative_sound: islex/144/144_74.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/144/144_74.mp3'
+      accusative_pronunciation: œiːmiɲca
       dative: aumingja
-      dative_sound: islex/144/144_74.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/144/144_74.mp3'
+      dative_pronunciation: œiːmiɲca
       genitive: aumingja
-      genitive_sound: islex/144/144_74.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/144/144_74.mp3'
+      genitive_pronunciation: œiːmiɲca
     with article:
       nominative: auminginn
       nominative_translation: the loser
+      nominative_pronunciation: œiːmiɲcɪn
       nominative_teach: false
       nominative_teachtable: false
   plural:
     no article:
       nominative: aumingjar
       nominative_translation: losers; weaklings
+      nominative_pronunciation: œiːmiɲcar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: aumingja
-      accusative_sound: islex/144/144_74.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/144/144_74.mp3'
+      accusative_pronunciation: œiːmiɲca
       dative: aumingjum
       genitive: aumingja
-      genitive_sound: islex/144/144_74.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/144/144_74.mp3'
+      genitive_pronunciation: œiːmiɲca
     with article:
       nominative: aumingjarnir
       nominative_translation: the losers
+      nominative_pronunciation: œiːmiɲcatnɪr
       nominative_teach: false
       nominative_teachtable: false
 id: 753

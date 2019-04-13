@@ -6,6 +6,7 @@ conjugation:
     with article:
       nominative: afritið
       nominative_translation: the copy; the receipt
+      nominative_pronunciation: avrɪtɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 703

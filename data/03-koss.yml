@@ -6,41 +6,54 @@ conjugation:
     no article:
       nominative: koss
       nominative_translation: a kiss
-      nominative_sound: islex/462/462_15.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/462/462_15.mp3'
+      nominative_pronunciation: kʰɔs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: koss
-      accusative_sound: islex/462/462_15.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/462/462_15.mp3'
+      accusative_pronunciation: kʰɔs
       dative: kossi
+      dative_pronunciation: kʰɔsɪ
       genitive: koss
-      genitive_sound: islex/462/462_15.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/462/462_15.mp3'
+      genitive_pronunciation: kʰɔs
     with article:
       nominative: kossinn
       nominative_translation: the kiss
+      nominative_pronunciation: kʰɔsɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: kossinn
+      accusative_pronunciation: kʰɔsɪn
       dative: kossinum
+      dative_pronunciation: kʰɔsɪnʏm
       genitive: kossins
   plural:
     no article:
       nominative: kossar
       nominative_translation: kisses
+      nominative_pronunciation: kʰɔsar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kossa
+      accusative_pronunciation: kʰɔsa
       dative: kossum
+      dative_pronunciation: kʰɔsʏm
       genitive: kossa
+      genitive_pronunciation: kʰɔsa
     with article:
       nominative: kossarnir
       nominative_translation: the kisses
       nominative_teach: true
       nominative_teachtable: true
       accusative: kossana
+      accusative_pronunciation: kʰɔsana
       dative: kossunum
       genitive: kossanna
+      genitive_pronunciation: <span class="guessed">kʰɔsana</span>
 id: 1265
 gender: masculine
 recognizable: '1'

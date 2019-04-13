@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: dalur
       nominative_translation: a valley
-      nominative_sound: islex/274/274_34.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/274/274_34.mp3'
+      nominative_pronunciation: taːlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dal
+      accusative_pronunciation: taːl
       dative: dal
+      dative_pronunciation: taːl
       genitive: dals
     with article:
       nominative: dalurinn
       nominative_translation: the valley
+      nominative_pronunciation: taːlʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: dalinn
+      accusative_pronunciation: taːlɪn
       dative: dalnum
+      dative_pronunciation: talnʏm
       genitive: dalsins
+      genitive_pronunciation: talsɪns
 id: 865
 gender: masculine

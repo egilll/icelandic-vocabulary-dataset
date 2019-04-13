@@ -5,13 +5,15 @@ conjugation:
   active voice:
     infinitive: '[að] baka'
     infinitive_translation: to bake
-    infinitive_sound: islex/145/145_08.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/145/145_08.mp3'
+    infinitive_pronunciation: paːka
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] bakaði'
           1st person_translation: I baked
+          1st person_pronunciation: paːkaðɪ
           1st person_teach: true
         plural:
           1st person: '[við] bökuðum'

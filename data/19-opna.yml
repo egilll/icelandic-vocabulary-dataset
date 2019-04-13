@@ -5,39 +5,47 @@ conjugation:
   active voice:
     infinitive: '[að] opna'
     infinitive_translation: to open
-    infinitive_sound: islex/011/011_66.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/011/011_66.mp3'
+    infinitive_pronunciation: ɔhpna
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] opna'
           1st person_translation: I open
-          1st person_sound: islex/011/011_66.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/011/011_66.mp3'
+          1st person_pronunciation: ɔhpna
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] opnaði'
           1st person_translation: I opened
+          1st person_pronunciation: ɔhpnaðɪ
           1st person_teach: true
           2nd person: '[þú] opnaðir'
           2nd person_translation: you¹ opened
+          2nd person_pronunciation: ɔhpnaðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] opnaði'
           3rd person_translation: he/she/it opened
+          3rd person_pronunciation: ɔhpnaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] opnuðum'
           1st person_translation: we opened
+          1st person_pronunciation: ɔhpnʏðʏm
           1st person_teach: true
           2nd person: '[þið] opnuðuð'
           2nd person_translation: you² opened
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] opnuðu'
           3rd person_translation: they opened
+          3rd person_pronunciation: ɔhpnʏðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] opnað'
     active voice_translation: I have opened
+    active voice_pronunciation: ɔhpnað
     active voice_teach: true
   imperative:
     active voice:
@@ -46,5 +54,6 @@ conjugation:
       singular_teach: true
       plural: opnið!
       plural_translation: open!²
+      plural_pronunciation: ɔhpnɪð
       plural_teach: true
 id: 2265

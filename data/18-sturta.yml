@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: sturta
       nominative_translation: a shower
-      nominative_sound: islex/009/009_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/009/009_69.mp3'
+      nominative_pronunciation: stʏr̥ta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sturtu
+      accusative_pronunciation: stʏr̥tʏ
       dative: sturtu
+      dative_pronunciation: stʏr̥tʏ
       genitive: sturtu
+      genitive_pronunciation: stʏr̥tʏ
     with article:
       nominative: sturtan
       nominative_translation: the shower
+      nominative_pronunciation: stʏr̥tan
       nominative_teach: true
       nominative_teachtable: true
       accusative: sturtuna
+      accusative_pronunciation: stʏr̥tʏna
       dative: sturtunni
+      dative_pronunciation: stʏr̥tʏnɪ
       genitive: sturtunnar
 id: 1767
 gender: feminine

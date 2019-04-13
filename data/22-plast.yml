@@ -6,17 +6,21 @@ conjugation:
     no article:
       nominative: plast
       nominative_translation: plastic
-      nominative_sound: islex/264/264_47.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/264/264_47.mp3'
+      nominative_pronunciation: pʰlast
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: plast
-      accusative_sound: islex/264/264_47.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/264/264_47.mp3'
+      accusative_pronunciation: pʰlast
       dative: plasti
+      dative_pronunciation: pʰlastɪ
       genitive: plasts
     with article:
       nominative: plastið
       nominative_translation: the plastic
+      nominative_pronunciation: pʰlastɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1511

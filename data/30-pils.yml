@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: pils
       nominative_translation: a skirt
-      nominative_sound: islex/180/180_83.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/180/180_83.mp3'
+      nominative_pronunciation: pʰɪls
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: pilsið
       nominative_translation: the skirt
+      nominative_pronunciation: pʰɪlsɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1500

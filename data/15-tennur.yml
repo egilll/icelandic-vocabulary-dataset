@@ -6,19 +6,22 @@ conjugation:
     no article:
       nominative: tönn
       nominative_translation: a tooth
-      nominative_sound: islex/456/456_28.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/456/456_28.mp3'
+      nominative_pronunciation: tʰœn
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false
     with article:
       nominative: tönnin
       nominative_translation: the tooth
+      nominative_pronunciation: tʰœnɪn
       nominative_teach: true
       nominative_teachtable: false
   plural:
     no article:
       nominative: tennur
       nominative_translation: teeth
+      nominative_pronunciation: tʰɛnʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -26,24 +29,31 @@ conjugation:
         - tannir
         - tönnur
       accusative: tennur
+      accusative_pronunciation: tʰɛnʏr
       accusative_alternative:
         - tannir
         - tönnur
       dative: tönnum
+      dative_pronunciation: tʰœnʏm
       genitive: tanna
+      genitive_pronunciation: tʰana
     with article:
       nominative: tennurnar
       nominative_translation: the teeth
+      nominative_pronunciation: tʰɛnʏtnar
       nominative_teach: true
       nominative_teachtable: true
       nominative_alternative:
         - tannirnar
         - tönnurnar
       accusative: tennurnar
+      accusative_pronunciation: tʰɛnʏtnar
       accusative_alternative:
         - tannirnar
         - tönnurnar
       dative: tönnunum
+      dative_pronunciation: tʰœnɔnʏm
       genitive: tannanna
+      genitive_pronunciation: tʰanana
 id: 1848
 gender: feminine

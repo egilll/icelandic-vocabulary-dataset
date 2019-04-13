@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: einkunn
       nominative_translation: a grade (on an exam)
-      nominative_sound: islex/221/221_55.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/221/221_55.mp3'
+      nominative_pronunciation: eiŋ̊kʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
@@ -19,12 +20,14 @@ conjugation:
     no article:
       nominative: einkunnir
       nominative_translation: grades (on exams)
+      nominative_pronunciation: eiŋ̊kʏnɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: einkunnirnar
       nominative_translation: the grades
+      nominative_pronunciation: ɛjŋ̥kʏnɪtnar
       nominative_teach: false
       nominative_teachtable: false
 id: 904

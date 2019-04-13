@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: svar
       nominative_translation: answer
-      nominative_sound: islex/480/480_98.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/480/480_98.mp3'
+      nominative_pronunciation: svaːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: svar
-      accusative_sound: islex/480/480_98.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/480/480_98.mp3'
+      accusative_pronunciation: svaːr
       dative: svari
+      dative_pronunciation: svaːrɪ
       genitive: svars
+      genitive_pronunciation: svar̥s
     with article:
       nominative: svarið
       nominative_translation: the answer
+      nominative_pronunciation: svaːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: svarið
+      accusative_pronunciation: svaːrɪð
       dative: svarinu
+      dative_pronunciation: svaːrɪnʏ
       genitive: svarsins
   plural:
     no article:
       nominative: svör
       nominative_translation: answers
+      nominative_pronunciation: svœːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: svör
+      accusative_pronunciation: svœːr
       dative: svörum
+      dative_pronunciation: svœːrʏm
       genitive: svara
-      genitive_sound: islex/188/188_02.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/188/188_02.mp3'
+      genitive_pronunciation: svaːra
     with article:
       nominative: svörin
       nominative_translation: the answers
+      nominative_pronunciation: svœːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: svörin
+      accusative_pronunciation: svœːrɪn
       dative: svörunum
+      dative_pronunciation: svœːrɔnʏm
       genitive: svaranna
+      genitive_pronunciation: <span class="guessed">svaːrana</span>
 id: 1786
 gender: neuter

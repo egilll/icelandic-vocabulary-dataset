@@ -5,57 +5,69 @@ conjugation:
   active voice:
     infinitive: '[að] hverfa'
     infinitive_translation: to disappear
-    infinitive_sound: islex/226/226_98.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/226/226_98.mp3'
+    infinitive_pronunciation: kʰvɛrva
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] hverf'
           1st person_translation: I disappear
+          1st person_pronunciation: kʰvɛrv
           1st person_teach: true
           2nd person: '[þú] hverfur'
           2nd person_translation: you¹ disappear
+          2nd person_pronunciation: kʰvɛrvʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] hverfur'
           3rd person_translation: he/she/it disappears
+          3rd person_pronunciation: kʰvɛrvʏr
           3rd person_teach: true
         plural:
           1st person: '[við] hverfum'
           1st person_translation: we disappear
+          1st person_pronunciation: kʰvɛrvʏm
           1st person_teach: true
           2nd person: '[þið] hverfið'
           2nd person_translation: you² disappear
+          2nd person_pronunciation: kʰvɛrvɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hverfa'
           3rd person_translation: they disappear
-          3rd person_sound: islex/226/226_98.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/226/226_98.mp3'
+          3rd person_pronunciation: kʰvɛrva
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] hvarf'
           1st person_translation: I disappeared
-          1st person_sound: islex/319/319_04.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/319/319_04.mp3'
+          1st person_pronunciation: kʰvarv
           1st person_teach: true
           2nd person: '[þú] hvarfst'
           2nd person_translation: you¹ disappeared
           2nd person_teach: true
           3rd person: '[hann/hún/það] hvarf'
           3rd person_translation: he/she/it disappeared
-          3rd person_sound: islex/319/319_04.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/319/319_04.mp3'
+          3rd person_pronunciation: kʰvarv
           3rd person_teach: true
         plural:
           1st person: '[við] hurfum'
           1st person_translation: we disappeared
+          1st person_pronunciation: hʏrvʏm
           1st person_teach: true
           2nd person: '[þið] hurfuð'
           2nd person_translation: you² disappeared
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hurfu'
           3rd person_translation: they disappeared
+          3rd person_pronunciation: hʏrvʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] horfið'
     active voice_translation: I have disappeared
+    active voice_pronunciation: hɔrvɪð
     active voice_teach: true
 id: 2170
 strong_verb_declension: true

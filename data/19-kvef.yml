@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: kvef
       nominative_translation: a cold (viral infection)
-      nominative_sound: islex/415/415_16.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/415/415_16.mp3'
+      nominative_pronunciation: kʰvɛːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kvef
-      accusative_sound: islex/415/415_16.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/415/415_16.mp3'
+      accusative_pronunciation: kʰvɛːv
       dative: kvefi
+      dative_pronunciation: <span class="guessed">kʰvɛːvɪː</span>
       genitive: kvefs
     with article:
       nominative: kvefið
       nominative_translation: the cold (viral infection)
+      nominative_pronunciation: <span class="guessed">kʰvɛːvɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: kvefið
+      accusative_pronunciation: <span class="guessed">kʰvɛːvɪːð</span>
       dative: kvefinu
+      dative_pronunciation: kʰvɛːvɪnʏ
       genitive: kvefsins
 id: 1276
 gender: neuter

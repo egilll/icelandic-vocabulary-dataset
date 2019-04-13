@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: nammi
       nominative_translation: candy
-      nominative_sound: islex/071/071_07.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/071/071_07.mp3'
+      nominative_pronunciation: namɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nammi
-      accusative_sound: islex/071/071_07.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/071/071_07.mp3'
+      accusative_pronunciation: namɪ
       dative: nammi
-      dative_sound: islex/071/071_07.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/071/071_07.mp3'
+      dative_pronunciation: namɪ
       genitive: nammis
+      genitive_pronunciation: <span class="guessed">naːmmɪːs</span>
     with article:
       nominative: nammið
       nominative_translation: the candy
+      nominative_pronunciation: <span class="guessed">naːmmɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: nammið
+      accusative_pronunciation: <span class="guessed">naːmmɪːð</span>
       dative: namminu
+      dative_pronunciation: <span class="guessed">namɪːnʏ</span>
       genitive: nammisins
 id: 1439
 gender: neuter

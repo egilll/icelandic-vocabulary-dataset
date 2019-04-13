@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: bakpoki
       nominative_translation: a backpack
-      nominative_sound: islex/041/041_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/041/041_58.mp3'
+      nominative_pronunciation: <span class="guessed">paːkpʰɔːcɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bakpoka
+      accusative_pronunciation: paːkpɔka
       dative: bakpoka
+      dative_pronunciation: paːkpɔka
       genitive: bakpoka
+      genitive_pronunciation: paːkpɔka
     with article:
       nominative: bakpokinn
       nominative_translation: the backpack
+      nominative_pronunciation: <span class="guessed">paːkpʰɔːcɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bakpokann
+      accusative_pronunciation: paːkpɔkan
       dative: bakpokanum
+      dative_pronunciation: paːkpɔkanʏm
       genitive: bakpokans
   plural:
     no article:
       nominative: bakpokar
       nominative_translation: backpacks
+      nominative_pronunciation: paːkpʰɔkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bakpoka
+      accusative_pronunciation: paːkpɔka
       dative: bakpokum
+      dative_pronunciation: <span class="guessed">paːkpʰɔːkʏm</span>
       genitive: bakpoka
+      genitive_pronunciation: paːkpɔka
     with article:
       nominative: bakpokarnir
       nominative_translation: the backpacks
+      nominative_pronunciation: <span class="guessed">paːkpʰɔːkatnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bakpokana
+      accusative_pronunciation: <span class="guessed">paːkpʰɔːkana</span>
       dative: bakpokunum
+      dative_pronunciation: <span class="guessed">paːkpʰɔːkɔnʏm</span>
       genitive: bakpokanna
+      genitive_pronunciation: <span class="guessed">paːkpɔkanaː</span>
 id: 764
 gender: masculine

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: þjófur
       nominative_translation: a thief
-      nominative_sound: islex/071/071_60.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/071/071_60.mp3'
+      nominative_pronunciation: θjouːvʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: þjófurinn
       nominative_translation: the thief
+      nominative_pronunciation: θjouːvʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: þjófinn

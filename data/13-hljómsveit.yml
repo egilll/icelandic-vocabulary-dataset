@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: hljómsveit
       nominative_translation: 'a band, a musical group'
-      nominative_sound: islex/031/031_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/031/031_66.mp3'
+      nominative_pronunciation: l̥joumsveit
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hljómsveit
-      accusative_sound: islex/031/031_66.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/031/031_66.mp3'
+      accusative_pronunciation: l̥joumsveit
       dative: hljómsveit
-      dative_sound: islex/031/031_66.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/031/031_66.mp3'
+      dative_pronunciation: l̥joumsveit
       genitive: hljómsveitar
+      genitive_pronunciation: l̥joumsveitar
     with article:
       nominative: hljómsveitin
       nominative_translation: 'the band, the musical group'
+      nominative_pronunciation: l̥joumsveitɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hljómsveitina
+      accusative_pronunciation: l̥joumsveitɪna
       dative: hljómsveitinni
+      dative_pronunciation: l̥joumsveitɪnɪ
       genitive: hljómsveitarinnar
+      genitive_pronunciation: l̥joumsveitarɪnar
 id: 1138
 gender: feminine

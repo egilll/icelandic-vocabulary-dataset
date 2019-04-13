@@ -6,33 +6,45 @@ conjugation:
     no article:
       nominative: næturvakt
       nominative_translation: a night shift
-      nominative_sound: islex/037/037_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/037/037_88.mp3'
+      nominative_pronunciation: naiːtʏrvaxt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: næturvakt
-      accusative_sound: islex/037/037_88.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/037/037_88.mp3'
+      accusative_pronunciation: naiːtʏrvaxt
       dative: næturvakt
-      dative_sound: islex/037/037_88.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/037/037_88.mp3'
+      dative_pronunciation: naiːtʏrvaxt
       genitive: næturvaktar
+      genitive_pronunciation: naiːtʏrvaxtar
     with article:
       nominative: næturvaktin
       nominative_translation: the night shift
+      nominative_pronunciation: naiːtʏrvaxtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: næturvaktina
+      accusative_pronunciation: <span class="guessed">naiːtʏrvaxtɪna</span>
       dative: næturvaktinni
+      dative_pronunciation: <span class="guessed">naiːtʏrvaxtɪnɪ</span>
       genitive: næturvaktarinnar
+      genitive_pronunciation: <span class="guessed">naiːtʏrvaxtarɪnar</span>
   plural:
     no article:
       nominative: næturvaktir
       nominative_translation: night shifts
+      nominative_pronunciation: <span class="guessed">naiːtʏrvaxtɪr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: næturvaktir
+      accusative_pronunciation: <span class="guessed">naiːtʏrvaxtɪr</span>
       dative: næturvöktum
+      dative_pronunciation: <span class="guessed">naiːtʏrvœxtʏm</span>
       genitive: næturvakta
+      genitive_pronunciation: <span class="guessed">naiːtʏrvaxta</span>
     with article:
       nominative: næturvaktirnar
       nominative_translation: the night shifts
@@ -40,6 +52,8 @@ conjugation:
       nominative_teachtable: true
       accusative: næturvaktirnar
       dative: næturvöktunum
+      dative_pronunciation: <span class="guessed">naiːtʏrvœxtʏnʏm</span>
       genitive: næturvaktanna
+      genitive_pronunciation: <span class="guessed">naiːtʏrvaxtana</span>
 id: 1434
 gender: feminine

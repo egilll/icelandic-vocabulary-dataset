@@ -5,6 +5,7 @@ conjugation:
   middle voice:
     infinitive: '[að] venjast'
     infinitive_translation: to get used to
-    infinitive_sound: islex/274/274_16.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/274/274_16.mp3'
+    infinitive_pronunciation: vɛnjast
     infinitive_teach: true
 id: 2426

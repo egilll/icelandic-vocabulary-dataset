@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: fótbolti
       nominative_translation: 'soccer, football'
-      nominative_sound: islex/257/257_09.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/257/257_09.mp3'
+      nominative_pronunciation: fouːpɔl̥tɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fótbolta
+      accusative_pronunciation: fouːpɔl̥ta
       dative: fótbolta
+      dative_pronunciation: fouːpɔl̥ta
       genitive: fótbolta
+      genitive_pronunciation: fouːpɔl̥ta
     with article:
       nominative: fótboltinn
       nominative_translation: 'the soccer, the football'
+      nominative_pronunciation: fouːpɔl̥tɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fótboltann
+      accusative_pronunciation: fouːpɔl̥tan
       dative: fótboltanum
+      dative_pronunciation: fouːpɔl̥tanʏm
       genitive: fótboltans
 id: 978
 gender: masculine

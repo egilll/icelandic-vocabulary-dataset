@@ -5,26 +5,31 @@ conjugation:
   active voice:
     infinitive: '[að] panta'
     infinitive_translation: to order
-    infinitive_sound: islex/195/195_99.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/195/195_99.mp3'
+    infinitive_pronunciation: pʰan̥ta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] panta'
           1st person_translation: I order
-          1st person_sound: islex/195/195_99.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/195/195_99.mp3'
+          1st person_pronunciation: pʰan̥ta
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] pantaði'
           1st person_translation: I ordered
+          1st person_pronunciation: pʰan̥taðɪ
           1st person_teach: true
         plural:
           1st person: '[við] pöntuðum'
           1st person_translation: we ordered
+          1st person_pronunciation: pʰœn̥tʏðʏm
           1st person_teach: true
   supine:
     active voice: '[ég hef] pantað'
     active voice_translation: I have ordered
+    active voice_pronunciation: pʰan̥tað
     active voice_teach: true
 id: 2269

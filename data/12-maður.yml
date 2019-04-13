@@ -6,40 +6,52 @@ conjugation:
     no article:
       nominative: maður
       nominative_translation: a man; a human
-      nominative_sound: islex/277/277_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/277/277_05.mp3'
+      nominative_pronunciation: maːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mann
       dative: manni
-      dative_sound: islex/286/286_98.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/286/286_98.mp3'
+      dative_pronunciation: manɪ
       genitive: manns
     with article:
       nominative: maðurinn
       nominative_translation: the man; the human
+      nominative_pronunciation: maːðʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: manninn
+      accusative_pronunciation: manɪn
       dative: manninum
+      dative_pronunciation: manɪnʏm
       genitive: mannsins
+      genitive_pronunciation: mansɪns
   plural:
     no article:
       nominative: menn
       nominative_translation: men; humans
+      nominative_pronunciation: mɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: menn
+      accusative_pronunciation: mɛn
       dative: mönnum
+      dative_pronunciation: mœnʏm
       genitive: manna
-      genitive_sound: islex/197/197_18.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/197/197_18.mp3'
     with article:
       nominative: mennirnir
       nominative_translation: the men; the humans
+      nominative_pronunciation: mɛnɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: mennina
+      accusative_pronunciation: mɛnɪna
       dative: mönnunum
+      dative_pronunciation: mœnɔnʏm
       genitive: mannanna
 id: 1366
 gender: masculine

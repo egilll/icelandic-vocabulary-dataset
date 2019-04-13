@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: póstur
       nominative_translation: 'mail, post'
-      nominative_sound: islex/367/367_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/367/367_08.mp3'
+      nominative_pronunciation: pʰoustʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: pósturinn
       nominative_translation: 'the mail, the post'
+      nominative_pronunciation: pʰoustʏrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1519

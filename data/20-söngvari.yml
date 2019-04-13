@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: söngvari
       nominative_translation: a singer
-      nominative_sound: islex/076/076_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/076/076_64.mp3'
+      nominative_pronunciation: sœiŋkvarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: söngvara
+      accusative_pronunciation: sœiŋkvara
       dative: söngvara
+      dative_pronunciation: sœiŋkvara
       genitive: söngvara
+      genitive_pronunciation: sœiŋkvara
     with article:
       nominative: söngvarinn
       nominative_translation: the singer
+      nominative_pronunciation: sœiŋkvarɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: söngvarann
+      accusative_pronunciation: sœiŋkvaran
       dative: söngvaranum
+      dative_pronunciation: <span class="guessed">sœiŋkvaːranʏm</span>
       genitive: söngvarans
+      genitive_pronunciation: sœiŋkvarans
   plural:
     no article:
       nominative: söngvarar
       nominative_translation: singers
+      nominative_pronunciation: sœiŋkvarar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: söngvara
+      accusative_pronunciation: sœiŋkvara
       dative: söngvurum
+      dative_pronunciation: sœiŋkvʏrʏm
       genitive: söngvara
+      genitive_pronunciation: sœiŋkvara
     with article:
       nominative: söngvararnir
       nominative_translation: the singers
+      nominative_pronunciation: sœiŋkvarartnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: söngvarana
+      accusative_pronunciation: <span class="guessed">sœiŋkvaraːna</span>
       dative: söngvurunum
       genitive: söngvaranna
+      genitive_pronunciation: <span class="guessed">sœiŋkvarana</span>
 id: 1713
 gender: masculine

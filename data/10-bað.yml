@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: bað
       nominative_translation: a bathtub; a bath
-      nominative_sound: islex/003/003_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/003/003_19.mp3'
+      nominative_pronunciation: paːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bað
-      accusative_sound: islex/003/003_19.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/003/003_19.mp3'
+      accusative_pronunciation: paːð
       dative: baði
+      dative_pronunciation: paːðɪ
       genitive: baðs
     with article:
       nominative: baðið
       nominative_translation: the bathtub; the bath
+      nominative_pronunciation: paːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: baðið
+      accusative_pronunciation: paːðɪð
       dative: baðinu
+      dative_pronunciation: paːðɪnʏ
       genitive: baðsins
 id: 756
 gender: neuter

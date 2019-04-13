@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: spjall
       nominative_translation: conversation
-      nominative_sound: islex/202/202_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/202/202_58.mp3'
+      nominative_pronunciation: spjatl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: spjall
-      accusative_sound: islex/202/202_58.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/202/202_58.mp3'
+      accusative_pronunciation: spjatl̥
       dative: spjalli
+      dative_pronunciation: spjatlɪ
       genitive: spjalls
     with article:
       nominative: spjallið
       nominative_translation: the conversation
+      nominative_pronunciation: spjatlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: spjallið
+      accusative_pronunciation: spjatlɪð
       dative: spjallinu
+      dative_pronunciation: <span class="guessed">spjatl̥ɪːnʏ</span>
       genitive: spjallsins
 id: 1724
 gender: neuter

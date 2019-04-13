@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: háls
       nominative_translation: a neck; throat
-      nominative_sound: islex/152/152_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/152/152_87.mp3'
+      nominative_pronunciation: hauls
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: háls
-      accusative_sound: islex/152/152_87.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/152/152_87.mp3'
+      accusative_pronunciation: hauls
       dative: hálsi
+      dative_pronunciation: haulsɪ
       genitive: háls
-      genitive_sound: islex/152/152_87.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/152/152_87.mp3'
+      genitive_pronunciation: hauls
     with article:
       nominative: hálsinn
       nominative_translation: the neck; the throat
+      nominative_pronunciation: haulsɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hálsinn
+      accusative_pronunciation: haulsɪn
       dative: hálsinum
+      dative_pronunciation: haulsɪnʏm
       genitive: hálsins
 id: 1080
 gender: masculine

@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: ostur
       nominative_translation: cheese
-      nominative_sound: islex/173/173_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/173/173_45.mp3'
+      nominative_pronunciation: ɔstʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ost
+      accusative_pronunciation: ɔst
       dative: osti
+      dative_pronunciation: ɔstɪ
       genitive: osts
+      genitive_pronunciation: ɔsts
     with article:
       nominative: osturinn
       nominative_translation: the cheese
+      nominative_pronunciation: <span class="guessed">ɔstʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: ostinn
+      accusative_pronunciation: ɔstɪn
       dative: ostinum
+      dative_pronunciation: ɔstɪnʏm
       genitive: ostsins
 id: 1478
 gender: masculine

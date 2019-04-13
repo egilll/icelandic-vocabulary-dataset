@@ -5,77 +5,96 @@ conjugation:
   active voice:
     infinitive: '[að] elska'
     infinitive_translation: to love
-    infinitive_sound: islex/129/129_60.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/129/129_60.mp3'
+    infinitive_pronunciation: ɛlska
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] elska'
           1st person_translation: I love
-          1st person_sound: islex/129/129_60.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/129/129_60.mp3'
+          1st person_pronunciation: ɛlska
           1st person_teach: true
           2nd person: '[þú] elskar'
           2nd person_translation: you¹ love
+          2nd person_pronunciation: ɛlskar
           2nd person_teach: true
           3rd person: '[hann/hún/það] elskar'
           3rd person_translation: he/she/it loves
+          3rd person_pronunciation: ɛlskar
           3rd person_teach: true
         plural:
           1st person: '[við] elskum'
           1st person_translation: we love
+          1st person_pronunciation: ɛlskʏm
           1st person_teach: true
           2nd person: '[þið] elskið'
           2nd person_translation: you² love
+          2nd person_pronunciation: ɛlscɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] elska'
           3rd person_translation: they love
-          3rd person_sound: islex/129/129_60.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/129/129_60.mp3'
+          3rd person_pronunciation: ɛlska
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] elskaði'
           1st person_translation: I loved
+          1st person_pronunciation: ɛlskaðɪ
           1st person_teach: true
           2nd person: '[þú] elskaðir'
           2nd person_translation: you¹ loved
+          2nd person_pronunciation: ɛlskaðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] elskaði'
           3rd person_translation: he/she/it loved
+          3rd person_pronunciation: ɛlskaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] elskuðum'
           1st person_translation: we loved
+          1st person_pronunciation: ɛlskʏðʏm
           1st person_teach: true
           2nd person: '[þið] elskuðuð'
           2nd person_translation: you² loved
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] elskuðu'
           3rd person_translation: they loved
+          3rd person_pronunciation: ɛlskʏðʏ
           3rd person_teach: true
     subjunctive:
       present:
         singular:
           1st person: '[ég held að] [ég] elski'
           1st person_translation: I think I love
+          1st person_pronunciation: ɛlscɪ
           1st person_teach: true
           2nd person: '[ég held að] [þú] elskir'
           2nd person_translation: I think you¹ love
+          2nd person_pronunciation: ɛlscɪr
           2nd person_teach: true
           3rd person: '[ég held að] [hann/hún/það] elski'
           3rd person_translation: I think he/she/it loves
+          3rd person_pronunciation: ɛlscɪ
           3rd person_teach: true
         plural:
           1st person: '[ég held að] [við] elskum'
           1st person_translation: I think we love
+          1st person_pronunciation: ɛlskʏm
           1st person_teach: true
           2nd person: '[ég held að] [þið] elskið'
           2nd person_translation: I think you² love
+          2nd person_pronunciation: ɛlscɪð
           2nd person_teach: true
           3rd person: '[ég held að] [þeir/þær/þau] elski'
           3rd person_translation: I think they love
+          3rd person_pronunciation: ɛlscɪ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] elskað'
     active voice_translation: I have loved
+    active voice_pronunciation: ɛlskað
     active voice_teach: true
 id: 2085

@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] lána'
     infinitive_translation: to lend
-    infinitive_sound: islex/281/281_26.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/281/281_26.mp3'
+    infinitive_pronunciation: lauːna
     infinitive_teach: true
 id: 2208

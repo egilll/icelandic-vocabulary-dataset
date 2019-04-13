@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: dómari
       nominative_translation: a judge; a referee
-      nominative_sound: islex/070/070_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/070/070_51.mp3'
+      nominative_pronunciation: touːmarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dómara
+      accusative_pronunciation: touːmara
       dative: dómara
+      dative_pronunciation: touːmara
       genitive: dómara
+      genitive_pronunciation: touːmara
     with article:
       nominative: dómarinn
       nominative_translation: the judge; the referee
+      nominative_pronunciation: touːmarɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: dómarann
+      accusative_pronunciation: touːmaran
       dative: dómaranum
+      dative_pronunciation: touːmaranʏm
       genitive: dómarans
+      genitive_pronunciation: touːmarans
 id: 875
 gender: masculine

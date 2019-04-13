@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: inniskór
       nominative_translation: slippers
-      nominative_sound: islex/409/409_68.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/409/409_68.mp3'
+      nominative_pronunciation: <span class="guessed">ɪnɪskouːr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: inniskó
+      accusative_pronunciation: <span class="guessed">ɪnɪskouː</span>
       dative: inniskóm
+      dative_pronunciation: ɪnɪskouːm
       genitive: inniskóa
+      genitive_pronunciation: <span class="guessed">ɪnɪskouːaː</span>
     with article:
       nominative: inniskórnir
       nominative_translation: the slippers
+      nominative_pronunciation: <span class="guessed">ɪnɪskourtnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: inniskóna
+      accusative_pronunciation: ɪnɪskouːna
       dative: inniskónum
+      dative_pronunciation: ɪnɪskouːnʏm
       genitive: inniskónna
 id: 1187
 gender: masculine

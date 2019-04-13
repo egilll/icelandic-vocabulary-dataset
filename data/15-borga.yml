@@ -5,56 +5,69 @@ conjugation:
   active voice:
     infinitive: '[að] borga'
     infinitive_translation: to pay
-    infinitive_sound: islex/214/214_49.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/214/214_49.mp3'
+    infinitive_pronunciation: pɔrka
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] borga'
           1st person_translation: I pay
-          1st person_sound: islex/214/214_49.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/214/214_49.mp3'
+          1st person_pronunciation: pɔrka
           1st person_teach: true
           2nd person: '[þú] borgar'
           2nd person_translation: you¹ pay
+          2nd person_pronunciation: pɔrkar
           2nd person_teach: true
           3rd person: '[hann/hún/það] borgar'
           3rd person_translation: he/she/it pays
+          3rd person_pronunciation: pɔrkar
           3rd person_teach: true
         plural:
           1st person: '[við] borgum'
           1st person_translation: we pay
+          1st person_pronunciation: pɔrkʏm
           1st person_teach: true
           2nd person: '[þið] borgið'
           2nd person_translation: you² pay
-          2nd person_sound: islex/001/001_29.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/001/001_29.mp3'
+          2nd person_pronunciation: pɔrcɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] borga'
           3rd person_translation: they pay
-          3rd person_sound: islex/214/214_49.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/214/214_49.mp3'
+          3rd person_pronunciation: pɔrka
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] borgaði'
           1st person_translation: I paid
+          1st person_pronunciation: pɔrkaðɪ
           1st person_teach: true
           2nd person: '[þú] borgaðir'
           2nd person_translation: you¹ paid
+          2nd person_pronunciation: pɔrkaðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] borgaði'
           3rd person_translation: he/she/it paid
+          3rd person_pronunciation: pɔrkaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] borguðum'
           1st person_translation: we paid
+          1st person_pronunciation: <span class="guessed">pɔrkʏðʏm</span>
           1st person_teach: true
           2nd person: '[þið] borguðuð'
           2nd person_translation: you² paid
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] borguðu'
           3rd person_translation: they paid
+          3rd person_pronunciation: pɔrkʏðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] borgað'
     active voice_translation: I have paid
+    active voice_pronunciation: pɔrkað
     active voice_teach: true
 id: 2051

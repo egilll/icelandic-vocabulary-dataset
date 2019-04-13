@@ -6,24 +6,32 @@ conjugation:
     no article:
       nominative: ríki
       nominative_translation: 'a state, a government'
-      nominative_sound: islex/418/418_76.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/418/418_76.mp3'
+      nominative_pronunciation: riːcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ríki
-      accusative_sound: islex/418/418_76.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/418/418_76.mp3'
+      accusative_pronunciation: riːcɪ
       dative: ríki
-      dative_sound: islex/418/418_76.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/418/418_76.mp3'
+      dative_pronunciation: riːcɪ
       genitive: ríkis
+      genitive_pronunciation: riːcɪs
     with article:
       nominative: ríkið
       nominative_translation: 'the state, the government'
-      nominative_sound: islex/018/018_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/018/018_20.mp3'
+      nominative_pronunciation: riːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: ríkið
-      accusative_sound: islex/018/018_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/018/018_20.mp3'
+      accusative_pronunciation: riːcɪð
       dative: ríkinu
+      dative_pronunciation: riːcɪnʏ
       genitive: ríkisins
+      genitive_pronunciation: riːkɪsɪns
 id: 1560
 gender: neuter

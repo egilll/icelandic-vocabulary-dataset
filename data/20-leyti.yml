@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: leyti
       nominative_translation: approximate time
-      nominative_sound: islex/217/217_36.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/217/217_36.mp3'
+      nominative_pronunciation: leiːtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leyti
-      accusative_sound: islex/217/217_36.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/217/217_36.mp3'
+      accusative_pronunciation: leiːtɪ
       dative: leyti
-      dative_sound: islex/217/217_36.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/217/217_36.mp3'
+      dative_pronunciation: leiːtɪ
       genitive: leytis
     with article:
       nominative: leytið
@@ -22,6 +25,7 @@ conjugation:
       nominative_teachtable: true
       accusative: leytið
       dative: leytinu
+      dative_pronunciation: leiːtɪnʏ
       genitive: leytisins
 id: 1322
 gender: neuter

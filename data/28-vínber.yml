@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: vínber
       nominative_translation: grapes
-      nominative_sound: islex/168/168_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/168/168_38.mp3'
+      nominative_pronunciation: vimpɛr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vínber
-      accusative_sound: islex/168/168_38.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/168/168_38.mp3'
+      accusative_pronunciation: vimpɛr
       dative: vínberjum
       genitive: vínberja
+      genitive_pronunciation: <span class="guessed">vimpɛrjaː</span>
     with article:
       nominative: vínberin
       nominative_translation: the grapes

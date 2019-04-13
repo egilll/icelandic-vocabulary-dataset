@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: spítali
       nominative_translation: a hospital
-      nominative_sound: islex/052/052_14.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/052/052_14.mp3'
+      nominative_pronunciation: spiːtalɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: spítala
+      accusative_pronunciation: spiːtala
       dative: spítala
+      dative_pronunciation: spiːtala
       genitive: spítala
+      genitive_pronunciation: spiːtala
     with article:
       nominative: spítalinn
       nominative_translation: the hospital
+      nominative_pronunciation: spiːtalɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: spítalann
+      accusative_pronunciation: spiːtalan
       dative: spítalanum
+      dative_pronunciation: spiːtalanʏm
       genitive: spítalans
+      genitive_pronunciation: spiːtalans
 id: 1723
 gender: masculine

@@ -5,17 +5,20 @@ conjugation:
   active voice:
     infinitive: '[að] kveikja'
     infinitive_translation: 'to light, to ignite; to turn on'
-    infinitive_sound: islex/095/095_98.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/095/095_98.mp3'
+    infinitive_pronunciation: kʰveiːca
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] kveiki'
           1st person_translation: 'I light, I ignite; I turn on'
+          1st person_pronunciation: kʰveiːcɪ
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] kveikti'
           1st person_translation: 'I lit, I ignited; I turned on'
+          1st person_pronunciation: kʰveixtɪ
           1st person_teach: true
 id: 2198

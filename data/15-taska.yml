@@ -6,39 +6,51 @@ conjugation:
     no article:
       nominative: taska
       nominative_translation: a bag
-      nominative_sound: islex/031/031_13.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/031/031_13.mp3'
+      nominative_pronunciation: tʰaska
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tösku
+      accusative_pronunciation: tʰœskʏ
       dative: tösku
+      dative_pronunciation: tʰœskʏ
       genitive: tösku
+      genitive_pronunciation: tʰœskʏ
     with article:
       nominative: taskan
       nominative_translation: the bag
       nominative_teach: true
       nominative_teachtable: true
       accusative: töskuna
+      accusative_pronunciation: tʰœskʏna
       dative: töskunni
+      dative_pronunciation: tʰœskʏnɪ
       genitive: töskunnar
   plural:
     no article:
       nominative: töskur
       nominative_translation: bags
+      nominative_pronunciation: tʰœskʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: töskur
+      accusative_pronunciation: tʰœskʏr
       dative: töskum
       genitive: taska
-      genitive_sound: islex/031/031_13.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/031/031_13.mp3'
+      genitive_pronunciation: tʰaska
     with article:
       nominative: töskurnar
       nominative_translation: the bags
+      nominative_pronunciation: tʰœskʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: töskurnar
+      accusative_pronunciation: tʰœskʏtnar
       dative: töskunum
+      dative_pronunciation: tʰœskɔnʏm
       genitive: taskanna
 id: 1819
 gender: feminine

@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: handleggir
       nominative_translation: arms
+      nominative_pronunciation: hantlɛcɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: handleggi
+      accusative_pronunciation: <span class="guessed">hantlɛkɪː</span>
       dative: handleggjum
       genitive: handleggja
+      genitive_pronunciation: <span class="guessed">hantlɛkjaː</span>
     with article:
       nominative: handleggirnir
       nominative_translation: the arms
       nominative_teach: true
       nominative_teachtable: true
       accusative: handleggina
+      accusative_pronunciation: hantlɛcɪna
       dative: handleggjunum
+      dative_pronunciation: hantlɛcɔnʏm
       genitive: handleggjanna
 id: 1087
 gender: masculine

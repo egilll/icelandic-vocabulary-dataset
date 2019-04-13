@@ -6,15 +6,19 @@ conjugation:
     no article:
       nominative: miðnætti
       nominative_translation: midnight
-      nominative_sound: islex/370/370_17.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/370/370_17.mp3'
+      nominative_pronunciation: mɪðnaihtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: miðnætti
-      accusative_sound: islex/370/370_17.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/370/370_17.mp3'
+      accusative_pronunciation: mɪðnaihtɪ
       dative: miðnætti
-      dative_sound: islex/370/370_17.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/370/370_17.mp3'
+      dative_pronunciation: mɪðnaihtɪ
       genitive: miðnættis
+      genitive_pronunciation: mɪðnaihtɪs
     with article:
       nominative: miðnættið
       nominative_translation: the midnight
@@ -22,17 +26,20 @@ conjugation:
       nominative_teachtable: true
       accusative: miðnættið
       dative: miðnættinu
+      dative_pronunciation: mɪðnaihtɪnʏ
       genitive: miðnættisins
   plural:
     no article:
       nominative: miðnætti
       nominative_translation: midnights
-      nominative_sound: islex/370/370_17.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/370/370_17.mp3'
+      nominative_pronunciation: mɪðnaihtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: miðnætti
-      accusative_sound: islex/370/370_17.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/370/370_17.mp3'
+      accusative_pronunciation: mɪðnaihtɪ
       dative: miðnættum
       genitive: miðnætta
     with article:

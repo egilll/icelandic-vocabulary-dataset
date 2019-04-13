@@ -6,42 +6,57 @@ conjugation:
     no article:
       nominative: veggur
       nominative_translation: a wall
-      nominative_sound: islex/260/260_98.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/260/260_98.mp3'
+      nominative_pronunciation: vɛkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vegg
+      accusative_pronunciation: vɛk
       dative: vegg
+      dative_pronunciation: vɛk
       genitive: veggjar
       genitive_alternative:
         - veggs
     with article:
       nominative: veggurinn
       nominative_translation: the wall
+      nominative_pronunciation: vɛkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: vegginn
+      accusative_pronunciation: vɛcɪn
       dative: veggnum
+      dative_pronunciation: vɛknʏm
       genitive: veggjarins
+      genitive_pronunciation: vɛcarɪns
       genitive_alternative:
         - veggsins
   plural:
     no article:
       nominative: veggir
       nominative_translation: walls
+      nominative_pronunciation: vɛcɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: veggi
+      accusative_pronunciation: vɛcɪ
       dative: veggjum
+      dative_pronunciation: vɛcʏm
       genitive: veggja
+      genitive_pronunciation: vɛca
     with article:
       nominative: veggirnir
       nominative_translation: the walls
+      nominative_pronunciation: vɛcɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: veggina
+      accusative_pronunciation: vɛcɪna
       dative: veggjunum
+      dative_pronunciation: vɛcɔnʏm
       genitive: veggjanna
+      genitive_pronunciation: vɛcana
 id: 1900
 gender: masculine

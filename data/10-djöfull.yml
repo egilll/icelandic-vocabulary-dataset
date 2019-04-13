@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: djöfull
       nominative_translation: devil
-      nominative_sound: islex/358/358_17.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/358/358_17.mp3'
+      nominative_pronunciation: tjœːvʏtl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: djöful
+      accusative_pronunciation: tjœːvʏl
       dative: djöfli
       genitive: djöfuls
-      genitive_sound: islex/377/377_89.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/377/377_89.mp3'
+      genitive_pronunciation: tjœːvʏls
     with article:
       nominative: djöfullinn
       nominative_translation: the devil
+      nominative_pronunciation: tjœːvʏtlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: djöfulinn
+      accusative_pronunciation: <span class="guessed">tjœːvʏlɪn</span>
       dative: djöflinum
+      dative_pronunciation: tjœplɪnʏm
       genitive: djöfulsins
-      genitive_sound: islex/105/105_10.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/105/105_10.mp3'
+      genitive_pronunciation: tjœːvʏlsɪns
 id: 874
 gender: masculine

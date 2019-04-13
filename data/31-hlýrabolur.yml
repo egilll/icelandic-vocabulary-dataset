@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: hlýrabolur
       nominative_translation: a tank top
-      nominative_sound: islex/145/145_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/145/145_31.mp3'
+      nominative_pronunciation: <span class="guessed">l̥iːraːpɔːlʏr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hlýrabol
+      accusative_pronunciation: <span class="guessed">l̥iːraːpɔːl</span>
       dative: hlýrabol
+      dative_pronunciation: <span class="guessed">l̥iːraːpɔːl</span>
       genitive: hlýrabols
     with article:
       nominative: hlýrabolurinn
       nominative_translation: the tank top
+      nominative_pronunciation: <span class="guessed">l̥iːraːpɔːlʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hlýrabolinn
+      accusative_pronunciation: <span class="guessed">l̥iːraːpɔːlɪn</span>
       dative: hlýrabolnum
+      dative_pronunciation: <span class="guessed">l̥iːraːpɔlnʏm</span>
       genitive: hlýrabolsins
 id: 1141
 gender: masculine

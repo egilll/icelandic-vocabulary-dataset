@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: menning
       nominative_translation: culture
-      nominative_sound: islex/431/431_07.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/431/431_07.mp3'
+      nominative_pronunciation: mɛniŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: menningu
+      accusative_pronunciation: mɛniŋkʏ
       dative: menningu
+      dative_pronunciation: mɛniŋkʏ
       genitive: menningar
+      genitive_pronunciation: mɛniŋkar
     with article:
       nominative: menningin
       nominative_translation: the culture
+      nominative_pronunciation: mɛniɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: menninguna
+      accusative_pronunciation: mɛniŋkʏna
       dative: menningunni
+      dative_pronunciation: mɛniŋkʏnɪ
       genitive: menningarinnar
+      genitive_pronunciation: mɛniŋkarɪnar
 id: 1397
 gender: feminine

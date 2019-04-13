@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sólgleraugu
       nominative_translation: sunglasses
-      nominative_sound: islex/391/391_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/391/391_64.mp3'
+      nominative_pronunciation: soulklɛrœiɣʏ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sólgleraugun
       nominative_translation: the sunglasses
+      nominative_pronunciation: soulklɛrœiɣʏn
       nominative_teach: false
       nominative_teachtable: false
 id: 1710

@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: klósett
       nominative_translation: a toilet
-      nominative_sound: islex/479/479_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/479/479_71.mp3'
+      nominative_pronunciation: kʰlouːsɛht
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: klósett
-      accusative_sound: islex/479/479_71.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/479/479_71.mp3'
+      accusative_pronunciation: kʰlouːsɛht
       dative: klósetti
+      dative_pronunciation: kʰlouːsɛhtɪ
       genitive: klósetts
     with article:
       nominative: klósettið
       nominative_translation: the toilet
+      nominative_pronunciation: kʰlouːsɛhtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: klósettið
+      accusative_pronunciation: kʰlouːsɛhtɪð
       dative: klósettinu
+      dative_pronunciation: kʰlouːsɛhtɪnʏ
       genitive: klósettsins
 id: 1247
 gender: neuter

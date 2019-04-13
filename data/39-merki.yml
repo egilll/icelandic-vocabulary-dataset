@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: merki
       nominative_translation: a sign
-      nominative_sound: islex/325/325_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/325/325_57.mp3'
+      nominative_pronunciation: mɛr̥cɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: merki
-      accusative_sound: islex/325/325_57.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/325/325_57.mp3'
+      accusative_pronunciation: mɛr̥cɪ
       dative: merki
-      dative_sound: islex/325/325_57.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/325/325_57.mp3'
+      dative_pronunciation: mɛr̥cɪ
       genitive: merkis
+      genitive_pronunciation: mɛr̥cɪs
     with article:
       nominative: merkið
       nominative_translation: the sign
+      nominative_pronunciation: mɛr̥cɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: merkið
+      accusative_pronunciation: mɛr̥cɪð
       dative: merkinu
+      dative_pronunciation: mɛr̥cɪnʏ
       genitive: merkisins
 id: 1399
 gender: neuter

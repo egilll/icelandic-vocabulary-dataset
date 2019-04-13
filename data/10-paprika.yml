@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: paprika
       nominative_translation: a bell pepper
-      nominative_sound: islex/297/297_65.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/297/297_65.mp3'
+      nominative_pronunciation: pʰaːprɪka
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: papriku
+      accusative_pronunciation: pʰaːprɪkʏ
       dative: papriku
+      dative_pronunciation: pʰaːprɪkʏ
       genitive: papriku
+      genitive_pronunciation: pʰaːprɪkʏ
     with article:
       nominative: paprikan
       nominative_translation: the bell pepper

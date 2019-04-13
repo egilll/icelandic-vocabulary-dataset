@@ -6,18 +6,22 @@ conjugation:
     no article:
       nominative: stykki
       nominative_translation: a piece
-      nominative_sound: islex/001/001_21.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/001/001_21.mp3'
+      nominative_pronunciation: stɪhkɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stykki
-      accusative_sound: islex/001/001_21.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/001/001_21.mp3'
+      accusative_pronunciation: stɪhkɪ
       dative: stykki
-      dative_sound: islex/001/001_21.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/001/001_21.mp3'
+      dative_pronunciation: stɪhkɪ
       genitive: stykkis
     with article:
       nominative: stykkið
       nominative_translation: the piece
+      nominative_pronunciation: stɪhcɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1770

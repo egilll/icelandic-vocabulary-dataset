@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: læti
       nominative_translation: lots of noise
-      nominative_sound: islex/117/117_56.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/117/117_56.mp3'
+      nominative_pronunciation: laiːtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: lætin
       nominative_translation: the noises
+      nominative_pronunciation: laiːtɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1287

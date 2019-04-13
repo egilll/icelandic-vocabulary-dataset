@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: mál
       nominative_translation: 'a language; a matter, an issue'
-      nominative_sound: islex/138/138_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/138/138_51.mp3'
+      nominative_pronunciation: mauːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mál
-      accusative_sound: islex/138/138_51.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/138/138_51.mp3'
+      accusative_pronunciation: mauːl
       dative: máli
-      dative_sound: islex/448/448_38.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/448/448_38.mp3'
+      dative_pronunciation: mauːlɪ
       genitive: máls
+      genitive_pronunciation: mauls
     with article:
       nominative: málið
       nominative_translation: 'the language; the matter, the issue'
+      nominative_pronunciation: mauːlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: málið
+      accusative_pronunciation: mauːlɪð
       dative: málinu
+      dative_pronunciation: mauːlɪnʏ
       genitive: málsins
+      genitive_pronunciation: maulsɪns
 id: 1374
 gender: neuter

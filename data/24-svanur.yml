@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: svanur
       nominative_translation: a swan
-      nominative_sound: islex/307/307_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/307/307_94.mp3'
+      nominative_pronunciation: svaːnʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: svan
+      accusative_pronunciation: svaːn
       dative: svani
+      dative_pronunciation: svaːnɪ
       genitive: svans
     with article:
       nominative: svanurinn
       nominative_translation: the swan
+      nominative_pronunciation: svaːnʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: svaninn
+      accusative_pronunciation: <span class="guessed">svaːnɪn</span>
       dative: svaninum
       genitive: svansins
 id: 1785

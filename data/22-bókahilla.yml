@@ -6,30 +6,39 @@ conjugation:
     no article:
       nominative: bókahilla
       nominative_translation: a bookshelf
-      nominative_sound: islex/017/017_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/017/017_38.mp3'
+      nominative_pronunciation: <span class="guessed">pouːkahɪtla</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bókahillu
+      accusative_pronunciation: <span class="guessed">pouːkahɪtlʏ</span>
       dative: bókahillu
+      dative_pronunciation: <span class="guessed">pouːkahɪtlʏ</span>
       genitive: bókahillu
+      genitive_pronunciation: <span class="guessed">pouːkahɪtlʏ</span>
     with article:
       nominative: bókahillan
       nominative_translation: the bookshelf
       nominative_teach: true
       nominative_teachtable: true
       accusative: bókahilluna
+      accusative_pronunciation: <span class="guessed">pouːkahɪtlʏna</span>
       dative: bókahillunni
+      dative_pronunciation: pouːkahɪtlʏnɪ
       genitive: bókahillunnar
   plural:
     no article:
       nominative: bókahillur
       nominative_translation: bookshelves
+      nominative_pronunciation: pouːkahɪtlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bókahillur
+      accusative_pronunciation: pouːkahɪtlʏr
       dative: bókahillum
+      dative_pronunciation: <span class="guessed">pouːkahɪtlʏm</span>
       genitive: bókahillna
       genitive_alternative:
         - bókahilla

@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: stafsetning
       nominative_translation: spelling
-      nominative_sound: islex/481/481_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/481/481_05.mp3'
+      nominative_pronunciation: <span class="guessed">staːvsɛhtniŋk</span>
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

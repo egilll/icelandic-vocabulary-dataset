@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: forsíða
       nominative_translation: front page
-      nominative_sound: islex/107/107_25.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/107/107_25.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: forsíðu
+      accusative_pronunciation: fɔr̥siðʏ
       dative: forsíðu
+      dative_pronunciation: fɔr̥siðʏ
       genitive: forsíðu
+      genitive_pronunciation: fɔr̥siðʏ
     with article:
       nominative: forsíðan
       nominative_translation: the front page
+      nominative_pronunciation: <span class="guessed">fɔːrsiːðan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: forsíðuna
+      accusative_pronunciation: fɔr̥siðʏna
       dative: forsíðunni
+      dative_pronunciation: fɔr̥siðʏnɪ
       genitive: forsíðunnar
+      genitive_pronunciation: <span class="guessed">fɔːrsiːðʏnar</span>
   plural:
     no article:
       nominative: forsíður
       nominative_translation: front pages
+      nominative_pronunciation: <span class="guessed">fɔːrsiːðʏr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: forsíður
+      accusative_pronunciation: <span class="guessed">fɔːrsiːðʏr</span>
       dative: forsíðum
+      dative_pronunciation: <span class="guessed">fɔːrsiːðʏm</span>
       genitive: forsíðna
+      genitive_pronunciation: <span class="guessed">fɔːrsiðŋa</span>
     with article:
       nominative: forsíðurnar
       nominative_translation: the front pages
+      nominative_pronunciation: <span class="guessed">fɔːrsiːðʏtnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: forsíðurnar
+      accusative_pronunciation: <span class="guessed">fɔːrsiːðʏtnar</span>
       dative: forsíðunum
+      dative_pronunciation: <span class="guessed">fɔːrsiːðɔnʏm</span>
       genitive: forsíðnanna
 id: 972
 gender: feminine

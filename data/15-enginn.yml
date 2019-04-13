@@ -1,5 +1,7 @@
 word: enginn
 word_translation: nobody
+word_sound: 'https://media.egill.xyz/audio/islex/279/279_01.mp3'
+word_pronunciation: eiɲcɪn
 word_teach: true
 level: 15
 grammatical_category: pronoun

@@ -6,38 +6,50 @@ conjugation:
     no article:
       nominative: hringur
       nominative_translation: 'a circle, a ring'
-      nominative_sound: islex/183/183_90.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/183/183_90.mp3'
+      nominative_pronunciation: r̥iŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hring
+      accusative_pronunciation: r̥iŋk
       dative: hring
+      dative_pronunciation: r̥iŋk
       genitive: hrings
+      genitive_pronunciation: r̥iŋks
     with article:
       nominative: hringurinn
       nominative_translation: 'the circle, the ring'
+      nominative_pronunciation: r̥iŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hringinn
+      accusative_pronunciation: r̥iɲcɪn
       dative: hringnum
+      dative_pronunciation: r̥iŋknʏm
       genitive: hringsins
+      genitive_pronunciation: r̥iŋksɪns
   plural:
     no article:
       nominative: hringir
       nominative_translation: 'circles, rings'
+      nominative_pronunciation: r̥iɲcɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_alternative:
         - hringar
       accusative: hringi
+      accusative_pronunciation: r̥iɲcɪ
       accusative_alternative:
         - hringa
       dative: hringjum
+      dative_pronunciation: r̥iɲcʏm
       dative_alternative:
         - hringum
       genitive: hringja
-      genitive_sound: islex/200/200_81.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/200/200_81.mp3'
+      genitive_pronunciation: r̥iɲca
       genitive_alternative:
         - hringa
     with article:
@@ -48,12 +60,14 @@ conjugation:
       nominative_alternative:
         - hringarnir
       accusative: hringina
+      accusative_pronunciation: r̥iɲcɪna
       accusative_alternative:
         - hringana
       dative: hringjunum
       dative_alternative:
         - hringunum
       genitive: hringjanna
+      genitive_pronunciation: <span class="guessed">r̥iɲcana</span>
       genitive_alternative:
         - hringanna
 id: 1167

@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: ferð
       nominative_translation: a trip
-      nominative_sound: islex/411/411_35.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/411/411_35.mp3'
+      nominative_pronunciation: fɛrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ferð
-      accusative_sound: islex/411/411_35.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/411/411_35.mp3'
+      accusative_pronunciation: fɛrð
       dative: ferð
-      dative_sound: islex/411/411_35.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/411/411_35.mp3'
+      dative_pronunciation: fɛrð
       genitive: ferðar
+      genitive_pronunciation: fɛrðar
     with article:
       nominative: ferðin
       nominative_translation: the trip
+      nominative_pronunciation: fɛrðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ferðina
+      accusative_pronunciation: fɛrðɪna
       dative: ferðinni
+      dative_pronunciation: fɛrðɪnɪ
       genitive: ferðarinnar
+      genitive_pronunciation: fɛrðarɪnar
   plural:
     no article:
       nominative: ferðir
       nominative_translation: trips
+      nominative_pronunciation: fɛrðɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ferðir
+      accusative_pronunciation: fɛrðɪr
       dative: ferðum
+      dative_pronunciation: fɛrðʏm
       genitive: ferða
+      genitive_pronunciation: fɛrða
     with article:
       nominative: ferðirnar
       nominative_translation: the trips
+      nominative_pronunciation: fɛrðɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: ferðirnar
+      accusative_pronunciation: fɛrðɪtnar
       dative: ferðunum
+      dative_pronunciation: fɛrðɔnʏm
       genitive: ferðanna
+      genitive_pronunciation: <span class="guessed">fɛrðana</span>
 id: 937
 gender: feminine

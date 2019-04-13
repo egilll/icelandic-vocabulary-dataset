@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: svefnherbergi
       nominative_translation: a bedroom
-      nominative_sound: islex/044/044_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/044/044_41.mp3'
+      nominative_pronunciation: svɛpnhɛrpɛcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: svefnherbergið
       nominative_translation: the bedroom
+      nominative_pronunciation: svɛpnhɛrpɛcɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1789

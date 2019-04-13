@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] samþykkja'
     infinitive_translation: to agree; to approve
-    infinitive_sound: islex/108/108_19.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/108/108_19.mp3'
+    infinitive_pronunciation: samθɪhca
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] samþykkti'
           1st person_translation: I agreed; I approved
+          1st person_pronunciation: samθɪxtɪ
           1st person_teach: true
 id: 2308

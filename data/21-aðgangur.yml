@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: aðgangur
       nominative_translation: an access
-      nominative_sound: islex/456/456_82.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/456/456_82.mp3'
+      nominative_pronunciation: aðkauŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: aðgang
+      accusative_pronunciation: aðkauŋk
       dative: aðgangi
+      dative_pronunciation: aðkauŋcɪ
       genitive: aðgangs
+      genitive_pronunciation: aðkauŋks
     with article:
       nominative: aðgangurinn
       nominative_translation: the access
+      nominative_pronunciation: <span class="guessed">aðkauŋkʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: aðganginn
+      accusative_pronunciation: <span class="guessed">aðkauŋkɪn</span>
       dative: aðganginum
+      dative_pronunciation: <span class="guessed">aːðkaɲcɪnʏm</span>
       genitive: aðgangsins
 id: 689
 gender: masculine

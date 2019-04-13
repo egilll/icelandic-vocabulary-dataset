@@ -6,23 +6,31 @@ conjugation:
     no article:
       nominative: heili
       nominative_translation: a brain
-      nominative_sound: islex/345/345_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/345/345_23.mp3'
+      nominative_pronunciation: heiːlɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: heila
-      accusative_sound: islex/119/119_19.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/119/119_19.mp3'
+      accusative_pronunciation: heiːla
       dative: heila
-      dative_sound: islex/119/119_19.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/119/119_19.mp3'
+      dative_pronunciation: heiːla
       genitive: heila
-      genitive_sound: islex/119/119_19.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/119/119_19.mp3'
+      genitive_pronunciation: heiːla
     with article:
       nominative: heilinn
       nominative_translation: the brain
+      nominative_pronunciation: heiːlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: heilann
+      accusative_pronunciation: heiːlan
       dative: heilanum
+      dative_pronunciation: heiːlanʏm
       genitive: heilans
+      genitive_pronunciation: heiːlans
 id: 1101
 gender: masculine

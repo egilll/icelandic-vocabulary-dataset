@@ -6,43 +6,57 @@ conjugation:
     no article:
       nominative: hluti
       nominative_translation: a part
-      nominative_sound: islex/369/369_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/369/369_87.mp3'
+      nominative_pronunciation: l̥ʏːtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hluta
-      accusative_sound: islex/183/183_98.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/183/183_98.mp3'
+      accusative_pronunciation: l̥ʏːta
       dative: hluta
-      dative_sound: islex/183/183_98.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/183/183_98.mp3'
+      dative_pronunciation: l̥ʏːta
       genitive: hluta
-      genitive_sound: islex/183/183_98.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/183/183_98.mp3'
+      genitive_pronunciation: l̥ʏːta
     with article:
       nominative: hlutinn
       nominative_translation: the part
+      nominative_pronunciation: l̥ʏːtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hlutann
+      accusative_pronunciation: l̥ʏːtan
       dative: hlutanum
+      dative_pronunciation: l̥ʏːtanʏm
       genitive: hlutans
   plural:
     no article:
       nominative: hlutar
       nominative_translation: parts
+      nominative_pronunciation: l̥ʏːtar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hluta
-      accusative_sound: islex/183/183_98.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/183/183_98.mp3'
+      accusative_pronunciation: l̥ʏːta
       dative: hlutum
+      dative_pronunciation: l̥ʏːtʏm
       genitive: hluta
-      genitive_sound: islex/183/183_98.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/183/183_98.mp3'
+      genitive_pronunciation: l̥ʏːta
     with article:
       nominative: hlutarnir
       nominative_translation: the parts
       nominative_teach: true
       nominative_teachtable: true
       accusative: hlutana
+      accusative_pronunciation: <span class="guessed">l̥ʏːtaːna</span>
       dative: hlutunum
+      dative_pronunciation: l̥ʏːtɔnʏm
       genitive: hlutanna
+      genitive_pronunciation: l̥ʏːtana
 id: 1139
 gender: masculine

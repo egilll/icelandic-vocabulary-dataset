@@ -5,63 +5,78 @@ conjugation:
   active voice:
     infinitive: '[að] hlusta'
     infinitive_translation: to listen
-    infinitive_sound: islex/060/060_42.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/060/060_42.mp3'
+    infinitive_pronunciation: l̥ʏsta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] hlusta'
           1st person_translation: I listen
-          1st person_sound: islex/060/060_42.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/060/060_42.mp3'
+          1st person_pronunciation: l̥ʏsta
           1st person_teach: true
           2nd person: '[þú] hlustar'
           2nd person_translation: you¹ listen
+          2nd person_pronunciation: l̥ʏstar
           2nd person_teach: true
           3rd person: '[hann/hún/það] hlustar'
           3rd person_translation: he/she/it listens
+          3rd person_pronunciation: l̥ʏstar
           3rd person_teach: true
         plural:
           1st person: '[við] hlustum'
           1st person_translation: we listen
+          1st person_pronunciation: l̥ʏstʏm
           1st person_teach: true
           2nd person: '[þið] hlustið'
           2nd person_translation: you² listen
+          2nd person_pronunciation: l̥ʏstɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hlusta'
           3rd person_translation: they listen
-          3rd person_sound: islex/060/060_42.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/060/060_42.mp3'
+          3rd person_pronunciation: l̥ʏsta
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] hlustaði'
           1st person_translation: I listened
+          1st person_pronunciation: l̥ʏstaðɪ
           1st person_teach: true
           2nd person: '[þú] hlustaðir'
           2nd person_translation: you¹ listened
+          2nd person_pronunciation: l̥ʏstaðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] hlustaði'
           3rd person_translation: he/she/it listened
+          3rd person_pronunciation: l̥ʏstaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] hlustuðum'
           1st person_translation: we listened
+          1st person_pronunciation: l̥ʏstʏðʏm
           1st person_teach: true
           2nd person: '[þið] hlustuðuð'
           2nd person_translation: you² listened
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hlustuðu'
           3rd person_translation: they listened
+          3rd person_pronunciation: l̥ʏstʏðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] hlustað'
     active voice_translation: I have listened
+    active voice_pronunciation: l̥ʏstað
     active voice_teach: true
   imperative:
     active voice:
       singular: hlustaðu!
       singular_translation: listen!¹
+      singular_pronunciation: l̥ʏstaðʏ
       singular_teach: true
       plural: hlustið!
       plural_translation: listen!²
+      plural_pronunciation: l̥ʏstɪð
       plural_teach: true
 id: 2159

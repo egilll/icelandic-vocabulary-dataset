@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: leikhús
       nominative_translation: a theatre
-      nominative_sound: islex/067/067_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/067/067_24.mp3'
+      nominative_pronunciation: leiːkhus
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leikhús
-      accusative_sound: islex/067/067_24.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/067/067_24.mp3'
+      accusative_pronunciation: leiːkhus
       dative: leikhúsi
+      dative_pronunciation: leiːkhusɪ
       genitive: leikhúss
+      genitive_pronunciation: leiːkhus
     with article:
       nominative: leikhúsið
       nominative_translation: the theatre
+      nominative_pronunciation: leiːkhusɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: leikhúsið
+      accusative_pronunciation: leiːkhusɪð
       dative: leikhúsinu
+      dative_pronunciation: leiːkhusɪnʏ
       genitive: leikhússins
+      genitive_pronunciation: leiːkhusɪns
 id: 1311
 gender: neuter

@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: lækur
       nominative_translation: a stream
-      nominative_sound: islex/446/446_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/446/446_50.mp3'
+      nominative_pronunciation: laiːkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: læk
+      accusative_pronunciation: laiːk
       dative: læk
+      dative_pronunciation: laiːk
       genitive: lækjar
     with article:
       nominative: lækurinn
       nominative_translation: the stream
+      nominative_pronunciation: <span class="guessed">laiːkʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: lækinn
+      accusative_pronunciation: laiːcɪn
       dative: læknum
+      dative_pronunciation: laihknʏm
       genitive: lækjarins
+      genitive_pronunciation: laiːcarɪns
 id: 1285
 gender: masculine

@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: nef
       nominative_translation: a nose
-      nominative_sound: islex/141/141_61.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/141/141_61.mp3'
+      nominative_pronunciation: nɛːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nef
-      accusative_sound: islex/141/141_61.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/141/141_61.mp3'
+      accusative_pronunciation: nɛːv
       dative: nefi
+      dative_pronunciation: nɛːvɪ
       genitive: nefs
     with article:
       nominative: nefið
       nominative_translation: the nose
+      nominative_pronunciation: nɛːvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: nefið
+      accusative_pronunciation: nɛːvɪð
       dative: nefinu
+      dative_pronunciation: nɛːvɪnʏ
       genitive: nefsins
 id: 1447
 gender: neuter

@@ -6,32 +6,43 @@ conjugation:
     no article:
       nominative: byssa
       nominative_translation: a gun
-      nominative_sound: islex/325/325_89.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/325/325_89.mp3'
+      nominative_pronunciation: pɪsa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: byssu
+      accusative_pronunciation: pɪsʏ
       dative: byssu
+      dative_pronunciation: pɪsʏ
       genitive: byssu
+      genitive_pronunciation: pɪsʏ
     with article:
       nominative: byssan
       nominative_translation: the gun
+      nominative_pronunciation: pɪsan
       nominative_teach: true
       nominative_teachtable: true
       accusative: byssuna
+      accusative_pronunciation: pɪsʏna
       dative: byssunni
+      dative_pronunciation: pɪsʏnɪ
       genitive: byssunnar
   plural:
     no article:
       nominative: byssur
       nominative_translation: guns
+      nominative_pronunciation: pɪsʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: byssur
+      accusative_pronunciation: pɪsʏr
       dative: byssum
+      dative_pronunciation: pɪsʏm
       genitive: byssa
-      genitive_sound: islex/325/325_89.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/325/325_89.mp3'
+      genitive_pronunciation: pɪsa
       genitive_alternative:
         - byssna
     with article:
@@ -41,6 +52,7 @@ conjugation:
       nominative_teachtable: true
       accusative: byssurnar
       dative: byssunum
+      dative_pronunciation: pɪsɔnʏm
       genitive: byssanna
       genitive_alternative:
         - byssnanna

@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: drasl
       nominative_translation: 'junk, rubbish'
-      nominative_sound: islex/082/082_35.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/082/082_35.mp3'
+      nominative_pronunciation: trastl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: drasl
-      accusative_sound: islex/082/082_35.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/082/082_35.mp3'
+      accusative_pronunciation: trastl̥
       dative: drasli
+      dative_pronunciation: trastlɪ
       genitive: drasls
     with article:
       nominative: draslið
       nominative_translation: 'the junk, the rubbish'
+      nominative_pronunciation: trastlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: draslið
+      accusative_pronunciation: trastlɪð
       dative: draslinu
+      dative_pronunciation: trastlɪnʏ
       genitive: draslsins
   plural:
     with article:

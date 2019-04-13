@@ -6,6 +6,7 @@ conjugation:
     with article:
       nominative: meðferðin
       nominative_translation: the treatment
+      nominative_pronunciation: mɛðfɛrðɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1394

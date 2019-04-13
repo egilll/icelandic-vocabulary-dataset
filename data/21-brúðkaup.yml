@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: brúðkaup
       nominative_translation: a wedding
-      nominative_sound: islex/190/190_21.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/190/190_21.mp3'
+      nominative_pronunciation: pruðkœip
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: brúðkaup
-      accusative_sound: islex/190/190_21.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/190/190_21.mp3'
+      accusative_pronunciation: pruðkœip
       dative: brúðkaupi
+      dative_pronunciation: pruðkœipɪ
       genitive: brúðkaups
+      genitive_pronunciation: pruðkœips
     with article:
       nominative: brúðkaupið
       nominative_translation: the wedding
+      nominative_pronunciation: pruðkœipɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: brúðkaupið
+      accusative_pronunciation: pruðkœipɪð
       dative: brúðkaupinu
+      dative_pronunciation: pruðkœipɪnʏ
       genitive: brúðkaupsins
 id: 852
 gender: neuter

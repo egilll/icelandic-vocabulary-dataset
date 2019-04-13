@@ -5,55 +5,67 @@ conjugation:
   active voice:
     infinitive: '[að] laga'
     infinitive_translation: 'to fix, to repair'
-    infinitive_sound: islex/066/066_16.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/066/066_16.mp3'
+    infinitive_pronunciation: laːɣa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] laga'
           1st person_translation: 'I fix, I repair'
-          1st person_sound: islex/066/066_16.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/066/066_16.mp3'
+          1st person_pronunciation: laːɣa
           1st person_teach: true
           2nd person: '[þú] lagar'
           2nd person_translation: 'you¹ fix, you¹ repair'
+          2nd person_pronunciation: laːɣar
           2nd person_teach: true
           3rd person: '[hann/hún/það] lagar'
           3rd person_translation: 'he/she/it fixes, he/she/it repairs'
+          3rd person_pronunciation: laːɣar
           3rd person_teach: true
         plural:
           1st person: '[við] lögum'
           1st person_translation: 'we fix, we repair'
+          1st person_pronunciation: lœːɣʏm
           1st person_teach: true
           2nd person: '[þið] lagið'
           2nd person_translation: 'you² fix, you² repair'
+          2nd person_pronunciation: laijɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] laga'
           3rd person_translation: 'they fix, they repair'
-          3rd person_sound: islex/066/066_16.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/066/066_16.mp3'
+          3rd person_pronunciation: laːɣa
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] lagaði'
           1st person_translation: 'I fixed, I repaired'
+          1st person_pronunciation: laːɣaðɪ
           1st person_teach: true
           2nd person: '[þú] lagaðir'
           2nd person_translation: 'you¹ fixed, you¹ repaired'
           2nd person_teach: true
           3rd person: '[hann/hún/það] lagaði'
           3rd person_translation: 'he/she/it fixed, he/she/it repaired'
+          3rd person_pronunciation: laːɣaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] löguðum'
           1st person_translation: 'we fixed, we repaired'
+          1st person_pronunciation: <span class="guessed">lœːɣʏðʏm</span>
           1st person_teach: true
           2nd person: '[þið] löguðuð'
           2nd person_translation: 'you² fixed, you² repaired'
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] löguðu'
           3rd person_translation: 'they fixed, they repaired'
+          3rd person_pronunciation: lœːɣʏðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] lagað'
     active voice_translation: 'I have fixed, I have repaired'
+    active voice_pronunciation: laːɣað
     active voice_teach: true
 id: 2207

@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: fjör
       nominative_translation: fun
-      nominative_sound: islex/142/142_61.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/142/142_61.mp3'
+      nominative_pronunciation: fjœːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fjör
-      accusative_sound: islex/142/142_61.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/142/142_61.mp3'
+      accusative_pronunciation: fjœːr
       dative: fjöri
+      dative_pronunciation: fjœːrɪ
       genitive: fjörs
     with article:
       nominative: fjörið
       nominative_translation: the fun
+      nominative_pronunciation: fjœːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjörið
+      accusative_pronunciation: fjœːrɪð
       dative: fjörinu
+      dative_pronunciation: fjœːrɪnʏ
       genitive: fjörsins
 id: 954
 gender: neuter

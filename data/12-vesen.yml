@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: vesen
       nominative_translation: 'trouble, inconvenience'
-      nominative_sound: islex/052/052_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/052/052_41.mp3'
+      nominative_pronunciation: vɛːsɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vesen
-      accusative_sound: islex/052/052_41.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/052/052_41.mp3'
+      accusative_pronunciation: vɛːsɛn
       dative: veseni
+      dative_pronunciation: vɛːsɛnɪ
       genitive: vesens
     with article:
       nominative: vesenið
       nominative_translation: 'the trouble, the inconvenience'
+      nominative_pronunciation: <span class="guessed">vɛːsɛnɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: vesenið
+      accusative_pronunciation: <span class="guessed">vɛːsɛnɪːð</span>
       dative: veseninu
+      dative_pronunciation: <span class="guessed">vɛːsɛnɪːnʏ</span>
       genitive: vesensins
 id: 1914
 gender: neuter

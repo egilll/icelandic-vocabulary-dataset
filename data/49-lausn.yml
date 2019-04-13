@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: lausn
       nominative_translation: a solution
-      nominative_sound: islex/405/405_32.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/405/405_32.mp3'
+      nominative_pronunciation: lœistn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lausn
-      accusative_sound: islex/405/405_32.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/405/405_32.mp3'
+      accusative_pronunciation: lœistn̥
       dative: lausn
-      dative_sound: islex/405/405_32.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/405/405_32.mp3'
+      dative_pronunciation: lœistn̥
       genitive: lausnar
+      genitive_pronunciation: lœistnar
     with article:
       nominative: lausnin
       nominative_translation: the solution
+      nominative_pronunciation: lœistnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lausnina
+      accusative_pronunciation: lœistnɪna
       dative: lausninni
+      dative_pronunciation: <span class="guessed">lœistn̥ɪnɪ</span>
       genitive: lausnarinnar
+      genitive_pronunciation: <span class="guessed">lœistnarɪnar</span>
   plural:
     no article:
       nominative: lausnir
       nominative_translation: solutions
+      nominative_pronunciation: lœistnɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lausnir
+      accusative_pronunciation: lœistnɪr
       dative: lausnum
+      dative_pronunciation: lœistnʏm
       genitive: lausna
+      genitive_pronunciation: lœistna
     with article:
       nominative: lausnirnar
       nominative_translation: the solutions
+      nominative_pronunciation: lœjstnɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: lausnirnar
+      accusative_pronunciation: lœjstnɪtnar
       dative: lausnunum
       genitive: lausnanna
+      genitive_pronunciation: <span class="guessed">lœistn̥ana</span>
 id: 1302
 gender: feminine

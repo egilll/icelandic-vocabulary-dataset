@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: skilti
       nominative_translation: a road sign
-      nominative_sound: islex/459/459_26.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/459/459_26.mp3'
+      nominative_pronunciation: scɪl̥tɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skilti
-      accusative_sound: islex/459/459_26.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/459/459_26.mp3'
+      accusative_pronunciation: scɪl̥tɪ
       dative: skilti
-      dative_sound: islex/459/459_26.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/459/459_26.mp3'
+      dative_pronunciation: scɪl̥tɪ
       genitive: skiltis
     with article:
       nominative: skiltið
       nominative_translation: the road sign
+      nominative_pronunciation: scɪl̥tɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: skiltið
+      accusative_pronunciation: scɪl̥tɪð
       dative: skiltinu
+      dative_pronunciation: scɪl̥tɪnʏ
       genitive: skiltisins
 id: 1647
 gender: neuter

@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: magn
       nominative_translation: an amount
-      nominative_sound: islex/251/251_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/251/251_73.mp3'
+      nominative_pronunciation: makn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: magn
-      accusative_sound: islex/251/251_73.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/251/251_73.mp3'
+      accusative_pronunciation: makn̥
       dative: magni
+      dative_pronunciation: maknɪ
       genitive: magns
+      genitive_pronunciation: makn̥s
     with article:
       nominative: magnið
       nominative_translation: the amount
+      nominative_pronunciation: maknɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: magnið
+      accusative_pronunciation: maknɪð
       dative: magninu
+      dative_pronunciation: <span class="guessed">makn̥ɪːnʏ</span>
       genitive: magnsins
 id: 1371
 gender: neuter

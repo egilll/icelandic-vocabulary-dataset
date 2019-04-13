@@ -5,19 +5,22 @@ conjugation:
   active voice:
     infinitive: '[að] svindla'
     infinitive_translation: to cheat
-    infinitive_sound: islex/212/212_54.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/212/212_54.mp3'
+    infinitive_pronunciation: svɪntla
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] svindla'
           1st person_translation: I cheat
-          1st person_sound: islex/212/212_54.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/212/212_54.mp3'
+          1st person_pronunciation: svɪntla
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] svindlaði'
           1st person_translation: I cheated
+          1st person_pronunciation: <span class="guessed">svɪntlaðɪː</span>
           1st person_teach: true
           2nd person: '[þú] svindlaðir'
           2nd person_translation: you¹ cheated

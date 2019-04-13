@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: hákarl
       nominative_translation: a shark
-      nominative_sound: islex/240/240_56.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/240/240_56.mp3'
+      nominative_pronunciation: hauːkatl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hákarl
-      accusative_sound: islex/240/240_56.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/240/240_56.mp3'
+      accusative_pronunciation: hauːkatl̥
       dative: hákarli
+      dative_pronunciation: <span class="guessed">hauːkʰatlɪ</span>
       genitive: hákarls
+      genitive_pronunciation: <span class="guessed">hauːkʰals</span>
     with article:
       nominative: hákarlinn
       nominative_translation: the shark
+      nominative_pronunciation: <span class="guessed">hauːkatl̥ɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hákarlinn
+      accusative_pronunciation: <span class="guessed">hauːkatl̥ɪn</span>
       dative: hákarlinum
+      dative_pronunciation: <span class="guessed">hauːkʰatlɪnʏm</span>
       genitive: hákarlsins
+      genitive_pronunciation: <span class="guessed">hauːkʰalsɪns</span>
 id: 1076
 gender: masculine

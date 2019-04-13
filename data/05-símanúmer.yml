@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: símanúmer
       nominative_translation: a phone number
-      nominative_sound: islex/341/341_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/341/341_50.mp3'
+      nominative_pronunciation: siːmanuːmɛr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: símanúmer
-      accusative_sound: islex/341/341_50.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/341/341_50.mp3'
+      accusative_pronunciation: siːmanuːmɛr
       dative: símanúmeri
+      dative_pronunciation: <span class="guessed">siːmanuːmɛrɪ</span>
       genitive: símanúmers
     with article:
       nominative: símanúmerið
       nominative_translation: the phone number
+      nominative_pronunciation: siːmanuːmɛrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: símanúmerið
+      accusative_pronunciation: siːmanuːmɛrɪð
       dative: símanúmerinu
+      dative_pronunciation: <span class="guessed">siːmanuːmɛrɪnʏ</span>
       genitive: símanúmersins
 id: 1617
 gender: neuter

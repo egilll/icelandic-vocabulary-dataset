@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: harðsperrur
       nominative_translation: sore muscles
-      nominative_sound: islex/254/254_79.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/254/254_79.mp3'
+      nominative_pronunciation: harðspɛrʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: harðsperrur
-      accusative_sound: islex/254/254_79.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/254/254_79.mp3'
+      accusative_pronunciation: harðspɛrʏr
       dative: harðsperrum
       genitive: harðsperra
     with article:

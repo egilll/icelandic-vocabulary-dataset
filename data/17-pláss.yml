@@ -6,18 +6,23 @@ conjugation:
     no article:
       nominative: pláss
       nominative_translation: 'some room, some space'
-      nominative_sound: islex/162/162_60.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/162/162_60.mp3'
+      nominative_pronunciation: pʰlaus
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: pláss
-      accusative_sound: islex/162/162_60.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/162/162_60.mp3'
+      accusative_pronunciation: pʰlaus
       dative: plássi
+      dative_pronunciation: pʰlausɪ
       genitive: pláss
-      genitive_sound: islex/162/162_60.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/162/162_60.mp3'
+      genitive_pronunciation: pʰlaus
     with article:
       nominative: plássið
       nominative_translation: the space
+      nominative_pronunciation: pʰlausɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1510

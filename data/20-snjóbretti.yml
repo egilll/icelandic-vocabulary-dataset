@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: snjóbretti
       nominative_translation: a snowboard
-      nominative_sound: islex/285/285_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/285/285_45.mp3'
+      nominative_pronunciation: <span class="guessed">stnjouːprɛhtɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snjóbretti
-      accusative_sound: islex/285/285_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/285/285_45.mp3'
+      accusative_pronunciation: <span class="guessed">stnjouːprɛhtɪ</span>
       dative: snjóbretti
-      dative_sound: islex/285/285_45.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/285/285_45.mp3'
+      dative_pronunciation: <span class="guessed">stnjouːprɛhtɪ</span>
       genitive: snjóbrettis
+      genitive_pronunciation: <span class="guessed">stnjouːprɛhtɪːs</span>
     with article:
       nominative: snjóbrettið
       nominative_translation: the snowboard
+      nominative_pronunciation: <span class="guessed">stnjouːprɛhtɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: snjóbrettið
+      accusative_pronunciation: <span class="guessed">stnjouːprɛhtɪð</span>
       dative: snjóbrettinu
+      dative_pronunciation: <span class="guessed">stnjouːprɛhtɪnʏ</span>
       genitive: snjóbrettisins
 id: 1692
 gender: neuter

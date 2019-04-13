@@ -1,5 +1,7 @@
 word: fyrstur
 word_translation: first
+word_sound: 'https://media.egill.xyz/audio/islex/025/025_58.mp3'
+word_pronunciation: fɪr̥stʏr
 word_teach: true
 level: 25
 grammatical_category: adjective

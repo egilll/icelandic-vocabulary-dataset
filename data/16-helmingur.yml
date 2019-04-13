@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: helmingur
       nominative_translation: half
-      nominative_sound: islex/130/130_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/130/130_41.mp3'
+      nominative_pronunciation: hɛlmiŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: helming
+      accusative_pronunciation: hɛlmiŋk
       dative: helmingi
+      dative_pronunciation: hɛlmiɲcɪ
       genitive: helmings
+      genitive_pronunciation: hɛlmiŋks
     with article:
       nominative: helmingurinn
       nominative_translation: the half
+      nominative_pronunciation: hɛlmiŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: helminginn
+      accusative_pronunciation: hɛlmiɲcɪn
       dative: helmingnum
+      dative_pronunciation: hɛlmiŋknʏm
       genitive: helmingsins
 id: 1113
 gender: masculine

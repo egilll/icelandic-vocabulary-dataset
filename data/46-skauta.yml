@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] skauta'
     infinitive_translation: to skate
-    infinitive_sound: islex/459/459_39.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/459/459_39.mp3'
+    infinitive_pronunciation: skœiːta
     infinitive_teach: true
 id: 2327

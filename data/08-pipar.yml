@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: pipar
       nominative_translation: pepper
-      nominative_sound: islex/071/071_74.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/071/071_74.mp3'
+      nominative_pronunciation: pʰɪːpar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: pipar
-      accusative_sound: islex/071/071_74.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/071/071_74.mp3'
+      accusative_pronunciation: pʰɪːpar
       dative: pipar
-      dative_sound: islex/071/071_74.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/071/071_74.mp3'
+      dative_pronunciation: pʰɪːpar
       genitive: pipars
     with article:
       nominative: piparinn
       nominative_translation: the pepper
+      nominative_pronunciation: <span class="guessed">pʰɪːparɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: piparinn
+      accusative_pronunciation: <span class="guessed">pʰɪːparɪn</span>
       dative: piparnum
+      dative_pronunciation: pʰɪːpartnʏm
       genitive: piparsins
 id: 1502
 gender: masculine

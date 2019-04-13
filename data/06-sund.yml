@@ -6,17 +6,22 @@ conjugation:
     no article:
       nominative: sund
       nominative_translation: swimming pool
-      nominative_sound: islex/110/110_72.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/110/110_72.mp3'
+      nominative_pronunciation: sʏnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sund
-      accusative_sound: islex/110/110_72.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/110/110_72.mp3'
+      accusative_pronunciation: sʏnt
       dative: sundi
+      dative_pronunciation: sʏntɪ
       genitive: sunds
+      genitive_pronunciation: sʏnts
     with article:
       nominative: sundið
       nominative_translation: the swimming pool
+      nominative_pronunciation: sʏntɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1778

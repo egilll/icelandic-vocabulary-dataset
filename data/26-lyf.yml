@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: lyf
       nominative_translation: 'medicine, medication'
-      nominative_sound: islex/425/425_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/425/425_59.mp3'
+      nominative_pronunciation: lɪːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lyf
-      accusative_sound: islex/425/425_59.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/425/425_59.mp3'
+      accusative_pronunciation: lɪːv
       dative: lyfjum
+      dative_pronunciation: lɪvjʏm
       genitive: lyfja
+      genitive_pronunciation: lɪvja
     with article:
       nominative: lyfin
       nominative_translation: 'the medicine, the medication'
+      nominative_pronunciation: lɪːvɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lyfin
+      accusative_pronunciation: lɪːvɪn
       dative: lyfjunum
       genitive: lyfjanna
+      genitive_pronunciation: lɪvjana
 id: 1361
 gender: neuter

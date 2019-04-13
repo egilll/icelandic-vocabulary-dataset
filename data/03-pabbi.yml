@@ -6,26 +6,35 @@ conjugation:
     no article:
       nominative: pabbi
       nominative_translation: dad
-      nominative_sound: islex/337/337_29.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/337/337_29.mp3'
+      nominative_pronunciation: pʰapɪ
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: pabba
+      accusative_pronunciation: pʰapa
       dative: pabba
+      dative_pronunciation: pʰapa
       genitive: pabba
+      genitive_pronunciation: pʰapa
   plural:
     no article:
       nominative: pabbar
       nominative_translation: dads
+      nominative_pronunciation: pʰapar
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: pabba
+      accusative_pronunciation: pʰapa
       dative: pöbbum
+      dative_pronunciation: <span class="guessed">pʰœpʏm</span>
       genitive: pabba
+      genitive_pronunciation: pʰapa
     with article:
       nominative: pabbarnir
       nominative_translation: the dads
+      nominative_pronunciation: pʰapatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: pabbana

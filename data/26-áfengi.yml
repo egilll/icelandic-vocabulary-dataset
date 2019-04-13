@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: áfengi
       nominative_translation: alcohol
-      nominative_sound: islex/233/233_62.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/233/233_62.mp3'
+      nominative_pronunciation: auːfeiɲcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: áfengi
-      accusative_sound: islex/233/233_62.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/233/233_62.mp3'
+      accusative_pronunciation: auːfeiɲcɪ
       dative: áfengi
-      dative_sound: islex/233/233_62.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/233/233_62.mp3'
+      dative_pronunciation: auːfeiɲcɪ
       genitive: áfengis
+      genitive_pronunciation: auːfeiɲcɪs
     with article:
       nominative: áfengið
       nominative_translation: the alcohol
+      nominative_pronunciation: auːfeiɲcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: áfengið
+      accusative_pronunciation: auːfeiɲcɪð
       dative: áfenginu
       genitive: áfengisins
 id: 696

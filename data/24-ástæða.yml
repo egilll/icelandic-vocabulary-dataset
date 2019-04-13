@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: ástæða
       nominative_translation: a reason
-      nominative_sound: islex/267/267_68.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/267/267_68.mp3'
+      nominative_pronunciation: auːstaiða
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ástæðu
+      accusative_pronunciation: auːstaiðʏ
       dative: ástæðu
+      dative_pronunciation: auːstaiðʏ
       genitive: ástæðu
+      genitive_pronunciation: auːstaiðʏ
     with article:
       nominative: ástæðan
       nominative_translation: the reason
+      nominative_pronunciation: auːstaiðan
       nominative_teach: true
       nominative_teachtable: true
       accusative: ástæðuna
+      accusative_pronunciation: auːstaiðʏna
       dative: ástæðunni
+      dative_pronunciation: auːstaiðʏnɪ
       genitive: ástæðunnar
+      genitive_pronunciation: <span class="guessed">austaiːðʏnar</span>
   plural:
     no article:
       nominative: ástæður
       nominative_translation: reasons
+      nominative_pronunciation: auːstaiðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ástæður
+      accusative_pronunciation: auːstaiðʏr
       dative: ástæðum
+      dative_pronunciation: auːstaiðʏm
       genitive: ástæðna
     with article:
       nominative: ástæðurnar
       nominative_translation: the reasons
+      nominative_pronunciation: auːstaiðʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: ástæðurnar
+      accusative_pronunciation: auːstaiðʏtnar
       dative: ástæðunum
+      dative_pronunciation: auːstaiðɔnʏm
       genitive: ástæðnanna
+      genitive_pronunciation: <span class="guessed">austaiːðnana</span>
 id: 741
 gender: feminine

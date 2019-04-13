@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: mínúta
       nominative_translation: a minute
-      nominative_sound: islex/364/364_14.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/364/364_14.mp3'
+      nominative_pronunciation: miːnouta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mínútu
+      accusative_pronunciation: miːnoutʏ
       dative: mínútu
+      dative_pronunciation: miːnoutʏ
       genitive: mínútu
+      genitive_pronunciation: miːnoutʏ
     with article:
       nominative: mínútan
       nominative_translation: the minute
+      nominative_pronunciation: <span class="guessed">miːnuːtaːn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: mínútuna
+      accusative_pronunciation: <span class="guessed">miːnuːtʏːna</span>
       dative: mínútunni
+      dative_pronunciation: miːnoutʏnɪ
       genitive: mínútunnar
+      genitive_pronunciation: <span class="guessed">miːnuːtʏnar</span>
   plural:
     no article:
       nominative: mínútur
       nominative_translation: minutes
+      nominative_pronunciation: miːnoutʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mínútur
+      accusative_pronunciation: miːnoutʏr
       dative: mínútum
+      dative_pronunciation: miːnoutʏm
       genitive: mínútna
+      genitive_pronunciation: miːnouhtna
     with article:
       nominative: mínúturnar
       nominative_translation: the minutes
+      nominative_pronunciation: miːnoutʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: mínúturnar
+      accusative_pronunciation: miːnoutʏtnar
       dative: mínútunum
+      dative_pronunciation: miːnoutɔnʏm
       genitive: mínútnanna
+      genitive_pronunciation: <span class="guessed">miːnuːtnana</span>
 id: 1407
 gender: feminine
 recognizable: '1'

@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: flug
       nominative_translation: a flight
-      nominative_sound: islex/450/450_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/450/450_99.mp3'
+      nominative_pronunciation: flʏːɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flug
-      accusative_sound: islex/450/450_99.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/450/450_99.mp3'
+      accusative_pronunciation: flʏːɣ
       dative: flugi
+      dative_pronunciation: flʏːjɪ
       genitive: flugs
+      genitive_pronunciation: flʏxs
     with article:
       nominative: flugið
       nominative_translation: the flight
+      nominative_pronunciation: flʏːjɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: flugið
+      accusative_pronunciation: flʏːjɪð
       dative: fluginu
+      dative_pronunciation: flʏːjɪnʏ
       genitive: flugsins
+      genitive_pronunciation: flʏxsɪns
 id: 961
 gender: neuter

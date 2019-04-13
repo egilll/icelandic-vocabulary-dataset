@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: píanó
       nominative_translation: a piano
-      nominative_sound: islex/403/403_55.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/403/403_55.mp3'
+      nominative_pronunciation: pʰiːjanou
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: píanóið
       nominative_translation: the piano
+      nominative_pronunciation: pʰiːanouɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1497

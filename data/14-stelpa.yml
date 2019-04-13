@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: stelpa
       nominative_translation: a girl
-      nominative_sound: islex/115/115_52.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/115/115_52.mp3'
+      nominative_pronunciation: stɛl̥pa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stelpu
+      accusative_pronunciation: stɛl̥pʏ
       dative: stelpu
+      dative_pronunciation: stɛl̥pʏ
       genitive: stelpu
+      genitive_pronunciation: stɛl̥pʏ
     with article:
       nominative: stelpan
       nominative_translation: the girl
+      nominative_pronunciation: stɛl̥pan
       nominative_teach: true
       nominative_teachtable: true
       accusative: stelpuna
+      accusative_pronunciation: stɛl̥pʏna
       dative: stelpunni
+      dative_pronunciation: stɛl̥pʏnɪ
       genitive: stelpunnar
+      genitive_pronunciation: stɛl̥pʏnar
   plural:
     no article:
       nominative: stelpur
       nominative_translation: girls
+      nominative_pronunciation: stɛl̥pʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stelpur
+      accusative_pronunciation: stɛl̥pʏr
       dative: stelpum
+      dative_pronunciation: stɛl̥pʏm
       genitive: stelpna
+      genitive_pronunciation: stɛl̥pna
     with article:
       nominative: stelpurnar
       nominative_translation: the girls
+      nominative_pronunciation: stɛl̥pʏrtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: stelpurnar
+      accusative_pronunciation: stɛl̥pʏrtnar
       dative: stelpunum
+      dative_pronunciation: stɛl̥pɔnʏm
       genitive: stelpnanna
+      genitive_pronunciation: stɛl̥pnana
 id: 1741
 gender: feminine

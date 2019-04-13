@@ -1,5 +1,7 @@
 word: strax
 word_translation: immediately
+word_sound: 'https://media.egill.xyz/audio/islex/383/383_83.mp3'
+word_pronunciation: straks
 word_teach: true
 level: 15
 grammatical_category: other

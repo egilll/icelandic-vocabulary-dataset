@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] bursta'
     infinitive_translation: to brush
-    infinitive_sound: islex/217/217_81.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/217/217_81.mp3'
+    infinitive_pronunciation: pʏr̥sta
     infinitive_teach: true
 id: 2060

@@ -5,17 +5,20 @@ conjugation:
   active voice:
     infinitive: '[að] skoða'
     infinitive_translation: 'to have a look, to observe'
-    infinitive_sound: islex/195/195_73.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/195/195_73.mp3'
+    infinitive_pronunciation: skɔːða
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] skoðaði'
           1st person_translation: 'I had a look, I observed'
+          1st person_pronunciation: skɔːðaðɪ
           1st person_teach: true
   imperative:
     active voice:
       singular: skoðaðu!
       singular_translation: have a look!¹
+      singular_pronunciation: skɔːðaðʏ
       singular_teach: true
 id: 2340

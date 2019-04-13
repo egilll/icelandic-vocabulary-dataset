@@ -6,32 +6,43 @@ conjugation:
     no article:
       nominative: peysa
       nominative_translation: a sweater
-      nominative_sound: islex/089/089_26.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/089/089_26.mp3'
+      nominative_pronunciation: pʰeiːsa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: peysu
+      accusative_pronunciation: pʰeiːsʏ
       dative: peysu
+      dative_pronunciation: pʰeiːsʏ
       genitive: peysu
+      genitive_pronunciation: pʰeiːsʏ
     with article:
       nominative: peysan
       nominative_translation: the sweater
+      nominative_pronunciation: pʰeiːsan
       nominative_teach: true
       nominative_teachtable: true
       accusative: peysuna
+      accusative_pronunciation: pʰeiːsʏna
       dative: peysunni
+      dative_pronunciation: pʰeiːsʏnɪ
       genitive: peysunnar
   plural:
     no article:
       nominative: peysur
       nominative_translation: sweaters
+      nominative_pronunciation: pʰeiːsʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: peysur
+      accusative_pronunciation: pʰeiːsʏr
       dative: peysum
+      dative_pronunciation: pʰɛːjsʏm
       genitive: peysa
-      genitive_sound: islex/089/089_26.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/089/089_26.mp3'
+      genitive_pronunciation: pʰeiːsa
     with article:
       nominative: peysurnar
       nominative_translation: the sweaters

@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: klipping
       nominative_translation: a haircut
-      nominative_sound: islex/307/307_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/307/307_59.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: klippingu
+      accusative_pronunciation: kʰlɪhpiŋkʏ
       dative: klippingu
+      dative_pronunciation: kʰlɪhpiŋkʏ
       genitive: klippingar
     with article:
       nominative: klippingin
@@ -19,6 +21,7 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: klippinguna
+      accusative_pronunciation: kʰlɪhpiŋkʏna
       dative: klippingunni
       genitive: klippingarinnar
   plural:

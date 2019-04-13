@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: kvensjúkdómalæknir
       nominative_translation: a gynaecologist
-      nominative_sound: islex/225/225_21.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/225/225_21.mp3'
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

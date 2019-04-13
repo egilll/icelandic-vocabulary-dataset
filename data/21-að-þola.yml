@@ -5,17 +5,20 @@ conjugation:
   active voice:
     infinitive: '[að] þola'
     infinitive_translation: to tolerate
-    infinitive_sound: islex/261/261_26.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/261/261_26.mp3'
+    infinitive_pronunciation: θɔːla
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] þoli'
           1st person_translation: I tolerate
+          1st person_pronunciation: θɔːlɪ
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] þoldi'
           1st person_translation: I tolerated
+          1st person_pronunciation: θɔltɪ
           1st person_teach: true
 id: 2012

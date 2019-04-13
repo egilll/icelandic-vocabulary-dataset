@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: hlutverk
       nominative_translation: a role
-      nominative_sound: islex/186/186_70.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/186/186_70.mp3'
+      nominative_pronunciation: l̥ʏːtvɛr̥k
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hlutverk
-      accusative_sound: islex/186/186_70.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/186/186_70.mp3'
+      accusative_pronunciation: l̥ʏːtvɛr̥k
       dative: hlutverki
+      dative_pronunciation: l̥ʏːtvɛr̥cɪ
       genitive: hlutverks
+      genitive_pronunciation: l̥ʏːtvɛr̥ks
     with article:
       nominative: hlutverkið
       nominative_translation: the role
+      nominative_pronunciation: l̥ʏːtvɛr̥cɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hlutverkið
+      accusative_pronunciation: l̥ʏːtvɛr̥cɪð
       dative: hlutverkinu
+      dative_pronunciation: l̥ʏːtvɛr̥cɪnʏ
       genitive: hlutverksins
+      genitive_pronunciation: <span class="guessed">l̥ʏːtvɛr̥ksɪns</span>
 id: 1140
 gender: neuter

@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: snillingur
       nominative_translation: a genius
-      nominative_sound: islex/054/054_00.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/054/054_00.mp3'
+      nominative_pronunciation: stnɪtliŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snilling
+      accusative_pronunciation: stnɪtliŋk
       dative: snillingi
+      dative_pronunciation: <span class="guessed">stnɪtliŋkɪː</span>
       genitive: snillings
     with article:
       nominative: snillingurinn
       nominative_translation: the genius
+      nominative_pronunciation: stnɪtliŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: snillinginn
+      accusative_pronunciation: <span class="guessed">stnɪtliŋkɪn</span>
       dative: snillingnum
       genitive: snillingsins
 id: 1690

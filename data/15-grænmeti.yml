@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: grænmeti
       nominative_translation: vegetable
-      nominative_sound: islex/462/462_12.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/462/462_12.mp3'
+      nominative_pronunciation: kraimɛtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
@@ -14,6 +15,7 @@ conjugation:
     with article:
       nominative: grænmetið
       nominative_translation: the vegetable
+      nominative_pronunciation: kraimɛtɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1042

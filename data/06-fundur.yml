@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: fundur
       nominative_translation: a meeting
-      nominative_sound: islex/454/454_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/454/454_64.mp3'
+      nominative_pronunciation: fʏntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fund
+      accusative_pronunciation: fʏnt
       dative: fundi
+      dative_pronunciation: fʏntɪ
       genitive: fundar
+      genitive_pronunciation: fʏntar
     with article:
       nominative: fundurinn
       nominative_translation: the meeting
+      nominative_pronunciation: fʏntʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fundinn
-      accusative_sound: islex/139/139_72.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/139/139_72.mp3'
+      accusative_pronunciation: fʏntɪn
       dative: fundinum
+      dative_pronunciation: fʏntɪnʏm
       genitive: fundarins
+      genitive_pronunciation: fʏntarɪns
 id: 997
 gender: masculine

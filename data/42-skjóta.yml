@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] skjóta'
     infinitive_translation: to shoot
-    infinitive_sound: islex/325/325_99.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/325/325_99.mp3'
+    infinitive_pronunciation: scouːta
     infinitive_teach: true
     indicative:
       present:
@@ -16,20 +17,24 @@ conjugation:
         plural:
           1st person: '[við] skjótum'
           1st person_translation: we shoot
+          1st person_pronunciation: scouːtʏm
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] skaut'
           1st person_translation: I shot
-          1st person_sound: islex/177/177_79.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/177/177_79.mp3'
+          1st person_pronunciation: skœiːt
           1st person_teach: true
         plural:
           1st person: '[við] skutum'
           1st person_translation: we shot
+          1st person_pronunciation: skʏːtʏm
           1st person_teach: true
   supine:
     active voice: '[ég hef] skotið'
     active voice_translation: I have shot
+    active voice_pronunciation: skɔːtɪð
     active voice_teach: true
   imperative:
     active voice:

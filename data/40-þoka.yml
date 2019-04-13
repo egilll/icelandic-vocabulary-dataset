@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: þoka
       nominative_translation: a fog
-      nominative_sound: islex/123/123_76.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/123/123_76.mp3'
+      nominative_pronunciation: θɔːka
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þoku
+      accusative_pronunciation: θɔːkʏ
       dative: þoku
+      dative_pronunciation: θɔːkʏ
       genitive: þoku
+      genitive_pronunciation: θɔːkʏ
     with article:
       nominative: þokan
       nominative_translation: the fog
+      nominative_pronunciation: θɔːkan
       nominative_teach: true
       nominative_teachtable: true
       accusative: þokuna
+      accusative_pronunciation: θɔːkʏna
       dative: þokunni
+      dative_pronunciation: θɔːkʏnɪ
       genitive: þokunnar
 id: 1958
 gender: feminine

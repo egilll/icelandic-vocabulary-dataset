@@ -6,23 +6,31 @@ conjugation:
     no article:
       nominative: mjólk
       nominative_translation: milk
-      nominative_sound: islex/353/353_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/353/353_18.mp3'
+      nominative_pronunciation: mjoul̥k
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mjólk
-      accusative_sound: islex/353/353_18.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/353/353_18.mp3'
+      accusative_pronunciation: mjoul̥k
       dative: mjólk
-      dative_sound: islex/353/353_18.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/353/353_18.mp3'
+      dative_pronunciation: mjoul̥k
       genitive: mjólkur
+      genitive_pronunciation: mjoul̥kʏr
     with article:
       nominative: mjólkin
       nominative_translation: the milk
+      nominative_pronunciation: mjoul̥cɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: mjólkina
+      accusative_pronunciation: mjoul̥kɪna
       dative: mjólkinni
+      dative_pronunciation: mjoul̥cɪnɪ
       genitive: mjólkurinnar
+      genitive_pronunciation: <span class="guessed">mjoul̥kʏrɪnar</span>
 id: 1410
 gender: feminine
 recognizable: '1'

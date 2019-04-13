@@ -6,17 +6,21 @@ conjugation:
     no article:
       nominative: skap
       nominative_translation: mood
-      nominative_sound: islex/425/425_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/425/425_10.mp3'
+      nominative_pronunciation: skaːp
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skap
-      accusative_sound: islex/425/425_10.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/425/425_10.mp3'
+      accusative_pronunciation: skaːp
       dative: skapi
+      dative_pronunciation: skaːpɪ
       genitive: skaps
     with article:
       nominative: skapið
       nominative_translation: the mood
+      nominative_pronunciation: skaːpɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1635

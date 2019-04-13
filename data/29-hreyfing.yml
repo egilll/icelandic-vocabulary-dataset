@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: hreyfing
       nominative_translation: movement
-      nominative_sound: islex/120/120_06.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/120/120_06.mp3'
+      nominative_pronunciation: r̥eiːviŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hreyfingu
+      accusative_pronunciation: r̥eiːviŋkʏ
       dative: hreyfingu
+      dative_pronunciation: r̥eiːviŋkʏ
       genitive: hreyfingar
+      genitive_pronunciation: r̥eiːviŋkar
     with article:
       nominative: hreyfingin
       nominative_translation: the movement
+      nominative_pronunciation: r̥eiːviɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hreyfinguna
+      accusative_pronunciation: r̥eiːviŋkʏna
       dative: hreyfingunni
+      dative_pronunciation: r̥eiːviŋkʏnɪ
       genitive: hreyfingarinnar
+      genitive_pronunciation: r̥eiːviŋkarɪnar
   plural:
     no article:
       nominative: hreyfingar
       nominative_translation: movements
+      nominative_pronunciation: r̥eiːviŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hreyfingar
+      accusative_pronunciation: r̥eiːviŋkar
       dative: hreyfingum
+      dative_pronunciation: r̥eiːviŋkʏm
       genitive: hreyfinga
+      genitive_pronunciation: r̥eiːviŋka
     with article:
       nominative: hreyfingarnar
       nominative_translation: the movements
+      nominative_pronunciation: r̥eiːviŋkatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: hreyfingarnar
+      accusative_pronunciation: r̥eiːviŋkatnar
       dative: hreyfingunum
+      dative_pronunciation: r̥eiːviŋkɔnʏm
       genitive: hreyfinganna
+      genitive_pronunciation: <span class="guessed">r̥eiːviŋkana</span>
 id: 1165
 gender: feminine

@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: ormur
       nominative_translation: a worm
-      nominative_sound: islex/435/435_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/435/435_99.mp3'
+      nominative_pronunciation: ɔrmʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -16,6 +17,7 @@ conjugation:
     with article:
       nominative: ormurinn
       nominative_translation: the worm
+      nominative_pronunciation: ɔrmʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: orminn
@@ -25,15 +27,19 @@ conjugation:
     no article:
       nominative: ormar
       nominative_translation: worms
+      nominative_pronunciation: ɔrmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: orma
+      accusative_pronunciation: ɔrma
       dative: ormum
       genitive: orma
+      genitive_pronunciation: ɔrma
     with article:
       nominative: ormarnir
       nominative_translation: the worms
+      nominative_pronunciation: ɔrmatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: ormana

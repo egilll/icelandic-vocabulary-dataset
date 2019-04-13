@@ -5,13 +5,15 @@ conjugation:
   active voice:
     infinitive: '[að] banka'
     infinitive_translation: to knock
-    infinitive_sound: islex/381/381_99.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/381/381_99.mp3'
+    infinitive_pronunciation: pauŋ̊ka
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] bankaði'
           1st person_translation: I knocked
+          1st person_pronunciation: pauŋ̊kaðɪ
           1st person_teach: true
         plural:
           1st person: '[við] bönkuðum'

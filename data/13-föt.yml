@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: föt
       nominative_translation: clothes
-      nominative_sound: islex/076/076_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/076/076_10.mp3'
+      nominative_pronunciation: fœːt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: föt
-      accusative_sound: islex/076/076_10.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/076/076_10.mp3'
+      accusative_pronunciation: fœːt
       dative: fötum
+      dative_pronunciation: fœːtʏm
       genitive: fata
-      genitive_sound: islex/197/197_31.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/197/197_31.mp3'
+      genitive_pronunciation: faːta
     with article:
       nominative: fötin
       nominative_translation: the clothes
+      nominative_pronunciation: fœːtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fötin
+      accusative_pronunciation: fœːtɪn
       dative: fötunum
+      dative_pronunciation: fœːtɔnʏm
       genitive: fatanna
+      genitive_pronunciation: faːtana
 id: 975
 gender: neuter

@@ -6,26 +6,35 @@ conjugation:
     no article:
       nominative: kvöld
       nominative_translation: an evening
-      nominative_sound: islex/276/276_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/276/276_58.mp3'
+      nominative_pronunciation: kʰvœlt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kvöld
-      accusative_sound: islex/276/276_58.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/276/276_58.mp3'
+      accusative_pronunciation: kʰvœlt
       dative: kvöldi
+      dative_pronunciation: kʰvœltɪ
       genitive: kvölds
+      genitive_pronunciation: kʰvœlts
     with article:
       nominative: kvöldið
       nominative_translation: the evening
+      nominative_pronunciation: kʰvœltɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: kvöldið
+      accusative_pronunciation: kʰvœltɪð
       dative: kvöldinu
+      dative_pronunciation: kʰvœltɪnʏ
       genitive: kvöldsins
+      genitive_pronunciation: kʰvœltsɪns
   plural:
     with article:
       nominative: kvöldin
       nominative_translation: the evenings
+      nominative_pronunciation: kʰvœltɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1279

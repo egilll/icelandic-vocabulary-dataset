@@ -6,19 +6,25 @@ conjugation:
     no article:
       nominative: misskilningur
       nominative_translation: a misunderstanding
-      nominative_sound: islex/298/298_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/298/298_85.mp3'
+      nominative_pronunciation: mɪːscɪlniŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: misskilning
+      accusative_pronunciation: mɪːscɪlniŋk
       dative: misskilningi
+      dative_pronunciation: mɪːscɪlniɲcɪ
       genitive: misskilnings
+      genitive_pronunciation: mɪːscɪlniŋks
     with article:
       nominative: misskilningurinn
       nominative_translation: the misunderstanding
+      nominative_pronunciation: <span class="guessed">mɪːscɪlniŋkʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: misskilninginn
+      accusative_pronunciation: <span class="guessed">mɪːscɪlniŋkɪn</span>
       dative: misskilningnum
       genitive: misskilningsins
 id: 1408

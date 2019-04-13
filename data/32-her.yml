@@ -6,10 +6,14 @@ conjugation:
     with article:
       nominative: herinn
       nominative_translation: the army
+      nominative_pronunciation: hɛːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: herinn
+      accusative_pronunciation: hɛːrɪn
       dative: hernum
+      dative_pronunciation: hɛrtnʏm
       genitive: hersins
+      genitive_pronunciation: hɛr̥sɪns
 id: 1115
 gender: masculine

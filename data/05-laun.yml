@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: laun
       nominative_translation: salary
-      nominative_sound: islex/105/105_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/105/105_45.mp3'
+      nominative_pronunciation: lœiːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: laun
-      accusative_sound: islex/105/105_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/105/105_45.mp3'
+      accusative_pronunciation: lœiːn
       dative: launum
+      dative_pronunciation: lœiːnʏm
       genitive: launa
-      genitive_sound: islex/043/043_87.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/043/043_87.mp3'
+      genitive_pronunciation: lœiːna
     with article:
       nominative: launin
       nominative_translation: the salary
+      nominative_pronunciation: lœiːnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: launin
+      accusative_pronunciation: lœiːnɪn
       dative: laununum
+      dative_pronunciation: lœiːnɔnʏm
       genitive: launanna
+      genitive_pronunciation: <span class="guessed">lœiːnana</span>
 id: 1301
 gender: neuter

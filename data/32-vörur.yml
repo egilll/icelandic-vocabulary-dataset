@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: vörur
       nominative_translation: products
+      nominative_pronunciation: vœːrʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vörur
+      accusative_pronunciation: vœːrʏr
       dative: vörum
+      dative_pronunciation: vœːrʏm
       genitive: vara
-      genitive_sound: islex/119/119_37.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/119/119_37.mp3'
+      genitive_pronunciation: vaːra
     with article:
       nominative: vörurnar
       nominative_translation: the products
+      nominative_pronunciation: vœːrʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: vörurnar
+      accusative_pronunciation: vœːrʏtnar
       dative: vörunum
+      dative_pronunciation: vœːrɔnʏm
       genitive: varanna
+      genitive_pronunciation: <span class="guessed">vaːrana</span>
 id: 1889
 gender: feminine

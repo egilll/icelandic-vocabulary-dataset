@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: ruslatunna
       nominative_translation: a trashcan
-      nominative_sound: islex/331/331_11.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/331/331_11.mp3'
+      nominative_pronunciation: <span class="guessed">rʏstl̥aːtʏna</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ruslatunnu
+      accusative_pronunciation: <span class="guessed">rʏstl̥aːtʏnʏ</span>
       dative: ruslatunnu
+      dative_pronunciation: <span class="guessed">rʏstl̥aːtʏnʏ</span>
       genitive: ruslatunnu
+      genitive_pronunciation: <span class="guessed">rʏstl̥aːtʏnʏ</span>
     with article:
       nominative: ruslatunnan
       nominative_translation: the trashcan

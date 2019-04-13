@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: stríð
       nominative_translation: a war
-      nominative_sound: islex/330/330_65.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/330/330_65.mp3'
+      nominative_pronunciation: striːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stríð
-      accusative_sound: islex/330/330_65.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/330/330_65.mp3'
+      accusative_pronunciation: striːð
       dative: stríði
+      dative_pronunciation: striːðɪ
       genitive: stríðs
+      genitive_pronunciation: striðs
     with article:
       nominative: stríðið
       nominative_translation: the war
+      nominative_pronunciation: striːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: stríðið
+      accusative_pronunciation: striːðɪð
       dative: stríðinu
+      dative_pronunciation: striːðɪnʏ
       genitive: stríðsins
+      genitive_pronunciation: striðsɪns
 id: 1759
 gender: neuter

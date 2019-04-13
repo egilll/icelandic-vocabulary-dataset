@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: fjallganga
       nominative_translation: a hike
-      nominative_sound: islex/099/099_00.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/099/099_00.mp3'
+      nominative_pronunciation: <span class="guessed">fjatl̥kaŋka</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fjallgöngu
+      accusative_pronunciation: <span class="guessed">fjatl̥kœiŋkʏ</span>
       dative: fjallgöngu
+      dative_pronunciation: <span class="guessed">fjatl̥kœiŋkʏ</span>
       genitive: fjallgöngu
+      genitive_pronunciation: <span class="guessed">fjatl̥kœiŋkʏ</span>
     with article:
       nominative: fjallgangan
       nominative_translation: the hike
+      nominative_pronunciation: <span class="guessed">fjatl̥kaŋkan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjallgönguna
+      accusative_pronunciation: <span class="guessed">fjatl̥kœiŋkʏna</span>
       dative: fjallgöngunni
+      dative_pronunciation: <span class="guessed">fjatl̥kœiŋkʏnɪ</span>
       genitive: fjallgöngunnar
+      genitive_pronunciation: <span class="guessed">fjatl̥kœiŋkʏnar</span>
 id: 946
 gender: feminine

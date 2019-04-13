@@ -6,21 +6,23 @@ conjugation:
     no article:
       nominative: typpi
       nominative_translation: a penis
-      nominative_sound: islex/301/301_26.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/301/301_26.mp3'
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: typpi
-      accusative_sound: islex/301/301_26.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/301/301_26.mp3'
       dative: typpi
-      dative_sound: islex/301/301_26.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/301/301_26.mp3'
       genitive: typpis
     with article:
       nominative: typpið
       nominative_translation: the penis
+      nominative_pronunciation: tʰɪhpɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: typpið
+      accusative_pronunciation: tʰɪhpɪð
       dative: typpinu
       genitive: typpisins
 id: 1860

@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: bak
       nominative_translation: a back
-      nominative_sound: islex/016/016_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/016/016_59.mp3'
+      nominative_pronunciation: paːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bak
-      accusative_sound: islex/016/016_59.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/016/016_59.mp3'
+      accusative_pronunciation: paːk
       dative: baki
+      dative_pronunciation: paːcɪ
       genitive: baks
-      genitive_sound: islex/035/035_09.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/035/035_09.mp3'
     with article:
       nominative: bakið
       nominative_translation: the back
+      nominative_pronunciation: paːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: bakið
+      accusative_pronunciation: paːcɪð
       dative: bakinu
+      dative_pronunciation: paːcɪnʏ
       genitive: baksins
 id: 760
 gender: neuter

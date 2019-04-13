@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: sykur
       nominative_translation: sugar
-      nominative_sound: islex/302/302_65.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/302/302_65.mp3'
+      nominative_pronunciation: sɪːkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sykur
-      accusative_sound: islex/302/302_65.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/302/302_65.mp3'
+      accusative_pronunciation: sɪːkʏr
       dative: sykri
+      dative_pronunciation: sɪːkrɪ
       genitive: sykurs
+      genitive_pronunciation: sɪːkʏr̥s
     with article:
       nominative: sykurinn
       nominative_translation: the sugar
+      nominative_pronunciation: <span class="guessed">sɪːkʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: sykurinn
+      accusative_pronunciation: <span class="guessed">sɪːkʏrɪn</span>
       dative: sykrinum
+      dative_pronunciation: sɪːkrɪnʏm
       genitive: sykursins
 id: 1800
 gender: masculine

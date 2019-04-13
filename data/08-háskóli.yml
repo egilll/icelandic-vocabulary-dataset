@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: háskóli
       nominative_translation: a university
-      nominative_sound: islex/188/188_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/188/188_73.mp3'
+      nominative_pronunciation: hauːskoulɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: háskóla
+      accusative_pronunciation: hauːskoula
       dative: háskóla
+      dative_pronunciation: hauːskoula
       genitive: háskóla
+      genitive_pronunciation: hauːskoula
     with article:
       nominative: háskólinn
       nominative_translation: the university
+      nominative_pronunciation: hauːskoulɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: háskólann
+      accusative_pronunciation: hauːskoulan
       dative: háskólanum
+      dative_pronunciation: hauːskoulanʏm
       genitive: háskólans
+      genitive_pronunciation: hauːskoulans
   plural:
     no article:
       nominative: háskólar
       nominative_translation: universities
+      nominative_pronunciation: hauːskoular
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: háskóla
+      accusative_pronunciation: hauːskoula
       dative: háskólum
+      dative_pronunciation: hauːskoulʏm
       genitive: háskóla
+      genitive_pronunciation: hauːskoula
     with article:
       nominative: háskólarnir
       nominative_translation: the universities
+      nominative_pronunciation: <span class="guessed">hauːskouːlartnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: háskólana
+      accusative_pronunciation: <span class="guessed">hauːskouːlana</span>
       dative: háskólunum
+      dative_pronunciation: <span class="guessed">hauːskouːlɔnʏm</span>
       genitive: háskólanna
+      genitive_pronunciation: hauːskoulana
 id: 1094
 gender: masculine

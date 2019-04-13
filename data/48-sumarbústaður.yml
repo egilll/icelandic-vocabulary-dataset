@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sumarbústaður
       nominative_translation: a summer house
-      nominative_sound: islex/280/280_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/280/280_50.mp3'
+      nominative_pronunciation: <span class="guessed">sʏːmarpuːstaðʏr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sumarbústaðurinn
       nominative_translation: the summer house
+      nominative_pronunciation: <span class="guessed">sʏːmarpuːstaðʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1775

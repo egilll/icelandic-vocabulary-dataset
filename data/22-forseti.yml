@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: forseti
       nominative_translation: a president
-      nominative_sound: islex/324/324_78.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/324/324_78.mp3'
+      nominative_pronunciation: fɔr̥sɛtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: forseta
+      accusative_pronunciation: fɔr̥sɛta
       dative: forseta
+      dative_pronunciation: fɔr̥sɛta
       genitive: forseta
+      genitive_pronunciation: fɔr̥sɛta
     with article:
       nominative: forsetinn
       nominative_translation: the president
+      nominative_pronunciation: fɔr̥sɛtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: forsetann
+      accusative_pronunciation: fɔr̥sɛtan
       dative: forsetanum
+      dative_pronunciation: fɔr̥sɛtanʏm
       genitive: forsetans
+      genitive_pronunciation: fɔr̥sɛtans
 id: 971
 gender: masculine

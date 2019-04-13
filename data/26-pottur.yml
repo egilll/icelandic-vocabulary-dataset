@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: pottur
       nominative_translation: a pot
-      nominative_sound: islex/015/015_03.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/015/015_03.mp3'
+      nominative_pronunciation: pʰɔhtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: pott
+      accusative_pronunciation: pʰɔht
       dative: potti
+      dative_pronunciation: pʰɔhtɪ
       genitive: potts
     with article:
       nominative: potturinn
       nominative_translation: the pot
+      nominative_pronunciation: pʰɔhtʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: pottinn
+      accusative_pronunciation: pʰɔhtɪn
       dative: pottinum
+      dative_pronunciation: pʰɔhtɪnʏm
       genitive: pottsins
   plural:
     no article:
@@ -29,16 +35,22 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: potta
+      accusative_pronunciation: pʰɔhta
       dative: pottum
+      dative_pronunciation: pʰɔhtʏm
       genitive: potta
+      genitive_pronunciation: pʰɔhta
     with article:
       nominative: pottarnir
       nominative_translation: the pots
       nominative_teach: true
       nominative_teachtable: true
       accusative: pottana
+      accusative_pronunciation: pʰɔhtana
       dative: pottunum
+      dative_pronunciation: pʰɔhtɔnʏm
       genitive: pottanna
+      genitive_pronunciation: <span class="guessed">pʰɔhtana</span>
 id: 1520
 gender: masculine
 recognizable: '1'

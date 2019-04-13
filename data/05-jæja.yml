@@ -1,5 +1,7 @@
 word: jæja
 word_translation: 'Well..., All right then!'
+word_sound: 'https://media.egill.xyz/audio/islex/130/130_60.mp3'
+word_pronunciation: jaija
 word_teach: true
 level: 5
 grammatical_category: phrase

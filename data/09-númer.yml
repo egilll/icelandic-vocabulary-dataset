@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: númer
       nominative_translation: a number
-      nominative_sound: islex/293/293_54.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/293/293_54.mp3'
+      nominative_pronunciation: nuːmɛr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: númer
-      accusative_sound: islex/293/293_54.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/293/293_54.mp3'
+      accusative_pronunciation: nuːmɛr
       dative: númeri
+      dative_pronunciation: nuːmɛrɪ
       genitive: númers
     with article:
       nominative: númerið
       nominative_translation: the number
+      nominative_pronunciation: nuːmɛrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: númerið
+      accusative_pronunciation: nuːmɛrɪð
       dative: númerinu
+      dative_pronunciation: nuːmɛrɪnʏ
       genitive: númersins
 id: 1458
 gender: neuter

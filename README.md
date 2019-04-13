@@ -4,9 +4,10 @@
 
 This dataset contains:
 
-- 2.000+ Icelandic words for use in games teaching vocabulary or conjugation to language learners
+- 2.000+ Icelandic words for use in games teaching vocabulary or inflection to language learners
 - English translations
-- Necessary conjugation forms for nouns and verbs
+- Necessary inflection forms for nouns and verbs
+- Pronunciation in IPA (may in some cases contain errors such as missing aspiration signs)
 - Words are sorted by level of importance
 
 Authors:
@@ -16,3 +17,9 @@ Authors:
 - Zoë Vala Sands
 
 [Contact us](mailto:egillsigurdur@gmail.com) to suggest improvements.
+
+---
+
+[Pronunciation](https://github.com/egilll/icelandic-pronunciation-dataset) derived from the [Pronunciation Dictionary for Icelandic](http://malfong.is/?pg=framburdur&lang=en) by the [Hjal project](http://www.malfong.is/index.php?pg=hjal&lang=en) & Eiríkur Rögnvaldsson (released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)).
+
+Inflection tables partially derived from [Wiktionary](https://en.wiktionary.org) (released under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)).

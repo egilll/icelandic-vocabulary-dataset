@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: forrit
       nominative_translation: a computer program
-      nominative_sound: islex/429/429_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/429/429_91.mp3'
+      nominative_pronunciation: fɔrɪt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: forrit
-      accusative_sound: islex/429/429_91.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/429/429_91.mp3'
+      accusative_pronunciation: fɔrɪt
       dative: forriti
+      dative_pronunciation: <span class="guessed">fɔːrrɪːtɪ</span>
       genitive: forrits
+      genitive_pronunciation: fɔrɪts
     with article:
       nominative: forritið
       nominative_translation: the computer program
+      nominative_pronunciation: fɔrɪtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: forritið
+      accusative_pronunciation: fɔrɪtɪð
       dative: forritinu
+      dative_pronunciation: fɔrɪtɪnʏ
       genitive: forritsins
+      genitive_pronunciation: <span class="guessed">fɔːrrɪːtsɪns</span>
 id: 970
 gender: neuter

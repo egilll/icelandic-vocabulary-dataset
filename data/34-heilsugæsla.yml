@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: heilsugæsla
       nominative_translation: a health care facility
-      nominative_sound: islex/376/376_72.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/376/376_72.mp3'
+      nominative_pronunciation: heilsʏcaistla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: heilsugæslu
+      accusative_pronunciation: heilsʏcaistlʏ
       dative: heilsugæslu
+      dative_pronunciation: heilsʏcaistlʏ
       genitive: heilsugæslu
+      genitive_pronunciation: heilsʏcaistlʏ
     with article:
       nominative: heilsugæslan
       nominative_translation: the health care facility
+      nominative_pronunciation: hɛjlsʏcajstlan
       nominative_teach: true
       nominative_teachtable: true
       accusative: heilsugæsluna
+      accusative_pronunciation: heilsʏcaistlʏna
       dative: heilsugæslunni
+      dative_pronunciation: heilsʏcaistlʏnɪ
       genitive: heilsugæslunnar
+      genitive_pronunciation: heilsʏcaistlʏnar
 id: 1103
 gender: feminine

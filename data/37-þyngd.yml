@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: þyngd
       nominative_translation: weight
-      nominative_sound: islex/364/364_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/364/364_31.mp3'
+      nominative_pronunciation: θiŋt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þyngd
-      accusative_sound: islex/364/364_31.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/364/364_31.mp3'
+      accusative_pronunciation: θiŋt
       dative: þyngd
-      dative_sound: islex/364/364_31.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/364/364_31.mp3'
+      dative_pronunciation: θiŋt
       genitive: þyngdar
+      genitive_pronunciation: θiŋtar
     with article:
       nominative: þyngdin
       nominative_translation: the weight
       nominative_teach: true
       nominative_teachtable: true
       accusative: þyngdina
+      accusative_pronunciation: θiŋtɪna
       dative: þyngdinni
+      dative_pronunciation: <span class="guessed">θiŋtɪnɪ</span>
       genitive: þyngdarinnar
+      genitive_pronunciation: <span class="guessed">θiŋtarɪnar</span>
 id: 1969
 gender: feminine

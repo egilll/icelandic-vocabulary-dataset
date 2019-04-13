@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: póstkort
       nominative_translation: a postcard
-      nominative_sound: islex/345/345_84.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/345/345_84.mp3'
+      nominative_pronunciation: pʰoustkɔr̥t
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: póstkortið
       nominative_translation: the postcard
+      nominative_pronunciation: <span class="guessed">pʰoustkʰɔr̥tɪð</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1518

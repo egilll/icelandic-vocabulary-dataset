@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: veður
       nominative_translation: weather
-      nominative_sound: islex/277/277_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/277/277_24.mp3'
+      nominative_pronunciation: vɛːðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: veður
-      accusative_sound: islex/277/277_24.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/277/277_24.mp3'
+      accusative_pronunciation: vɛːðʏr
       dative: veðri
+      dative_pronunciation: vɛðrɪ
       genitive: veðurs
+      genitive_pronunciation: vɛːðʏr̥s
     with article:
       nominative: veðrið
       nominative_translation: the weather
+      nominative_pronunciation: vɛðrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: veðrið
+      accusative_pronunciation: vɛðrɪð
       dative: veðrinu
+      dative_pronunciation: vɛðrɪnʏ
       genitive: veðursins
 id: 1898
 gender: neuter

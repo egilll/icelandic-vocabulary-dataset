@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: læknir
       nominative_translation: a doctor
-      nominative_sound: islex/057/057_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/057/057_30.mp3'
+      nominative_pronunciation: laihknɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lækni
+      accusative_pronunciation: laihknɪ
       dative: lækni
+      dative_pronunciation: laihknɪ
       genitive: læknis
+      genitive_pronunciation: laihknɪs
     with article:
       nominative: læknirinn
       nominative_translation: the doctor
+      nominative_pronunciation: laihknɪrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lækninn
+      accusative_pronunciation: laihknɪn
       dative: lækninum
+      dative_pronunciation: laihknɪnʏm
       genitive: læknisins
+      genitive_pronunciation: laihknɪsɪns
   plural:
     no article:
       nominative: læknar
       nominative_translation: doctors
+      nominative_pronunciation: laihknar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lækna
-      accusative_sound: islex/432/432_95.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/432/432_95.mp3'
+      accusative_pronunciation: laihkna
       dative: læknum
+      dative_pronunciation: laihknʏm
       genitive: lækna
-      genitive_sound: islex/432/432_95.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/432/432_95.mp3'
+      genitive_pronunciation: laihkna
     with article:
       nominative: læknarnir
       nominative_translation: the doctors
+      nominative_pronunciation: laihknatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: læknana
+      accusative_pronunciation: laihknana
       dative: læknunum
       genitive: læknanna
+      genitive_pronunciation: laihknana
 id: 1284
 gender: masculine

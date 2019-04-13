@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: tilraun
       nominative_translation: an attempt; an experiment
-      nominative_sound: islex/011/011_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/011/011_01.mp3'
+      nominative_pronunciation: tʰɪlrœin
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tilraun
-      accusative_sound: islex/011/011_01.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/011/011_01.mp3'
+      accusative_pronunciation: tʰɪlrœin
       dative: tilraun
-      dative_sound: islex/011/011_01.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/011/011_01.mp3'
+      dative_pronunciation: tʰɪlrœin
       genitive: tilraunar
+      genitive_pronunciation: <span class="guessed">tʰɪːlrœiːnar</span>
     with article:
       nominative: tilraunin
       nominative_translation: the attempt; the experiment
+      nominative_pronunciation: tʰɪlrœinɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: tilraunina
+      accusative_pronunciation: tʰɪlrœinɪna
       dative: tilrauninni
+      dative_pronunciation: tʰɪlrœinɪnɪ
       genitive: tilraunarinnar
+      genitive_pronunciation: tʰɪlrœjnarɪnar
   plural:
     no article:
       nominative: tilraunir
       nominative_translation: attempts; experiments
+      nominative_pronunciation: tʰɪlrœinɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tilraunir
+      accusative_pronunciation: tʰɪlrœinɪr
       dative: tilraunum
+      dative_pronunciation: tʰɪlrœinʏm
       genitive: tilrauna
+      genitive_pronunciation: tʰɪlrœina
     with article:
       nominative: tilraunirnar
       nominative_translation: the attempts; the experiments
+      nominative_pronunciation: tʰɪlrœinɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: tilraunirnar
+      accusative_pronunciation: tʰɪlrœinɪtnar
       dative: tilraununum
+      dative_pronunciation: tʰɪlrœjnɔnʏm
       genitive: tilraunanna
+      genitive_pronunciation: tʰɪlrœjnana
 id: 1831
 gender: feminine

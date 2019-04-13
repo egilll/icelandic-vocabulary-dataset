@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: hiti
       nominative_translation: 'heat, temperature; fever'
-      nominative_sound: islex/401/401_84.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/401/401_84.mp3'
+      nominative_pronunciation: hɪːtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hita
-      accusative_sound: islex/003/003_18.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/003/003_18.mp3'
+      accusative_pronunciation: hɪːta
       dative: hita
-      dative_sound: islex/003/003_18.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/003/003_18.mp3'
+      dative_pronunciation: hɪːta
       genitive: hita
-      genitive_sound: islex/003/003_18.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/003/003_18.mp3'
+      genitive_pronunciation: hɪːta
     with article:
       nominative: hitinn
       nominative_translation: 'the heat, the temperature; the fever'
+      nominative_pronunciation: hɪːtɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1123

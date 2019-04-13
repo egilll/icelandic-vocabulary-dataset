@@ -1,5 +1,7 @@
 word: takk
 word_translation: Thank you
+word_sound: 'https://media.egill.xyz/audio/islex/407/407_04.mp3'
+word_pronunciation: tʰahk
 word_teach: true
 level: 1
 grammatical_category: phrase

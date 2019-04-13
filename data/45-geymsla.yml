@@ -6,6 +6,7 @@ conjugation:
     with article:
       nominative: geymslan
       nominative_translation: the storage
+      nominative_pronunciation: ceimstlan
       nominative_teach: true
       nominative_teachtable: false
 id: 1024

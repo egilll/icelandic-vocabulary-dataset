@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: tækifæri
       nominative_translation: a chance
-      nominative_sound: islex/181/181_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/181/181_23.mp3'
+      nominative_pronunciation: tʰaiːcɪfaiːrɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tækifæri
-      accusative_sound: islex/181/181_23.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/181/181_23.mp3'
+      accusative_pronunciation: tʰaiːcɪfaiːrɪ
       dative: tækifæri
-      dative_sound: islex/181/181_23.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/181/181_23.mp3'
+      dative_pronunciation: tʰaiːcɪfaiːrɪ
       genitive: tækifæris
+      genitive_pronunciation: <span class="guessed">tʰaiːcɪfaiːrɪːs</span>
     with article:
       nominative: tækifærið
       nominative_translation: the chance
+      nominative_pronunciation: tʰaiːcɪfaiːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: tækifærið
+      accusative_pronunciation: tʰaiːcɪfaiːrɪð
       dative: tækifærinu
+      dative_pronunciation: <span class="guessed">tʰaiːcɪfaiːrɪːnʏ</span>
       genitive: tækifærisins
 id: 1808
 gender: neuter

@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: gaffall
       nominative_translation: a fork
-      nominative_sound: islex/085/085_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/085/085_64.mp3'
+      nominative_pronunciation: <span class="guessed">kaːffatl̥</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gaffal
+      accusative_pronunciation: kafal
       dative: gaffli
+      dative_pronunciation: kaflɪ
       genitive: gaffals
+      genitive_pronunciation: kafals
     with article:
       nominative: gaffallinn
       nominative_translation: the fork
+      nominative_pronunciation: <span class="guessed">kaːffatlɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: gaffalinn
+      accusative_pronunciation: kafalɪn
       dative: gafflinum
+      dative_pronunciation: kaflɪnʏm
       genitive: gaffalsins
   plural:
     no article:

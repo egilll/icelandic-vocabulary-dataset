@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sítróna
       nominative_translation: a lemon
-      nominative_sound: islex/285/285_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/285/285_58.mp3'
+      nominative_pronunciation: <span class="guessed">siːtrounaː</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sítrónan
       nominative_translation: the lemon
+      nominative_pronunciation: <span class="guessed">siːtrounaːn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1621

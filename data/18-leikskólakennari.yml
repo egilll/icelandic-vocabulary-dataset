@@ -6,19 +6,22 @@ conjugation:
     no article:
       nominative: leikskólakennari
       nominative_translation: a kindergarten teacher
-      nominative_sound: islex/428/428_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/428/428_23.mp3'
+      nominative_pronunciation: leikskoulacɛnarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: leikskólakennarinn
       nominative_translation: the kindergarten teacher
+      nominative_pronunciation: <span class="guessed">leikskoulacʰɛnarɪn</span>
       nominative_teach: false
       nominative_teachtable: false
   plural:
     no article:
       nominative: leikskólakennarar
       nominative_translation: kindergarten teachers
+      nominative_pronunciation: <span class="guessed">leikskoulacʰɛnarar</span>
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

@@ -6,15 +6,15 @@ conjugation:
     no article:
       nominative: hrærivél
       nominative_translation: a mixer
-      nominative_sound: islex/132/132_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/132/132_97.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: mixing-machine
       accusative: hrærivél
-      accusative_sound: islex/132/132_97.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/132/132_97.mp3'
       dative: hrærivél
-      dative_sound: islex/132/132_97.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/132/132_97.mp3'
       genitive: hrærivélar
     with article:
       nominative: hrærivélin

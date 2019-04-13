@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] stækka'
     infinitive_translation: to grow larger
-    infinitive_sound: islex/152/152_72.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/152/152_72.mp3'
+    infinitive_pronunciation: staihka
     infinitive_teach: true
 id: 2372

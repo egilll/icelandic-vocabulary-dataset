@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: auga
       nominative_translation: an eye
-      nominative_sound: islex/062/062_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/062/062_87.mp3'
+      nominative_pronunciation: œiːɣa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: auga
-      accusative_sound: islex/062/062_87.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/062/062_87.mp3'
+      accusative_pronunciation: œiːɣa
       dative: auga
-      dative_sound: islex/062/062_87.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/062/062_87.mp3'
+      dative_pronunciation: œiːɣa
       genitive: auga
-      genitive_sound: islex/062/062_87.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/062/062_87.mp3'
+      genitive_pronunciation: œiːɣa
     with article:
       nominative: augað
       nominative_translation: the eye
+      nominative_pronunciation: œiːɣað
       nominative_teach: true
       nominative_teachtable: true
       accusative: augað
+      accusative_pronunciation: œiːɣað
       dative: auganu
+      dative_pronunciation: œiːɣanʏ
       genitive: augans
+      genitive_pronunciation: œiːɣans
   plural:
     no article:
       nominative: augu
       nominative_translation: eyes
+      nominative_pronunciation: œiːɣʏ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: augu
+      accusative_pronunciation: œiːɣʏ
       dative: augum
+      dative_pronunciation: œiːɣʏm
       genitive: augna
+      genitive_pronunciation: œikna
     with article:
       nominative: augun
       nominative_translation: the eyes
+      nominative_pronunciation: œiːɣʏn
       nominative_teach: true
       nominative_teachtable: true
       accusative: augun
+      accusative_pronunciation: œiːɣʏn
       dative: augunum
+      dative_pronunciation: œiːɣɔnʏm
       genitive: augnanna
+      genitive_pronunciation: œiknana
 id: 747
 gender: neuter

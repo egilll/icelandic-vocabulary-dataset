@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: vísindi
       nominative_translation: science
-      nominative_sound: islex/106/106_40.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/106/106_40.mp3'
+      nominative_pronunciation: viːsɪntɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vísindi
-      accusative_sound: islex/106/106_40.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/106/106_40.mp3'
+      accusative_pronunciation: viːsɪntɪ
       dative: vísindum
+      dative_pronunciation: viːsɪntʏm
       genitive: vísinda
+      genitive_pronunciation: viːsɪnta
     with article:
       nominative: vísindin
       nominative_translation: the science
+      nominative_pronunciation: viːsɪntɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: vísindin
+      accusative_pronunciation: viːsɪntɪn
       dative: vísindunum
       genitive: vísindanna
+      genitive_pronunciation: viːsɪntana
 id: 1938
 gender: neuter

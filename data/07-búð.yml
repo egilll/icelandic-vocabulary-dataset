@@ -6,42 +6,56 @@ conjugation:
     no article:
       nominative: búð
       nominative_translation: 'a shop, a store'
-      nominative_sound: islex/333/333_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/333/333_30.mp3'
+      nominative_pronunciation: puːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: búð
-      accusative_sound: islex/333/333_30.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/333/333_30.mp3'
+      accusative_pronunciation: puːð
       dative: búð
-      dative_sound: islex/333/333_30.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/333/333_30.mp3'
+      dative_pronunciation: puːð
       genitive: búðar
     with article:
       nominative: búðin
       nominative_translation: 'the shop, the store'
+      nominative_pronunciation: puːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: búðina
+      accusative_pronunciation: puːðɪna
       dative: búðinni
+      dative_pronunciation: puːðɪnɪ
       genitive: búðarinnar
   plural:
     no article:
       nominative: búðir
       nominative_translation: 'shops, stores'
-      nominative_sound: islex/258/258_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/258/258_66.mp3'
+      nominative_pronunciation: puːðɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: búðir
-      accusative_sound: islex/258/258_66.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/258/258_66.mp3'
+      accusative_pronunciation: puːðɪr
       dative: búðum
+      dative_pronunciation: puːðʏm
       genitive: búða
+      genitive_pronunciation: puːða
     with article:
       nominative: búðirnar
       nominative_translation: 'the shops, the stores'
+      nominative_pronunciation: puːðɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: búðirnar
+      accusative_pronunciation: puːðɪtnar
       dative: búðunum
+      dative_pronunciation: puːðɔnʏm
       genitive: búðanna
+      genitive_pronunciation: puːðana
 id: 853
 gender: feminine

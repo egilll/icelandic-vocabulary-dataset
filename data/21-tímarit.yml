@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: tímarit
       nominative_translation: a magazine
-      nominative_sound: islex/221/221_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/221/221_23.mp3'
+      nominative_pronunciation: tʰiːmarɪːt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tímarit
-      accusative_sound: islex/221/221_23.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/221/221_23.mp3'
+      accusative_pronunciation: tʰiːmarɪːt
       dative: tímariti
+      dative_pronunciation: tʰiːmarɪːtɪ
       genitive: tímarits
+      genitive_pronunciation: tʰiːmarɪts
     with article:
       nominative: tímaritið
       nominative_translation: the magazine
+      nominative_pronunciation: tʰiːmarɪːtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: tímaritið
+      accusative_pronunciation: tʰiːmarɪːtɪð
       dative: tímaritinu
+      dative_pronunciation: tʰiːmarɪːtɪnʏ
       genitive: tímaritsins
+      genitive_pronunciation: tʰiːmarɪtsɪns
 id: 1834
 gender: neuter

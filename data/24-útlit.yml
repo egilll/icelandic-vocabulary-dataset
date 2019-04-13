@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: útlit
       nominative_translation: appearance
-      nominative_sound: islex/183/183_12.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/183/183_12.mp3'
+      nominative_pronunciation: uːtlɪt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: out-look
       accusative: útlit
-      accusative_sound: islex/183/183_12.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/183/183_12.mp3'
+      accusative_pronunciation: uːtlɪt
       dative: útliti
+      dative_pronunciation: uːtlɪtɪ
       genitive: útlits
+      genitive_pronunciation: uːtlɪts
     with article:
       nominative: útlitið
       nominative_translation: the appearance
+      nominative_pronunciation: uːtlɪtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: útlitið
+      accusative_pronunciation: uːtlɪtɪð
       dative: útlitinu
+      dative_pronunciation: uːtlɪtɪnʏ
       genitive: útlitsins
 id: 1880
 gender: neuter

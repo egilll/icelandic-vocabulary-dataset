@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: rigning
       nominative_translation: rain
-      nominative_sound: islex/443/443_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/443/443_19.mp3'
+      nominative_pronunciation: rɪkniŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rigningu
+      accusative_pronunciation: rɪkniŋkʏ
       dative: rigningu
+      dative_pronunciation: rɪkniŋkʏ
       genitive: rigningar
+      genitive_pronunciation: rɪkniŋkar
     with article:
       nominative: rigningin
       nominative_translation: the rain
+      nominative_pronunciation: rɪkniɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: rigninguna
+      accusative_pronunciation: <span class="guessed">rɪkniŋkʏːna</span>
       dative: rigningunni
+      dative_pronunciation: rɪkniŋkʏnɪ
       genitive: rigningarinnar
+      genitive_pronunciation: <span class="guessed">rɪkniŋkarɪnar</span>
 id: 1559
 gender: feminine

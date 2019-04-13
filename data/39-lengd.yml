@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: lengd
       nominative_translation: a length
-      nominative_sound: islex/359/359_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/359/359_24.mp3'
+      nominative_pronunciation: leiŋt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lengd
-      accusative_sound: islex/359/359_24.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/359/359_24.mp3'
+      accusative_pronunciation: leiŋt
       dative: lengd
-      dative_sound: islex/359/359_24.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/359/359_24.mp3'
+      dative_pronunciation: leiŋt
       genitive: lengdar
+      genitive_pronunciation: leiŋtar
     with article:
       nominative: lengdin
       nominative_translation: the length
+      nominative_pronunciation: lɛjŋtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lengdina
+      accusative_pronunciation: <span class="guessed">lɛjŋtɪnaː</span>
       dative: lengdinni
+      dative_pronunciation: lɛjŋtɪnɪ
       genitive: lengdarinnar
+      genitive_pronunciation: <span class="guessed">leiŋtarɪnar</span>
 id: 1318
 gender: feminine

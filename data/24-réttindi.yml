@@ -6,17 +6,22 @@ conjugation:
     no article:
       nominative: réttindi
       nominative_translation: 'rights; permits, licenses'
-      nominative_sound: islex/216/216_11.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/216/216_11.mp3'
+      nominative_pronunciation: rjɛhtɪntɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: réttindi
-      accusative_sound: islex/216/216_11.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/216/216_11.mp3'
+      accusative_pronunciation: rjɛhtɪntɪ
       dative: réttindum
+      dative_pronunciation: rjɛhtɪntʏm
       genitive: réttinda
+      genitive_pronunciation: rjɛhtɪnta
     with article:
       nominative: réttindin
       nominative_translation: 'the rights; the permits, the licenses'
+      nominative_pronunciation: rjɛhtɪntɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1556

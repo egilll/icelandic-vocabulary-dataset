@@ -6,43 +6,59 @@ conjugation:
     no article:
       nominative: borð
       nominative_translation: a table
-      nominative_sound: islex/404/404_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/404/404_41.mp3'
+      nominative_pronunciation: pɔrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: borð
-      accusative_sound: islex/404/404_41.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/404/404_41.mp3'
+      accusative_pronunciation: pɔrð
       dative: borði
-      dative_sound: islex/136/136_54.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/136/136_54.mp3'
+      dative_pronunciation: pɔrðɪ
       genitive: borðs
+      genitive_pronunciation: pɔrðs
     with article:
       nominative: borðið
       nominative_translation: the table
+      nominative_pronunciation: pɔrðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: borðið
+      accusative_pronunciation: pɔrðɪð
       dative: borðinu
+      dative_pronunciation: pɔrðɪnʏ
       genitive: borðsins
+      genitive_pronunciation: pɔrðsɪns
   plural:
     no article:
       nominative: borð
       nominative_translation: tables
-      nominative_sound: islex/404/404_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/404/404_41.mp3'
+      nominative_pronunciation: pɔrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: borð
-      accusative_sound: islex/404/404_41.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/404/404_41.mp3'
+      accusative_pronunciation: pɔrð
       dative: borðum
+      dative_pronunciation: pɔrðʏm
       genitive: borða
-      genitive_sound: islex/310/310_08.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/310/310_08.mp3'
+      genitive_pronunciation: pɔrða
     with article:
       nominative: borðin
       nominative_translation: the tables
+      nominative_pronunciation: pɔrðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: borðin
+      accusative_pronunciation: pɔrðɪn
       dative: borðunum
+      dative_pronunciation: pɔrðɔnʏm
       genitive: borðanna
+      genitive_pronunciation: pɔrðana
 id: 833
 gender: neuter

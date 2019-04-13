@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: sög
       nominative_translation: a saw
-      nominative_sound: islex/300/300_14.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/300/300_14.mp3'
+      nominative_pronunciation: sœːɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sög
-      accusative_sound: islex/300/300_14.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/300/300_14.mp3'
+      accusative_pronunciation: sœːɣ
       dative: sög
-      dative_sound: islex/300/300_14.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/300/300_14.mp3'
+      dative_pronunciation: sœːɣ
       genitive: sagar
     with article:
       nominative: sögin
@@ -22,6 +25,7 @@ conjugation:
       nominative_teachtable: true
       accusative: sögina
       dative: söginni
+      dative_pronunciation: <span class="guessed">sœːɣɪnɪ</span>
       genitive: sagarinnar
 id: 1705
 gender: feminine

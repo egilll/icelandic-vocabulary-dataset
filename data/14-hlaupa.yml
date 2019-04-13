@@ -5,56 +5,68 @@ conjugation:
   active voice:
     infinitive: '[að] hlaupa'
     infinitive_translation: to run
-    infinitive_sound: islex/225/225_08.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/225/225_08.mp3'
+    infinitive_pronunciation: l̥œiːpa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] hleyp'
           1st person_translation: I run
+          1st person_pronunciation: l̥ɛːjp
           1st person_teach: true
           2nd person: '[þú] hleypur'
           2nd person_translation: you¹ run
+          2nd person_pronunciation: l̥eiːpʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] hleypur'
           3rd person_translation: he/she/it runs
+          3rd person_pronunciation: l̥eiːpʏr
           3rd person_teach: true
         plural:
           1st person: '[við] hlaupum'
           1st person_translation: we run
+          1st person_pronunciation: l̥œiːpʏm
           1st person_teach: true
           2nd person: '[þið] hlaupið'
           2nd person_translation: you² run
+          2nd person_pronunciation: l̥œiːpɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hlaupa'
           3rd person_translation: they run
-          3rd person_sound: islex/225/225_08.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/225/225_08.mp3'
+          3rd person_pronunciation: l̥œiːpa
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] hljóp'
           1st person_translation: I ran
+          1st person_pronunciation: l̥jouːp
           1st person_teach: true
           2nd person: '[þú] hljópst'
           2nd person_translation: you¹ ran
           2nd person_teach: true
           3rd person: '[hann/hún/það] hljóp'
           3rd person_translation: he/she/it ran
+          3rd person_pronunciation: l̥jouːp
           3rd person_teach: true
         plural:
           1st person: '[við] hlupum'
           1st person_translation: we ran
+          1st person_pronunciation: l̥ʏːpʏm
           1st person_teach: true
           2nd person: '[þið] hlupuð'
           2nd person_translation: you² ran
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hlupu'
           3rd person_translation: they ran
+          3rd person_pronunciation: l̥ʏːpʏ
           3rd person_teach: true
   imperative:
     active voice:
       singular: hlauptu!
       singular_translation: run!¹
+      singular_pronunciation: l̥œiftʏ
       singular_teach: true
 id: 2157
 strong_verb_declension: true

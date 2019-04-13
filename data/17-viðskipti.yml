@@ -6,17 +6,22 @@ conjugation:
     no article:
       nominative: viðskipti
       nominative_translation: 'business, business transactions'
-      nominative_sound: islex/306/306_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/306/306_87.mp3'
+      nominative_pronunciation: vɪðscɪftɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: viðskipti
-      accusative_sound: islex/306/306_87.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/306/306_87.mp3'
+      accusative_pronunciation: vɪðscɪftɪ
       dative: viðskiptum
+      dative_pronunciation: vɪðscɪftʏm
       genitive: viðskipta
+      genitive_pronunciation: vɪðscɪfta
     with article:
       nominative: viðskiptin
       nominative_translation: 'the business, the business transactions'
+      nominative_pronunciation: vɪðscɪftɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1921

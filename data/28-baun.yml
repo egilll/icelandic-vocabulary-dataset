@@ -6,18 +6,23 @@ conjugation:
     no article:
       nominative: baunir
       nominative_translation: beans
-      nominative_sound: islex/292/292_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/292/292_99.mp3'
+      nominative_pronunciation: pœiːnɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: baunir
-      accusative_sound: islex/292/292_99.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/292/292_99.mp3'
+      accusative_pronunciation: pœiːnɪr
       dative: baunum
+      dative_pronunciation: pœiːnʏm
       genitive: bauna
-      genitive_sound: islex/267/267_12.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/267/267_12.mp3'
+      genitive_pronunciation: <span class="guessed">pjɛː aːʏːna</span>
     with article:
       nominative: baunirnar
       nominative_translation: the beans
+      nominative_pronunciation: pœinɪtnar
       nominative_teach: false
       nominative_teachtable: false
 id: 777

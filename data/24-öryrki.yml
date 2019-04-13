@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: öryrki
       nominative_translation: 'disabled person, an invalid'
-      nominative_sound: islex/235/235_56.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/235/235_56.mp3'
+      nominative_pronunciation: œːrɪr̥cɪ
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: öryrkja
+      accusative_pronunciation: œːrɪr̥ca
       dative: öryrkja
+      dative_pronunciation: œːrɪr̥ca
       genitive: öryrkja
+      genitive_pronunciation: œːrɪr̥ca
   plural:
     no article:
       nominative: öryrkjar
       nominative_translation: 'disabled people, invalids'
+      nominative_pronunciation: œːrɪr̥car
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: öryrkja
+      accusative_pronunciation: œːrɪr̥ca
       dative: öryrkjum
+      dative_pronunciation: œːrɪr̥cʏm
       genitive: öryrkja
+      genitive_pronunciation: œːrɪr̥ca
 id: 1477
 gender: masculine

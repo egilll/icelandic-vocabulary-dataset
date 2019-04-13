@@ -6,43 +6,54 @@ conjugation:
     no article:
       nominative: bolli
       nominative_translation: a cup
-      nominative_sound: islex/374/374_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/374/374_04.mp3'
+      nominative_pronunciation: pɔtlɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bolla
-      accusative_sound: islex/482/482_24.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/482/482_24.mp3'
+      accusative_pronunciation: pɔtla
       dative: bolla
-      dative_sound: islex/482/482_24.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/482/482_24.mp3'
+      dative_pronunciation: pɔtla
       genitive: bolla
-      genitive_sound: islex/482/482_24.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/482/482_24.mp3'
+      genitive_pronunciation: pɔtla
     with article:
       nominative: bollinn
       nominative_translation: the cup
       nominative_teach: true
       nominative_teachtable: true
       accusative: bollann
+      accusative_pronunciation: pɔtlan
       dative: bollanum
       genitive: bollans
   plural:
     no article:
       nominative: bollar
       nominative_translation: cups
+      nominative_pronunciation: pɔtlar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bolla
-      accusative_sound: islex/482/482_24.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/482/482_24.mp3'
+      accusative_pronunciation: pɔtla
       dative: bollum
       genitive: bolla
-      genitive_sound: islex/482/482_24.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/482/482_24.mp3'
+      genitive_pronunciation: pɔtla
     with article:
       nominative: bollarnir
       nominative_translation: the cups
       nominative_teach: true
       nominative_teachtable: true
       accusative: bollana
+      accusative_pronunciation: <span class="guessed">pɔːllaːna</span>
       dative: bollunum
+      dative_pronunciation: pɔtlɔnʏm
       genitive: bollanna
+      genitive_pronunciation: <span class="guessed">pɔtlanaː</span>
 id: 827
 gender: masculine

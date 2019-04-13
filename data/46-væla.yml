@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] væla'
     infinitive_translation: 'to whine, to complain'
-    infinitive_sound: islex/069/069_55.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/069/069_55.mp3'
+    infinitive_pronunciation: vaiːla
     infinitive_teach: true
 id: 2416

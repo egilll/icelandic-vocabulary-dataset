@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: gúmmí
       nominative_translation: rubber; gummi candy
-      nominative_sound: islex/473/473_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/473/473_88.mp3'
+      nominative_pronunciation: kumi
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: gúmmíið
       nominative_translation: the rubber; the gummi candy
+      nominative_pronunciation: <span class="guessed">kumiɪːð</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1061

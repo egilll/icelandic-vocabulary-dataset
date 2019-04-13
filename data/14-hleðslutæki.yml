@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: hleðslutæki
       nominative_translation: a charger
-      nominative_sound: islex/277/277_77.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/277/277_77.mp3'
+      nominative_pronunciation: <span class="guessed">l̥ɛðstlʏtʰaiːcɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hleðslutæki
-      accusative_sound: islex/277/277_77.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/277/277_77.mp3'
+      accusative_pronunciation: <span class="guessed">l̥ɛðstlʏtʰaiːcɪ</span>
       dative: hleðslutæki
-      dative_sound: islex/277/277_77.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/277/277_77.mp3'
+      dative_pronunciation: <span class="guessed">l̥ɛðstlʏtʰaiːcɪ</span>
       genitive: hleðslutækis
     with article:
       nominative: hleðslutækið
       nominative_translation: the charger
+      nominative_pronunciation: <span class="guessed">l̥ɛðstlʏtʰaiːcɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hleðslutækið
+      accusative_pronunciation: <span class="guessed">l̥ɛðstlʏtʰaiːcɪð</span>
       dative: hleðslutækinu
+      dative_pronunciation: <span class="guessed">l̥ɛðstlʏtʰaiːcɪnʏ</span>
       genitive: hleðslutækisins
 id: 1134
 gender: neuter

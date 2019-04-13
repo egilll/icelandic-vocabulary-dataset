@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] millifæra'
     infinitive_translation: to transfer money
-    infinitive_sound: islex/057/057_82.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/057/057_82.mp3'
+    infinitive_pronunciation: mɪtlɪfaira
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] millifærði'
           1st person_translation: I transferred money
+          1st person_pronunciation: <span class="guessed">mɪtlɪfairðɪ</span>
           1st person_teach: true
 id: 2248

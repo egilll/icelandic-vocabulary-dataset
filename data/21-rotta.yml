@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: rotta
       nominative_translation: a rat
-      nominative_sound: islex/109/109_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/109/109_04.mp3'
+      nominative_pronunciation: rɔhta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rottu
+      accusative_pronunciation: rɔhtʏ
       dative: rottu
+      dative_pronunciation: rɔhtʏ
       genitive: rottu
+      genitive_pronunciation: rɔhtʏ
     with article:
       nominative: rottan
       nominative_translation: the rat

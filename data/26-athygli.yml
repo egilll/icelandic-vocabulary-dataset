@@ -6,23 +6,30 @@ conjugation:
     no article:
       nominative: athygli
       nominative_translation: attention
-      nominative_sound: islex/089/089_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/089/089_22.mp3'
+      nominative_pronunciation: aːtɪklɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: athygli
-      accusative_sound: islex/089/089_22.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/089/089_22.mp3'
+      accusative_pronunciation: aːtɪklɪ
       dative: athygli
-      dative_sound: islex/089/089_22.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/089/089_22.mp3'
+      dative_pronunciation: aːtɪklɪ
       genitive: athygli
-      genitive_sound: islex/089/089_22.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/089/089_22.mp3'
+      genitive_pronunciation: aːtɪklɪ
     with article:
       nominative: athyglin
       nominative_translation: the attention
+      nominative_pronunciation: aːtɪklɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: athyglina
+      accusative_pronunciation: aːtɪklɪna
       dative: athyglinni
+      dative_pronunciation: aːtɪklɪnɪ
       genitive: athyglinnar
 id: 743
 gender: feminine

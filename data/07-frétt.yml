@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: frétt
       nominative_translation: news
-      nominative_sound: islex/158/158_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/158/158_23.mp3'
+      nominative_pronunciation: frjɛht
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: frétt
-      accusative_sound: islex/158/158_23.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/158/158_23.mp3'
+      accusative_pronunciation: frjɛht
       dative: frétt
-      dative_sound: islex/158/158_23.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/158/158_23.mp3'
+      dative_pronunciation: frjɛht
       genitive: fréttar
+      genitive_pronunciation: frjɛhtar
     with article:
       nominative: fréttin
       nominative_translation: the news
+      nominative_pronunciation: frjɛhtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fréttina
+      accusative_pronunciation: frjɛhtɪna
       dative: fréttinni
+      dative_pronunciation: frjɛhtɪnɪ
       genitive: fréttarinnar
+      genitive_pronunciation: <span class="guessed">frjɛhtarɪnar</span>
   plural:
     no article:
       nominative: fréttir
       nominative_translation: news
+      nominative_pronunciation: frjɛhtɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fréttir
+      accusative_pronunciation: frjɛhtɪr
       dative: fréttum
+      dative_pronunciation: frjɛhtʏm
       genitive: frétta
-      genitive_sound: islex/006/006_26.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/006/006_26.mp3'
+      genitive_pronunciation: frjɛhta
     with article:
       nominative: fréttirnar
       nominative_translation: the news
+      nominative_pronunciation: frjɛhtɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: fréttirnar
+      accusative_pronunciation: frjɛhtɪtnar
       dative: fréttunum
+      dative_pronunciation: frjɛhtɔnʏm
       genitive: fréttanna
+      genitive_pronunciation: <span class="guessed">frjɛhtana</span>
 id: 990
 gender: feminine

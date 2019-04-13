@@ -5,55 +5,68 @@ conjugation:
   active voice:
     infinitive: '[að] læra'
     infinitive_translation: 'to learn, to study'
-    infinitive_sound: islex/373/373_15.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/373/373_15.mp3'
+    infinitive_pronunciation: laiːra
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] læri'
           1st person_translation: 'I learn, I study'
-          1st person_sound: islex/161/161_69.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/161/161_69.mp3'
+          1st person_pronunciation: laiːrɪ
           1st person_teach: true
           2nd person: '[þú] lærir'
           2nd person_translation: 'you¹ learn, you¹ study'
+          2nd person_pronunciation: laiːrɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] lærir'
           3rd person_translation: 'he/she/it learns, he/she/it studies'
+          3rd person_pronunciation: laiːrɪr
           3rd person_teach: true
         plural:
           1st person: '[við] lærum'
           1st person_translation: 'we learn, we study'
+          1st person_pronunciation: lairʏm
           1st person_teach: true
           2nd person: '[þið] lærið'
           2nd person_translation: 'you² learn, you² study'
+          2nd person_pronunciation: <span class="guessed">laiːrɪːð</span>
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] læra'
           3rd person_translation: 'they learn, they study'
-          3rd person_sound: islex/373/373_15.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/373/373_15.mp3'
+          3rd person_pronunciation: laiːra
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] lærði'
           1st person_translation: 'I learned, I studied'
+          1st person_pronunciation: lairðɪ
           1st person_teach: true
           2nd person: '[þú] lærðir'
           2nd person_translation: 'you¹ learned, you¹ studied'
+          2nd person_pronunciation: lairðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] lærði'
           3rd person_translation: 'he/she/it learned, he/she/it studied'
+          3rd person_pronunciation: lairðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] lærðum'
           1st person_translation: 'we learned, we studied'
+          1st person_pronunciation: lairðʏm
           1st person_teach: true
           2nd person: '[þið] lærðuð'
           2nd person_translation: 'you² learned, you² studied'
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] lærðu'
           3rd person_translation: 'they learned, they studied'
+          3rd person_pronunciation: lairðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] lært'
     active voice_translation: 'I have learned, I have studied'
+    active voice_pronunciation: lair̥t
     active voice_teach: true
 id: 2205

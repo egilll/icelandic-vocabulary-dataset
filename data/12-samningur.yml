@@ -6,35 +6,48 @@ conjugation:
     no article:
       nominative: samningur
       nominative_translation: 'a contract, an agreement'
-      nominative_sound: islex/029/029_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/029/029_38.mp3'
+      nominative_pronunciation: samniŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: samning
-      accusative_sound: islex/043/043_27.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/043/043_27.mp3'
+      accusative_pronunciation: samniŋk
       dative: samningi
+      dative_pronunciation: samniɲcɪ
       genitive: samnings
+      genitive_pronunciation: samniŋs
     with article:
       nominative: samningurinn
       nominative_translation: 'the contract, the agreement'
+      nominative_pronunciation: samniŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: samninginn
+      accusative_pronunciation: samniɲcɪn
       dative: samningnum
+      dative_pronunciation: samniŋnʏm
       genitive: samningsins
+      genitive_pronunciation: samniŋsɪns
   plural:
     no article:
       nominative: samningar
       nominative_translation: 'contracts, agreements'
+      nominative_pronunciation: samniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: samninga
+      accusative_pronunciation: samniŋka
       dative: samningum
+      dative_pronunciation: samniŋkʏm
       genitive: samninga
+      genitive_pronunciation: samniŋka
     with article:
       nominative: samningarnir
       nominative_translation: 'the contracts, the agreements'
+      nominative_pronunciation: samniŋkatnɪr
       nominative_teach: false
       nominative_teachtable: false
 id: 1595

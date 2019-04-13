@@ -6,14 +6,18 @@ conjugation:
     no article:
       nominative: skæri
       nominative_translation: scissors
-      nominative_sound: islex/108/108_03.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/108/108_03.mp3'
+      nominative_pronunciation: scaiːrɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skæri
-      accusative_sound: islex/108/108_03.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/108/108_03.mp3'
+      accusative_pronunciation: scaiːrɪ
       dative: skærum
+      dative_pronunciation: scaiːrʏm
       genitive: skæra
+      genitive_pronunciation: scaiːra
     with article:
       nominative: skærin
       nominative_translation: the scissors
@@ -22,5 +26,6 @@ conjugation:
       accusative: skærin
       dative: skærunum
       genitive: skæranna
+      genitive_pronunciation: <span class="guessed">scaiːrana</span>
 id: 1631
 gender: neuter

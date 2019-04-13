@@ -6,42 +6,56 @@ conjugation:
     no article:
       nominative: brjóst
       nominative_translation: a breast
-      nominative_sound: islex/355/355_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/355/355_01.mp3'
+      nominative_pronunciation: prjoust
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: brjóst
-      accusative_sound: islex/355/355_01.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/355/355_01.mp3'
+      accusative_pronunciation: prjoust
       dative: brjósti
+      dative_pronunciation: prjoustɪ
       genitive: brjósts
     with article:
       nominative: brjóstið
       nominative_translation: the breast
+      nominative_pronunciation: prjoustɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: brjóstið
+      accusative_pronunciation: prjoustɪð
       dative: brjóstinu
+      dative_pronunciation: prjoustɪnʏ
       genitive: brjóstsins
   plural:
     no article:
       nominative: brjóst
       nominative_translation: breasts
-      nominative_sound: islex/355/355_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/355/355_01.mp3'
+      nominative_pronunciation: prjoust
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: brjóst
-      accusative_sound: islex/355/355_01.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/355/355_01.mp3'
+      accusative_pronunciation: prjoust
       dative: brjóstum
+      dative_pronunciation: prjoustʏm
       genitive: brjósta
+      genitive_pronunciation: prjousta
     with article:
       nominative: brjóstin
       nominative_translation: the breasts
+      nominative_pronunciation: prjoustɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: brjóstin
+      accusative_pronunciation: prjoustɪn
       dative: brjóstunum
+      dative_pronunciation: prjoustɔnʏm
       genitive: brjóstanna
+      genitive_pronunciation: prjoustana
 id: 847
 gender: neuter
 recognizable: '1'

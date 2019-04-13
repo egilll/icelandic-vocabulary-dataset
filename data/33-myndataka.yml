@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: myndataka
       nominative_translation: a photo shoot
-      nominative_sound: islex/115/115_09.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/115/115_09.mp3'
+      nominative_pronunciation: mɪntataːka
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: myndatöku
+      accusative_pronunciation: mɪntatœːkʏ
       dative: myndatöku
+      dative_pronunciation: mɪntatœːkʏ
       genitive: myndatöku
+      genitive_pronunciation: mɪntatœːkʏ
     with article:
       nominative: myndatakan
       nominative_translation: the photo shoot
+      nominative_pronunciation: <span class="guessed">mɪntaːtakʰaːn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: myndatökuna
+      accusative_pronunciation: <span class="guessed">mɪntatʰœːkʏːna</span>
       dative: myndatökunni
+      dative_pronunciation: <span class="guessed">mɪntatʰœːkʏnɪ</span>
       genitive: myndatökunnar
+      genitive_pronunciation: <span class="guessed">mɪntatʰœːkʏnar</span>
 id: 1428
 gender: feminine

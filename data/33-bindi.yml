@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: bindi
       nominative_translation: a tie
-      nominative_sound: islex/455/455_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/455/455_18.mp3'
+      nominative_pronunciation: pɪntɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bindi
-      accusative_sound: islex/455/455_18.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/455/455_18.mp3'
+      accusative_pronunciation: pɪntɪ
       dative: bindi
-      dative_sound: islex/455/455_18.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/455/455_18.mp3'
+      dative_pronunciation: pɪntɪ
       genitive: bindis
+      genitive_pronunciation: <span class="guessed">pɪntɪːs</span>
     with article:
       nominative: bindið
       nominative_translation: the tie
+      nominative_pronunciation: pɪntɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: bindið
+      accusative_pronunciation: pɪntɪð
       dative: bindinu
+      dative_pronunciation: pɪntɪnʏ
       genitive: bindisins
 id: 799
 gender: neuter

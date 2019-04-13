@@ -6,17 +6,21 @@ conjugation:
     no article:
       nominative: pönnukökur
       nominative_translation: pancakes
+      nominative_pronunciation: pʰœnʏkœkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: pönnukökur
+      accusative_pronunciation: pʰœnʏkœkʏr
       dative: pönnukökum
+      dative_pronunciation: pʰœnʏkœkʏm
       genitive: pönnukakna
       genitive_alternative:
         - pönnukaka
     with article:
       nominative: pönnukökurnar
       nominative_translation: the pancakes
+      nominative_pronunciation: pʰœnʏkœkʏtnar
       nominative_teach: false
       nominative_teachtable: false
 id: 1517

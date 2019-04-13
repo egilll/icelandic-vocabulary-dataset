@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: skrifstofa
       nominative_translation: an office
-      nominative_sound: islex/421/421_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/421/421_50.mp3'
+      nominative_pronunciation: skrɪfstɔva
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skrifstofu
+      accusative_pronunciation: skrɪfstɔvʏ
       dative: skrifstofu
+      dative_pronunciation: skrɪfstɔvʏ
       genitive: skrifstofu
+      genitive_pronunciation: skrɪfstɔvʏ
     with article:
       nominative: skrifstofan
       nominative_translation: the office
+      nominative_pronunciation: skrɪfstɔvan
       nominative_teach: true
       nominative_teachtable: true
       accusative: skrifstofuna
+      accusative_pronunciation: skrɪfstɔvʏna
       dative: skrifstofunni
+      dative_pronunciation: skrɪfstɔvʏnɪ
       genitive: skrifstofunnar
+      genitive_pronunciation: skrɪfstɔvʏnar
   plural:
     no article:
       nominative: skrifstofur
       nominative_translation: offices
+      nominative_pronunciation: skrɪfstɔvʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skrifstofur
+      accusative_pronunciation: skrɪfstɔvʏr
       dative: skrifstofum
+      dative_pronunciation: skrɪfstɔvʏm
       genitive: skrifstofa
-      genitive_sound: islex/421/421_50.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/421/421_50.mp3'
+      genitive_pronunciation: skrɪfstɔva
     with article:
       nominative: skrifstofurnar
       nominative_translation: the offices
+      nominative_pronunciation: <span class="guessed">skrɪːvstɔːvʏrtnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: skrifstofurnar
+      accusative_pronunciation: <span class="guessed">skrɪːvstɔːvʏrtnar</span>
       dative: skrifstofunum
       genitive: skrifstofanna
 id: 1662

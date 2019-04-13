@@ -6,39 +6,53 @@ conjugation:
     no article:
       nominative: fugl
       nominative_translation: a bird
-      nominative_sound: islex/123/123_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/123/123_04.mp3'
+      nominative_pronunciation: fʏkl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fugl
-      accusative_sound: islex/123/123_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/123/123_04.mp3'
+      accusative_pronunciation: fʏkl
       dative: fugli
+      dative_pronunciation: fʏklɪ
       genitive: fugls
     with article:
       nominative: fuglinn
       nominative_translation: the bird
+      nominative_pronunciation: fʏklɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fuglinn
+      accusative_pronunciation: fʏklɪn
       dative: fuglinum
+      dative_pronunciation: fʏklɪnʏm
       genitive: fuglsins
   plural:
     no article:
       nominative: fuglar
       nominative_translation: birds
+      nominative_pronunciation: fʏklar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fugla
+      accusative_pronunciation: fʏkla
       dative: fuglum
+      dative_pronunciation: fʏklʏm
       genitive: fugla
+      genitive_pronunciation: fʏkla
     with article:
       nominative: fuglarnir
       nominative_translation: the birds
+      nominative_pronunciation: fʏklatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: fuglana
+      accusative_pronunciation: fʏklana
       dative: fuglunum
+      dative_pronunciation: fʏklɔnʏm
       genitive: fuglanna
+      genitive_pronunciation: fʏklana
 id: 996
 gender: masculine

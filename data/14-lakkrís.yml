@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: lakkrís
       nominative_translation: liqourice
-      nominative_sound: islex/100/100_90.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/100/100_90.mp3'
+      nominative_pronunciation: lahkris
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lakkrís
-      accusative_sound: islex/100/100_90.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/100/100_90.mp3'
+      accusative_pronunciation: lahkris
       dative: lakkrís
-      dative_sound: islex/100/100_90.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/100/100_90.mp3'
+      dative_pronunciation: lahkris
       genitive: lakkríss
     with article:
       nominative: lakkrísinn
       nominative_translation: the liqourice
+      nominative_pronunciation: <span class="guessed">lahkrisɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: lakkrísinn
+      accusative_pronunciation: <span class="guessed">lahkrisɪn</span>
       dative: lakkrísnum
+      dative_pronunciation: <span class="guessed">laːkkʰauː ɛristnʏm</span>
       genitive: lakkríssins
   plural:
     no article:

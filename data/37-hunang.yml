@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: hunang
       nominative_translation: honey
-      nominative_sound: islex/391/391_62.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/391/391_62.mp3'
+      nominative_pronunciation: hʏːnauŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hunang
-      accusative_sound: islex/391/391_62.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/391/391_62.mp3'
+      accusative_pronunciation: hʏːnauŋk
       dative: hunangi
+      dative_pronunciation: <span class="guessed">hʏːnauŋkɪː</span>
       genitive: hunangs
+      genitive_pronunciation: hʏːnauŋs
     with article:
       nominative: hunangið
       nominative_translation: the honey
+      nominative_pronunciation: <span class="guessed">hʏːnauŋkɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hunangið
+      accusative_pronunciation: <span class="guessed">hʏːnauŋkɪːð</span>
       dative: hunanginu
+      dative_pronunciation: <span class="guessed">hʏːnauŋkɪːnʏ</span>
       genitive: hunangsins
 id: 1175
 gender: neuter

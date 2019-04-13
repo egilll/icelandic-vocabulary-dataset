@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: heimasíða
       nominative_translation: 'a homepage, a website'
-      nominative_sound: islex/404/404_89.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/404/404_89.mp3'
+      nominative_pronunciation: heiːmasiːða
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: heimasíðu
+      accusative_pronunciation: heiːmasiːðʏ
       dative: heimasíðu
+      dative_pronunciation: heiːmasiːðʏ
       genitive: heimasíðu
+      genitive_pronunciation: heiːmasiːðʏ
     with article:
       nominative: heimasíðan
       nominative_translation: 'the homepage, the website'
+      nominative_pronunciation: <span class="guessed">heiːmasiːðan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: heimasíðuna
+      accusative_pronunciation: heiːmasiːðʏna
       dative: heimasíðunni
+      dative_pronunciation: heiːmasiːðʏnɪ
       genitive: heimasíðunnar
+      genitive_pronunciation: <span class="guessed">heiːmasiːðʏnar</span>
 id: 1104
 gender: feminine

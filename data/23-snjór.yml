@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: snjór
       nominative_translation: snow
-      nominative_sound: islex/153/153_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/153/153_88.mp3'
+      nominative_pronunciation: stnjouːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: snjórinn
       nominative_translation: the snow
+      nominative_pronunciation: stnjouːrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1700

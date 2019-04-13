@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: álfur
       nominative_translation: an elf
-      nominative_sound: islex/298/298_02.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/298/298_02.mp3'
+      nominative_pronunciation: aulvʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -16,30 +17,38 @@ conjugation:
     with article:
       nominative: álfurinn
       nominative_translation: the elf
+      nominative_pronunciation: aulvʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: álfinn
+      accusative_pronunciation: <span class="guessed">auːlfɪn</span>
       dative: álfinum
       genitive: álfsins
   plural:
     no article:
       nominative: álfar
       nominative_translation: elves
+      nominative_pronunciation: aulvar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: álfa
-      accusative_sound: islex/272/272_48.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/272/272_48.mp3'
+      accusative_pronunciation: aulva
       dative: álfum
+      dative_pronunciation: aulvʏm
       genitive: álfa
-      genitive_sound: islex/272/272_48.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/272/272_48.mp3'
+      genitive_pronunciation: aulva
     with article:
       nominative: álfarnir
       nominative_translation: the elves
+      nominative_pronunciation: <span class="guessed">auːlfartnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: álfana
       dative: álfunum
       genitive: álfanna
+      genitive_pronunciation: <span class="guessed">auːlfanaː</span>
 id: 717
 gender: masculine

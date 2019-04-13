@@ -5,61 +5,74 @@ conjugation:
   active voice:
     infinitive: '[að] geyma'
     infinitive_translation: 'to keep, to store'
-    infinitive_sound: islex/011/011_43.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/011/011_43.mp3'
+    infinitive_pronunciation: ceiːma
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] geymi'
           1st person_translation: 'I keep, I store'
+          1st person_pronunciation: ceiːmɪ
           1st person_teach: true
           2nd person: '[þú] geymir'
           2nd person_translation: 'you¹ keep, you¹ store'
-          2nd person_sound: islex/287/287_26.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/287/287_26.mp3'
+          2nd person_pronunciation: ceiːmɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] geymir'
           3rd person_translation: 'he/she/it keeps, he/she/it stores'
-          3rd person_sound: islex/287/287_26.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/287/287_26.mp3'
+          3rd person_pronunciation: ceiːmɪr
           3rd person_teach: true
         plural:
           1st person: '[við] geymum'
           1st person_translation: 'we keep, we store'
+          1st person_pronunciation: ceiːmʏm
           1st person_teach: true
           2nd person: '[þið] geymið'
           2nd person_translation: 'you² keep, you² store'
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] geyma'
           3rd person_translation: 'they keep, they store'
-          3rd person_sound: islex/011/011_43.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/011/011_43.mp3'
+          3rd person_pronunciation: ceiːma
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] geymdi'
           1st person_translation: 'I kept, I stored'
+          1st person_pronunciation: ceimtɪ
           1st person_teach: true
           2nd person: '[þú] geymdir'
           2nd person_translation: 'you¹ kept, you¹ stored'
+          2nd person_pronunciation: ceimtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] geymdi'
           3rd person_translation: 'he/she/it kept, he/she/it stored'
+          3rd person_pronunciation: ceimtɪ
           3rd person_teach: true
         plural:
           1st person: '[við] geymdum'
           1st person_translation: 'we kept, we stored'
+          1st person_pronunciation: <span class="guessed">ceimtʏm</span>
           1st person_teach: true
           2nd person: '[þið] geymduð'
           2nd person_translation: 'you² kept, you² stored'
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] geymdu'
           3rd person_translation: 'they kept, they stored'
+          3rd person_pronunciation: ceimtʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] geymt'
     active voice_translation: 'I have kept, I have stored'
+    active voice_pronunciation: ceim̥t
     active voice_teach: true
   imperative:
     active voice:
       singular: geymdu!
       singular_translation: 'keep!¹, store!¹'
+      singular_pronunciation: ceimtʏ
       singular_teach: true
 id: 2125

@@ -6,18 +6,24 @@ conjugation:
     no article:
       nominative: plöntur
       nominative_translation: plants
+      nominative_pronunciation: pʰlœn̥tʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: plöntur
+      accusative_pronunciation: pʰlœn̥tʏr
       dative: plöntum
+      dative_pronunciation: pʰlœn̥tʏm
       genitive: plantna
+      genitive_pronunciation: pʰlan̥tna
     with article:
       nominative: plönturnar
       nominative_translation: the plants
+      nominative_pronunciation: pʰlœn̥tʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: plönturnar
+      accusative_pronunciation: pʰlœn̥tʏtnar
       dative: plöntunum
       genitive: plantnanna
 id: 1509

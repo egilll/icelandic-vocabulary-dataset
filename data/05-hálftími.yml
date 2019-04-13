@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: hálftími
       nominative_translation: half hour
-      nominative_sound: islex/205/205_92.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/205/205_92.mp3'
+      nominative_pronunciation: haultimɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hálftíma
+      accusative_pronunciation: haultima
       dative: hálftíma
+      dative_pronunciation: haultima
       genitive: hálftíma
+      genitive_pronunciation: haultima
     with article:
       nominative: hálftíminn
       nominative_translation: the half hour
+      nominative_pronunciation: <span class="guessed">haulvtʰiːmɪn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1078

@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: íbúð
       nominative_translation: an apartment
-      nominative_sound: islex/237/237_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/237/237_20.mp3'
+      nominative_pronunciation: iːpuð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: íbúð
-      accusative_sound: islex/237/237_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/237/237_20.mp3'
+      accusative_pronunciation: iːpuð
       dative: íbúð
-      dative_sound: islex/237/237_20.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/237/237_20.mp3'
+      dative_pronunciation: iːpuð
       genitive: íbúðar
+      genitive_pronunciation: iːpuðar
     with article:
       nominative: íbúðin
       nominative_translation: the apartment
+      nominative_pronunciation: iːpuðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: íbúðina
+      accusative_pronunciation: iːpuðɪna
       dative: íbúðinni
+      dative_pronunciation: iːpuðɪnɪ
       genitive: íbúðarinnar
+      genitive_pronunciation: iːpuðarɪnar
 id: 1184
 gender: feminine

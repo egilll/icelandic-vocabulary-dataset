@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: barnalæknir
       nominative_translation: a pediatrician
-      nominative_sound: islex/479/479_92.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/479/479_92.mp3'
+      nominative_pronunciation: patnalaihknɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: child-doctor
       accusative: barnalækni
+      accusative_pronunciation: <span class="guessed">patnalaihknɪ</span>
       dative: barnalækni
+      dative_pronunciation: <span class="guessed">patnalaihknɪ</span>
       genitive: barnalæknis
+      genitive_pronunciation: partnalajhknɪs
     with article:
       nominative: barnalæknirinn
       nominative_translation: the pediatrician
+      nominative_pronunciation: <span class="guessed">patnalaihknɪrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: barnalækninn
+      accusative_pronunciation: <span class="guessed">patnalaihknɪn</span>
       dative: barnalækninum
+      dative_pronunciation: <span class="guessed">patnalaihknɪnʏm</span>
       genitive: barnalæknisins
+      genitive_pronunciation: <span class="guessed">patnalaihknɪsɪns</span>
 id: 774
 gender: masculine

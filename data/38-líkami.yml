@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: líkami
       nominative_translation: a body
-      nominative_sound: islex/273/273_09.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/273/273_09.mp3'
+      nominative_pronunciation: liːkamɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: líkama
+      accusative_pronunciation: liːkama
       dative: líkama
+      dative_pronunciation: liːkama
       genitive: líkama
+      genitive_pronunciation: liːkama
     with article:
       nominative: líkaminn
       nominative_translation: the body
+      nominative_pronunciation: liːkamɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: líkamann
+      accusative_pronunciation: liːkaman
       dative: líkamanum
+      dative_pronunciation: liːkamanʏm
       genitive: líkamans
+      genitive_pronunciation: liːkamans
 id: 1329
 gender: masculine

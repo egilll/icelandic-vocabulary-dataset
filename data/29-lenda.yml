@@ -5,18 +5,21 @@ conjugation:
   active voice:
     infinitive: '[að] lenda'
     infinitive_translation: to land (an airplane)
-    infinitive_sound: islex/092/092_07.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/092/092_07.mp3'
+    infinitive_pronunciation: lɛnta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] lendi'
           1st person_translation: I land (an airplane)
+          1st person_pronunciation: lɛntɪ
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] lenti'
           1st person_translation: I landed (an airplane)
+          1st person_pronunciation: lɛn̥tɪ
           1st person_teach: true
 id: 2218
 teach_the_difference: leigja

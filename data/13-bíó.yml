@@ -6,24 +6,30 @@ conjugation:
     no article:
       nominative: bíó
       nominative_translation: cinema
-      nominative_sound: islex/079/079_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/079/079_20.mp3'
+      nominative_pronunciation: piːjou
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bíó
-      accusative_sound: islex/079/079_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/079/079_20.mp3'
+      accusative_pronunciation: piːjou
       dative: bíó
-      dative_sound: islex/079/079_20.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/079/079_20.mp3'
+      dative_pronunciation: piːjou
       dative_alternative:
         - bíói
       genitive: bíós
     with article:
       nominative: bíóið
       nominative_translation: the cinema
+      nominative_pronunciation: <span class="guessed">piːjouɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bíóið
+      accusative_pronunciation: <span class="guessed">piːjouɪːð</span>
       dative: bíóinu
+      dative_pronunciation: piːjouɪnʏ
       genitive: bíósins
 id: 800
 gender: neuter

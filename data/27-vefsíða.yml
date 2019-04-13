@@ -6,31 +6,41 @@ conjugation:
     no article:
       nominative: vefsíða
       nominative_translation: a website
-      nominative_sound: islex/304/304_93.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/304/304_93.mp3'
+      nominative_pronunciation: vɛfsiða
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vefsíðu
+      accusative_pronunciation: vɛfsiðʏ
       dative: vefsíðu
+      dative_pronunciation: vɛfsiðʏ
       genitive: vefsíðu
+      genitive_pronunciation: vɛfsiðʏ
     with article:
       nominative: vefsíðan
       nominative_translation: the website
+      nominative_pronunciation: <span class="guessed">vɛːvsiːðan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: vefsíðuna
+      accusative_pronunciation: <span class="guessed">vɛːvsiːðʏna</span>
       dative: vefsíðunni
+      dative_pronunciation: vɛfsiðʏnɪ
       genitive: vefsíðunnar
+      genitive_pronunciation: <span class="guessed">vɛːvsiːðʏnar</span>
   plural:
     no article:
       nominative: vefsíður
       nominative_translation: websites
+      nominative_pronunciation: vɛfsiðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: vefsíðurnar
       nominative_translation: the websites
+      nominative_pronunciation: <span class="guessed">vɛːvsiːðʏtnar</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1899

@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: hátíð
       nominative_translation: a festival
-      nominative_sound: islex/238/238_21.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/238/238_21.mp3'
+      nominative_pronunciation: hauːtið
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hátíð
-      accusative_sound: islex/238/238_21.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/238/238_21.mp3'
+      accusative_pronunciation: hauːtið
       dative: hátíð
-      dative_sound: islex/238/238_21.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/238/238_21.mp3'
+      dative_pronunciation: hauːtið
       genitive: hátíðar
+      genitive_pronunciation: hauːtiðar
     with article:
       nominative: hátíðin
       nominative_translation: the festival
+      nominative_pronunciation: hauːtiðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hátíðina
+      accusative_pronunciation: hauːtiðɪna
       dative: hátíðinni
+      dative_pronunciation: hauːtiðɪnɪ
       genitive: hátíðarinnar
+      genitive_pronunciation: hauːtiðarɪnar
 id: 1095
 gender: feminine

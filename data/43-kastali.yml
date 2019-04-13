@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: kastali
       nominative_translation: a castle
-      nominative_sound: islex/115/115_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/115/115_66.mp3'
+      nominative_pronunciation: kʰastalɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kastala
+      accusative_pronunciation: kʰastala
       dative: kastala
+      dative_pronunciation: kʰastala
       genitive: kastala
+      genitive_pronunciation: kʰastala
     with article:
       nominative: kastalinn
       nominative_translation: the castle
+      nominative_pronunciation: <span class="guessed">kʰastaːlɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: kastalann
+      accusative_pronunciation: kʰastalan
       dative: kastalanum
+      dative_pronunciation: kʰastalanʏm
       genitive: kastalans
+      genitive_pronunciation: kʰastalans
 id: 1226
 gender: masculine

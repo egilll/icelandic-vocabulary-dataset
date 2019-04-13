@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: frænka
       nominative_translation: aunt; female cousin
-      nominative_sound: islex/299/299_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/299/299_96.mp3'
+      nominative_pronunciation: fraiŋ̊ka
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: frænku
+      accusative_pronunciation: fraiŋ̊kʏ
       dative: frænku
+      dative_pronunciation: fraiŋ̊kʏ
       genitive: frænku
+      genitive_pronunciation: fraiŋ̊kʏ
     with article:
       nominative: frænkan
       nominative_translation: the aunt; the female cousin
+      nominative_pronunciation: fraiŋ̊kan
       nominative_teach: true
       nominative_teachtable: true
       accusative: frænkuna
@@ -25,22 +30,29 @@ conjugation:
     no article:
       nominative: frænkur
       nominative_translation: aunts; female cousins
+      nominative_pronunciation: fraiŋ̊kʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: frænkur
+      accusative_pronunciation: fraiŋ̊kʏr
       dative: frænkum
+      dative_pronunciation: fraiŋ̊kʏm
       genitive: frænka
-      genitive_sound: islex/299/299_96.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/299/299_96.mp3'
+      genitive_pronunciation: fraiŋ̊ka
       genitive_alternative:
         - frænkna
     with article:
       nominative: frænkurnar
       nominative_translation: the aunts; the female cousins
+      nominative_pronunciation: fraiŋ̊kʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: frænkurnar
+      accusative_pronunciation: fraiŋ̊kʏtnar
       dative: frænkunum
+      dative_pronunciation: fraiŋ̊kʏnʏm
       genitive: frænkanna
       genitive_alternative:
         - frænknanna

@@ -6,39 +6,54 @@ conjugation:
     no article:
       nominative: tölva
       nominative_translation: a computer
-      nominative_sound: islex/230/230_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/230/230_85.mp3'
+      nominative_pronunciation: tʰœlva
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tölvu
+      accusative_pronunciation: tʰœlvʏ
       dative: tölvu
+      dative_pronunciation: tʰœlvʏ
       genitive: tölvu
+      genitive_pronunciation: tʰœlvʏ
     with article:
       nominative: tölvan
       nominative_translation: the computer
+      nominative_pronunciation: tʰœlvan
       nominative_teach: true
       nominative_teachtable: true
       accusative: tölvuna
+      accusative_pronunciation: tʰœlvʏna
       dative: tölvunni
+      dative_pronunciation: tʰœlvʏnɪ
       genitive: tölvunnar
+      genitive_pronunciation: tʰœlvʏnar
   plural:
     no article:
       nominative: tölvur
       nominative_translation: computers
+      nominative_pronunciation: tʰœlvʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tölvur
+      accusative_pronunciation: tʰœlvʏr
       dative: tölvum
+      dative_pronunciation: tʰœlvʏm
       genitive: tölva
-      genitive_sound: islex/230/230_85.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/230/230_85.mp3'
+      genitive_pronunciation: tʰœlva
     with article:
       nominative: tölvurnar
       nominative_translation: the computers
+      nominative_pronunciation: tʰœlvʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: tölvurnar
+      accusative_pronunciation: tʰœlvʏtnar
       dative: tölvunum
+      dative_pronunciation: tʰœlvɔnʏm
       genitive: tölvanna
 id: 1839
 gender: feminine

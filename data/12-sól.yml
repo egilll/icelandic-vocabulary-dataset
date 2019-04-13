@@ -6,21 +6,26 @@ conjugation:
     no article:
       nominative: sól
       nominative_translation: sun
-      nominative_sound: islex/035/035_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/035/035_99.mp3'
+      nominative_pronunciation: souːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sólin
       nominative_translation: the sun
+      nominative_pronunciation: souːlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: sólina
+      accusative_pronunciation: souːlɪna
       accusative_alternative:
         - sóluna
       dative: sólinni
+      dative_pronunciation: souːlɪnɪ
       dative_alternative:
         - sólunni
       genitive: sólarinnar
+      genitive_pronunciation: souːlarɪnar
 id: 1708
 gender: feminine

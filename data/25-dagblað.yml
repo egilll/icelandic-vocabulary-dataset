@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: dagblað
       nominative_translation: a newspaper
-      nominative_sound: islex/345/345_53.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/345/345_53.mp3'
+      nominative_pronunciation: taɣplað
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dagblað
-      accusative_sound: islex/345/345_53.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/345/345_53.mp3'
+      accusative_pronunciation: taɣplað
       dative: dagblaði
+      dative_pronunciation: taɣplaðɪ
       genitive: dagblaðs
+      genitive_pronunciation: taɣplaðs
     with article:
       nominative: dagblaðið
       nominative_translation: the newspaper
+      nominative_pronunciation: taɣplaðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: dagblaðið
+      accusative_pronunciation: taɣplaðɪð
       dative: dagblaðinu
+      dative_pronunciation: taɣplaðɪnʏ
       genitive: dagblaðsins
+      genitive_pronunciation: taɣplaðsɪns
   plural:
     no article:
       nominative: dagblöð
       nominative_translation: newspapers
+      nominative_pronunciation: taɣplœð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dagblöð
+      accusative_pronunciation: taɣplœð
       dative: dagblöðum
+      dative_pronunciation: taɣplœðʏm
       genitive: dagblaða
+      genitive_pronunciation: taɣplaða
     with article:
       nominative: dagblöðin
       nominative_translation: the newspapers
+      nominative_pronunciation: taɣplœðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: dagblöðin
+      accusative_pronunciation: taɣplœðɪn
       dative: dagblöðunum
+      dative_pronunciation: taɣplœðɔnʏm
       genitive: dagblaðanna
+      genitive_pronunciation: taɣplaðana
 id: 862
 gender: neuter

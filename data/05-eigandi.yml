@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: eigandi
       nominative_translation: an owner
-      nominative_sound: islex/382/382_33.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/382/382_33.mp3'
+      nominative_pronunciation: eiːɣantɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: eiganda
+      accusative_pronunciation: eiːɣanta
       dative: eiganda
+      dative_pronunciation: eiːɣanta
       genitive: eiganda
+      genitive_pronunciation: eiːɣanta
     with article:
       nominative: eigandinn
       nominative_translation: the owner
+      nominative_pronunciation: eiːɣantɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: eigandann
+      accusative_pronunciation: eiːɣantan
       dative: eigandanum
+      dative_pronunciation: eiːɣantanʏm
       genitive: eigandans
+      genitive_pronunciation: eiːɣantans
   plural:
     no article:
       nominative: eigendur
       nominative_translation: owners
+      nominative_pronunciation: eiːɣɛntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: eigendur
+      accusative_pronunciation: eiːɣɛntʏr
       dative: eigendum
+      dative_pronunciation: eiːɣɛntʏm
       genitive: eigenda
+      genitive_pronunciation: eiːɣɛnta
     with article:
       nominative: eigendurnir
       nominative_translation: the owners
+      nominative_pronunciation: eiːɣɛntʏtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: eigendurna
       dative: eigendunum
       genitive: eigendanna
+      genitive_pronunciation: eiːɣɛntana
 id: 900
 gender: masculine

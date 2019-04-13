@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: skilaboð
       nominative_translation: messages
-      nominative_sound: islex/196/196_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/196/196_37.mp3'
+      nominative_pronunciation: scɪːlapɔːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skilaboð
-      accusative_sound: islex/196/196_37.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/196/196_37.mp3'
+      accusative_pronunciation: scɪːlapɔːð
       dative: skilaboðum
+      dative_pronunciation: scɪːlapɔːðʏm
       genitive: skilaboða
+      genitive_pronunciation: <span class="guessed">scɪːlapɔːða</span>
     with article:
       nominative: skilaboðin
       nominative_translation: the messages
+      nominative_pronunciation: scɪːlapɔːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: skilaboðin
+      accusative_pronunciation: scɪːlapɔːðɪn
       dative: skilaboðunum
+      dative_pronunciation: scɪːlapɔːðɔnʏm
       genitive: skilaboðanna
+      genitive_pronunciation: <span class="guessed">scɪːlapɔːðana</span>
 id: 1645
 gender: neuter

@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: buxur
       nominative_translation: pants
-      nominative_sound: islex/444/444_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/444/444_05.mp3'
+      nominative_pronunciation: pʏksʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: buxur
-      accusative_sound: islex/444/444_05.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/444/444_05.mp3'
+      accusative_pronunciation: pʏksʏr
       dative: buxum
+      dative_pronunciation: pʏksʏm
       genitive: buxna
     with article:
       nominative: buxurnar
       nominative_translation: the pants
+      nominative_pronunciation: pʏksʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: buxurnar
+      accusative_pronunciation: pʏksʏtnar
       dative: buxunum
+      dative_pronunciation: pʏksɔnʏm
       genitive: buxnanna
 id: 856
 gender: feminine

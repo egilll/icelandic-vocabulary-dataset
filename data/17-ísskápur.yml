@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: ísskápur
       nominative_translation: a refrigerator
-      nominative_sound: islex/463/463_88.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/463/463_88.mp3'
+      nominative_pronunciation: iːskaupʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ísskáp
+      accusative_pronunciation: iːskaup
       dative: ísskáp
+      dative_pronunciation: iːskaup
       genitive: ísskáps
     with article:
       nominative: ísskápurinn
       nominative_translation: the refrigerator
+      nominative_pronunciation: iːskaupʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ísskápinn
+      accusative_pronunciation: iːskaupɪn
       dative: ísskápnum
+      dative_pronunciation: iːskauhpnʏm
       genitive: ísskápsins
 id: 1191
 gender: masculine

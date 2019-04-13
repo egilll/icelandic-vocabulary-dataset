@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: gras
       nominative_translation: grass; (marijuana)
-      nominative_sound: islex/328/328_90.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/328/328_90.mp3'
+      nominative_pronunciation: kraːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gras
-      accusative_sound: islex/328/328_90.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/328/328_90.mp3'
+      accusative_pronunciation: kraːs
       dative: grasi
+      dative_pronunciation: kraːsɪ
       genitive: grass
+      genitive_pronunciation: kras
     with article:
       nominative: grasið
       nominative_translation: the grass; (the marijuana)
+      nominative_pronunciation: kraːsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: grasið
+      accusative_pronunciation: kraːsɪð
       dative: grasinu
+      dative_pronunciation: kraːsɪnʏ
       genitive: grassins
 id: 1044
 gender: neuter

@@ -5,55 +5,69 @@ conjugation:
   active voice:
     infinitive: '[að] tala'
     infinitive_translation: 'to talk, to speak'
-    infinitive_sound: islex/228/228_87.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/228/228_87.mp3'
+    infinitive_pronunciation: tʰaːla
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] tala'
           1st person_translation: 'I talk, I speak'
-          1st person_sound: islex/228/228_87.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/228/228_87.mp3'
+          1st person_pronunciation: tʰaːla
           1st person_teach: true
           2nd person: '[þú] talar'
           2nd person_translation: 'you¹ talk, you¹ speak'
+          2nd person_pronunciation: tʰaːlar
           2nd person_teach: true
           3rd person: '[hann/hún/það] talar'
           3rd person_translation: 'he/she/it talks, he/she/it speaks'
+          3rd person_pronunciation: tʰaːlar
           3rd person_teach: true
         plural:
           1st person: '[við] tölum'
           1st person_translation: 'we talk, we speak'
+          1st person_pronunciation: tʰœːlʏm
           1st person_teach: true
           2nd person: '[þið] talið'
           2nd person_translation: 'you² talk, you² speak'
+          2nd person_pronunciation: tʰaːlɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] tala'
           3rd person_translation: 'they talk, they speak'
-          3rd person_sound: islex/228/228_87.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/228/228_87.mp3'
+          3rd person_pronunciation: tʰaːla
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] talaði'
           1st person_translation: 'I talked, I spoke'
+          1st person_pronunciation: tʰaːlaðɪ
           1st person_teach: true
           2nd person: '[þú] talaðir'
           2nd person_translation: 'you¹ talked, you¹ spoke'
+          2nd person_pronunciation: tʰaːlaðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] talaði'
           3rd person_translation: 'he/she/it talked, he/she/it spoke'
+          3rd person_pronunciation: tʰaːlaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] töluðum'
           1st person_translation: 'we talked, we spoke'
+          1st person_pronunciation: tʰœːlʏðʏm
           1st person_teach: true
           2nd person: '[þið] töluðuð'
           2nd person_translation: 'you² talked, you² spoke'
+          2nd person_pronunciation: tʰœːlʏðʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] töluðu'
           3rd person_translation: 'they talked, they spoke'
+          3rd person_pronunciation: tʰœːlʏðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] talað'
     active voice_translation: 'I have talked, I have spoken'
+    active voice_pronunciation: tʰaːlað
     active voice_teach: true
 id: 1999

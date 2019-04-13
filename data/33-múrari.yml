@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: múrari
       nominative_translation: 'a mason, a bricklayer'
-      nominative_sound: islex/292/292_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/292/292_96.mp3'
+      nominative_pronunciation: muːrarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: múrara
+      accusative_pronunciation: muːrara
       dative: múrara
+      dative_pronunciation: muːrara
       genitive: múrara
+      genitive_pronunciation: muːrara
     with article:
       nominative: múrarinn
       nominative_translation: 'the mason, the bricklayer'
       nominative_teach: true
       nominative_teachtable: true
       accusative: múrarann
+      accusative_pronunciation: <span class="guessed">muːraran</span>
       dative: múraranum
       genitive: múrarans
 id: 1424

@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: hor
       nominative_translation: 'snot, bugger'
-      nominative_sound: islex/051/051_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/051/051_51.mp3'
+      nominative_pronunciation: hɔːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hor
-      accusative_sound: islex/051/051_51.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/051/051_51.mp3'
+      accusative_pronunciation: hɔːr
       dative: hori
+      dative_pronunciation: <span class="guessed">hɔːrɪː</span>
       genitive: hors
     with article:
       nominative: horið
       nominative_translation: 'the snot, the bugger'
+      nominative_pronunciation: <span class="guessed">hɔːrɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: horið
+      accusative_pronunciation: <span class="guessed">hɔːrɪːð</span>
       dative: horinu
+      dative_pronunciation: <span class="guessed">hɔːrɪːnʏ</span>
       genitive: horsins
 id: 1156
 gender: neuter

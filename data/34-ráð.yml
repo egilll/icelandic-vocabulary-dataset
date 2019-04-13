@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: ráð
       nominative_translation: advice
-      nominative_sound: islex/427/427_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/427/427_87.mp3'
+      nominative_pronunciation: rauːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ráð
-      accusative_sound: islex/427/427_87.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/427/427_87.mp3'
+      accusative_pronunciation: rauːð
       dative: ráði
+      dative_pronunciation: rauːðɪ
       genitive: ráðs
+      genitive_pronunciation: rauðs
     with article:
       nominative: ráðið
       nominative_translation: the advice
+      nominative_pronunciation: rauːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: ráðið
+      accusative_pronunciation: rauːðɪð
       dative: ráðinu
+      dative_pronunciation: rauːðɪnʏ
       genitive: ráðsins
+      genitive_pronunciation: rauðsɪns
 id: 1531
 gender: neuter

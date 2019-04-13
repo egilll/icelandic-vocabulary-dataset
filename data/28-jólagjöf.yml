@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: jólagjöf
       nominative_translation: a christmas present
-      nominative_sound: islex/351/351_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/351/351_66.mp3'
+      nominative_pronunciation: jouːlacœːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: jólagjöf
-      accusative_sound: islex/351/351_66.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/351/351_66.mp3'
+      accusative_pronunciation: jouːlacœːv
       dative: jólagjöf
-      dative_sound: islex/351/351_66.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/351/351_66.mp3'
+      dative_pronunciation: jouːlacœːv
       genitive: jólagjafar
+      genitive_pronunciation: <span class="guessed">jouːlaːɣjaːfaːr</span>
     with article:
       nominative: jólagjöfin
       nominative_translation: the christmas present
+      nominative_pronunciation: <span class="guessed">jouːlacœːvɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: jólagjöfina
+      accusative_pronunciation: <span class="guessed">jouːlacœːvɪna</span>
       dative: jólagjöfinni
+      dative_pronunciation: <span class="guessed">jouːlacœːvɪnɪ</span>
       genitive: jólagjafarinnar
+      genitive_pronunciation: <span class="guessed">jouːlaːɣjaːfaːrɪnar</span>
   plural:
     no article:
       nominative: jólagjafir
       nominative_translation: christmas presents
+      nominative_pronunciation: jouːlacaːvɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: jólagjafir
+      accusative_pronunciation: jouːlacaːvɪr
       dative: jólagjöfum
+      dative_pronunciation: <span class="guessed">jouːlacœːvʏm</span>
       genitive: jólagjafa
+      genitive_pronunciation: <span class="guessed">jouːlacaːva</span>
     with article:
       nominative: jólagjafirnar
       nominative_translation: the christmas presents
+      nominative_pronunciation: <span class="guessed">jouːlacaːvɪtnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: jólagjafirnar
+      accusative_pronunciation: <span class="guessed">jouːlacaːvɪtnar</span>
       dative: jólagjöfunum
+      dative_pronunciation: <span class="guessed">jouːlacœːvɔnʏm</span>
       genitive: jólagjafanna
+      genitive_pronunciation: <span class="guessed">jouːlaːɣjaːfanaː</span>
 id: 1203
 gender: feminine

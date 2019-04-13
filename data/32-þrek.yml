@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: þrek
       nominative_translation: 'stamina, endurance'
-      nominative_sound: islex/254/254_43.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/254/254_43.mp3'
+      nominative_pronunciation: θrɛːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þrek
-      accusative_sound: islex/254/254_43.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/254/254_43.mp3'
+      accusative_pronunciation: θrɛːk
       dative: þreki
+      dative_pronunciation: θrɛːcɪ
       genitive: þreks
+      genitive_pronunciation: θrɛːks
     with article:
       nominative: þrekið
       nominative_translation: 'the stamina, the endurance'
+      nominative_pronunciation: θrɛːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: þrekið
+      accusative_pronunciation: θrɛːcɪð
       dative: þrekinu
+      dative_pronunciation: <span class="guessed">θrɛːkɪːnʏ</span>
       genitive: þreksins
 id: 1962
 gender: neuter

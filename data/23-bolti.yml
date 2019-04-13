@@ -6,36 +6,47 @@ conjugation:
     no article:
       nominative: bolti
       nominative_translation: a ball
-      nominative_sound: islex/082/082_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/082/082_37.mp3'
+      nominative_pronunciation: pɔl̥tɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bolta
-      accusative_sound: islex/443/443_52.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/443/443_52.mp3'
+      accusative_pronunciation: pɔl̥ta
       dative: bolta
-      dative_sound: islex/443/443_52.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/443/443_52.mp3'
+      dative_pronunciation: pɔl̥ta
       genitive: bolta
-      genitive_sound: islex/443/443_52.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/443/443_52.mp3'
+      genitive_pronunciation: pɔl̥ta
     with article:
       nominative: boltinn
       nominative_translation: the ball
+      nominative_pronunciation: pɔl̥tɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: boltann
+      accusative_pronunciation: pɔl̥tan
       dative: boltanum
+      dative_pronunciation: pɔl̥tanʏm
       genitive: boltans
   plural:
     no article:
       nominative: boltar
       nominative_translation: balls
+      nominative_pronunciation: pɔl̥tar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bolta
-      accusative_sound: islex/443/443_52.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/443/443_52.mp3'
+      accusative_pronunciation: pɔl̥ta
       dative: boltum
+      dative_pronunciation: pɔl̥tʏm
       genitive: bolta
-      genitive_sound: islex/443/443_52.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/443/443_52.mp3'
+      genitive_pronunciation: pɔl̥ta
     with article:
       nominative: boltarnir
       nominative_translation: the balls
@@ -44,5 +55,6 @@ conjugation:
       accusative: boltana
       dative: boltunum
       genitive: boltanna
+      genitive_pronunciation: <span class="guessed">pɔːltʰana</span>
 id: 828
 gender: masculine

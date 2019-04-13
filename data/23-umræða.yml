@@ -6,31 +6,41 @@ conjugation:
     no article:
       nominative: umræða
       nominative_translation: a discussion
-      nominative_sound: islex/366/366_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/366/366_64.mp3'
+      nominative_pronunciation: ʏmraiða
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: umræðu
+      accusative_pronunciation: ʏmraiðʏ
       dative: umræðu
+      dative_pronunciation: ʏmraiðʏ
       genitive: umræðu
+      genitive_pronunciation: ʏmraiðʏ
     with article:
       nominative: umræðan
       nominative_translation: the discussion
+      nominative_pronunciation: ʏmraiðan
       nominative_teach: true
       nominative_teachtable: true
       accusative: umræðuna
+      accusative_pronunciation: ʏmraiðʏna
       dative: umræðunni
+      dative_pronunciation: ʏmraiðʏnɪ
       genitive: umræðunnar
+      genitive_pronunciation: ʏmraiðʏnar
   plural:
     no article:
       nominative: umræður
       nominative_translation: discussions
+      nominative_pronunciation: ʏmraiðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: umræðurnar
       nominative_translation: the discussions
+      nominative_pronunciation: ʏmraiðʏtnar
       nominative_teach: true
       nominative_teachtable: false
 id: 1867

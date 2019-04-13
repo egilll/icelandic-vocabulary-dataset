@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: saga
       nominative_translation: a story; history
-      nominative_sound: islex/174/174_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/174/174_24.mp3'
+      nominative_pronunciation: saːɣa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sögu
+      accusative_pronunciation: sœːɣʏ
       dative: sögu
+      dative_pronunciation: sœːɣʏ
       genitive: sögu
+      genitive_pronunciation: sœːɣʏ
     with article:
       nominative: sagan
       nominative_translation: the story; the history
+      nominative_pronunciation: saːɣan
       nominative_teach: true
       nominative_teachtable: true
       accusative: söguna
+      accusative_pronunciation: sœːɣʏna
       dative: sögunni
+      dative_pronunciation: sœːɣʏnɪ
       genitive: sögunnar
+      genitive_pronunciation: sœːɣʏnar
   plural:
     no article:
       nominative: sögur
       nominative_translation: stories
+      nominative_pronunciation: sœːɣʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sögur
+      accusative_pronunciation: sœːɣʏr
       dative: sögum
+      dative_pronunciation: sœːɣʏm
       genitive: sagna
+      genitive_pronunciation: sakna
     with article:
       nominative: sögurnar
       nominative_translation: the stories
+      nominative_pronunciation: sœːɣʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: sögurnar
+      accusative_pronunciation: sœːɣʏtnar
       dative: sögunum
+      dative_pronunciation: sœːɣɔnʏm
       genitive: sagnanna
+      genitive_pronunciation: saknana
 id: 1584
 gender: feminine

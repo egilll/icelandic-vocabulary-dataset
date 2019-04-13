@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: kápa
       nominative_translation: a coat
-      nominative_sound: islex/430/430_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/430/430_51.mp3'
+      nominative_pronunciation: kʰauːpa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: kápan
       nominative_translation: the coat
+      nominative_pronunciation: kʰauːpan
       nominative_teach: true
       nominative_teachtable: false
 id: 1220

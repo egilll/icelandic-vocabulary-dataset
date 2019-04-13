@@ -5,7 +5,8 @@ conjugation:
   middle voice:
     infinitive: '[að] rífast'
     infinitive_translation: to argue
-    infinitive_sound: islex/207/207_61.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/207/207_61.mp3'
+    infinitive_pronunciation: riːvast
     infinitive_teach: true
     indicative:
       present:
@@ -17,6 +18,7 @@ conjugation:
         plural:
           1st person: '[við] rifumst'
           1st person_translation: we argued
+          1st person_pronunciation: rɪːvʏmst
           1st person_teach: true
 id: 2296
 strong_verb_declension: true

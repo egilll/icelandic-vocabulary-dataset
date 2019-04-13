@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: þreyta
       nominative_translation: fatigue
-      nominative_sound: islex/459/459_00.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/459/459_00.mp3'
+      nominative_pronunciation: θreiːta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þreytu
+      accusative_pronunciation: θreiːtʏ
       dative: þreytu
+      dative_pronunciation: θreiːtʏ
       genitive: þreytu
+      genitive_pronunciation: θreiːtʏ
     with article:
       nominative: þreytan
       nominative_translation: the fatigue
+      nominative_pronunciation: θreiːtan
       nominative_teach: true
       nominative_teachtable: true
       accusative: þreytuna
+      accusative_pronunciation: θreiːtʏna
       dative: þreytunni
+      dative_pronunciation: θreiːtʏnɪ
       genitive: þreytunnar
 id: 1963
 gender: feminine

@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: útsýni
       nominative_translation: a view
-      nominative_sound: islex/338/338_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/338/338_97.mp3'
+      nominative_pronunciation: uːtsinɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: útsýni
-      accusative_sound: islex/338/338_97.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/338/338_97.mp3'
+      accusative_pronunciation: uːtsinɪ
       dative: útsýni
-      dative_sound: islex/338/338_97.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/338/338_97.mp3'
+      dative_pronunciation: uːtsinɪ
       genitive: útsýnis
+      genitive_pronunciation: uːtsinɪs
     with article:
       nominative: útsýnið
       nominative_translation: the view
+      nominative_pronunciation: uːtsinɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: útsýnið
+      accusative_pronunciation: uːtsinɪð
       dative: útsýninu
+      dative_pronunciation: uːtsinɪnʏ
       genitive: útsýnisins
+      genitive_pronunciation: uːtsinɪsɪns
 id: 1882
 gender: neuter

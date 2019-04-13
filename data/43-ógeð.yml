@@ -6,34 +6,45 @@ conjugation:
     no article:
       nominative: ógeð
       nominative_translation: gross
-      nominative_sound: islex/205/205_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/205/205_38.mp3'
+      nominative_pronunciation: ouːcɛð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ógeð
-      accusative_sound: islex/205/205_38.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/205/205_38.mp3'
+      accusative_pronunciation: ouːcɛð
       dative: ógeði
+      dative_pronunciation: ouːcɛðɪ
       genitive: ógeðs
+      genitive_pronunciation: <span class="guessed">ouːcɛðs</span>
     with article:
       nominative: ógeðið
       nominative_translation: the gross
+      nominative_pronunciation: ouːcɛðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: ógeðið
+      accusative_pronunciation: ouːcɛðɪð
       dative: ógeðinu
+      dative_pronunciation: <span class="guessed">ouːcɛðɪːnʏ</span>
       genitive: ógeðsins
   plural:
     no article:
       nominative: ógeð
       nominative_translation: grosses
-      nominative_sound: islex/205/205_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/205/205_38.mp3'
+      nominative_pronunciation: ouːcɛð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ógeð
-      accusative_sound: islex/205/205_38.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/205/205_38.mp3'
+      accusative_pronunciation: ouːcɛð
       dative: ógeðum
+      dative_pronunciation: <span class="guessed">ouːcɛðʏm</span>
       genitive: ógeða
+      genitive_pronunciation: <span class="guessed">ouːcɛðaː</span>
     with article:
       nominative: ógeðin
       nominative_translation: the grosses
@@ -42,5 +53,6 @@ conjugation:
       accusative: ógeðin
       dative: ógeðunum
       genitive: ógeðanna
+      genitive_pronunciation: <span class="guessed">ouːcɛðana</span>
 id: 1464
 gender: neuter

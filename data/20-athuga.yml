@@ -5,20 +5,24 @@ conjugation:
   active voice:
     infinitive: '[að] athuga'
     infinitive_translation: to check
-    infinitive_sound: islex/066/066_18.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/066/066_18.mp3'
+    infinitive_pronunciation: aːtʏɣa
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] athugaði'
           1st person_translation: I checked
+          1st person_pronunciation: <span class="guessed">aːtʏɣaðɪː</span>
           1st person_teach: true
   imperative:
     active voice:
       singular: athugaðu!
       singular_translation: 'please observe!¹, please check!¹'
+      singular_pronunciation: aːtʏɣaðʏ
       singular_teach: true
       plural: athugið!
       plural_translation: 'please observe!², please check!²'
+      plural_pronunciation: aːtʏjɪð
       plural_teach: true
 id: 2024

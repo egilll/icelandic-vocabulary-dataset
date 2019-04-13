@@ -5,32 +5,40 @@ conjugation:
   active voice:
     infinitive: '[að] flytja'
     infinitive_translation: to move somewhere; to move something big
-    infinitive_sound: islex/317/317_33.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/317/317_33.mp3'
+    infinitive_pronunciation: flɪːtja
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] flutti'
           1st person_translation: I moved somewhere; I moved something big
+          1st person_pronunciation: flʏhtɪ
           1st person_teach: true
           2nd person: '[þú] fluttir'
           2nd person_translation: you¹ moved somewhere; you¹ moved something big
+          2nd person_pronunciation: flʏhtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] flutti'
           3rd person_translation: he/she/it moved somewhere; he/she/it moved something big
+          3rd person_pronunciation: flʏhtɪ
           3rd person_teach: true
         plural:
           1st person: '[við] fluttum'
           1st person_translation: we moved somewhere; we moved something big
+          1st person_pronunciation: flʏhtʏm
           1st person_teach: true
           2nd person: '[þið] fluttuð'
           2nd person_translation: you² moved somewhere; you² moved something big
+          2nd person_pronunciation: flʏhtʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] fluttu'
           3rd person_translation: they moved somewhere; they moved something big
+          3rd person_pronunciation: flʏhtʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] flutt'
     active voice_translation: I have moved
+    active voice_pronunciation: flʏht
     active voice_teach: true
 id: 2108

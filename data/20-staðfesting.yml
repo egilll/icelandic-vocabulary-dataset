@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: staðfesting
       nominative_translation: a confirmation
-      nominative_sound: islex/396/396_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/396/396_94.mp3'
+      nominative_pronunciation: staðfɛstiŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

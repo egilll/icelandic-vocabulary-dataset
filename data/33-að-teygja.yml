@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] teygja'
     infinitive_translation: to stretch
-    infinitive_sound: islex/108/108_09.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/108/108_09.mp3'
+    infinitive_pronunciation: tʰeija
     infinitive_teach: true
   imperative:
     active voice:

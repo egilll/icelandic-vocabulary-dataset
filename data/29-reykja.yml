@@ -5,21 +5,25 @@ conjugation:
   active voice:
     infinitive: '[að] reykja'
     infinitive_translation: to smoke
-    infinitive_sound: islex/376/376_85.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/376/376_85.mp3'
+    infinitive_pronunciation: reiːca
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] reyki'
           1st person_translation: I smoke
+          1st person_pronunciation: reiːcɪ
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] reykti'
           1st person_translation: I smoked
+          1st person_pronunciation: reixtɪ
           1st person_teach: true
   supine:
     active voice: '[ég hef] reykt'
     active voice_translation: I have smoked
+    active voice_pronunciation: reixt
     active voice_teach: true
 id: 2294

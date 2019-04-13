@@ -6,38 +6,49 @@ conjugation:
     no article:
       nominative: glæpur
       nominative_translation: a crime
-      nominative_sound: islex/125/125_74.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/125/125_74.mp3'
+      nominative_pronunciation: klaiːpʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: glæp
+      accusative_pronunciation: klaiːp
       dative: glæp
+      dative_pronunciation: klaiːp
       genitive: glæps
     with article:
       nominative: glæpurinn
       nominative_translation: the crime
+      nominative_pronunciation: <span class="guessed">klaiːpʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: glæpinn
+      accusative_pronunciation: <span class="guessed">klaiːpɪn</span>
       dative: glæpnum
       genitive: glæpsins
   plural:
     no article:
       nominative: glæpir
       nominative_translation: crimes
+      nominative_pronunciation: klaiːpɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: glæpi
+      accusative_pronunciation: klaiːpɪ
       dative: glæpum
+      dative_pronunciation: klaiːpʏm
       genitive: glæpa
+      genitive_pronunciation: klaiːpa
     with article:
       nominative: glæpirnir
       nominative_translation: the crimes
       nominative_teach: true
       nominative_teachtable: true
       accusative: glæpina
+      accusative_pronunciation: <span class="guessed">klaiːpʰɪnaː</span>
       dative: glæpunum
       genitive: glæpanna
+      genitive_pronunciation: <span class="guessed">klaiːpana</span>
 id: 1029
 gender: masculine

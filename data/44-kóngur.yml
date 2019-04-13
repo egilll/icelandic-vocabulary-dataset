@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: kóngur
       nominative_translation: a king
-      nominative_sound: islex/417/417_89.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/417/417_89.mp3'
+      nominative_pronunciation: kʰouŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kóng
+      accusative_pronunciation: kʰouŋk
       dative: kóngi
+      dative_pronunciation: kʰouɲcɪ
       genitive: kóngs
     with article:
       nominative: kóngurinn
       nominative_translation: the king
+      nominative_pronunciation: kʰouŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: kónginn
+      accusative_pronunciation: kʰouɲcɪn
       dative: kónginum
+      dative_pronunciation: kʰouɲcɪnʏm
       genitive: kóngsins
+      genitive_pronunciation: kʰouŋsɪns
   plural:
     no article:
       nominative: kóngar
@@ -29,16 +36,21 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kónga
+      accusative_pronunciation: <span class="guessed">kʰouŋkaː</span>
       dative: kóngum
+      dative_pronunciation: <span class="guessed">kʰouŋkʏm</span>
       genitive: kónga
+      genitive_pronunciation: <span class="guessed">kʰouŋkaː</span>
     with article:
       nominative: kóngarnir
       nominative_translation: the kings
       nominative_teach: true
       nominative_teachtable: true
       accusative: kóngana
+      accusative_pronunciation: <span class="guessed">kʰouŋkaːna</span>
       dative: kóngunum
       genitive: kónganna
+      genitive_pronunciation: <span class="guessed">kʰouŋkana</span>
 id: 1259
 gender: masculine
 recognizable: '1'

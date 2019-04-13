@@ -6,18 +6,24 @@ conjugation:
     no article:
       nominative: leiðbeiningar
       nominative_translation: instructions
+      nominative_pronunciation: leiðpeiniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leiðbeiningar
+      accusative_pronunciation: leiðpeiniŋkar
       dative: leiðbeiningum
+      dative_pronunciation: leiðpeiniŋkʏm
       genitive: leiðbeininga
+      genitive_pronunciation: lɛjðpɛjniŋka
     with article:
       nominative: leiðbeiningarnar
       nominative_translation: the instructions
+      nominative_pronunciation: lɛjðpɛjniŋkatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: leiðbeiningarnar
+      accusative_pronunciation: lɛjðpɛjniŋkatnar
       dative: leiðbeiningunum
       genitive: leiðbeininganna
 id: 1306

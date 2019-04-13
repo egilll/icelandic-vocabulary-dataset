@@ -6,23 +6,31 @@ conjugation:
     no article:
       nominative: vandi
       nominative_translation: a difficulty
-      nominative_sound: islex/308/308_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/308/308_45.mp3'
+      nominative_pronunciation: vantɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vanda
-      accusative_sound: islex/468/468_09.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/468/468_09.mp3'
+      accusative_pronunciation: vanta
       dative: vanda
-      dative_sound: islex/468/468_09.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/468/468_09.mp3'
+      dative_pronunciation: vanta
       genitive: vanda
-      genitive_sound: islex/468/468_09.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/468/468_09.mp3'
+      genitive_pronunciation: vanta
     with article:
       nominative: vandinn
       nominative_translation: the difficulty
+      nominative_pronunciation: vantɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: vandann
+      accusative_pronunciation: vantan
       dative: vandanum
+      dative_pronunciation: vantanʏm
       genitive: vandans
+      genitive_pronunciation: vantans
 id: 1888
 gender: masculine

@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: klaki
       nominative_translation: an ice cube
-      nominative_sound: islex/305/305_34.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/305/305_34.mp3'
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

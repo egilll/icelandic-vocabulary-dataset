@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: upplifun
       nominative_translation: an experience
-      nominative_sound: islex/084/084_68.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/084/084_68.mp3'
+      nominative_pronunciation: ʏhplɪvʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: upplifun
-      accusative_sound: islex/084/084_68.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/084/084_68.mp3'
+      accusative_pronunciation: ʏhplɪvʏn
       dative: upplifun
-      dative_sound: islex/084/084_68.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/084/084_68.mp3'
+      dative_pronunciation: ʏhplɪvʏn
       genitive: upplifunar
     with article:
       nominative: upplifunin
@@ -22,6 +25,7 @@ conjugation:
       nominative_teachtable: true
       accusative: upplifunina
       dative: upplifuninni
+      dative_pronunciation: <span class="guessed">ʏhplɪvʏnɪnɪ</span>
       genitive: upplifunarinnar
 id: 1872
 gender: feminine

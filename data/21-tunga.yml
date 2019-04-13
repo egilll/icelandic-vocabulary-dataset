@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: tunga
       nominative_translation: a tongue
-      nominative_sound: islex/351/351_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/351/351_05.mp3'
+      nominative_pronunciation: tʰuŋka
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tungu
+      accusative_pronunciation: tʰuŋkʏ
       dative: tungu
+      dative_pronunciation: tʰuŋkʏ
       genitive: tungu
+      genitive_pronunciation: tʰuŋkʏ
     with article:
       nominative: tungan
       nominative_translation: the tongue
+      nominative_pronunciation: tʰuŋkan
       nominative_teach: true
       nominative_teachtable: true
       accusative: tunguna
+      accusative_pronunciation: tʰuŋkʏna
       dative: tungunni
+      dative_pronunciation: tʰuŋkʏnɪ
       genitive: tungunnar
+      genitive_pronunciation: tʰuŋkʏnar
 id: 1855
 gender: feminine

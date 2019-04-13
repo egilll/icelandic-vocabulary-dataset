@@ -6,32 +6,42 @@ conjugation:
     no article:
       nominative: kanna
       nominative_translation: a jug; a coffeepot
-      nominative_sound: islex/139/139_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/139/139_27.mp3'
+      nominative_pronunciation: kʰana
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: könnu
+      accusative_pronunciation: kʰœnʏ
       dative: könnu
+      dative_pronunciation: kʰœnʏ
       genitive: könnu
+      genitive_pronunciation: kʰœnʏ
     with article:
       nominative: kannan
       nominative_translation: the jug; the coffeepot
+      nominative_pronunciation: <span class="guessed">kʰanaːn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: könnuna
+      accusative_pronunciation: <span class="guessed">kʰœnʏnaː</span>
       dative: könnunni
+      dative_pronunciation: kʰœnʏnɪ
       genitive: könnunnar
   plural:
     no article:
       nominative: könnur
       nominative_translation: jugs; coffeepots
+      nominative_pronunciation: kʰœnʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: könnur
+      accusative_pronunciation: kʰœnʏr
       dative: könnum
       genitive: kanna
-      genitive_sound: islex/139/139_27.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/139/139_27.mp3'
+      genitive_pronunciation: kʰana
     with article:
       nominative: könnurnar
       nominative_translation: the jugs; the coffeepots
@@ -39,6 +49,8 @@ conjugation:
       nominative_teachtable: true
       accusative: könnurnar
       dative: könnunum
+      dative_pronunciation: kʰœnɔnʏm
       genitive: kannanna
+      genitive_pronunciation: kʰanana
 id: 1219
 gender: feminine

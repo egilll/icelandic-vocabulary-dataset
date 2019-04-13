@@ -6,41 +6,53 @@ conjugation:
     no article:
       nominative: ber
       nominative_translation: a berry
-      nominative_sound: islex/008/008_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/008/008_31.mp3'
+      nominative_pronunciation: pɛːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ber
-      accusative_sound: islex/008/008_31.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/008/008_31.mp3'
+      accusative_pronunciation: pɛːr
       dative: beri
+      dative_pronunciation: pɛːrɪ
       genitive: bers
     with article:
       nominative: berið
       nominative_translation: the berry
+      nominative_pronunciation: pɛːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: berið
+      accusative_pronunciation: pɛːrɪð
       dative: berinu
+      dative_pronunciation: <span class="guessed">pɛːrɪːnʏ</span>
       genitive: bersins
   plural:
     no article:
       nominative: ber
       nominative_translation: berries
-      nominative_sound: islex/008/008_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/008/008_31.mp3'
+      nominative_pronunciation: pɛːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ber
-      accusative_sound: islex/008/008_31.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/008/008_31.mp3'
+      accusative_pronunciation: pɛːr
       dative: berjum
+      dative_pronunciation: pɛrjʏm
       genitive: berja
-      genitive_sound: islex/353/353_15.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/353/353_15.mp3'
+      genitive_pronunciation: pɛrja
     with article:
       nominative: berin
       nominative_translation: the berries
+      nominative_pronunciation: pɛːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: berin
+      accusative_pronunciation: pɛːrɪn
       dative: berjunum
       genitive: berjanna
 id: 789

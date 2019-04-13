@@ -6,39 +6,52 @@ conjugation:
     no article:
       nominative: símtal
       nominative_translation: a phone call
-      nominative_sound: islex/450/450_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/450/450_57.mp3'
+      nominative_pronunciation: simtal
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: símtal
-      accusative_sound: islex/450/450_57.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/450/450_57.mp3'
+      accusative_pronunciation: simtal
       dative: símtali
+      dative_pronunciation: simtalɪ
       genitive: símtals
     with article:
       nominative: símtalið
       nominative_translation: the phone call
+      nominative_pronunciation: simtalɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: símtalið
+      accusative_pronunciation: simtalɪð
       dative: símtalinu
+      dative_pronunciation: simtalɪnʏ
       genitive: símtalsins
   plural:
     no article:
       nominative: símtöl
       nominative_translation: phone calls
+      nominative_pronunciation: simtœl
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: símtöl
+      accusative_pronunciation: simtœl
       dative: símtölum
+      dative_pronunciation: simtœlʏm
       genitive: símtala
+      genitive_pronunciation: simtala
     with article:
       nominative: símtölin
       nominative_translation: the phone calls
+      nominative_pronunciation: simtœlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: símtölin
+      accusative_pronunciation: simtœlɪn
       dative: símtölunum
       genitive: símtalanna
+      genitive_pronunciation: <span class="guessed">simtalana</span>
 id: 1619
 gender: neuter

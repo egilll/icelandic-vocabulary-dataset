@@ -5,17 +5,20 @@ conjugation:
   middle voice:
     infinitive: '[að] hittast'
     infinitive_translation: to meet each other
-    infinitive_sound: islex/398/398_22.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/398/398_22.mp3'
+    infinitive_pronunciation: hɪhtast
     infinitive_teach: true
     indicative:
       present:
         plural:
           1st person: '[við] hittumst'
           1st person_translation: we meet each other
+          1st person_pronunciation: hɪhtʏmst
           1st person_teach: true
       past:
         plural:
           1st person: '[við] hittumst'
           1st person_translation: we met each other
+          1st person_pronunciation: hɪhtʏmst
           1st person_teach: true
 id: 2153

@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: tilboð
       nominative_translation: an offer
-      nominative_sound: islex/386/386_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/386/386_19.mp3'
+      nominative_pronunciation: tʰɪlpɔð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tilboð
-      accusative_sound: islex/386/386_19.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/386/386_19.mp3'
+      accusative_pronunciation: tʰɪlpɔð
       dative: tilboði
+      dative_pronunciation: tʰɪlpɔðɪ
       genitive: tilboðs
+      genitive_pronunciation: tʰɪlpɔðs
     with article:
       nominative: tilboðið
       nominative_translation: the offer
+      nominative_pronunciation: tʰɪlpɔðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: tilboðið
+      accusative_pronunciation: tʰɪlpɔðɪð
       dative: tilboðinu
+      dative_pronunciation: tʰɪlpɔðɪnʏ
       genitive: tilboðsins
 id: 1827
 gender: neuter

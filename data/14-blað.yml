@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: blað
       nominative_translation: a paper
-      nominative_sound: islex/105/105_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/105/105_71.mp3'
+      nominative_pronunciation: plaːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blað
-      accusative_sound: islex/105/105_71.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/105/105_71.mp3'
+      accusative_pronunciation: plaːð
       dative: blaði
+      dative_pronunciation: plaːðɪ
       genitive: blaðs
+      genitive_pronunciation: plaðs
     with article:
       nominative: blaðið
       nominative_translation: the paper
+      nominative_pronunciation: plaːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: blaðið
+      accusative_pronunciation: plaːðɪð
       dative: blaðinu
+      dative_pronunciation: plaːðɪnʏ
       genitive: blaðsins
+      genitive_pronunciation: plaðsɪns
   plural:
     no article:
       nominative: blöð
       nominative_translation: papers
+      nominative_pronunciation: plœːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blöð
+      accusative_pronunciation: plœːð
       dative: blöðum
+      dative_pronunciation: plœːðʏm
       genitive: blaða
-      genitive_sound: islex/342/342_33.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/342/342_33.mp3'
+      genitive_pronunciation: plaːða
     with article:
       nominative: blöðin
       nominative_translation: the papers
+      nominative_pronunciation: plœːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: blöðin
+      accusative_pronunciation: plœːðɪn
       dative: blöðunum
+      dative_pronunciation: plœːðɔnʏm
       genitive: blaðanna
+      genitive_pronunciation: plaːðana
 id: 806
 gender: neuter

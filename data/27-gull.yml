@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: gull
       nominative_translation: gold
-      nominative_sound: islex/190/190_34.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/190/190_34.mp3'
+      nominative_pronunciation: kʏtl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gull
-      accusative_sound: islex/190/190_34.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/190/190_34.mp3'
+      accusative_pronunciation: kʏtl̥
       dative: gulli
+      dative_pronunciation: kʏtlɪ
       genitive: gulls
+      genitive_pronunciation: kʏls
     with article:
       nominative: gullið
       nominative_translation: the gold
+      nominative_pronunciation: kʏtlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: gullið
+      accusative_pronunciation: kʏtlɪð
       dative: gullinu
+      dative_pronunciation: <span class="guessed">kʏtl̥ɪːnʏ</span>
       genitive: gullsins
+      genitive_pronunciation: kʏlsɪns
 id: 1058
 gender: neuter

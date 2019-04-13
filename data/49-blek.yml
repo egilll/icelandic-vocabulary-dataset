@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: blek
       nominative_translation: an ink
-      nominative_sound: islex/216/216_98.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/216/216_98.mp3'
+      nominative_pronunciation: plɛːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blek
-      accusative_sound: islex/216/216_98.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/216/216_98.mp3'
+      accusative_pronunciation: plɛːk
       dative: bleki
+      dative_pronunciation: plɛːcɪ
       genitive: bleks
     with article:
       nominative: blekið
       nominative_translation: the ink
+      nominative_pronunciation: plɛːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: blekið
+      accusative_pronunciation: plɛːcɪð
       dative: blekinu
+      dative_pronunciation: <span class="guessed">plɛːkɪːnʏ</span>
       genitive: bleksins
 id: 812
 gender: neuter

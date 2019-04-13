@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: ofbeldi
       nominative_translation: violence
-      nominative_sound: islex/077/077_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/077/077_04.mp3'
+      nominative_pronunciation: ɔvpɛltɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ofbeldi
-      accusative_sound: islex/077/077_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/077/077_04.mp3'
+      accusative_pronunciation: ɔvpɛltɪ
       dative: ofbeldi
-      dative_sound: islex/077/077_04.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/077/077_04.mp3'
+      dative_pronunciation: ɔvpɛltɪ
       genitive: ofbeldis
+      genitive_pronunciation: ɔvpɛltɪs
     with article:
       nominative: ofbeldið
       nominative_translation: the violence
+      nominative_pronunciation: ɔvpɛltɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: ofbeldið
+      accusative_pronunciation: ɔvpɛltɪð
       dative: ofbeldinu
+      dative_pronunciation: ɔvpɛltɪnʏ
       genitive: ofbeldisins
 id: 1461
 gender: neuter

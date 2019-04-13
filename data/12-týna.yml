@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] týna'
     infinitive_translation: to lose something
-    infinitive_sound: islex/341/341_63.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/341/341_63.mp3'
+    infinitive_pronunciation: tʰiːna
     infinitive_teach: true
     indicative:
       present:
@@ -17,9 +18,11 @@ conjugation:
         singular:
           1st person: '[ég] týndi'
           1st person_translation: I lost something
+          1st person_pronunciation: tʰintɪ
           1st person_teach: true
         plural:
           1st person: '[við] týndum'
           1st person_translation: we lost something
+          1st person_pronunciation: <span class="guessed">tʰintʏm</span>
           1st person_teach: true
 id: 2409

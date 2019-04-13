@@ -6,19 +6,26 @@ conjugation:
     no article:
       nominative: flísar
       nominative_translation: tiles
+      nominative_pronunciation: fliːsar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flísar
+      accusative_pronunciation: fliːsar
       dative: flísum
+      dative_pronunciation: fliːsʏm
       genitive: flísa
+      genitive_pronunciation: <span class="guessed">fliːsaː</span>
     with article:
       nominative: flísarnar
       nominative_translation: the tiles
+      nominative_pronunciation: fliːsatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: flísarnar
+      accusative_pronunciation: fliːsatnar
       dative: flísunum
       genitive: flísanna
+      genitive_pronunciation: <span class="guessed">fliːsana</span>
 id: 958
 gender: feminine

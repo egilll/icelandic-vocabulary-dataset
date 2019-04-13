@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: áhætta
       nominative_translation: a risk
-      nominative_sound: islex/290/290_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/290/290_22.mp3'
+      nominative_pronunciation: auːhaihta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: áhættu
+      accusative_pronunciation: auːhaihtʏ
       dative: áhættu
+      dative_pronunciation: auːhaihtʏ
       genitive: áhættu
+      genitive_pronunciation: auːhaihtʏ
     with article:
       nominative: áhættan
       nominative_translation: the risk
+      nominative_pronunciation: auːhaihtan
       nominative_teach: true
       nominative_teachtable: true
       accusative: áhættuna
+      accusative_pronunciation: auːhaihtʏna
       dative: áhættunni
+      dative_pronunciation: auːhaihtʏnɪ
       genitive: áhættunnar
 id: 708
 gender: feminine

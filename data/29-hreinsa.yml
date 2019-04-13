@@ -5,51 +5,62 @@ conjugation:
   active voice:
     infinitive: '[að] hreinsa'
     infinitive_translation: to clean
-    infinitive_sound: islex/198/198_27.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/198/198_27.mp3'
+    infinitive_pronunciation: r̥einsa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] hreinsa'
           1st person_translation: I clean
-          1st person_sound: islex/198/198_27.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/198/198_27.mp3'
+          1st person_pronunciation: r̥einsa
           1st person_teach: true
           2nd person: '[þú] hreinsar'
           2nd person_translation: you¹ clean
+          2nd person_pronunciation: r̥einsar
           2nd person_teach: true
           3rd person: '[hann/hún/það] hreinsar'
           3rd person_translation: he/she/it cleans
+          3rd person_pronunciation: r̥einsar
           3rd person_teach: true
         plural:
           1st person: '[við] hreinsum'
           1st person_translation: we clean
+          1st person_pronunciation: <span class="guessed">r̥eiːnsʏːm</span>
           1st person_teach: true
           2nd person: '[þið] hreinsið'
           2nd person_translation: you² clean
+          2nd person_pronunciation: <span class="guessed">r̥eiːnsɪːð</span>
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hreinsa'
           3rd person_translation: they clean
-          3rd person_sound: islex/198/198_27.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/198/198_27.mp3'
+          3rd person_pronunciation: r̥einsa
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] hreinsaði'
           1st person_translation: I cleaned
+          1st person_pronunciation: <span class="guessed">r̥einsaðɪː</span>
           1st person_teach: true
           2nd person: '[þú] hreinsaðir'
           2nd person_translation: you¹ cleaned
           2nd person_teach: true
           3rd person: '[hann/hún/það] hreinsaði'
           3rd person_translation: he/she/it cleaned
+          3rd person_pronunciation: <span class="guessed">r̥einsaðɪː</span>
           3rd person_teach: true
         plural:
           1st person: '[við] hreinsuðum'
           1st person_translation: we cleaned
+          1st person_pronunciation: <span class="guessed">r̥eiːnsʏːðʏm</span>
           1st person_teach: true
           2nd person: '[þið] hreinsuðuð'
           2nd person_translation: you² cleaned
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hreinsuðu'
           3rd person_translation: they cleaned
+          3rd person_pronunciation: <span class="guessed">r̥eiːnsʏːðʏ</span>
           3rd person_teach: true
 id: 2166

@@ -6,37 +6,49 @@ conjugation:
     no article:
       nominative: greiðsla
       nominative_translation: payment
-      nominative_sound: islex/052/052_39.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/052/052_39.mp3'
+      nominative_pronunciation: kreiðstla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: greiðslu
+      accusative_pronunciation: kreiðstlʏ
       dative: greiðslu
+      dative_pronunciation: kreiðstlʏ
       genitive: greiðslu
+      genitive_pronunciation: kreiðstlʏ
     with article:
       nominative: greiðslan
       nominative_translation: the payment
+      nominative_pronunciation: kreiðstlan
       nominative_teach: true
       nominative_teachtable: true
       accusative: greiðsluna
+      accusative_pronunciation: kreiðstlʏna
       dative: greiðslunni
       genitive: greiðslunnar
   plural:
     no article:
       nominative: greiðslur
       nominative_translation: payments
+      nominative_pronunciation: kreiðstlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: greiðslur
+      accusative_pronunciation: kreiðstlʏr
       dative: greiðslum
+      dative_pronunciation: kreiðstlʏm
       genitive: greiðslna
+      genitive_pronunciation: kreiðstlan
     with article:
       nominative: greiðslurnar
       nominative_translation: the payments
+      nominative_pronunciation: kreiðstlʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: greiðslurnar
+      accusative_pronunciation: kreiðstlʏtnar
       dative: greiðslunum
       genitive: greiðslnanna
 id: 1046

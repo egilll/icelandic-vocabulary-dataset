@@ -6,37 +6,50 @@ conjugation:
     no article:
       nominative: köttur
       nominative_translation: a cat
-      nominative_sound: islex/224/224_56.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/224/224_56.mp3'
+      nominative_pronunciation: kʰœhtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kött
+      accusative_pronunciation: kʰœht
       dative: ketti
+      dative_pronunciation: cʰɛhtɪ
       genitive: kattar
+      genitive_pronunciation: kʰahtar
     with article:
       nominative: kötturinn
       nominative_translation: the cat
+      nominative_pronunciation: kʰœhtʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: köttinn
+      accusative_pronunciation: kʰœhtɪn
       dative: kettinum
+      dative_pronunciation: cʰɛhtɪnʏm
       genitive: kattarins
+      genitive_pronunciation: kʰahtarɪns
   plural:
     no article:
       nominative: kettir
       nominative_translation: cats
+      nominative_pronunciation: cʰɛhtɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ketti
+      accusative_pronunciation: cʰɛhtɪ
       dative: köttum
+      dative_pronunciation: kʰœhtʏm
       genitive: katta
     with article:
       nominative: kettirnir
       nominative_translation: the cats
+      nominative_pronunciation: cʰɛhtɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: kettina
+      accusative_pronunciation: <span class="guessed">cʰɛːttʰɪːnaː</span>
       dative: köttunum
       genitive: kattanna
 id: 1266

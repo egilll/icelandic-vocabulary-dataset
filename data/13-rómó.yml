@@ -1,5 +1,7 @@
 word: rómó
 word_translation: romantic
+word_sound: 'https://media.egill.xyz/audio/islex/045/045_09.mp3'
+word_pronunciation: <span class="guessed">rouːmouː</span>
 word_teach: true
 level: 13
 grammatical_category: adjective

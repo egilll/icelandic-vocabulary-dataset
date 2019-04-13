@@ -6,21 +6,26 @@ conjugation:
     no article:
       nominative: bíltúr
       nominative_translation: a drive
-      nominative_sound: islex/207/207_60.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/207/207_60.mp3'
+      nominative_pronunciation: piltur
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bíltúr
-      accusative_sound: islex/207/207_60.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/207/207_60.mp3'
+      accusative_pronunciation: piltur
       dative: bíltúr
-      dative_sound: islex/207/207_60.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/207/207_60.mp3'
+      dative_pronunciation: piltur
       genitive: bíltúrs
     with article:
       nominative: bíltúrinn
       nominative_translation: the drive
+      nominative_pronunciation: <span class="guessed">pilturɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: bíltúrinn
+      accusative_pronunciation: <span class="guessed">pilturɪn</span>
       dative: bíltúrnum
       genitive: bíltúrsins
 id: 798

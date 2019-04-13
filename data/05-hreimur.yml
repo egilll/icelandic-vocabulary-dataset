@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: hreimur
       nominative_translation: a foreign accent
-      nominative_sound: islex/393/393_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/393/393_31.mp3'
+      nominative_pronunciation: r̥eiːmʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hreim
+      accusative_pronunciation: r̥eiːm
       dative: hreim
+      dative_pronunciation: r̥eiːm
       dative_alternative:
         - hreimi
       genitive: hreims
     with article:
       nominative: hreimurinn
       nominative_translation: the foreign accent
+      nominative_pronunciation: r̥eiːmʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hreiminn
+      accusative_pronunciation: <span class="guessed">r̥eiːmɪn</span>
       dative: hreimnum
+      dative_pronunciation: r̥eimnʏm
       genitive: hreimsins
 id: 1162
 gender: masculine

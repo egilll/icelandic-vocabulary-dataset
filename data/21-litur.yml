@@ -6,39 +6,53 @@ conjugation:
     no article:
       nominative: litur
       nominative_translation: a color
-      nominative_sound: islex/089/089_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/089/089_18.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lit
+      accusative_pronunciation: lɪːt
       dative: lit
+      dative_pronunciation: lɪːt
       genitive: litar
+      genitive_pronunciation: lɪːtar
     with article:
       nominative: liturinn
       nominative_translation: the color
+      nominative_pronunciation: lɪːtʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: litinn
+      accusative_pronunciation: <span class="guessed">lɪːtɪn</span>
       dative: litnum
+      dative_pronunciation: lɪhtnʏm
       genitive: litarins
   plural:
     no article:
       nominative: litir
       nominative_translation: colors
+      nominative_pronunciation: lɪːtɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: liti
+      accusative_pronunciation: lɪːtɪ
       dative: litum
+      dative_pronunciation: lɪːtʏm
       genitive: lita
-      genitive_sound: islex/018/018_80.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/018/018_80.mp3'
+      genitive_pronunciation: lɪːta
     with article:
       nominative: litirnir
       nominative_translation: the colors
+      nominative_pronunciation: lɪːtɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: litina
+      accusative_pronunciation: lɪːtɪna
       dative: litunum
+      dative_pronunciation: <span class="guessed">lɪːtʏnʏm</span>
       genitive: litanna
+      genitive_pronunciation: <span class="guessed">lɪːtana</span>
 id: 1337
 gender: masculine

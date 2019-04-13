@@ -6,18 +6,22 @@ conjugation:
     no article:
       nominative: vettlingar
       nominative_translation: mittens
+      nominative_pronunciation: vɛhtliŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vettlinga
+      accusative_pronunciation: vɛhtliŋka
       dative: vettlingum
       genitive: vettlinga
+      genitive_pronunciation: vɛhtliŋka
     with article:
       nominative: vettlingarnir
       nominative_translation: the mittens
       nominative_teach: true
       nominative_teachtable: true
       accusative: vettlingana
+      accusative_pronunciation: vɛhtliŋkana
       dative: vettlingunum
       genitive: vettlinganna
 id: 1915

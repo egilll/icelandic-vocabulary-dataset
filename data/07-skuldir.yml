@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: skuldir
       nominative_translation: debts
+      nominative_pronunciation: skʏltɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skuldir
+      accusative_pronunciation: skʏltɪr
       dative: skuldum
+      dative_pronunciation: skʏltʏm
       genitive: skulda
-      genitive_sound: islex/095/095_82.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/095/095_82.mp3'
+      genitive_pronunciation: skʏlta
     with article:
       nominative: skuldirnar
       nominative_translation: the debts
+      nominative_pronunciation: skʏltɪrtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: skuldirnar
+      accusative_pronunciation: skʏltɪrtnar
       dative: skuldunum
       genitive: skuldanna
+      genitive_pronunciation: <span class="guessed">skʏltana</span>
 id: 1666
 gender: feminine

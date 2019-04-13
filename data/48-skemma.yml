@@ -5,13 +5,15 @@ conjugation:
   active voice:
     infinitive: '[að] skemma'
     infinitive_translation: to damage
-    infinitive_sound: islex/207/207_89.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/207/207_89.mp3'
+    infinitive_pronunciation: scɛma
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] skemmdi'
           1st person_translation: I damaged
+          1st person_pronunciation: scɛmtɪ
           1st person_teach: true
   middle voice:
     indicative:
@@ -19,5 +21,6 @@ conjugation:
         singular:
           3rd person: '[hann/hún/það] skemmdist'
           3rd person_translation: he/she/it got damaged
+          3rd person_pronunciation: scɛmtɪst
           3rd person_teach: true
 id: 2330

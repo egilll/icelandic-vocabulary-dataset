@@ -5,6 +5,7 @@ conjugation:
   middle voice:
     infinitive: '[að] leggjast'
     infinitive_translation: to lie down
-    infinitive_sound: islex/104/104_84.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/104/104_84.mp3'
+    infinitive_pronunciation: lɛcast
     infinitive_teach: true
 id: 1991

@@ -6,14 +6,18 @@ conjugation:
     no article:
       nominative: blóðnasir
       nominative_translation: nosebleeds
-      nominative_sound: islex/389/389_70.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/389/389_70.mp3'
+      nominative_pronunciation: plouðnasɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blóðnasir
-      accusative_sound: islex/389/389_70.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/389/389_70.mp3'
+      accusative_pronunciation: plouðnasɪr
       dative: blóðnösum
+      dative_pronunciation: <span class="guessed">plouːðnœːsʏm</span>
       genitive: blóðnasa
+      genitive_pronunciation: <span class="guessed">plouːðnaːsa</span>
     with article:
       nominative: blóðnasirnar
       nominative_translation: the nosebleeds

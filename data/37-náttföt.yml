@@ -6,21 +6,26 @@ conjugation:
     no article:
       nominative: náttföt
       nominative_translation: pajamas
-      nominative_sound: islex/334/334_78.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/334/334_78.mp3'
+      nominative_pronunciation: nauhtfœt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: night-clothes
       accusative: náttföt
-      accusative_sound: islex/334/334_78.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/334/334_78.mp3'
+      accusative_pronunciation: nauhtfœt
       dative: náttfötum
+      dative_pronunciation: nauhtfœtʏm
       genitive: náttfata
     with article:
       nominative: náttfötin
       nominative_translation: the pajamas
+      nominative_pronunciation: nauhtfœtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: náttfötin
+      accusative_pronunciation: nauhtfœtɪn
       dative: náttfötunum
       genitive: náttfatanna
 id: 1443

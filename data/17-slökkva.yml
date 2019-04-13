@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] slökkva'
     infinitive_translation: to turn off
-    infinitive_sound: islex/433/433_04.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/433/433_04.mp3'
+    infinitive_pronunciation: stlœhkva
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] slökkti'
           1st person_translation: I turned off
+          1st person_pronunciation: stlœxtɪ
           1st person_teach: true
 id: 2356

@@ -6,41 +6,55 @@ conjugation:
     no article:
       nominative: vopn
       nominative_translation: weapon
-      nominative_sound: islex/120/120_34.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/120/120_34.mp3'
+      nominative_pronunciation: vɔhpn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vopn
-      accusative_sound: islex/120/120_34.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/120/120_34.mp3'
+      accusative_pronunciation: vɔhpn̥
       dative: vopni
+      dative_pronunciation: vɔhpnɪ
       genitive: vopns
     with article:
       nominative: vopnið
       nominative_translation: the weapon
+      nominative_pronunciation: vɔhpnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: vopnið
+      accusative_pronunciation: vɔhpnɪð
       dative: vopninu
+      dative_pronunciation: <span class="guessed">vɔhpn̥ɪːnʏ</span>
       genitive: vopnsins
   plural:
     no article:
       nominative: vopn
       nominative_translation: weapons
-      nominative_sound: islex/120/120_34.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/120/120_34.mp3'
+      nominative_pronunciation: vɔhpn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vopn
-      accusative_sound: islex/120/120_34.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/120/120_34.mp3'
+      accusative_pronunciation: vɔhpn̥
       dative: vopnum
+      dative_pronunciation: vɔhpnʏm
       genitive: vopna
+      genitive_pronunciation: vɔhpna
     with article:
       nominative: vopnin
       nominative_translation: the weapons
+      nominative_pronunciation: vɔhpnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: vopnin
+      accusative_pronunciation: vɔhpnɪn
       dative: vopnunum
+      dative_pronunciation: vɔhpnɔnʏm
       genitive: vopnanna
+      genitive_pronunciation: <span class="guessed">vɔhpn̥ana</span>
 id: 1943
 gender: neuter

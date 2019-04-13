@@ -6,24 +6,32 @@ conjugation:
     no article:
       nominative: haf
       nominative_translation: an ocean
-      nominative_sound: islex/135/135_15.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/135/135_15.mp3'
+      nominative_pronunciation: haːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: haf
-      accusative_sound: islex/135/135_15.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/135/135_15.mp3'
+      accusative_pronunciation: haːv
       dative: hafi
+      dative_pronunciation: haːvɪ
       genitive: hafs
     with article:
       nominative: hafið
       nominative_translation: the ocean
+      nominative_pronunciation: haːvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hafið
+      accusative_pronunciation: haːvɪð
       dative: hafinu
+      dative_pronunciation: haːvɪnʏ
       genitive: hafsins
+      genitive_pronunciation: hafsɪns
 id: 1071
 gender: neuter
 other_conneced_words: ''
 synonyms: sjór
-synonyms_sound: islex/147/147_82.mp3
+synonyms_sound: 'https://media.egill.xyz/audio/islex/147/147_82.mp3'
+synonyms_pronunciation: sjouːr

@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: draumur
       nominative_translation: a dream
-      nominative_sound: islex/319/319_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/319/319_57.mp3'
+      nominative_pronunciation: trœiːmʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: draum
+      accusative_pronunciation: trœiːm
       dative: draumi
+      dative_pronunciation: trœiːmɪ
       genitive: draums
+      genitive_pronunciation: trœims
     with article:
       nominative: draumurinn
       nominative_translation: the dream
+      nominative_pronunciation: trœiːmʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: drauminn
+      accusative_pronunciation: trœiːmɪn
       dative: draumnum
+      dative_pronunciation: trœimnʏm
       dative_alternative:
         - drauminum
       genitive: draumsins
+      genitive_pronunciation: trœimsɪns
   plural:
     no article:
       nominative: draumar
       nominative_translation: dreams
+      nominative_pronunciation: trœiːmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: drauma
+      accusative_pronunciation: trœiːma
       dative: draumum
+      dative_pronunciation: trœiːmʏm
       genitive: drauma
+      genitive_pronunciation: trœiːma
     with article:
       nominative: draumarnir
       nominative_translation: the dreams
+      nominative_pronunciation: trœiːmatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: draumana
+      accusative_pronunciation: <span class="guessed">trœiːmaːna</span>
       dative: draumunum
+      dative_pronunciation: trœiːmɔnʏm
       genitive: draumanna
+      genitive_pronunciation: trœiːmana
 id: 881
 gender: masculine

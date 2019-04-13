@@ -6,29 +6,36 @@ conjugation:
     no article:
       nominative: skyrta
       nominative_translation: a shirt
-      nominative_sound: islex/303/303_29.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/303/303_29.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skyrtu
+      accusative_pronunciation: scɪr̥tʏ
       dative: skyrtu
+      dative_pronunciation: scɪr̥tʏ
       genitive: skyrtu
+      genitive_pronunciation: scɪr̥tʏ
     with article:
       nominative: skyrtan
       nominative_translation: the shirt
+      nominative_pronunciation: scɪr̥tan
       nominative_teach: true
       nominative_teachtable: true
       accusative: skyrtuna
       dative: skyrtunni
+      dative_pronunciation: scɪr̥tʏnɪ
       genitive: skyrtunnar
   plural:
     no article:
       nominative: skyrtur
       nominative_translation: shirts
+      nominative_pronunciation: scɪr̥tʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skyrtur
+      accusative_pronunciation: scɪr̥tʏr
       dative: skyrtum
       genitive: skyrtna
       genitive_alternative:
@@ -36,10 +43,13 @@ conjugation:
     with article:
       nominative: skyrturnar
       nominative_translation: the shirts
+      nominative_pronunciation: scɪr̥tʏrtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: skyrturnar
+      accusative_pronunciation: scɪr̥tʏrtnar
       dative: skyrtunum
+      dative_pronunciation: scɪr̥tɔnʏm
       genitive: skyrtnanna
       genitive_alternative:
         - skyrtanna

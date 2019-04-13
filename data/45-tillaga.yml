@@ -6,31 +6,41 @@ conjugation:
     no article:
       nominative: tillaga
       nominative_translation: a suggestion
-      nominative_sound: islex/016/016_72.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/016/016_72.mp3'
+      nominative_pronunciation: tʰɪlaɣa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tillögu
+      accusative_pronunciation: tʰɪlœɣʏ
       dative: tillögu
+      dative_pronunciation: tʰɪlœɣʏ
       genitive: tillögu
+      genitive_pronunciation: tʰɪlœɣʏ
     with article:
       nominative: tillagan
       nominative_translation: the suggestion
+      nominative_pronunciation: tʰɪlaɣan
       nominative_teach: true
       nominative_teachtable: true
       accusative: tillöguna
+      accusative_pronunciation: tʰɪl̥ɣʏna
       dative: tillögunni
+      dative_pronunciation: tʰɪlœɣʏnɪ
       genitive: tillögunnar
+      genitive_pronunciation: tʰɪlœɣʏnar
   plural:
     no article:
       nominative: tillögur
       nominative_translation: suggestions
+      nominative_pronunciation: tʰɪlœɣʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: tillögurnar
       nominative_translation: the suggestions
+      nominative_pronunciation: tʰɪlœɣʏtnar
       nominative_teach: true
       nominative_teachtable: false
 id: 1830

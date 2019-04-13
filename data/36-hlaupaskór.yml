@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: hlaupaskór
       nominative_translation: running shoes
-      nominative_sound: islex/362/362_11.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/362/362_11.mp3'
+      nominative_pronunciation: <span class="guessed">l̥œiːpaskouːr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hlaupaskó
+      accusative_pronunciation: <span class="guessed">l̥œiːpaskouː</span>
       dative: hlaupaskóm
+      dative_pronunciation: <span class="guessed">l̥œiːpaskouːm</span>
       genitive: hlaupaskóa
+      genitive_pronunciation: <span class="guessed">l̥œiːpaskouːaː</span>
     with article:
       nominative: hlaupaskórnir
       nominative_translation: the running shoes
+      nominative_pronunciation: <span class="guessed">l̥œiːpaskourtnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hlaupaskóna
+      accusative_pronunciation: <span class="guessed">l̥œiːpaskouna</span>
       dative: hlaupaskónum
+      dative_pronunciation: <span class="guessed">l̥œiːpaskouːnʏm</span>
       genitive: hlaupaskónna
 id: 1132
 gender: masculine

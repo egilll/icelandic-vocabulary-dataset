@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] renna'
     infinitive_translation: to slip; to zip
-    infinitive_sound: islex/068/068_61.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/068/068_61.mp3'
+    infinitive_pronunciation: rɛna
     infinitive_teach: true
     indicative:
       present:
@@ -17,11 +18,12 @@ conjugation:
         singular:
           1st person: '[ég] rann'
           1st person_translation: I slipped; I zipped
-          1st person_sound: islex/078/078_14.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/078/078_14.mp3'
           1st person_teach: true
   supine:
     active voice: '[ég hef] runnið'
     active voice_translation: I have slipped
+    active voice_pronunciation: rʏnɪð
     active voice_teach: true
 id: 2292
 strong_verb_declension: true

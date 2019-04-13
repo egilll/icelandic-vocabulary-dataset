@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: sokkur
       nominative_translation: a sock
-      nominative_sound: islex/348/348_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/348/348_20.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sokk
+      accusative_pronunciation: sɔhk
       dative: sokk
+      dative_pronunciation: sɔhk
       genitive: sokks
     with article:
       nominative: sokkurinn
@@ -19,26 +21,36 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: sokkinn
-      accusative_sound: islex/044/044_83.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/044/044_83.mp3'
+      accusative_pronunciation: sɔhcɪn
       dative: sokknum
+      dative_pronunciation: sɔhknʏm
       genitive: sokksins
   plural:
     no article:
       nominative: sokkar
       nominative_translation: socks
+      nominative_pronunciation: sɔhkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sokka
+      accusative_pronunciation: sɔhka
       dative: sokkum
+      dative_pronunciation: sɔhkʏm
       genitive: sokka
+      genitive_pronunciation: sɔhka
     with article:
       nominative: sokkarnir
       nominative_translation: the socks
+      nominative_pronunciation: sɔhkartnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: sokkana
+      accusative_pronunciation: sɔhkana
       dative: sokkunum
+      dative_pronunciation: sɔhkʏnʏm
       genitive: sokkanna
+      genitive_pronunciation: <span class="guessed">sɔhkana</span>
 id: 1707
 gender: masculine

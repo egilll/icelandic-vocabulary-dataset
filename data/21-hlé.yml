@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: hlé
       nominative_translation: 'a break, an intermission'
-      nominative_sound: islex/470/470_13.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/470/470_13.mp3'
+      nominative_pronunciation: l̥jɛː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hlé
-      accusative_sound: islex/470/470_13.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/470/470_13.mp3'
+      accusative_pronunciation: l̥jɛː
       dative: hléi
+      dative_pronunciation: l̥jɛːɪ
       genitive: hlés
+      genitive_pronunciation: l̥jɛːs
     with article:
       nominative: hléið
       nominative_translation: 'the break, the intermission'
+      nominative_pronunciation: <span class="guessed">l̥jɛːɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hléið
+      accusative_pronunciation: <span class="guessed">l̥jɛːɪːð</span>
       dative: hléinu
+      dative_pronunciation: l̥jɛːɪnʏ
       genitive: hlésins
 id: 1133
 gender: neuter

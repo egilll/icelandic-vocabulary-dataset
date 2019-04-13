@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: leikrit
       nominative_translation: 'a theater piece, a play'
-      nominative_sound: islex/349/349_26.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/349/349_26.mp3'
+      nominative_pronunciation: leiːkrɪt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leikrit
-      accusative_sound: islex/349/349_26.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/349/349_26.mp3'
+      accusative_pronunciation: leiːkrɪt
       dative: leikriti
+      dative_pronunciation: leiːkrɪtɪ
       genitive: leikrits
     with article:
       nominative: leikritið
       nominative_translation: 'the theater piece, the play'
+      nominative_pronunciation: leiːkrɪtɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: leikritið
+      accusative_pronunciation: leiːkrɪtɪð
       dative: leikritinu
+      dative_pronunciation: leiːkrɪtɪnʏ
       genitive: leikritsins
+      genitive_pronunciation: leiːkrɪtsɪns
 id: 1312
 gender: neuter

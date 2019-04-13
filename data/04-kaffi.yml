@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: kaffi
       nominative_translation: coffee
-      nominative_sound: islex/218/218_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/218/218_19.mp3'
+      nominative_pronunciation: kʰafɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kaffi
-      accusative_sound: islex/218/218_19.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/218/218_19.mp3'
+      accusative_pronunciation: kʰafɪ
       dative: kaffi
-      dative_sound: islex/218/218_19.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/218/218_19.mp3'
+      dative_pronunciation: kʰafɪ
       genitive: kaffis
+      genitive_pronunciation: <span class="guessed">kʰaːvfɪːs</span>
     with article:
       nominative: kaffið
       nominative_translation: the coffee
+      nominative_pronunciation: kʰafɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: kaffið
+      accusative_pronunciation: kʰafɪð
       dative: kaffinu
+      dative_pronunciation: kʰafɪnʏ
       genitive: kaffisins
 id: 1207
 gender: neuter

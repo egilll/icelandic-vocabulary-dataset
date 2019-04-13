@@ -1,5 +1,7 @@
 word: rafmagnslaus
 word_translation: without electricity
+word_sound: 'https://media.egill.xyz/audio/islex/258/258_75.mp3'
+word_pronunciation: <span class="guessed">ravmakslœiːs</span>
 word_teach: true
 level: 43
 grammatical_category: adjective

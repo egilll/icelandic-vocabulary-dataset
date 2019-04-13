@@ -6,31 +6,41 @@ conjugation:
     no article:
       nominative: dóttir
       nominative_translation: daughter
-      nominative_sound: islex/022/022_29.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/022/022_29.mp3'
+      nominative_pronunciation: touhtɪr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: dóttur
+      accusative_pronunciation: touhtʏr
       dative: dóttur
+      dative_pronunciation: touhtʏr
       genitive: dóttur
+      genitive_pronunciation: touhtʏr
     with article:
       nominative: dóttirin
       nominative_translation: the daughter
+      nominative_pronunciation: touhtɪrɪn
       nominative_teach: true
       nominative_teachtable: false
   plural:
     no article:
       nominative: dætur
       nominative_translation: daughters
+      nominative_pronunciation: taiːtʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: dætur
+      accusative_pronunciation: taiːtʏr
       dative: dætrum
+      dative_pronunciation: taiːtrʏm
       genitive: dætra
+      genitive_pronunciation: taiːtra
     with article:
       nominative: dæturnar
       nominative_translation: the daughters
+      nominative_pronunciation: taiːtʏtnar
       nominative_teach: true
       nominative_teachtable: false
 id: 878

@@ -6,19 +6,26 @@ conjugation:
     no article:
       nominative: viðbætur
       nominative_translation: additions
+      nominative_pronunciation: vɪðpaitʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: viðbætur
+      accusative_pronunciation: vɪðpaitʏr
       dative: viðbótum
+      dative_pronunciation: <span class="guessed">vɪːðpouːtʏm</span>
       genitive: viðbóta
+      genitive_pronunciation: <span class="guessed">vɪːðpouːta</span>
     with article:
       nominative: viðbæturnar
       nominative_translation: the additions
+      nominative_pronunciation: <span class="guessed">vɪːðpaiːtʏtnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: viðbæturnar
+      accusative_pronunciation: <span class="guessed">vɪːðpaiːtʏtnar</span>
       dative: viðbótunum
       genitive: viðbótanna
+      genitive_pronunciation: <span class="guessed">vɪðpoutana</span>
 id: 1919
 gender: feminine

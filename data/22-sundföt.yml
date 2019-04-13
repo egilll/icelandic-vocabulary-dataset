@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: sundföt
       nominative_translation: swimsuit
-      nominative_sound: islex/222/222_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/222/222_18.mp3'
+      nominative_pronunciation: <span class="guessed">sʏntfœːt</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sundföt
-      accusative_sound: islex/222/222_18.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/222/222_18.mp3'
+      accusative_pronunciation: <span class="guessed">sʏntfœːt</span>
       dative: sundfötum
+      dative_pronunciation: <span class="guessed">sʏntfœːtʏm</span>
       genitive: sundfata
+      genitive_pronunciation: <span class="guessed">sʏntfaːta</span>
     with article:
       nominative: sundfötin
       nominative_translation: the swimsuit
+      nominative_pronunciation: <span class="guessed">sʏntfœːtɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: sundfötin
+      accusative_pronunciation: <span class="guessed">sʏntfœːtɪn</span>
       dative: sundfötunum
+      dative_pronunciation: <span class="guessed">sʏntfœːtɔnʏm</span>
       genitive: sundfatanna
+      genitive_pronunciation: <span class="guessed">sʏntfaːtana</span>
 id: 1779
 gender: neuter

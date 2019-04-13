@@ -6,13 +6,16 @@ conjugation:
     no article:
       nominative: hnetur
       nominative_translation: 'nuts, peanuts'
+      nominative_pronunciation: n̥ɛːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hnetur
+      accusative_pronunciation: n̥ɛːtʏr
       dative: hnetum
+      dative_pronunciation: n̥ɛːtʏm
       genitive: hneta
-      genitive_sound: islex/444/444_33.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/444/444_33.mp3'
     with article:
       nominative: hneturnar
       nominative_translation: 'the nuts, the peanuts'

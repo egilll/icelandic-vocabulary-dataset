@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: möguleiki
       nominative_translation: a possibility
-      nominative_sound: islex/158/158_98.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/158/158_98.mp3'
+      nominative_pronunciation: mœːɣʏleiːcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: möguleika
+      accusative_pronunciation: mœːɣʏleiːka
       dative: möguleika
+      dative_pronunciation: mœːɣʏleiːka
       genitive: möguleika
+      genitive_pronunciation: mœːɣʏleiːka
     with article:
       nominative: möguleikinn
       nominative_translation: the possibility
+      nominative_pronunciation: mœːɣʏleiːcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: möguleikann
+      accusative_pronunciation: mœːɣʏleiːkan
       dative: möguleikanum
+      dative_pronunciation: mœːɣʏleiːkanʏm
       genitive: möguleikans
   plural:
     no article:
       nominative: möguleikar
       nominative_translation: possibilities
+      nominative_pronunciation: mœːɣʏleiːkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: möguleika
+      accusative_pronunciation: mœːɣʏleiːka
       dative: möguleikum
+      dative_pronunciation: mœːɣʏleiːkʏm
       genitive: möguleika
+      genitive_pronunciation: mœːɣʏleiːka
     with article:
       nominative: möguleikarnir
       nominative_translation: the possibilities
+      nominative_pronunciation: mœːɣʏleiːkatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: möguleikana
+      accusative_pronunciation: mœːɣʏleiːkana
       dative: möguleikunum
       genitive: möguleikanna
+      genitive_pronunciation: <span class="guessed">mœːɣʏleiːkanaː</span>
 id: 1413
 gender: masculine

@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: leikari
       nominative_translation: an actor
-      nominative_sound: islex/129/129_40.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/129/129_40.mp3'
+      nominative_pronunciation: leiːkarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leikara
+      accusative_pronunciation: leiːkara
       dative: leikara
+      dative_pronunciation: leiːkara
       genitive: leikara
+      genitive_pronunciation: leiːkara
     with article:
       nominative: leikarinn
       nominative_translation: the actor
+      nominative_pronunciation: leiːkarɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: leikarann
+      accusative_pronunciation: leiːkaran
       dative: leikaranum
+      dative_pronunciation: leiːkaranʏm
       genitive: leikarans
+      genitive_pronunciation: leiːkarans
   plural:
     no article:
       nominative: leikarar
       nominative_translation: actors
+      nominative_pronunciation: leiːkarar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leikara
+      accusative_pronunciation: leiːkara
       dative: leikurum
+      dative_pronunciation: leiːkʏrʏm
       genitive: leikara
+      genitive_pronunciation: leiːkara
     with article:
       nominative: leikararnir
       nominative_translation: the actors
+      nominative_pronunciation: leiːkaratnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: leikarana
+      accusative_pronunciation: leiːkarana
       dative: leikurunum
+      dative_pronunciation: leiːkʏrɔnʏm
       genitive: leikaranna
+      genitive_pronunciation: leiːkarana
 id: 1310
 gender: masculine

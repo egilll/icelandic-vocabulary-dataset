@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: lampi
       nominative_translation: a lamp
-      nominative_sound: islex/481/481_33.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/481/481_33.mp3'
+      nominative_pronunciation: lam̥pɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lampa
+      accusative_pronunciation: lam̥pa
       dative: lampa
+      dative_pronunciation: lam̥pa
       genitive: lampa
+      genitive_pronunciation: lam̥pa
     with article:
       nominative: lampinn
       nominative_translation: the lamp
+      nominative_pronunciation: lam̥pɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lampann
+      accusative_pronunciation: lam̥pan
       dative: lampanum
+      dative_pronunciation: lam̥panʏm
       genitive: lampans
   plural:
     no article:
@@ -29,8 +36,11 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lampa
+      accusative_pronunciation: lam̥pa
       dative: lömpum
+      dative_pronunciation: lœm̥pʏm
       genitive: lampa
+      genitive_pronunciation: lam̥pa
     with article:
       nominative: lamparnir
       nominative_translation: the lamps
@@ -39,5 +49,6 @@ conjugation:
       accusative: lampana
       dative: lömpunum
       genitive: lampanna
+      genitive_pronunciation: <span class="guessed">lam̥panaː</span>
 id: 1293
 gender: masculine

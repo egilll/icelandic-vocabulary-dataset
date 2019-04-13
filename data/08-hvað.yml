@@ -1,5 +1,7 @@
 word: hvað
 word_translation: what?
+word_sound: 'https://media.egill.xyz/audio/islex/078/078_75.mp3'
+word_pronunciation: kʰvaːð
 word_teach: true
 level: 8
 grammatical_category: other

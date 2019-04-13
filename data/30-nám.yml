@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: nám
       nominative_translation: an education
-      nominative_sound: islex/355/355_55.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/355/355_55.mp3'
+      nominative_pronunciation: nauːm
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nám
-      accusative_sound: islex/355/355_55.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/355/355_55.mp3'
+      accusative_pronunciation: nauːm
       dative: námi
+      dative_pronunciation: nauːmɪ
       genitive: náms
+      genitive_pronunciation: naums
     with article:
       nominative: námið
       nominative_translation: the education
+      nominative_pronunciation: nauːmɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: námið
+      accusative_pronunciation: nauːmɪð
       dative: náminu
+      dative_pronunciation: nauːmɪnʏ
       genitive: námsins
+      genitive_pronunciation: naumsɪns
 id: 1438
 gender: neuter

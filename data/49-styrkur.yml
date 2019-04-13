@@ -6,19 +6,25 @@ conjugation:
     no article:
       nominative: styrkur
       nominative_translation: 'strength; scholarship, grant'
-      nominative_sound: islex/410/410_34.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/410/410_34.mp3'
+      nominative_pronunciation: stɪr̥kʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: styrk
+      accusative_pronunciation: stɪr̥k
       dative: styrk
+      dative_pronunciation: stɪr̥k
       genitive: styrks
+      genitive_pronunciation: stɪr̥ks
     with article:
       nominative: styrkurinn
       nominative_translation: 'the strength; the scholarship, the grant'
+      nominative_pronunciation: stɪr̥kʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: styrkinn
+      accusative_pronunciation: stɪr̥cɪn
       dative: styrknum
       genitive: styrksins
 id: 1771

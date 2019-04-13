@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: ljósapera
       nominative_translation: a lightbulb
-      nominative_sound: islex/414/414_29.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/414/414_29.mp3'
+      nominative_pronunciation: ljouːsapʰɛːra
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ljósaperu
+      accusative_pronunciation: <span class="guessed">ljouːsapʰɛːrʏ</span>
       dative: ljósaperu
+      dative_pronunciation: <span class="guessed">ljouːsapʰɛːrʏ</span>
       genitive: ljósaperu
+      genitive_pronunciation: <span class="guessed">ljouːsapʰɛːrʏ</span>
     with article:
       nominative: ljósaperan
       nominative_translation: the lightbulb
+      nominative_pronunciation: <span class="guessed">ljouːsapʰɛːran</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: ljósaperuna
+      accusative_pronunciation: <span class="guessed">ljouːsapʰɛːrʏːna</span>
       dative: ljósaperunni
+      dative_pronunciation: <span class="guessed">ljouːsapʰɛːrʏnɪ</span>
       genitive: ljósaperunnar
+      genitive_pronunciation: <span class="guessed">ljouːsapʰɛːrʏnar</span>
 id: 1343
 gender: feminine

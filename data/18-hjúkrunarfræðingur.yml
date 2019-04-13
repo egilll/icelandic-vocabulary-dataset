@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: hjúkrunarfræðingur
       nominative_translation: a nurse
-      nominative_sound: islex/033/033_17.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/033/033_17.mp3'
+      nominative_pronunciation: çuːkrʏnarfraiːðiŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: hjúkrunarfræðingurinn
       nominative_translation: the nurse
+      nominative_pronunciation: <span class="guessed">çuːkrʏnarfraiːðiŋkʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1131

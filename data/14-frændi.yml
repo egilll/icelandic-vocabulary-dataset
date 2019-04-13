@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: frændi
       nominative_translation: uncle; cousin
-      nominative_sound: islex/023/023_56.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/023/023_56.mp3'
+      nominative_pronunciation: fraintɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: frænda
+      accusative_pronunciation: frainta
       dative: frænda
+      dative_pronunciation: frainta
       genitive: frænda
+      genitive_pronunciation: frainta
     with article:
       nominative: frændinn
       nominative_translation: the uncle; the cousin
+      nominative_pronunciation: fraintɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: frændann
@@ -25,12 +30,16 @@ conjugation:
     no article:
       nominative: frændur
       nominative_translation: uncles; cousins
+      nominative_pronunciation: fraintʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: frændur
+      accusative_pronunciation: fraintʏr
       dative: frændum
+      dative_pronunciation: fraintʏm
       genitive: frænda
+      genitive_pronunciation: frainta
     with article:
       nominative: frændurnir
       nominative_translation: the uncles; the cousins

@@ -6,44 +6,59 @@ conjugation:
     no article:
       nominative: hópur
       nominative_translation: a group
-      nominative_sound: islex/406/406_25.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/406/406_25.mp3'
+      nominative_pronunciation: houːpʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hóp
-      accusative_sound: islex/175/175_34.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/175/175_34.mp3'
+      accusative_pronunciation: houːp
       dative: hóp
-      dative_sound: islex/175/175_34.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/175/175_34.mp3'
+      dative_pronunciation: houːp
       dative_alternative:
         - hópi
       genitive: hóps
+      genitive_pronunciation: houps
     with article:
       nominative: hópurinn
       nominative_translation: the group
+      nominative_pronunciation: houːpʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hópinn
+      accusative_pronunciation: houːpɪn
       dative: hópnum
+      dative_pronunciation: houhpnʏm
       genitive: hópsins
+      genitive_pronunciation: houpsɪns
   plural:
     no article:
       nominative: hópar
       nominative_translation: groups
+      nominative_pronunciation: houːpar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hópa
-      accusative_sound: islex/266/266_64.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/266/266_64.mp3'
+      accusative_pronunciation: houːpa
       dative: hópum
+      dative_pronunciation: houːpʏm
       genitive: hópa
-      genitive_sound: islex/266/266_64.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/266/266_64.mp3'
+      genitive_pronunciation: houːpa
     with article:
       nominative: hóparnir
       nominative_translation: the groups
+      nominative_pronunciation: houːpatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: hópana
+      accusative_pronunciation: <span class="guessed">houːpaːna</span>
       dative: hópunum
       genitive: hópanna
+      genitive_pronunciation: houːpana
 id: 1155
 gender: masculine

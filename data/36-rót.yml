@@ -6,18 +6,23 @@ conjugation:
     no article:
       nominative: rætur
       nominative_translation: roots
-      nominative_sound: islex/140/140_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/140/140_22.mp3'
+      nominative_pronunciation: raiːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rætur
-      accusative_sound: islex/140/140_22.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/140/140_22.mp3'
+      accusative_pronunciation: raiːtʏr
       dative: rótum
+      dative_pronunciation: rouːtʏm
       genitive: róta
-      genitive_sound: islex/469/469_90.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/469/469_90.mp3'
+      genitive_pronunciation: rouːta
     with article:
       nominative: ræturnar
       nominative_translation: the roots
+      nominative_pronunciation: raiːtʏtnar
       nominative_teach: false
       nominative_teachtable: false
 id: 1571

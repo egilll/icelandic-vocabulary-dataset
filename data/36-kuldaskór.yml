@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: kuldaskór
       nominative_translation: snow boots
-      nominative_sound: islex/236/236_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/236/236_37.mp3'
+      nominative_pronunciation: <span class="guessed">kʰʏltaskouːr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kuldaskó
+      accusative_pronunciation: kʰʏltaskouː
       dative: kuldaskóm
+      dative_pronunciation: <span class="guessed">kʰʏltaskouːm</span>
       genitive: kuldaskóa
+      genitive_pronunciation: <span class="guessed">kʰʏltaskouːaː</span>
     with article:
       nominative: kuldaskórnir
       nominative_translation: the snow boots
+      nominative_pronunciation: <span class="guessed">kʰʏltaskourtnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: kuldaskóna
+      accusative_pronunciation: <span class="guessed">kʰʏltaskouna</span>
       dative: kuldaskónum
+      dative_pronunciation: <span class="guessed">kʰʏltaskouːnʏm</span>
       genitive: kuldaskónna
 id: 1273
 gender: masculine

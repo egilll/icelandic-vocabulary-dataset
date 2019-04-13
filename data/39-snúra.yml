@@ -6,32 +6,43 @@ conjugation:
     no article:
       nominative: snúra
       nominative_translation: an electric cord
-      nominative_sound: islex/005/005_29.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/005/005_29.mp3'
+      nominative_pronunciation: stnuːra
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snúru
+      accusative_pronunciation: stnuːrʏ
       dative: snúru
+      dative_pronunciation: stnuːrʏ
       genitive: snúru
+      genitive_pronunciation: stnuːrʏ
     with article:
       nominative: snúran
       nominative_translation: the electric cord
       nominative_teach: true
       nominative_teachtable: true
       accusative: snúruna
+      accusative_pronunciation: stnuːrʏna
       dative: snúrunni
+      dative_pronunciation: <span class="guessed">stnuːrʏnɪ</span>
       genitive: snúrunnar
+      genitive_pronunciation: <span class="guessed">stnuːrʏnar</span>
   plural:
     no article:
       nominative: snúrur
       nominative_translation: electric cords
+      nominative_pronunciation: stnuːrʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snúrur
+      accusative_pronunciation: stnuːrʏr
       dative: snúrum
+      dative_pronunciation: <span class="guessed">stnuːrʏːm</span>
       genitive: snúra
-      genitive_sound: islex/005/005_29.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/005/005_29.mp3'
+      genitive_pronunciation: stnuːra
     with article:
       nominative: snúrurnar
       nominative_translation: the electric cords
@@ -40,5 +51,6 @@ conjugation:
       accusative: snúrurnar
       dative: snúrunum
       genitive: snúranna
+      genitive_pronunciation: <span class="guessed">stnuːranaː</span>
 id: 1702
 gender: feminine

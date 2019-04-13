@@ -6,40 +6,55 @@ conjugation:
     no article:
       nominative: heimsókn
       nominative_translation: a visit
-      nominative_sound: islex/204/204_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/204/204_45.mp3'
+      nominative_pronunciation: heimsouhkn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: heimsókn
-      accusative_sound: islex/204/204_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/204/204_45.mp3'
+      accusative_pronunciation: heimsouhkn̥
       dative: heimsókn
-      dative_sound: islex/204/204_45.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/204/204_45.mp3'
+      dative_pronunciation: heimsouhkn̥
       genitive: heimsóknar
+      genitive_pronunciation: heimsouhknar
     with article:
       nominative: heimsóknin
       nominative_translation: the visit
+      nominative_pronunciation: heimsouhknɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: heimsóknina
+      accusative_pronunciation: heimsouhknɪna
       dative: heimsókninni
+      dative_pronunciation: heimsouhknɪnɪ
       genitive: heimsóknarinnar
+      genitive_pronunciation: heimsouhknarɪnar
   plural:
     no article:
       nominative: heimsóknir
       nominative_translation: visits
+      nominative_pronunciation: heimsouhknɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: heimsóknir
+      accusative_pronunciation: heimsouhknɪr
       dative: heimsóknum
+      dative_pronunciation: heimsouhknʏm
       genitive: heimsókna
+      genitive_pronunciation: heimsouhkna
     with article:
       nominative: heimsóknirnar
       nominative_translation: the visits
+      nominative_pronunciation: heimsouhknɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: heimsóknirnar
+      accusative_pronunciation: heimsouhknɪtnar
       dative: heimsóknunum
       genitive: heimsóknanna
+      genitive_pronunciation: <span class="guessed">heimsouhkn̥ana</span>
 id: 1107
 gender: feminine

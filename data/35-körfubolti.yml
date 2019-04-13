@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: körfubolti
       nominative_translation: basketball
-      nominative_sound: islex/286/286_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/286/286_51.mp3'
+      nominative_pronunciation: <span class="guessed">kʰœrvʏpɔl̥tɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: körfubolta
+      accusative_pronunciation: kʰœrvʏpɔl̥ta
       dative: körfubolta
+      dative_pronunciation: kʰœrvʏpɔl̥ta
       genitive: körfubolta
+      genitive_pronunciation: kʰœrvʏpɔl̥ta
     with article:
       nominative: körfuboltinn
       nominative_translation: the basketball
+      nominative_pronunciation: kʰœrvʏpɔl̥tɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: körfuboltann
+      accusative_pronunciation: <span class="guessed">kʰœrvʏpɔl̥tan</span>
       dative: körfuboltanum
+      dative_pronunciation: <span class="guessed">kʰœrvʏpɔl̥tanʏm</span>
       genitive: körfuboltans
 id: 1261
 gender: masculine

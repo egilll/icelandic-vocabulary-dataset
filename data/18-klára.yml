@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] klára'
     infinitive_translation: to finish
-    infinitive_sound: islex/386/386_82.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/386/386_82.mp3'
+    infinitive_pronunciation: kʰlauːra
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] kláraði'
           1st person_translation: I finished
+          1st person_pronunciation: kʰlauːraðɪ
           1st person_teach: true
 id: 2186

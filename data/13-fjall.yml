@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: fjall
       nominative_translation: a mountain
-      nominative_sound: islex/138/138_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/138/138_19.mp3'
+      nominative_pronunciation: fjatl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fjall
-      accusative_sound: islex/138/138_19.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/138/138_19.mp3'
+      accusative_pronunciation: fjatl̥
       dative: fjalli
+      dative_pronunciation: fjatlɪ
       genitive: fjalls
+      genitive_pronunciation: fjals
     with article:
       nominative: fjallið
       nominative_translation: the mountain
+      nominative_pronunciation: fjatlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjallið
+      accusative_pronunciation: fjatlɪð
       dative: fjallinu
+      dative_pronunciation: fjatlɪnʏ
       genitive: fjallsins
+      genitive_pronunciation: fjalsɪns
   plural:
     no article:
       nominative: fjöll
       nominative_translation: mountains
+      nominative_pronunciation: fjœtl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fjöll
+      accusative_pronunciation: fjœtl
       dative: fjöllum
+      dative_pronunciation: fjœtlʏm
       genitive: fjalla
-      genitive_sound: islex/108/108_35.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/108/108_35.mp3'
+      genitive_pronunciation: fjatla
     with article:
       nominative: fjöllin
       nominative_translation: the mountains
+      nominative_pronunciation: fjœtlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjöllin
+      accusative_pronunciation: fjœtlɪn
       dative: fjöllunum
+      dative_pronunciation: fjœtlɔnʏm
       genitive: fjallanna
+      genitive_pronunciation: fjatlana
 id: 945
 gender: neuter

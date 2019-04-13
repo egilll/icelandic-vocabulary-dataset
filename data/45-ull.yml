@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: ull
       nominative_translation: wool
-      nominative_sound: islex/231/231_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/231/231_05.mp3'
+      nominative_pronunciation: ʏtl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ull
-      accusative_sound: islex/231/231_05.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/231/231_05.mp3'
+      accusative_pronunciation: ʏtl̥
       dative: ull
-      dative_sound: islex/231/231_05.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/231/231_05.mp3'
+      dative_pronunciation: ʏtl̥
       genitive: ullar
     with article:
       nominative: ullin
       nominative_translation: the wool
+      nominative_pronunciation: ʏtlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ullina
+      accusative_pronunciation: ʏtlɪna
       dative: ullinni
+      dative_pronunciation: <span class="guessed">ʏtl̥ɪnɪ</span>
       genitive: ullarinnar
+      genitive_pronunciation: ʏtlarɪnar
 id: 1864
 gender: feminine

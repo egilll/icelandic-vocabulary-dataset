@@ -6,19 +6,26 @@ conjugation:
     no article:
       nominative: fótleggir
       nominative_translation: legs
+      nominative_pronunciation: fouːtlɛcɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fótleggi
+      accusative_pronunciation: <span class="guessed">fouːtlɛcɪ</span>
       dative: fótleggjum
+      dative_pronunciation: fouːtlɛcʏm
       genitive: fótleggja
+      genitive_pronunciation: <span class="guessed">fouːtleca</span>
     with article:
       nominative: fótleggirnir
       nominative_translation: the legs
+      nominative_pronunciation: fouːtlɛcɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: fótleggina
+      accusative_pronunciation: fouːtlɛcɪna
       dative: fótleggjunum
+      dative_pronunciation: <span class="guessed">fouːtlɛcɔnʏm</span>
       genitive: fótleggjanna
 id: 980
 gender: masculine

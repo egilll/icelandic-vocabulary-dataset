@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: kosning
       nominative_translation: an election
-      nominative_sound: islex/211/211_61.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/211/211_61.mp3'
+      nominative_pronunciation: kʰɔstniŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kosningu
+      accusative_pronunciation: kʰɔstniŋkʏ
       dative: kosningu
+      dative_pronunciation: kʰɔstniŋkʏ
       genitive: kosningar
-      genitive_sound: islex/065/065_23.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/065/065_23.mp3'
+      genitive_pronunciation: kʰɔstniŋkar
     with article:
       nominative: kosningin
       nominative_translation: the election
+      nominative_pronunciation: kʰɔstniɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: kosninguna
+      accusative_pronunciation: <span class="guessed">kʰɔstniŋkʏːna</span>
       dative: kosningunni
+      dative_pronunciation: <span class="guessed">kʰɔstniŋkʏnɪ</span>
       genitive: kosningarinnar
+      genitive_pronunciation: <span class="guessed">kʰɔstniŋkarɪnar</span>
   plural:
     no article:
       nominative: kosningar
       nominative_translation: elections
-      nominative_sound: islex/065/065_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/065/065_23.mp3'
+      nominative_pronunciation: kʰɔstniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kosningar
-      accusative_sound: islex/065/065_23.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/065/065_23.mp3'
+      accusative_pronunciation: kʰɔstniŋkar
       dative: kosningum
+      dative_pronunciation: kʰɔstniŋkʏm
       genitive: kosninga
+      genitive_pronunciation: kʰɔstniŋka
     with article:
       nominative: kosningarnar
       nominative_translation: the elections
+      nominative_pronunciation: kʰɔstniŋkatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: kosningarnar
+      accusative_pronunciation: kʰɔstniŋkatnar
       dative: kosningunum
+      dative_pronunciation: kʰɔstniŋkɔnʏm
       genitive: kosninganna
+      genitive_pronunciation: kʰɔstniŋkana
 id: 1264
 gender: feminine

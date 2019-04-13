@@ -8,29 +8,36 @@ conjugation:
         singular:
           1st person: '[mig] langar'
           1st person_translation: 'I want, I long for'
+          1st person_pronunciation: laŋkar
           1st person_teach: true
           2nd person: '[þig] langar'
           2nd person_translation: 'you¹ want, you¹ long for'
+          2nd person_pronunciation: laŋkar
           2nd person_teach: true
           3rd person: '[hann/hana/það] langar'
           3rd person_translation: 'he/she/it wants, he/she/it longs for'
+          3rd person_pronunciation: laŋkar
           3rd person_teach: true
           3rd person_teachtable: false
         plural:
           1st person: '[okkur] langar'
           1st person_translation: 'we want, we long for'
+          1st person_pronunciation: laŋkar
           1st person_teach: true
       past:
         singular:
           1st person: '[mig] langaði'
           1st person_translation: 'I wanted, I longed for'
+          1st person_pronunciation: laŋkaðɪ
           1st person_teach: true
           2nd person: '[þig] langaði'
           2nd person_translation: 'you¹ wanted, you¹ longed for'
+          2nd person_pronunciation: laŋkaðɪ
           2nd person_teach: true
         plural:
           1st person: '[okkur] langaði'
           1st person_translation: 'we wanted, we longed for'
+          1st person_pronunciation: laŋkaðɪ
           1st person_teach: true
 id: 2209
 never_show_with: vilja

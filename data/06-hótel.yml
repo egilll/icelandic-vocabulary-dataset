@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: hótel
       nominative_translation: a hotel
-      nominative_sound: islex/115/115_26.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/115/115_26.mp3'
+      nominative_pronunciation: houːtɛl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hótel
-      accusative_sound: islex/115/115_26.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/115/115_26.mp3'
+      accusative_pronunciation: houːtɛl
       dative: hóteli
+      dative_pronunciation: houːtɛlɪ
       genitive: hótels
+      genitive_pronunciation: houːtɛls
     with article:
       nominative: hótelið
       nominative_translation: the hotel
+      nominative_pronunciation: houːtɛlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hótelið
+      accusative_pronunciation: houːtɛlɪð
       dative: hótelinu
+      dative_pronunciation: houːtɛlɪnʏ
       genitive: hótelsins
+      genitive_pronunciation: houːtɛlsɪns
 id: 1158
 gender: neuter
 recognizable: '1'

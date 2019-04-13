@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: sjúkdómur
       nominative_translation: 'a disease, an illness'
-      nominative_sound: islex/149/149_55.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/149/149_55.mp3'
+      nominative_pronunciation: sjuktoumʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sjúkdóm
+      accusative_pronunciation: sjuktoum
       dative: sjúkdómi
+      dative_pronunciation: sjuktoumɪ
       genitive: sjúkdóms
+      genitive_pronunciation: sjuktoums
     with article:
       nominative: sjúkdómurinn
       nominative_translation: 'the disease, the illness'
+      nominative_pronunciation: sjuktoumʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: sjúkdóminn
+      accusative_pronunciation: sjuktoumɪn
       dative: sjúkdómnum
+      dative_pronunciation: sjuktoumnʏm
       dative_alternative:
         - sjúkdóminum
       genitive: sjúkdómsins
+      genitive_pronunciation: sjuktoumsɪns
 id: 1626
 gender: masculine

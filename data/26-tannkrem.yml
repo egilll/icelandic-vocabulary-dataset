@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: tannkrem
       nominative_translation: toothpaste
-      nominative_sound: islex/408/408_46.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/408/408_46.mp3'
+      nominative_pronunciation: tʰaŋkʰrɛm
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tannkrem
-      accusative_sound: islex/408/408_46.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/408/408_46.mp3'
+      accusative_pronunciation: tʰaŋkʰrɛm
       dative: tannkremi
+      dative_pronunciation: <span class="guessed">tʰaŋkʰrɛmɪː</span>
       genitive: tannkrems
     with article:
       nominative: tannkremið
       nominative_translation: the toothpaste
+      nominative_pronunciation: <span class="guessed">tʰaŋkʰrɛmɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: tannkremið
+      accusative_pronunciation: <span class="guessed">tʰaŋkʰrɛmɪːð</span>
       dative: tannkreminu
+      dative_pronunciation: <span class="guessed">tʰaŋkʰrɛmɪːnʏ</span>
       genitive: tannkremsins
 id: 1816
 gender: neuter

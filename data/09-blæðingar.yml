@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: blæðingar
       nominative_translation: menstruation
-      nominative_sound: islex/387/387_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/387/387_01.mp3'
+      nominative_pronunciation: plaiːðiŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: bleedings
       accusative: blæðingar
-      accusative_sound: islex/387/387_01.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/387/387_01.mp3'
+      accusative_pronunciation: plaiːðiŋkar
       dative: blæðingum
+      dative_pronunciation: plaiːðiŋkʏm
       genitive: blæðinga
     with article:
       nominative: blæðingarnar

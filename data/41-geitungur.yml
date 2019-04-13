@@ -6,39 +6,52 @@ conjugation:
     no article:
       nominative: geitungur
       nominative_translation: a wasp
-      nominative_sound: islex/249/249_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/249/249_23.mp3'
+      nominative_pronunciation: <span class="guessed">ceiːtuŋkʏr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: geitung
+      accusative_pronunciation: <span class="guessed">ceiːtuŋk</span>
       dative: geitungi
+      dative_pronunciation: <span class="guessed">ceiːtuɲcɪ</span>
       genitive: geitungs
+      genitive_pronunciation: <span class="guessed">ceiːtuŋs</span>
     with article:
       nominative: geitungurinn
       nominative_translation: the wasp
+      nominative_pronunciation: <span class="guessed">ceiːtuŋkʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: geitunginn
+      accusative_pronunciation: <span class="guessed">ceiːtuɲcɪn</span>
       dative: geitungnum
       genitive: geitungsins
   plural:
     no article:
       nominative: geitungar
       nominative_translation: wasps
+      nominative_pronunciation: <span class="guessed">ceiːtuŋkar</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: geitunga
+      accusative_pronunciation: <span class="guessed">ceiːtuŋka</span>
       dative: geitungum
+      dative_pronunciation: <span class="guessed">ceiːtuŋkʏm</span>
       genitive: geitunga
+      genitive_pronunciation: <span class="guessed">ceiːtuŋka</span>
     with article:
       nominative: geitungarnir
       nominative_translation: the wasps
       nominative_teach: true
       nominative_teachtable: true
       accusative: geitungana
+      accusative_pronunciation: <span class="guessed">ceiːtuŋkana</span>
       dative: geitungunum
+      dative_pronunciation: <span class="guessed">ceiːtuŋkɔnʏm</span>
       genitive: geitunganna
+      genitive_pronunciation: <span class="guessed">ceiːtuŋkana</span>
 id: 1020
 teach_the_difference: geit
 gender: masculine

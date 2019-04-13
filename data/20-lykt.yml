@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: lykt
       nominative_translation: a smell
-      nominative_sound: islex/437/437_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/437/437_64.mp3'
+      nominative_pronunciation: lɪxt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lykt
-      accusative_sound: islex/437/437_64.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/437/437_64.mp3'
+      accusative_pronunciation: lɪxt
       dative: lykt
-      dative_sound: islex/437/437_64.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/437/437_64.mp3'
+      dative_pronunciation: lɪxt
       genitive: lyktar
+      genitive_pronunciation: lɪxtar
     with article:
       nominative: lyktin
       nominative_translation: the smell
+      nominative_pronunciation: lɪxtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lyktina
+      accusative_pronunciation: lɪxtɪna
       dative: lyktinni
+      dative_pronunciation: lɪxtɪnɪ
       genitive: lyktarinnar
+      genitive_pronunciation: <span class="guessed">lɪxtarɪnar</span>
 id: 1365
 gender: feminine

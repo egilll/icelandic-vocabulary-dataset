@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: álag
       nominative_translation: a burden; stress
-      nominative_sound: islex/327/327_16.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/327/327_16.mp3'
+      nominative_pronunciation: auːlaɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: álagið
       nominative_translation: the burden; the stress
+      nominative_pronunciation: auːlaijɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 715

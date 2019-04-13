@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: slaufa
       nominative_translation: a bow tie
-      nominative_sound: islex/126/126_78.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/126/126_78.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

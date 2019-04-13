@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: stígvél
       nominative_translation: boots; rubber boots
-      nominative_sound: islex/469/469_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/469/469_08.mp3'
+      nominative_pronunciation: stiɣvjɛl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stígvél
-      accusative_sound: islex/469/469_08.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/469/469_08.mp3'
+      accusative_pronunciation: stiɣvjɛl
       dative: stígvélum
+      dative_pronunciation: stiɣvjɛlʏm
       genitive: stígvéla
+      genitive_pronunciation: <span class="guessed">stiːɣvjɛːla</span>
     with article:
       nominative: stígvélin
       nominative_translation: the boots; the rubber boots
+      nominative_pronunciation: stiɣvjɛlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: stígvélin
+      accusative_pronunciation: stiɣvjɛlɪn
       dative: stígvélunum
+      dative_pronunciation: <span class="guessed">stiːɣvjɛːlɔnʏm</span>
       genitive: stígvélanna
+      genitive_pronunciation: <span class="guessed">stiɣvjɛlana</span>
 id: 1745
 gender: neuter

@@ -6,26 +6,34 @@ conjugation:
     no article:
       nominative: rödd
       nominative_translation: a voice
-      nominative_sound: islex/298/298_48.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/298/298_48.mp3'
+      nominative_pronunciation: rœt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rödd
-      accusative_sound: islex/298/298_48.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/298/298_48.mp3'
+      accusative_pronunciation: rœt
       accusative_alternative:
         - röddu
       dative: rödd
-      dative_sound: islex/298/298_48.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/298/298_48.mp3'
+      dative_pronunciation: rœt
       dative_alternative:
         - röddu
       genitive: raddar
+      genitive_pronunciation: ratar
     with article:
       nominative: röddin
       nominative_translation: the voice
+      nominative_pronunciation: rœtɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: röddina
+      accusative_pronunciation: rœtɪna
       dative: röddinni
+      dative_pronunciation: rœtɪnɪ
       genitive: raddarinnar
+      genitive_pronunciation: ratarɪnar
 id: 1567
 gender: feminine

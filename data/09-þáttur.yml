@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: þáttur
       nominative_translation: an TV episode
-      nominative_sound: islex/150/150_61.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/150/150_61.mp3'
+      nominative_pronunciation: θauhtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þátt
+      accusative_pronunciation: θauht
       dative: þætti
+      dative_pronunciation: θaihtɪ
       genitive: þáttar
+      genitive_pronunciation: θauhtar
     with article:
       nominative: þátturinn
       nominative_translation: the TV episode
+      nominative_pronunciation: θauhtʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: þáttinn
+      accusative_pronunciation: θauhtɪn
       dative: þættinum
+      dative_pronunciation: θaihtɪnʏm
       genitive: þáttarins
+      genitive_pronunciation: θauhtarɪns
   plural:
     no article:
       nominative: þættir
       nominative_translation: TV episodes
+      nominative_pronunciation: θaihtɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þætti
+      accusative_pronunciation: θaihtɪ
       dative: þáttum
+      dative_pronunciation: θauhtʏm
       genitive: þátta
-      genitive_sound: islex/179/179_09.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/179/179_09.mp3'
+      genitive_pronunciation: θauhta
     with article:
       nominative: þættirnir
       nominative_translation: the TV episodes
+      nominative_pronunciation: θaihtɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: þættina
+      accusative_pronunciation: θaihtɪna
       dative: þáttunum
+      dative_pronunciation: θauhtɔnʏm
       genitive: þáttanna
+      genitive_pronunciation: θauhtana
 id: 1952
 gender: masculine

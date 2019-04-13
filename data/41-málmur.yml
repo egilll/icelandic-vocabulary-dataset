@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: málmur
       nominative_translation: metal
-      nominative_sound: islex/070/070_76.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/070/070_76.mp3'
+      nominative_pronunciation: maulmʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: málmurinn
       nominative_translation: the metal
+      nominative_pronunciation: maulmʏrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1377

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: stuttbuxur
       nominative_translation: shorts
-      nominative_sound: islex/048/048_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/048/048_58.mp3'
+      nominative_pronunciation: stʏhtpʏksʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: stuttbuxurnar
       nominative_translation: the shorts
+      nominative_pronunciation: stʏhtpʏksʏtnar
       nominative_teach: false
       nominative_teachtable: false
 id: 1769

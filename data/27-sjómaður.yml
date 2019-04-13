@@ -6,31 +6,41 @@ conjugation:
     no article:
       nominative: sjómaður
       nominative_translation: a fisherman
-      nominative_sound: islex/192/192_60.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/192/192_60.mp3'
+      nominative_pronunciation: sjouːmaðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sjómann
+      accusative_pronunciation: sjouːman
       dative: sjómanni
+      dative_pronunciation: sjouːmanɪ
       genitive: sjómanns
+      genitive_pronunciation: <span class="guessed">sjouːmans</span>
     with article:
       nominative: sjómaðurinn
       nominative_translation: the fisherman
+      nominative_pronunciation: sjouːmaðʏrɪn
       nominative_teach: true
       nominative_teachtable: false
   plural:
     no article:
       nominative: sjómenn
       nominative_translation: fishermen
+      nominative_pronunciation: sjouːmɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sjómenn
+      accusative_pronunciation: sjouːmɛn
       dative: sjómönnum
+      dative_pronunciation: sjouːmœnʏm
       genitive: sjómanna
+      genitive_pronunciation: sjouːmana
     with article:
       nominative: sjómennirnir
       nominative_translation: the fishermen
+      nominative_pronunciation: sjouːmɛnɪtnɪr
       nominative_teach: true
       nominative_teachtable: false
 id: 1623

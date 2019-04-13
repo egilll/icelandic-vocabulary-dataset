@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: sæng
       nominative_translation: a duvet
-      nominative_sound: islex/227/227_83.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/227/227_83.mp3'
+      nominative_pronunciation: saiŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sæng
-      accusative_sound: islex/227/227_83.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/227/227_83.mp3'
+      accusative_pronunciation: saiŋk
       dative: sæng
-      dative_sound: islex/227/227_83.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/227/227_83.mp3'
+      dative_pronunciation: saiŋk
       genitive: sængur
     with article:
       nominative: sængin
       nominative_translation: the duvet
+      nominative_pronunciation: saiɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: sængina
+      accusative_pronunciation: saiɲcɪna
       dative: sænginni
+      dative_pronunciation: saiɲcɪnɪ
       genitive: sængurinnar
 id: 1581
 gender: feminine

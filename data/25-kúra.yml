@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] kúra'
     infinitive_translation: to cuddle
-    infinitive_sound: islex/301/301_30.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/301/301_30.mp3'
+    infinitive_pronunciation: kʰuːra
     infinitive_teach: true
 id: 2196

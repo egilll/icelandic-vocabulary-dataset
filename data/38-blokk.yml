@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: blokk
       nominative_translation: an apartment building
-      nominative_sound: islex/068/068_36.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/068/068_36.mp3'
+      nominative_pronunciation: plɔhk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blokk
-      accusative_sound: islex/068/068_36.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/068/068_36.mp3'
+      accusative_pronunciation: plɔhk
       dative: blokk
-      dative_sound: islex/068/068_36.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/068/068_36.mp3'
+      dative_pronunciation: plɔhk
       genitive: blokkar
     with article:
       nominative: blokkin
@@ -21,25 +24,34 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: blokkina
+      accusative_pronunciation: plɔhcɪna
       dative: blokkinni
+      dative_pronunciation: plɔhcɪnɪ
       genitive: blokkarinnar
   plural:
     no article:
       nominative: blokkir
       nominative_translation: apartment buildings
+      nominative_pronunciation: plɔhcɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blokkir
+      accusative_pronunciation: plɔhcɪr
       dative: blokkum
+      dative_pronunciation: <span class="guessed">plɔhkʏm</span>
       genitive: blokka
+      genitive_pronunciation: plɔhka
     with article:
       nominative: blokkirnar
       nominative_translation: the apartment buildings
+      nominative_pronunciation: plɔhcɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: blokkirnar
+      accusative_pronunciation: plɔhcɪtnar
       dative: blokkunum
       genitive: blokkanna
+      genitive_pronunciation: <span class="guessed">plɔhkana</span>
 id: 816
 gender: feminine

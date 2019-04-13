@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: loft
       nominative_translation: air
-      nominative_sound: islex/091/091_89.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/091/091_89.mp3'
+      nominative_pronunciation: lɔft
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: loft
-      accusative_sound: islex/091/091_89.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/091/091_89.mp3'
+      accusative_pronunciation: lɔft
       dative: lofti
+      dative_pronunciation: lɔftɪ
       genitive: lofts
+      genitive_pronunciation: lɔfts
     with article:
       nominative: loftið
       nominative_translation: the air
+      nominative_pronunciation: lɔftɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: loftið
+      accusative_pronunciation: lɔftɪð
       dative: loftinu
+      dative_pronunciation: lɔftɪnʏ
       genitive: loftsins
+      genitive_pronunciation: lɔftsɪns
 id: 1348
 gender: neuter

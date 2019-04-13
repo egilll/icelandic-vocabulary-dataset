@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: áhugamál
       nominative_translation: 'hobbies, interests'
-      nominative_sound: islex/444/444_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/444/444_10.mp3'
+      nominative_pronunciation: auːhʏɣamauːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: on-mind-things
       accusative: áhugamál
-      accusative_sound: islex/444/444_10.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/444/444_10.mp3'
+      accusative_pronunciation: auːhʏɣamauːl
       dative: áhugamálum
+      dative_pronunciation: auːhʏɣamauːlʏm
       genitive: áhugamála
+      genitive_pronunciation: <span class="guessed">auːhʏɣamauːla</span>
     with article:
       nominative: áhugamálin
       nominative_translation: 'the hobbies, the interests'
+      nominative_pronunciation: auːhʏɣamauːlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: áhugamálin
+      accusative_pronunciation: auːhʏɣamauːlɪn
       dative: áhugamálunum
+      dative_pronunciation: <span class="guessed">auːhʏɣamauːlɔnʏm</span>
       genitive: áhugamálanna
+      genitive_pronunciation: <span class="guessed">auːhʏɣamauːlana</span>
 id: 711
 gender: neuter

@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: nögl
       nominative_translation: a nail (on your fingers)
-      nominative_sound: islex/225/225_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/225/225_04.mp3'
+      nominative_pronunciation: nœkl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
@@ -19,19 +20,26 @@ conjugation:
     no article:
       nominative: neglur
       nominative_translation: nails (on your fingers)
+      nominative_pronunciation: nɛklʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: neglur
+      accusative_pronunciation: nɛklʏr
       dative: nöglum
+      dative_pronunciation: nœklʏm
       genitive: nagla
+      genitive_pronunciation: nakla
     with article:
       nominative: neglurnar
       nominative_translation: the nails (on your fingers)
+      nominative_pronunciation: nɛklʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: neglurnar
+      accusative_pronunciation: nɛklʏtnar
       dative: nöglunum
       genitive: naglanna
+      genitive_pronunciation: <span class="guessed">naklanaː</span>
 id: 2445
 gender: feminine

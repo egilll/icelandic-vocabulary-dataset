@@ -6,25 +6,33 @@ conjugation:
     no article:
       nominative: stundaskrá
       nominative_translation: a school timetable
-      nominative_sound: islex/360/360_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/360/360_50.mp3'
+      nominative_pronunciation: <span class="guessed">stʏntaskrauː</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stundaskrá
-      accusative_sound: islex/360/360_50.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/360/360_50.mp3'
+      accusative_pronunciation: <span class="guessed">stʏntaskrauː</span>
       dative: stundaskrá
-      dative_sound: islex/360/360_50.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/360/360_50.mp3'
+      dative_pronunciation: <span class="guessed">stʏntaskrauː</span>
       genitive: stundaskrár
+      genitive_pronunciation: stʏntaskraur
       genitive_alternative:
         - stundaskráar
     with article:
       nominative: stundaskráin
       nominative_translation: the school timetable
+      nominative_pronunciation: <span class="guessed">stʏntaskraːuɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: stundaskrána
+      accusative_pronunciation: <span class="guessed">stʏntaskrauna</span>
       dative: stundaskránni
+      dative_pronunciation: <span class="guessed">stʏntaskraunɪ</span>
       genitive: stundaskrárinnar
+      genitive_pronunciation: <span class="guessed">stʏntaskraurɪnar</span>
       genitive_alternative:
         - stundaskráarinnar
 id: 1766

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sorg
       nominative_translation: 'sorrow, grief, sadness'
-      nominative_sound: islex/409/409_32.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/409/409_32.mp3'
+      nominative_pronunciation: sɔrk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sorgin
       nominative_translation: 'the sorrow, the grief, the sadness'
+      nominative_pronunciation: sɔrcɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1716

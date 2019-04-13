@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: stress
       nominative_translation: stress
-      nominative_sound: islex/158/158_65.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/158/158_65.mp3'
+      nominative_pronunciation: strɛs
       nominative_teach: false
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: stressið
       nominative_translation: the stress
+      nominative_pronunciation: strɛsɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1758

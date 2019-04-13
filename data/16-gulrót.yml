@@ -6,42 +6,57 @@ conjugation:
     no article:
       nominative: gulrót
       nominative_translation: a carrot
-      nominative_sound: islex/123/123_16.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/123/123_16.mp3'
+      nominative_pronunciation: kʏlrout
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: yellow-root
       accusative: gulrót
-      accusative_sound: islex/123/123_16.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/123/123_16.mp3'
+      accusative_pronunciation: kʏlrout
       dative: gulrót
-      dative_sound: islex/123/123_16.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/123/123_16.mp3'
+      dative_pronunciation: kʏlrout
       genitive: gulrótar
+      genitive_pronunciation: <span class="guessed">kʏːlrouːtar</span>
     with article:
       nominative: gulrótin
       nominative_translation: the carrot
+      nominative_pronunciation: <span class="guessed">kʏːlrouːtɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: gulrótina
+      accusative_pronunciation: <span class="guessed">kʏːlrouːtɪna</span>
       dative: gulrótinni
+      dative_pronunciation: <span class="guessed">kʏlroutɪnɪ</span>
       genitive: gulrótarinnar
+      genitive_pronunciation: <span class="guessed">kʏːlrouːtarɪnar</span>
   plural:
     no article:
       nominative: gulrætur
       nominative_translation: carrots
+      nominative_pronunciation: kʏlraitʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gulrætur
+      accusative_pronunciation: kʏlraitʏr
       dative: gulrótum
+      dative_pronunciation: <span class="guessed">kʏːlrouːtʏm</span>
       genitive: gulróta
+      genitive_pronunciation: <span class="guessed">kʏːlrouːta</span>
     with article:
       nominative: gulræturnar
       nominative_translation: the carrots
+      nominative_pronunciation: <span class="guessed">kʏːlraiːtʏtnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: gulræturnar
+      accusative_pronunciation: <span class="guessed">kʏːlraiːtʏtnar</span>
       dative: gulrótunum
       genitive: gulrótanna
+      genitive_pronunciation: <span class="guessed">kʏlroutana</span>
 id: 1060
 teach_the_difference: gulur
 gender: feminine

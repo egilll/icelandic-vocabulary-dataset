@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] keppa'
     infinitive_translation: to compete
-    infinitive_sound: islex/424/424_43.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/424/424_43.mp3'
+    infinitive_pronunciation: cʰɛhpa
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] keppti'
           1st person_translation: I competed
+          1st person_pronunciation: cʰɛftɪ
           1st person_teach: true
 id: 2181

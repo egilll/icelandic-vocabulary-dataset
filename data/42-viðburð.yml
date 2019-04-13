@@ -6,25 +6,31 @@ conjugation:
     no article:
       nominative: viðburður
       nominative_translation: an event
-      nominative_sound: islex/453/453_17.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/453/453_17.mp3'
+      nominative_pronunciation: vɪðpʏrðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: viðburð
+      accusative_pronunciation: vɪðpʏrð
       dative: viðburði
+      dative_pronunciation: vɪðpʏrðɪ
       genitive: viðburðar
     with article:
       nominative: viðburðurinn
       nominative_translation: the event
+      nominative_pronunciation: <span class="guessed">vɪðpʏrðʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: viðburðinn
+      accusative_pronunciation: <span class="guessed">vɪðpʏrðɪn</span>
       dative: viðburðinum
       genitive: viðburðarins
   plural:
     no article:
       nominative: viðburðir
       nominative_translation: events
+      nominative_pronunciation: vɪðpʏrðɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

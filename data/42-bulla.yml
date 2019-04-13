@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] bulla'
     infinitive_translation: to talk nonsense
-    infinitive_sound: islex/208/208_63.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/208/208_63.mp3'
+    infinitive_pronunciation: pʏtla
     infinitive_teach: true
 id: 2059

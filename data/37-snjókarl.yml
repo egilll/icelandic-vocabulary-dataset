@@ -6,17 +6,22 @@ conjugation:
     no article:
       nominative: snjókarl
       nominative_translation: a snowman
-      nominative_sound: islex/402/402_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/402/402_87.mp3'
+      nominative_pronunciation: <span class="guessed">stnjouːkʰatl</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snjókarl
-      accusative_sound: islex/402/402_87.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/402/402_87.mp3'
+      accusative_pronunciation: <span class="guessed">stnjouːkʰatl</span>
       dative: snjókarli
+      dative_pronunciation: <span class="guessed">stnjouːkʰatlɪ</span>
       genitive: snjókarls
+      genitive_pronunciation: <span class="guessed">stnjouːkʰals</span>
     with article:
       nominative: snjókarlinn
       nominative_translation: the snowman
+      nominative_pronunciation: <span class="guessed">stnjouːkʰatlɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1697

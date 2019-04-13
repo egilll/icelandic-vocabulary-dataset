@@ -6,24 +6,32 @@ conjugation:
     no article:
       nominative: jarðarför
       nominative_translation: a funeral
-      nominative_sound: islex/156/156_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/156/156_99.mp3'
+      nominative_pronunciation: jarðarfœːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: an earth going
       accusative: jarðarför
-      accusative_sound: islex/156/156_99.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/156/156_99.mp3'
+      accusative_pronunciation: jarðarfœːr
       dative: jarðarför
-      dative_sound: islex/156/156_99.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/156/156_99.mp3'
+      dative_pronunciation: jarðarfœːr
       genitive: jarðarfarar
+      genitive_pronunciation: <span class="guessed">jarðarfaːrar</span>
     with article:
       nominative: jarðarförin
       nominative_translation: the funeral
+      nominative_pronunciation: jarðarfœːrɪn
       nominative_teach: true
       nominative_teachtable: true
       nominative_literal: an earth going
       accusative: jarðarförina
+      accusative_pronunciation: <span class="guessed">jarðarfœːrɪnaː</span>
       dative: jarðarförinni
+      dative_pronunciation: jarðarfœːrɪnɪ
       genitive: jarðarfararinnar
+      genitive_pronunciation: <span class="guessed">jarðarfaːrarɪnar</span>
 id: 1196
 gender: feminine

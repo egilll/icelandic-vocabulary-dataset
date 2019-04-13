@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: blóð
       nominative_translation: blood
-      nominative_sound: islex/027/027_67.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/027/027_67.mp3'
+      nominative_pronunciation: plouːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blóð
-      accusative_sound: islex/027/027_67.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/027/027_67.mp3'
+      accusative_pronunciation: plouːð
       dative: blóði
+      dative_pronunciation: plouːðɪ
       genitive: blóðs
+      genitive_pronunciation: plouðs
     with article:
       nominative: blóðið
       nominative_translation: the blood
+      nominative_pronunciation: plouːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: blóðið
+      accusative_pronunciation: plouːðɪð
       dative: blóðinu
+      dative_pronunciation: plouːðɪnʏ
       genitive: blóðsins
 id: 813
 gender: neuter

@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: skógur
       nominative_translation: a forest
-      nominative_sound: islex/442/442_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/442/442_58.mp3'
+      nominative_pronunciation: skouːʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skóg
+      accusative_pronunciation: skouː
       dative: skógi
+      dative_pronunciation: skoujɪ
       genitive: skógar
+      genitive_pronunciation: skouːar
     with article:
       nominative: skógurinn
       nominative_translation: the forest
+      nominative_pronunciation: skouːʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: skóginn
+      accusative_pronunciation: skoujɪn
       dative: skóginum
+      dative_pronunciation: skoujɪnʏm
       genitive: skógarins
+      genitive_pronunciation: skouːarɪns
 id: 1653
 gender: masculine

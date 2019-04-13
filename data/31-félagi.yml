@@ -6,38 +6,53 @@ conjugation:
     no article:
       nominative: félagi
       nominative_translation: buddy
-      nominative_sound: islex/237/237_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/237/237_08.mp3'
+      nominative_pronunciation: fjɛːlaijɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: félaga
+      accusative_pronunciation: fjɛːlaɣa
       dative: félaga
+      dative_pronunciation: fjɛːlaɣa
       genitive: félaga
+      genitive_pronunciation: fjɛːlaɣa
     with article:
       nominative: félaginn
       nominative_translation: the buddy
+      nominative_pronunciation: fjɛːlaijɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: félagann
+      accusative_pronunciation: <span class="guessed">fjɛːlaɣan</span>
       dative: félaganum
+      dative_pronunciation: <span class="guessed">fjɛːlaɣaːnʏm</span>
       genitive: félagans
   plural:
     no article:
       nominative: félagar
       nominative_translation: buddies
+      nominative_pronunciation: fjɛːlaɣar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: félaga
+      accusative_pronunciation: fjɛːlaɣa
       dative: félögum
+      dative_pronunciation: fjɛːlœɣʏm
       genitive: félaga
+      genitive_pronunciation: fjɛːlaɣa
     with article:
       nominative: félagarnir
       nominative_translation: the buddies
+      nominative_pronunciation: fjɛːlaɣatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: félagana
+      accusative_pronunciation: fjɛːlaɣana
       dative: félögunum
+      dative_pronunciation: fjɛːlœɣɔnʏm
       genitive: félaganna
+      genitive_pronunciation: fjɛːlaɣana
 id: 934
 gender: masculine

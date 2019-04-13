@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: eldur
       nominative_translation: fire
-      nominative_sound: islex/337/337_80.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/337/337_80.mp3'
+      nominative_pronunciation: ɛltʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: eld
+      accusative_pronunciation: ɛlt
       dative: eldi
-      dative_sound: islex/056/056_02.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/056/056_02.mp3'
+      dative_pronunciation: ɛltɪ
       genitive: elds
+      genitive_pronunciation: ɛlts
     with article:
       nominative: eldurinn
       nominative_translation: the fire
+      nominative_pronunciation: ɛltʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: eldinn
+      accusative_pronunciation: ɛltɪn
       dative: eldinum
+      dative_pronunciation: ɛltɪnʏm
       genitive: eldsins
+      genitive_pronunciation: ɛltsɪns
 id: 915
 gender: masculine

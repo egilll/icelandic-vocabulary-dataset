@@ -8,28 +8,35 @@ conjugation:
         singular:
           1st person: '[mér] líður'
           1st person_translation: I am feeling
+          1st person_pronunciation: liːðʏr
           1st person_teach: true
           2nd person: '[þér] líður'
           2nd person_translation: you¹ are feeling
+          2nd person_pronunciation: liːðʏr
           2nd person_teach: true
           3rd person: '[honum/henni/því] líður'
           3rd person_translation: he/she/it is feeling
+          3rd person_pronunciation: liːðʏr
           3rd person_teach: true
         plural:
           1st person: '[okkur] líður'
           1st person_translation: we are feeling
+          1st person_pronunciation: liːðʏr
           1st person_teach: true
           2nd person: '[ykkur] líður'
           2nd person_translation: you² are feeling
+          2nd person_pronunciation: liːðʏr
           2nd person_teach: true
           3rd person: '[þeim] líður'
           3rd person_translation: they are feeling
+          3rd person_pronunciation: liːðʏr
           3rd person_teach: true
       past:
         singular:
           1st person: '[mér] leið'
           1st person_translation: I was feeling
-          1st person_sound: islex/089/089_38.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/089/089_38.mp3'
+          1st person_pronunciation: leiːð
           1st person_teach: true
 id: 2223
 strong_verb_declension: true

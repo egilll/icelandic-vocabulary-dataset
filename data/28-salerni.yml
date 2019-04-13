@@ -6,24 +6,32 @@ conjugation:
     no article:
       nominative: salerni
       nominative_translation: a toilet
-      nominative_sound: islex/443/443_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/443/443_30.mp3'
+      nominative_pronunciation: saːlɛrtnɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: salerni
-      accusative_sound: islex/443/443_30.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/443/443_30.mp3'
+      accusative_pronunciation: saːlɛrtnɪ
       dative: salerni
-      dative_sound: islex/443/443_30.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/443/443_30.mp3'
+      dative_pronunciation: saːlɛrtnɪ
       genitive: salernis
+      genitive_pronunciation: <span class="guessed">saːlɛrtn̥ɪːs</span>
     with article:
       nominative: salernið
       nominative_translation: the toilet
+      nominative_pronunciation: saːlɛrtnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: salernið
+      accusative_pronunciation: saːlɛrtnɪð
       dative: salerninu
+      dative_pronunciation: saːlɛrtnɪnʏ
       genitive: salernisins
 id: 1586
 gender: neuter
 synonyms: klósett
-synonyms_sound: islex/479/479_71.mp3
+synonyms_sound: 'https://media.egill.xyz/audio/islex/479/479_71.mp3'
+synonyms_pronunciation: kʰlouːsɛht

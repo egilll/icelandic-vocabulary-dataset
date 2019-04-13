@@ -5,6 +5,7 @@ conjugation:
   active voice:
     infinitive: '[að] spá'
     infinitive_translation: to wonder; to predict
-    infinitive_sound: islex/036/036_03.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/036/036_03.mp3'
+    infinitive_pronunciation: spauː
     infinitive_teach: true
 id: 1998

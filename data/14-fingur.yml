@@ -6,19 +6,25 @@ conjugation:
     with article:
       nominative: fingurinn
       nominative_translation: the finger
+      nominative_pronunciation: fiŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fingurinn
+      accusative_pronunciation: fiŋkʏrɪn
       dative: fingrinum
+      dative_pronunciation: fiŋkrɪnʏm
       genitive: fingursins
   plural:
     with article:
       nominative: fingurnir
       nominative_translation: the fingers
+      nominative_pronunciation: fiŋkʏtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: fingurna
+      accusative_pronunciation: fiŋkʏtna
       dative: fingrunum
+      dative_pronunciation: fiŋkrɔnʏm
       genitive: fingranna
 id: 941
 gender: masculine

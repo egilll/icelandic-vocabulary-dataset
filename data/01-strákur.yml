@@ -6,35 +6,48 @@ conjugation:
     no article:
       nominative: strákur
       nominative_translation: a boy
-      nominative_sound: islex/062/062_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/062/062_27.mp3'
+      nominative_pronunciation: strauːkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: strákurinn
       nominative_translation: the boy
+      nominative_pronunciation: strauːkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: strákinn
+      accusative_pronunciation: strauːcɪn
       dative: stráknum
+      dative_pronunciation: strauhknʏm
       genitive: stráksins
+      genitive_pronunciation: strauːksɪns
   plural:
     no article:
       nominative: strákar
       nominative_translation: boys
+      nominative_pronunciation: strauːkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stráka
+      accusative_pronunciation: strauːka
       dative: strákum
+      dative_pronunciation: strauːkʏm
       genitive: stráka
+      genitive_pronunciation: strauːka
     with article:
       nominative: strákarnir
       nominative_translation: the boys
+      nominative_pronunciation: strauːkatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: strákana
+      accusative_pronunciation: strauːkana
       dative: strákunum
+      dative_pronunciation: strauːkɔnʏm
       genitive: strákanna
+      genitive_pronunciation: strauːkana
 id: 1756
 gender: masculine

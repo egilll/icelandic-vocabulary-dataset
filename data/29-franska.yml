@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: franska
       nominative_translation: French (language)
-      nominative_sound: islex/012/012_61.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/012/012_61.mp3'
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

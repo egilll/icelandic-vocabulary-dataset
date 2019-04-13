@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: formaður
       nominative_translation: 'director, chief'
-      nominative_sound: islex/003/003_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/003/003_31.mp3'
+      nominative_pronunciation: fɔrmaðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: formann
+      accusative_pronunciation: fɔrman
       dative: formanni
+      dative_pronunciation: fɔrmanɪ
       genitive: formanns
+      genitive_pronunciation: fɔrmans
     with article:
       nominative: formaðurinn
       nominative_translation: 'the director, the chief'
+      nominative_pronunciation: fɔrmaðʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: formanninn
+      accusative_pronunciation: <span class="guessed">fɔrmanɪn</span>
       dative: formanninum
+      dative_pronunciation: fɔrmanɪnʏm
       genitive: formannsins
+      genitive_pronunciation: fɔrmansɪns
   plural:
     no article:
       nominative: formenn
       nominative_translation: 'directors, chiefs'
+      nominative_pronunciation: fɔrmɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: formenn
+      accusative_pronunciation: fɔrmɛn
       dative: formönnum
+      dative_pronunciation: fɔrmœnʏm
       genitive: formanna
+      genitive_pronunciation: fɔrmana
     with article:
       nominative: formennirnir
       nominative_translation: 'the directors, the chiefs'
+      nominative_pronunciation: <span class="guessed">fɔːrmɛnɪtnɪr</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: formennina
+      accusative_pronunciation: <span class="guessed">fɔːrmɛnɪna</span>
       dative: formönnunum
+      dative_pronunciation: <span class="guessed">fɔːrmœnɔnʏm</span>
       genitive: formannanna
+      genitive_pronunciation: <span class="guessed">fɔrmanana</span>
 id: 969
 gender: masculine

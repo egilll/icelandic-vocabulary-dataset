@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: verðlaun
       nominative_translation: prizes
-      nominative_sound: islex/076/076_49.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/076/076_49.mp3'
+      nominative_pronunciation: vɛrðlœin
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: verðlaun
-      accusative_sound: islex/076/076_49.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/076/076_49.mp3'
+      accusative_pronunciation: vɛrðlœin
       dative: verðlaunum
+      dative_pronunciation: vɛrðlœinʏm
       genitive: verðlauna
-      genitive_sound: islex/409/409_54.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/409/409_54.mp3'
+      genitive_pronunciation: vɛrðlœina
     with article:
       nominative: verðlaunin
       nominative_translation: the prizes
+      nominative_pronunciation: vɛrðlœinɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: verðlaunin
+      accusative_pronunciation: vɛrðlœinɪn
       dative: verðlaununum
+      dative_pronunciation: vɛrðlœinɔnʏm
       genitive: verðlaunanna
+      genitive_pronunciation: vɛrðlœinana
 id: 1907
 gender: neuter

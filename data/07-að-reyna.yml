@@ -5,56 +5,68 @@ conjugation:
   active voice:
     infinitive: '[að] reyna'
     infinitive_translation: 'to try, to attempt'
-    infinitive_sound: islex/206/206_66.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/206/206_66.mp3'
+    infinitive_pronunciation: reiːna
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] reyni'
           1st person_translation: 'I try, I attempt'
+          1st person_pronunciation: reiːnɪ
           1st person_teach: true
           2nd person: '[þú] reynir'
           2nd person_translation: 'you¹ try, you¹ attempt'
-          2nd person_sound: islex/003/003_68.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/003/003_68.mp3'
+          2nd person_pronunciation: reiːnɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] reynir'
           3rd person_translation: 'he/she/it tries, he/she/it attempts'
-          3rd person_sound: islex/003/003_68.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/003/003_68.mp3'
+          3rd person_pronunciation: reiːnɪr
           3rd person_teach: true
         plural:
           1st person: '[við] reynum'
           1st person_translation: 'we try, we attempt'
+          1st person_pronunciation: reiːnʏm
           1st person_teach: true
           2nd person: '[þið] reynið'
           2nd person_translation: 'you² try, you² attempt'
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] reyna'
           3rd person_translation: 'they try, they attempt'
-          3rd person_sound: islex/206/206_66.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/206/206_66.mp3'
+          3rd person_pronunciation: reiːna
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] reyndi'
           1st person_translation: 'I tried, I attempted'
+          1st person_pronunciation: reintɪ
           1st person_teach: true
           2nd person: '[þú] reyndir'
           2nd person_translation: 'you¹ tried, you¹ attempted'
+          2nd person_pronunciation: reintɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] reyndi'
           3rd person_translation: 'he/she/it tried, he/she/it attempted'
+          3rd person_pronunciation: reintɪ
           3rd person_teach: true
         plural:
           1st person: '[við] reyndum'
           1st person_translation: 'we tried, we attempted'
+          1st person_pronunciation: reintʏm
           1st person_teach: true
           2nd person: '[þið] reynduð'
           2nd person_translation: 'you² tried, you² attempted'
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] reyndu'
           3rd person_translation: 'they tried, they attempted'
+          3rd person_pronunciation: reintʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] reynt'
     active voice_translation: 'I have tried, I have attempted'
+    active voice_pronunciation: rein̥t
     active voice_teach: true
 id: 1996

@@ -6,43 +6,59 @@ conjugation:
     no article:
       nominative: banki
       nominative_translation: a bank
-      nominative_sound: islex/289/289_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/289/289_71.mp3'
+      nominative_pronunciation: pauɲ̊cɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: banka
-      accusative_sound: islex/381/381_99.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/381/381_99.mp3'
+      accusative_pronunciation: pauŋ̊ka
       dative: banka
-      dative_sound: islex/381/381_99.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/381/381_99.mp3'
+      dative_pronunciation: pauŋ̊ka
       genitive: banka
-      genitive_sound: islex/381/381_99.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/381/381_99.mp3'
+      genitive_pronunciation: pauŋ̊ka
     with article:
       nominative: bankinn
       nominative_translation: the bank
+      nominative_pronunciation: pauɲ̊cɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bankann
+      accusative_pronunciation: pauŋ̊kan
       dative: bankanum
+      dative_pronunciation: pauŋ̊kanʏm
       genitive: bankans
+      genitive_pronunciation: pauŋ̊kans
   plural:
     no article:
       nominative: bankar
       nominative_translation: banks
+      nominative_pronunciation: pauŋ̊kar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: banka
-      accusative_sound: islex/381/381_99.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/381/381_99.mp3'
+      accusative_pronunciation: pauŋ̊ka
       dative: bönkum
+      dative_pronunciation: pœŋ̊kʏm
       genitive: banka
-      genitive_sound: islex/381/381_99.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/381/381_99.mp3'
+      genitive_pronunciation: pauŋ̊ka
     with article:
       nominative: bankarnir
       nominative_translation: the banks
+      nominative_pronunciation: pauŋ̊katnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: bankana
+      accusative_pronunciation: pauŋ̊kana
       dative: bönkunum
+      dative_pronunciation: pœŋ̊kɔnʏm
       genitive: bankanna
+      genitive_pronunciation: pauŋ̊kana
 id: 770
 gender: masculine

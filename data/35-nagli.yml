@@ -6,31 +6,43 @@ conjugation:
     no article:
       nominative: nagli
       nominative_translation: a nail (made of metal)
-      nominative_sound: islex/051/051_93.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/051/051_93.mp3'
+      nominative_pronunciation: naklɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nagla
+      accusative_pronunciation: nakla
       dative: nagla
+      dative_pronunciation: nakla
       genitive: nagla
+      genitive_pronunciation: nakla
     with article:
       nominative: naglinn
       nominative_translation: the nail (made of metal)
+      nominative_pronunciation: naklɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: naglann
+      accusative_pronunciation: naklan
       dative: naglanum
+      dative_pronunciation: naklanʏm
       genitive: naglans
+      genitive_pronunciation: naklans
   plural:
     no article:
       nominative: naglar
       nominative_translation: nails (made of metal)
+      nominative_pronunciation: naklar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nagla
+      accusative_pronunciation: nakla
       dative: nöglum
+      dative_pronunciation: nœklʏm
       genitive: nagla
+      genitive_pronunciation: nakla
     with article:
       nominative: naglarnir
       nominative_translation: the nails (made of metal)
@@ -39,6 +51,7 @@ conjugation:
       accusative: naglana
       dative: nöglunum
       genitive: naglanna
+      genitive_pronunciation: <span class="guessed">naklanaː</span>
 id: 1436
 teach_the_difference: ''
 gender: masculine

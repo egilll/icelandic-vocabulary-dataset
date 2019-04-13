@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: augnablik
       nominative_translation: 'a moment, an instant'
-      nominative_sound: islex/285/285_79.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/285/285_79.mp3'
+      nominative_pronunciation: œiknaplɪːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: eye-gleam
       accusative: augnablik
-      accusative_sound: islex/285/285_79.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/285/285_79.mp3'
+      accusative_pronunciation: œiknaplɪːk
       dative: augnabliki
+      dative_pronunciation: œiknaplɪːcɪ
       genitive: augnabliks
+      genitive_pronunciation: œiknaplɪks
     with article:
       nominative: augnablikið
       nominative_translation: the moment
+      nominative_pronunciation: œiknaplɪːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: augnablikið
+      accusative_pronunciation: œiknaplɪːcɪð
       dative: augnablikinu
+      dative_pronunciation: œiknaplɪːcɪnʏ
       genitive: augnabliksins
+      genitive_pronunciation: œiknaplɪksɪns
 id: 750
 gender: neuter

@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: skýrsla
       nominative_translation: a report
-      nominative_sound: islex/415/415_49.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/415/415_49.mp3'
+      nominative_pronunciation: scistla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skýrslu
+      accusative_pronunciation: scistlʏ
       dative: skýrslu
+      dative_pronunciation: scistlʏ
       genitive: skýrslu
+      genitive_pronunciation: scistlʏ
     with article:
       nominative: skýrslan
       nominative_translation: the report
+      nominative_pronunciation: scistlan
       nominative_teach: true
       nominative_teachtable: true
       accusative: skýrsluna
+      accusative_pronunciation: scistlʏna
       dative: skýrslunni
+      dative_pronunciation: scistlʏnɪ
       genitive: skýrslunnar
+      genitive_pronunciation: scistlʏnar
   plural:
     no article:
       nominative: skýrslur
       nominative_translation: reports
+      nominative_pronunciation: scistlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skýrslur
+      accusative_pronunciation: scistlʏr
       dative: skýrslum
+      dative_pronunciation: scistlʏm
       genitive: skýrslna
     with article:
       nominative: skýrslurnar
       nominative_translation: the reports
+      nominative_pronunciation: scistlʏrtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: skýrslurnar
+      accusative_pronunciation: scistlʏrtnar
       dative: skýrslunum
+      dative_pronunciation: scistlɔnʏm
       genitive: skýrslnanna
 id: 1674
 gender: feminine

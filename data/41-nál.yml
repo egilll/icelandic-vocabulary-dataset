@@ -6,40 +6,56 @@ conjugation:
     no article:
       nominative: nál
       nominative_translation: a needle
-      nominative_sound: islex/140/140_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/140/140_97.mp3'
+      nominative_pronunciation: nauːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nál
-      accusative_sound: islex/140/140_97.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/140/140_97.mp3'
+      accusative_pronunciation: nauːl
       dative: nál
-      dative_sound: islex/140/140_97.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/140/140_97.mp3'
+      dative_pronunciation: nauːl
       genitive: nálar
+      genitive_pronunciation: nauːlar
     with article:
       nominative: nálin
       nominative_translation: the needle
+      nominative_pronunciation: nauːlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: nálina
+      accusative_pronunciation: <span class="guessed">nauːlɪːna</span>
       dative: nálinni
+      dative_pronunciation: nauːlɪnɪ
       genitive: nálarinnar
+      genitive_pronunciation: nauːlarɪnar
   plural:
     no article:
       nominative: nálar
       nominative_translation: needles
+      nominative_pronunciation: nauːlar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: nálar
+      accusative_pronunciation: nauːlar
       dative: nálum
+      dative_pronunciation: nauːlʏm
       genitive: nála
+      genitive_pronunciation: <span class="guessed">nauːlaː</span>
     with article:
       nominative: nálarnar
       nominative_translation: the needles
+      nominative_pronunciation: <span class="guessed">nauːlartnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: nálarnar
+      accusative_pronunciation: <span class="guessed">nauːlartnar</span>
       dative: nálunum
+      dative_pronunciation: nauːlɔnʏm
       genitive: nálanna
+      genitive_pronunciation: <span class="guessed">nauːlana</span>
 id: 1437
 gender: feminine

@@ -8,22 +8,28 @@ conjugation:
         singular:
           1st person: '[mér] finnst'
           1st person_translation: 'I am of the opinion, I feel'
+          1st person_pronunciation: fɪnst
           1st person_teach: true
           2nd person: '[þér] finnst'
           2nd person_translation: 'you¹ are of the opinion, you¹ feel'
+          2nd person_pronunciation: fɪnst
           2nd person_teach: true
           3rd person: '[honum/henni/því] finnst'
           3rd person_translation: 'he/she/it is of the opinion, he/she/it feels'
+          3rd person_pronunciation: fɪnst
           3rd person_teach: true
         plural:
           1st person: '[okkur] finnst'
           1st person_translation: 'we are of the opinion, we feel'
+          1st person_pronunciation: fɪnst
           1st person_teach: true
           2nd person: '[ykkur] finnst'
           2nd person_translation: 'you² are of the opinion, you² feel'
+          2nd person_pronunciation: fɪnst
           2nd person_teach: true
           3rd person: '[þeim] finnst'
           3rd person_translation: 'they are of the opinion, they feel'
+          3rd person_pronunciation: fɪnst
           3rd person_teach: true
       past:
         singular:

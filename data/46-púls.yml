@@ -6,15 +6,15 @@ conjugation:
     no article:
       nominative: púls
       nominative_translation: a pulse
-      nominative_sound: islex/397/397_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/397/397_51.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: púls
-      accusative_sound: islex/397/397_51.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/397/397_51.mp3'
       dative: púlsi
       genitive: púls
-      genitive_sound: islex/397/397_51.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/397/397_51.mp3'
     with article:
       nominative: púlsinn
       nominative_translation: the pulse

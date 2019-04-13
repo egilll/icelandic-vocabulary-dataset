@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: eiginkona
       nominative_translation: wife
-      nominative_sound: islex/073/073_44.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/073/073_44.mp3'
+      nominative_pronunciation: eijɪnkʰɔːna
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

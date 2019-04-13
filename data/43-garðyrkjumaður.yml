@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: garðyrkjumaður
       nominative_translation: a gardener
-      nominative_sound: islex/442/442_28.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/442/442_28.mp3'
+      nominative_pronunciation: karðɪr̥cʏmaːðʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: jakki
       nominative_translation: jacket
-      nominative_sound: islex/108/108_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/108/108_37.mp3'
+      nominative_pronunciation: jahcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: jakka
+      accusative_pronunciation: jahka
       dative: jakka
+      dative_pronunciation: jahka
       genitive: jakka
+      genitive_pronunciation: jahka
     with article:
       nominative: jakkinn
       nominative_translation: the jacket
       nominative_teach: true
       nominative_teachtable: true
       accusative: jakkann
+      accusative_pronunciation: jahkan
       dative: jakkanum
+      dative_pronunciation: jahkanʏm
       genitive: jakkans
 id: 1194
 gender: masculine

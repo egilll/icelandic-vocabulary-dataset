@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: te
       nominative_translation: tea
-      nominative_sound: islex/022/022_74.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/022/022_74.mp3'
+      nominative_pronunciation: tʰɛː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: te
-      accusative_sound: islex/022/022_74.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/022/022_74.mp3'
+      accusative_pronunciation: tʰɛː
       dative: tei
+      dative_pronunciation: tʰɛːɪ
       genitive: tes
+      genitive_pronunciation: tʰɛːs
     with article:
       nominative: teið
       nominative_translation: the tea
+      nominative_pronunciation: tʰɛːɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: teið
+      accusative_pronunciation: tʰɛːɪð
       dative: teinu
+      dative_pronunciation: <span class="guessed">tʰɛːɪːnʏ</span>
       genitive: tesins
 id: 1820
 gender: neuter

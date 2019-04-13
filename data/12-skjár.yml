@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: skjár
       nominative_translation: 'a screen, a display, a monitor'
-      nominative_sound: islex/072/072_37.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/072/072_37.mp3'
+      nominative_pronunciation: scauːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skjá
+      accusative_pronunciation: scauː
       dative: skjá
+      dative_pronunciation: scauː
       genitive: skjás
+      genitive_pronunciation: scauːs
     with article:
       nominative: skjárinn
       nominative_translation: 'the screen, the display, the monitor'
+      nominative_pronunciation: <span class="guessed">scauːrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: skjáinn
+      accusative_pronunciation: scauːɪn
       dative: skjánum
+      dative_pronunciation: scauːnum
       genitive: skjásins
 id: 1652
 gender: masculine

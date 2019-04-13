@@ -6,41 +6,56 @@ conjugation:
     no article:
       nominative: eyra
       nominative_translation: an ear
-      nominative_sound: islex/394/394_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/394/394_96.mp3'
+      nominative_pronunciation: eiːra
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: eyra
-      accusative_sound: islex/394/394_96.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/394/394_96.mp3'
+      accusative_pronunciation: eiːra
       dative: eyra
-      dative_sound: islex/394/394_96.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/394/394_96.mp3'
+      dative_pronunciation: eiːra
       genitive: eyra
-      genitive_sound: islex/394/394_96.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/394/394_96.mp3'
+      genitive_pronunciation: eiːra
     with article:
       nominative: eyrað
       nominative_translation: the ear
+      nominative_pronunciation: eiːrað
       nominative_teach: true
       nominative_teachtable: true
       accusative: eyrað
+      accusative_pronunciation: eiːrað
       dative: eyranu
+      dative_pronunciation: eiːranʏ
       genitive: eyrans
+      genitive_pronunciation: ɛːjrans
   plural:
     no article:
       nominative: eyru
       nominative_translation: ears
+      nominative_pronunciation: eiːrʏ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: eyru
+      accusative_pronunciation: eiːrʏ
       dative: eyrum
+      dative_pronunciation: eiːrʏm
       genitive: eyrna
+      genitive_pronunciation: eirtna
     with article:
       nominative: eyrun
       nominative_translation: the ears
+      nominative_pronunciation: eiːrʏn
       nominative_teach: true
       nominative_teachtable: true
       accusative: eyrun
+      accusative_pronunciation: eiːrʏn
       dative: eyrunum
+      dative_pronunciation: eiːrɔnʏm
       genitive: eyrnanna
 id: 921
 gender: neuter

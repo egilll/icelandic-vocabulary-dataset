@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: flugmaður
       nominative_translation: a pilot
-      nominative_sound: islex/332/332_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/332/332_64.mp3'
+      nominative_pronunciation: flʏɣmaðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flugmann
+      accusative_pronunciation: <span class="guessed">flʏːɣman</span>
       dative: flugmanni
+      dative_pronunciation: <span class="guessed">flʏːɣmanɪ</span>
       genitive: flugmanns
+      genitive_pronunciation: flʏɣmans
     with article:
       nominative: flugmaðurinn
       nominative_translation: the pilot
+      nominative_pronunciation: flʏɣmaðʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: flugmanninn
+      accusative_pronunciation: <span class="guessed">flʏːɣmanɪn</span>
       dative: flugmanninum
+      dative_pronunciation: <span class="guessed">flʏːɣmanɪnʏm</span>
       genitive: flugmannsins
+      genitive_pronunciation: flʏɣmansɪns
   plural:
     no article:
       nominative: flugmenn
       nominative_translation: pilots
+      nominative_pronunciation: flʏɣmɛn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flugmenn
+      accusative_pronunciation: flʏɣmɛn
       dative: flugmönnum
+      dative_pronunciation: flʏɣmœnʏm
       genitive: flugmanna
+      genitive_pronunciation: flʏɣmana
     with article:
       nominative: flugmennirnir
       nominative_translation: the pilots
+      nominative_pronunciation: flʏɣmɛnɪtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: flugmennina
+      accusative_pronunciation: <span class="guessed">flʏːɣmɛnɪna</span>
       dative: flugmönnunum
+      dative_pronunciation: <span class="guessed">flʏːɣmœnɔnʏm</span>
       genitive: flugmannanna
+      genitive_pronunciation: <span class="guessed">flʏːɣmanana</span>
 id: 963
 gender: masculine

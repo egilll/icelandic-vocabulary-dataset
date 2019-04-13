@@ -5,52 +5,64 @@ conjugation:
   active voice:
     infinitive: '[að] drepa'
     infinitive_translation: to kill
-    infinitive_sound: islex/066/066_21.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/066/066_21.mp3'
+    infinitive_pronunciation: treːpa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] drep'
           1st person_translation: I kill
-          1st person_sound: islex/358/358_15.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/358/358_15.mp3'
+          1st person_pronunciation: trɛːp
           1st person_teach: true
           2nd person: '[þú] drepur'
           2nd person_translation: you¹ kill
+          2nd person_pronunciation: trɛːpʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] drepur'
           3rd person_translation: he/she/it kills
+          3rd person_pronunciation: trɛːpʏr
           3rd person_teach: true
         plural:
           1st person: '[við] drepum'
           1st person_translation: we kill
+          1st person_pronunciation: trɛːpʏm
           1st person_teach: true
           2nd person: '[þið] drepið'
           2nd person_translation: you² kill
+          2nd person_pronunciation: trɛːpɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] drepa'
           3rd person_translation: they kill
-          3rd person_sound: islex/066/066_21.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/066/066_21.mp3'
+          3rd person_pronunciation: treːpa
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] drap'
           1st person_translation: I killed
+          1st person_pronunciation: traːp
           1st person_teach: true
           2nd person: '[þú] drapst'
           2nd person_translation: you¹ killed
+          2nd person_pronunciation: trafst
           2nd person_teach: true
           3rd person: '[hann/hún/það] drap'
           3rd person_translation: he/she/it killed
+          3rd person_pronunciation: traːp
           3rd person_teach: true
         plural:
           1st person: '[við] drápum'
           1st person_translation: we killed
+          1st person_pronunciation: trauːpʏm
           1st person_teach: true
           2nd person: '[þið] drápuð'
           2nd person_translation: you² killed
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] drápu'
           3rd person_translation: they killed
+          3rd person_pronunciation: trauːpʏ
           3rd person_teach: true
 id: 2076
 strong_verb_declension: true

@@ -6,42 +6,58 @@ conjugation:
     no article:
       nominative: orð
       nominative_translation: word
-      nominative_sound: islex/164/164_26.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/164/164_26.mp3'
+      nominative_pronunciation: ɔrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: orð
-      accusative_sound: islex/164/164_26.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/164/164_26.mp3'
+      accusative_pronunciation: ɔrð
       dative: orði
+      dative_pronunciation: ɔrðɪ
       genitive: orðs
+      genitive_pronunciation: ɔrðs
     with article:
       nominative: orðið
       nominative_translation: the word
+      nominative_pronunciation: ɔrðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: orðið
+      accusative_pronunciation: ɔrðɪð
       dative: orðinu
+      dative_pronunciation: ɔrðɪnʏ
       genitive: orðsins
+      genitive_pronunciation: ɔrðsɪns
   plural:
     no article:
       nominative: orð
       nominative_translation: words
-      nominative_sound: islex/164/164_26.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/164/164_26.mp3'
+      nominative_pronunciation: ɔrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: orð
-      accusative_sound: islex/164/164_26.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/164/164_26.mp3'
+      accusative_pronunciation: ɔrð
       dative: orðum
+      dative_pronunciation: ɔrðʏm
       genitive: orða
-      genitive_sound: islex/030/030_29.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/030/030_29.mp3'
+      genitive_pronunciation: ɔrða
     with article:
       nominative: orðin
       nominative_translation: the words
+      nominative_pronunciation: ɔrðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: orðin
+      accusative_pronunciation: ɔrðɪn
       dative: orðunum
+      dative_pronunciation: ɔrðɔnʏm
       genitive: orðanna
+      genitive_pronunciation: ɔrðana
 id: 1473
 gender: neuter

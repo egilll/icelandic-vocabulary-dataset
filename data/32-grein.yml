@@ -6,49 +6,65 @@ conjugation:
     no article:
       nominative: grein
       nominative_translation: an article
-      nominative_sound: islex/039/039_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/039/039_45.mp3'
+      nominative_pronunciation: kreiːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: grein
-      accusative_sound: islex/039/039_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/039/039_45.mp3'
+      accusative_pronunciation: kreiːn
       dative: grein
-      dative_sound: islex/039/039_45.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/039/039_45.mp3'
+      dative_pronunciation: kreiːn
       genitive: greinar
+      genitive_pronunciation: kreiːnar
     with article:
       nominative: greinin
       nominative_translation: the article
+      nominative_pronunciation: kreiːnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: greinina
+      accusative_pronunciation: kreiːnɪna
       dative: greininni
+      dative_pronunciation: kreiːnɪnɪ
       genitive: greinarinnar
+      genitive_pronunciation: kreiːnarɪnar
   plural:
     no article:
       nominative: greinar
       nominative_translation: articles
+      nominative_pronunciation: kreiːnar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_alternative:
         - greinir
       accusative: greinar
+      accusative_pronunciation: kreiːnar
       accusative_alternative:
         - greinir
       dative: greinum
+      dative_pronunciation: kreiːnʏm
       genitive: greina
-      genitive_sound: islex/451/451_24.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/451/451_24.mp3'
+      genitive_pronunciation: kreiːna
     with article:
       nominative: greinarnar
       nominative_translation: the articles
+      nominative_pronunciation: kreiːnatnar
       nominative_teach: true
       nominative_teachtable: true
       nominative_alternative:
         - greinirnar
       accusative: greinarnar
+      accusative_pronunciation: kreiːnatnar
       accusative_alternative:
         - greinirnar
       dative: greinunum
+      dative_pronunciation: kreiːnɔnʏm
       genitive: greinanna
+      genitive_pronunciation: krɛːjnana
 id: 1047
 gender: feminine

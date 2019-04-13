@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] strauja'
     infinitive_translation: to iron clothes
-    infinitive_sound: islex/301/301_72.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/301/301_72.mp3'
+    infinitive_pronunciation: strœija
     infinitive_teach: true
     indicative:
       past:

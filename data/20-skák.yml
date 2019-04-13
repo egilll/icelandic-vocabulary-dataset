@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: skák
       nominative_translation: chess
-      nominative_sound: islex/034/034_47.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/034/034_47.mp3'
+      nominative_pronunciation: skauːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: skákin
       nominative_translation: the chess
+      nominative_pronunciation: skauːcɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1632

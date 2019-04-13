@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: sjúkrabíll
       nominative_translation: an ambulance
-      nominative_sound: islex/361/361_46.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/361/361_46.mp3'
+      nominative_pronunciation: sjuːkrapitl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: sjúkrabíllinn
       nominative_translation: the ambulance
+      nominative_pronunciation: sjuːkrapitlɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1627

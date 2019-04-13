@@ -6,11 +6,15 @@ conjugation:
     with article:
       nominative: fjandinn
       nominative_translation: the devil
+      nominative_pronunciation: fjantɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjandann
+      accusative_pronunciation: fjantan
       dative: fjandanum
+      dative_pronunciation: fjantanʏm
       genitive: fjandans
-      genitive_sound: islex/349/349_32.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/349/349_32.mp3'
+      genitive_pronunciation: fjantans
 id: 947
 gender: masculine

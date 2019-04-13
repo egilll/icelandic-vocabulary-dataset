@@ -6,7 +6,7 @@ conjugation:
     no article:
       nominative: haglél
       nominative_translation: hailstorm
-      nominative_sound: islex/320/320_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/320/320_99.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

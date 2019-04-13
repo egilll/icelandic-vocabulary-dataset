@@ -6,12 +6,16 @@ conjugation:
     no article:
       nominative: mamma
       nominative_translation: mom
-      nominative_sound: islex/298/298_55.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/298/298_55.mp3'
+      nominative_pronunciation: mama
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: mömmu
+      accusative_pronunciation: mœmʏ
       dative: mömmu
+      dative_pronunciation: mœmʏ
       genitive: mömmu
+      genitive_pronunciation: mœmʏ
 id: 1379
 gender: feminine

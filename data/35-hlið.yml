@@ -6,19 +6,27 @@ conjugation:
     with article:
       nominative: hliðin
       nominative_translation: the side
+      nominative_pronunciation: l̥ɪːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hliðina
+      accusative_pronunciation: l̥ɪːðɪna
       dative: hliðinni
+      dative_pronunciation: l̥ɪːðɪnɪ
       genitive: hliðarinnar
+      genitive_pronunciation: <span class="guessed">l̥ɪːðarɪnar</span>
   plural:
     with article:
       nominative: hliðarnar
       nominative_translation: the sides
+      nominative_pronunciation: l̥ɪːðatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: hliðarnar
+      accusative_pronunciation: l̥ɪːðatnar
       dative: hliðunum
+      dative_pronunciation: l̥ɪːðɔnʏm
       genitive: hliðanna
+      genitive_pronunciation: l̥ɪːðana
 id: 1135
 gender: feminine

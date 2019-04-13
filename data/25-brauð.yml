@@ -6,34 +6,44 @@ conjugation:
     no article:
       nominative: brauð
       nominative_translation: bread
-      nominative_sound: islex/281/281_53.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/281/281_53.mp3'
+      nominative_pronunciation: prœiːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: brauð
-      accusative_sound: islex/281/281_53.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/281/281_53.mp3'
+      accusative_pronunciation: prœiːð
       dative: brauði
+      dative_pronunciation: prœiːðɪ
       genitive: brauðs
     with article:
       nominative: brauðið
       nominative_translation: the bread
+      nominative_pronunciation: prœiːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: brauðið
+      accusative_pronunciation: prœiːðɪð
       dative: brauðinu
+      dative_pronunciation: prœjðɪnʏ
       genitive: brauðsins
   plural:
     no article:
       nominative: brauð
       nominative_translation: breads
-      nominative_sound: islex/281/281_53.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/281/281_53.mp3'
+      nominative_pronunciation: prœiːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: brauð
-      accusative_sound: islex/281/281_53.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/281/281_53.mp3'
+      accusative_pronunciation: prœiːð
       dative: brauðum
+      dative_pronunciation: <span class="guessed">prœiːðʏm</span>
       genitive: brauða
+      genitive_pronunciation: <span class="guessed">prœiːðaː</span>
     with article:
       nominative: brauðin
       nominative_translation: the breads
@@ -42,5 +52,6 @@ conjugation:
       accusative: brauðin
       dative: brauðunum
       genitive: brauðanna
+      genitive_pronunciation: <span class="guessed">prœiːðana</span>
 id: 843
 gender: neuter

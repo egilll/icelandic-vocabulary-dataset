@@ -6,14 +6,16 @@ conjugation:
     no article:
       nominative: far
       nominative_translation: a ride
-      nominative_sound: islex/126/126_52.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/126/126_52.mp3'
+      nominative_pronunciation: faːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: farið
       nominative_translation: the ride
-      nominative_sound: islex/307/307_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/307/307_23.mp3'
+      nominative_pronunciation: faːrɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 929

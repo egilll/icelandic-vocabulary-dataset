@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: peningar
       nominative_translation: money
-      nominative_sound: islex/280/280_76.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/280/280_76.mp3'
+      nominative_pronunciation: pʰɛːniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: peninga
+      accusative_pronunciation: pʰɛːniŋka
       dative: peningum
+      dative_pronunciation: pʰɛːniŋkʏm
       genitive: peninga
+      genitive_pronunciation: pʰɛːniŋka
     with article:
       nominative: peningarnir
       nominative_translation: the money
+      nominative_pronunciation: pʰɛːniŋkatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: peningana
+      accusative_pronunciation: pʰɛːniŋkana
       dative: peningunum
+      dative_pronunciation: pʰɛːniŋkɔnʏm
       genitive: peninganna
+      genitive_pronunciation: pʰɛːniŋkana
 id: 1492
 gender: masculine

@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: hurð
       nominative_translation: a door
-      nominative_sound: islex/482/482_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/482/482_96.mp3'
+      nominative_pronunciation: hʏrð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hurð
-      accusative_sound: islex/482/482_96.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/482/482_96.mp3'
+      accusative_pronunciation: hʏrð
       dative: hurð
-      dative_sound: islex/482/482_96.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/482/482_96.mp3'
+      dative_pronunciation: hʏrð
       genitive: hurðar
+      genitive_pronunciation: hʏrðar
     with article:
       nominative: hurðin
       nominative_translation: the door
+      nominative_pronunciation: hʏrðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hurðina
+      accusative_pronunciation: hʏrðɪna
       dative: hurðinni
+      dative_pronunciation: hʏrðɪnɪ
       genitive: hurðarinnar
+      genitive_pronunciation: <span class="guessed">hʏrðarɪnar</span>
 id: 1177
 gender: feminine

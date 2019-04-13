@@ -6,43 +6,59 @@ conjugation:
     no article:
       nominative: tími
       nominative_translation: time; an hour; a class
-      nominative_sound: islex/056/056_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/056/056_71.mp3'
+      nominative_pronunciation: tʰiːmɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tíma
-      accusative_sound: islex/097/097_65.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/097/097_65.mp3'
+      accusative_pronunciation: tʰiːma
       dative: tíma
-      dative_sound: islex/097/097_65.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/097/097_65.mp3'
+      dative_pronunciation: tʰiːma
       genitive: tíma
-      genitive_sound: islex/097/097_65.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/097/097_65.mp3'
+      genitive_pronunciation: tʰiːma
     with article:
       nominative: tíminn
       nominative_translation: the time; the hour; the class
+      nominative_pronunciation: tʰiːmɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: tímann
+      accusative_pronunciation: tʰiːman
       dative: tímanum
+      dative_pronunciation: tʰiːmanʏm
       genitive: tímans
+      genitive_pronunciation: tʰiːmans
   plural:
     no article:
       nominative: tímar
       nominative_translation: hours; classes
+      nominative_pronunciation: tʰiːmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tíma
-      accusative_sound: islex/097/097_65.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/097/097_65.mp3'
+      accusative_pronunciation: tʰiːma
       dative: tímum
+      dative_pronunciation: tʰiːmʏm
       genitive: tíma
-      genitive_sound: islex/097/097_65.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/097/097_65.mp3'
+      genitive_pronunciation: tʰiːma
     with article:
       nominative: tímarnir
       nominative_translation: the hours; the classes
+      nominative_pronunciation: tʰiːmatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: tímana
+      accusative_pronunciation: tʰiːmana
       dative: tímunum
+      dative_pronunciation: tʰiːmɔnʏm
       genitive: tímanna
+      genitive_pronunciation: tʰiːmana
 id: 1835
 gender: masculine

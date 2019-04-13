@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: skjöl
       nominative_translation: documents
+      nominative_pronunciation: scœːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: skjölin
       nominative_translation: the documents
+      nominative_pronunciation: scœːlɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1651

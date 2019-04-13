@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: kreditkort
       nominative_translation: a creditcard
-      nominative_sound: islex/146/146_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/146/146_66.mp3'
+      nominative_pronunciation: kʰrɛːtitkɔr̥t
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kreditkort
-      accusative_sound: islex/146/146_66.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/146/146_66.mp3'
+      accusative_pronunciation: kʰrɛːtitkɔr̥t
       dative: kreditkorti
+      dative_pronunciation: kʰrɛːtitkɔr̥tɪ
       genitive: kreditkorts
     with article:
       nominative: kreditkortið
       nominative_translation: the creditcard
+      nominative_pronunciation: <span class="guessed">kʰrɛːtɪtkʰɔr̥tɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: kreditkortið
+      accusative_pronunciation: <span class="guessed">kʰrɛːtɪtkʰɔr̥tɪð</span>
       dative: kreditkortinu
+      dative_pronunciation: <span class="guessed">kʰrɛːtɪtkʰɔr̥tɪnʏ</span>
       genitive: kreditkortsins
+      genitive_pronunciation: <span class="guessed">kʰrɛːtɪtkʰɔr̥tsɪns</span>
 id: 1269
 gender: neuter
 recognizable: '1'

@@ -1,5 +1,7 @@
 word: bless
 word_translation: Goodbye
+word_sound: 'https://media.egill.xyz/audio/islex/384/384_36.mp3'
+word_pronunciation: plɛs
 word_teach: true
 level: 2
 grammatical_category: phrase

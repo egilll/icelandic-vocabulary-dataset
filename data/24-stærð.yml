@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: stærð
       nominative_translation: a size
-      nominative_sound: islex/415/415_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/415/415_23.mp3'
+      nominative_pronunciation: stairð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: stærðin
       nominative_translation: the size
+      nominative_pronunciation: stairðɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1730

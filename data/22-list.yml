@@ -6,18 +6,23 @@ conjugation:
     no article:
       nominative: list
       nominative_translation: art
-      nominative_sound: islex/037/037_86.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/037/037_86.mp3'
+      nominative_pronunciation: lɪst
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: list
-      accusative_sound: islex/037/037_86.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/037/037_86.mp3'
+      accusative_pronunciation: lɪst
       dative: list
-      dative_sound: islex/037/037_86.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/037/037_86.mp3'
+      dative_pronunciation: lɪst
       genitive: listar
+      genitive_pronunciation: lɪstar
     with article:
       nominative: listin
       nominative_translation: the art
+      nominative_pronunciation: lɪstɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1332

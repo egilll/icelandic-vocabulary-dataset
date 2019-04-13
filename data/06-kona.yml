@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: kona
       nominative_translation: a woman
-      nominative_sound: islex/051/051_61.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/051/051_61.mp3'
+      nominative_pronunciation: kʰɔːna
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: konu
+      accusative_pronunciation: kʰɔːnʏ
       dative: konu
+      dative_pronunciation: kʰɔːnʏ
       genitive: konu
+      genitive_pronunciation: kʰɔːnʏ
     with article:
       nominative: konan
       nominative_translation: the woman
+      nominative_pronunciation: kʰɔːnan
       nominative_teach: true
       nominative_teachtable: true
       accusative: konuna
+      accusative_pronunciation: kʰɔːnʏna
       dative: konunni
+      dative_pronunciation: kʰɔːnʏnɪ
       genitive: konunnar
+      genitive_pronunciation: kʰɔːnʏnar
   plural:
     no article:
       nominative: konur
       nominative_translation: women
+      nominative_pronunciation: kʰɔːnʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: konur
+      accusative_pronunciation: kʰɔːnʏr
       dative: konum
+      dative_pronunciation: kʰɔːnʏm
       genitive: kvenna
-      genitive_sound: islex/073/073_43.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/073/073_43.mp3'
+      genitive_pronunciation: kʰvɛna
     with article:
       nominative: konurnar
       nominative_translation: the women
+      nominative_pronunciation: kʰɔːnʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: konurnar
+      accusative_pronunciation: kʰɔːnʏtnar
       dative: konunum
+      dative_pronunciation: kʰɔːnɔnʏm
       genitive: kvennanna
+      genitive_pronunciation: kʰvɛnana
 id: 1257
 gender: feminine

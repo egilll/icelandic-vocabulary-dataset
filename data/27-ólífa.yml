@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: ólífur
       nominative_translation: olives
+      nominative_pronunciation: ouːlivʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ólífur
+      accusative_pronunciation: ouːlivʏr
       dative: ólífum
+      dative_pronunciation: ouːlivʏm
       genitive: ólífa
-      genitive_sound: islex/280/280_38.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/280/280_38.mp3'
+      genitive_pronunciation: <span class="guessed">ouːliːvaː</span>
     with article:
       nominative: ólífurnar
       nominative_translation: the olives
+      nominative_pronunciation: ouːlivʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: ólífurnar
+      accusative_pronunciation: ouːlivʏtnar
       dative: ólífunum
       genitive: ólífanna
+      genitive_pronunciation: <span class="guessed">ouːliːvana</span>
 id: 1468
 gender: feminine

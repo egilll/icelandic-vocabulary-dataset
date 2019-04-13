@@ -10,6 +10,8 @@ conjugation:
       nominative_teachtable: true
       accusative: pilluna
       dative: pillunni
+      dative_pronunciation: pʰɪlʏnɪ
       genitive: pillunnar
+      genitive_pronunciation: pʰɪlʏnar
 id: 1499
 gender: feminine

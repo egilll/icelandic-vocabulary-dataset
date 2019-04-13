@@ -6,42 +6,58 @@ conjugation:
     no article:
       nominative: fyrirtæki
       nominative_translation: a company
-      nominative_sound: islex/477/477_16.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/477/477_16.mp3'
+      nominative_pronunciation: fɪːrɪrtʰaiːcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fyrirtæki
-      accusative_sound: islex/477/477_16.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/477/477_16.mp3'
+      accusative_pronunciation: fɪːrɪrtʰaiːcɪ
       dative: fyrirtæki
-      dative_sound: islex/477/477_16.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/477/477_16.mp3'
+      dative_pronunciation: fɪːrɪrtʰaiːcɪ
       genitive: fyrirtækis
+      genitive_pronunciation: fɪːrɪrtʰaiːcɪs
     with article:
       nominative: fyrirtækið
       nominative_translation: the company
+      nominative_pronunciation: fɪːrɪrtʰaiːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: fyrirtækið
+      accusative_pronunciation: fɪːrɪrtʰaiːcɪð
       dative: fyrirtækinu
+      dative_pronunciation: fɪːrɪrtʰaiːcɪnʏ
       genitive: fyrirtækisins
+      genitive_pronunciation: fɪːrɪrtʰaiːcɪsɪns
   plural:
     no article:
       nominative: fyrirtæki
       nominative_translation: companies
-      nominative_sound: islex/477/477_16.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/477/477_16.mp3'
+      nominative_pronunciation: fɪːrɪrtʰaiːcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fyrirtæki
-      accusative_sound: islex/477/477_16.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/477/477_16.mp3'
+      accusative_pronunciation: fɪːrɪrtʰaiːcɪ
       dative: fyrirtækjum
+      dative_pronunciation: fɪːrɪrtʰaiːcʏm
       genitive: fyrirtækja
+      genitive_pronunciation: fɪːrɪrtʰaiːca
     with article:
       nominative: fyrirtækin
       nominative_translation: the companies
+      nominative_pronunciation: fɪːrɪrtʰaiːcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fyrirtækin
+      accusative_pronunciation: fɪːrɪrtʰaiːcɪn
       dative: fyrirtækjunum
+      dative_pronunciation: fɪːrɪrtʰaiːcɔnʏm
       genitive: fyrirtækjanna
+      genitive_pronunciation: fɪːrɪrtʰaiːcana
 id: 1001
 gender: neuter

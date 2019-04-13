@@ -5,78 +5,94 @@ conjugation:
   active voice:
     infinitive: '[að] velja'
     infinitive_translation: to choose
-    infinitive_sound: islex/390/390_75.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/390/390_75.mp3'
+    infinitive_pronunciation: vɛlja
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] vel'
           1st person_translation: I choose
-          1st person_sound: islex/281/281_74.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/281/281_74.mp3'
+          1st person_pronunciation: vɛːl
           1st person_teach: true
           2nd person: '[þú] velur'
           2nd person_translation: you¹ choose
+          2nd person_pronunciation: vɛːlʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] velur'
           3rd person_translation: he/she/it chooses
+          3rd person_pronunciation: vɛːlʏr
           3rd person_teach: true
         plural:
           1st person: '[við] veljum'
           1st person_translation: we choose
+          1st person_pronunciation: vɛljʏm
           1st person_teach: true
           2nd person: '[þið] veljið'
           2nd person_translation: you² choose
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] velja'
           3rd person_translation: they choose
-          3rd person_sound: islex/390/390_75.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/390/390_75.mp3'
+          3rd person_pronunciation: vɛlja
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] valdi'
           1st person_translation: I chose
+          1st person_pronunciation: valtɪ
           1st person_teach: true
           2nd person: '[þú] valdir'
           2nd person_translation: you¹ chose
+          2nd person_pronunciation: valtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] valdi'
           3rd person_translation: he/she/it chose
+          3rd person_pronunciation: valtɪ
           3rd person_teach: true
         plural:
           1st person: '[við] völdum'
           1st person_translation: we chose
+          1st person_pronunciation: vœltʏm
           1st person_teach: true
           2nd person: '[þið] völduð'
           2nd person_translation: you² chose
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] völdu'
           3rd person_translation: they chose
+          3rd person_pronunciation: vœltʏ
           3rd person_teach: true
     subjunctive:
       present:
         singular:
           1st person: '[ég held að] [ég] velji'
           1st person_translation: I think I choose
+          1st person_pronunciation: vɛljɪ
           1st person_teach: true
           2nd person: '[ég held að] [þú] veljir'
           2nd person_translation: I think you¹ choose
           2nd person_teach: true
           3rd person: '[ég held að] [hann/hún/það] velji'
           3rd person_translation: I think he/she/it chooses
+          3rd person_pronunciation: vɛljɪ
           3rd person_teach: true
         plural:
           1st person: '[ég held að] [við] veljum'
           1st person_translation: I think we choose
+          1st person_pronunciation: vɛljʏm
           1st person_teach: true
           2nd person: '[ég held að] [þið] veljið'
           2nd person_translation: I think you² choose
           2nd person_teach: true
           3rd person: '[ég held að] [þeir/þær/þau] velji'
           3rd person_translation: I think they choose
+          3rd person_pronunciation: vɛljɪ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] valið'
     active voice_translation: I have chosen
+    active voice_pronunciation: vaːlɪð
     active voice_teach: true
   imperative:
     active voice:

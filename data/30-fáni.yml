@@ -6,36 +6,47 @@ conjugation:
     no article:
       nominative: fáni
       nominative_translation: a flag
-      nominative_sound: islex/042/042_95.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/042/042_95.mp3'
+      nominative_pronunciation: fauːnɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fána
-      accusative_sound: islex/290/290_56.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/290/290_56.mp3'
+      accusative_pronunciation: fauːna
       dative: fána
-      dative_sound: islex/290/290_56.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/290/290_56.mp3'
+      dative_pronunciation: fauːna
       genitive: fána
-      genitive_sound: islex/290/290_56.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/290/290_56.mp3'
+      genitive_pronunciation: fauːna
     with article:
       nominative: fáninn
       nominative_translation: the flag
+      nominative_pronunciation: fauːnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fánann
+      accusative_pronunciation: fauːnan
       dative: fánanum
+      dative_pronunciation: fauːnanʏm
       genitive: fánans
   plural:
     no article:
       nominative: fánar
       nominative_translation: flags
+      nominative_pronunciation: fauːnar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fána
-      accusative_sound: islex/290/290_56.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/290/290_56.mp3'
+      accusative_pronunciation: fauːna
       dative: fánum
+      dative_pronunciation: fauːnʏm
       genitive: fána
-      genitive_sound: islex/290/290_56.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/290/290_56.mp3'
+      genitive_pronunciation: fauːna
     with article:
       nominative: fánarnir
       nominative_translation: the flags
@@ -44,5 +55,6 @@ conjugation:
       accusative: fánana
       dative: fánunum
       genitive: fánanna
+      genitive_pronunciation: <span class="guessed">fauːnana</span>
 id: 928
 gender: masculine

@@ -6,30 +6,42 @@ conjugation:
     no article:
       nominative: ljós
       nominative_translation: a light
-      nominative_sound: islex/121/121_51.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/121/121_51.mp3'
+      nominative_pronunciation: ljouːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ljós
-      accusative_sound: islex/121/121_51.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/121/121_51.mp3'
+      accusative_pronunciation: ljouːs
       dative: ljósi
+      dative_pronunciation: ljouːsɪ
       genitive: ljóss
+      genitive_pronunciation: ljous
     with article:
       nominative: ljósið
       nominative_translation: the light
+      nominative_pronunciation: ljouːsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: ljósið
+      accusative_pronunciation: ljouːsɪð
       dative: ljósinu
+      dative_pronunciation: ljouːsɪnʏ
       genitive: ljóssins
+      genitive_pronunciation: ljousɪns
   plural:
     with article:
       nominative: ljósin
       nominative_translation: the lights
+      nominative_pronunciation: ljouːsɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ljósin
+      accusative_pronunciation: ljouːsɪn
       dative: ljósunum
+      dative_pronunciation: ljouːsɔnʏm
       genitive: ljósanna
+      genitive_pronunciation: ljouːsana
 id: 1341
 gender: neuter

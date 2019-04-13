@@ -6,23 +6,31 @@ conjugation:
     no article:
       nominative: tónlist
       nominative_translation: music
-      nominative_sound: islex/407/407_87.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/407/407_87.mp3'
+      nominative_pronunciation: tʰounlɪst
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: tone-art
       accusative: tónlist
-      accusative_sound: islex/407/407_87.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/407/407_87.mp3'
+      accusative_pronunciation: tʰounlɪst
       dative: tónlist
-      dative_sound: islex/407/407_87.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/407/407_87.mp3'
+      dative_pronunciation: tʰounlɪst
       genitive: tónlistar
+      genitive_pronunciation: tʰounlɪstar
     with article:
       nominative: tónlistin
       nominative_translation: the music
+      nominative_pronunciation: tʰounlɪstɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: tónlistina
+      accusative_pronunciation: tʰounlɪstɪna
       dative: tónlistinni
+      dative_pronunciation: tʰounlɪstɪnɪ
       genitive: tónlistarinnar
+      genitive_pronunciation: tʰounlɪstarɪnar
 id: 1845
 gender: feminine

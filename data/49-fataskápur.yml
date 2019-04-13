@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: fataskápur
       nominative_translation: a wardrobe
-      nominative_sound: islex/370/370_82.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/370/370_82.mp3'
+      nominative_pronunciation: <span class="guessed">faːtaskauːpʏr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: fataskápurinn
       nominative_translation: the wardrobe
+      nominative_pronunciation: <span class="guessed">faːtaskauːpʏrɪn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 931

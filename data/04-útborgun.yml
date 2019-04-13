@@ -6,15 +6,19 @@ conjugation:
     no article:
       nominative: útborgun
       nominative_translation: payment of wages
-      nominative_sound: islex/102/102_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/102/102_20.mp3'
+      nominative_pronunciation: uːtpɔrkʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: útborgun
-      accusative_sound: islex/102/102_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/102/102_20.mp3'
+      accusative_pronunciation: uːtpɔrkʏn
       dative: útborgun
-      dative_sound: islex/102/102_20.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/102/102_20.mp3'
+      dative_pronunciation: uːtpɔrkʏn
       genitive: útborgunar
+      genitive_pronunciation: uːtpɔrkʏnar
     with article:
       nominative: útborgunin
       nominative_translation: the payment of wages
@@ -22,6 +26,8 @@ conjugation:
       nominative_teachtable: true
       accusative: útborgunina
       dative: útborguninni
+      dative_pronunciation: <span class="guessed">uːtpɔrkʏnɪnɪ</span>
       genitive: útborgunarinnar
+      genitive_pronunciation: <span class="guessed">uːtpɔrkʏnarɪnar</span>
 id: 1877
 gender: feminine

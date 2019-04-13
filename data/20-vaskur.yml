@@ -6,20 +6,25 @@ conjugation:
     no article:
       nominative: vaskur
       nominative_translation: a sink
-      nominative_sound: islex/027/027_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/027/027_10.mp3'
+      nominative_pronunciation: vaskʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vask
       dative: vaski
+      dative_pronunciation: vascɪ
       genitive: vasks
     with article:
       nominative: vaskurinn
       nominative_translation: the sink
+      nominative_pronunciation: <span class="guessed">vaskʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: vaskinn
+      accusative_pronunciation: vascɪn
       dative: vaskinum
+      dative_pronunciation: vascɪnʏm
       genitive: vasksins
 id: 1894
 gender: masculine

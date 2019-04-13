@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: aldur
       nominative_translation: an age
-      nominative_sound: islex/231/231_73.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/231/231_73.mp3'
+      nominative_pronunciation: altʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: aldur
-      accusative_sound: islex/231/231_73.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/231/231_73.mp3'
+      accusative_pronunciation: altʏr
       dative: aldri
+      dative_pronunciation: altrɪ
       genitive: aldurs
+      genitive_pronunciation: altʏr̥s
     with article:
       nominative: aldurinn
       nominative_translation: the age
+      nominative_pronunciation: altʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: aldurinn
+      accusative_pronunciation: altʏrɪn
       dative: aldrinum
+      dative_pronunciation: altrɪnʏm
       genitive: aldursins
 id: 716
 gender: masculine

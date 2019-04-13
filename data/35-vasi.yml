@@ -6,38 +6,51 @@ conjugation:
     no article:
       nominative: vasi
       nominative_translation: a pocket; a vase
-      nominative_sound: islex/090/090_50.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/090/090_50.mp3'
+      nominative_pronunciation: vaːsɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vasa
+      accusative_pronunciation: vaːsa
       dative: vasa
+      dative_pronunciation: vaːsa
       genitive: vasa
+      genitive_pronunciation: vaːsa
     with article:
       nominative: vasinn
       nominative_translation: the pocket; the vase
       nominative_teach: true
       nominative_teachtable: true
       accusative: vasann
+      accusative_pronunciation: vaːsan
       dative: vasanum
+      dative_pronunciation: vaːsanʏm
       genitive: vasans
   plural:
     no article:
       nominative: vasar
       nominative_translation: pockets; vases
+      nominative_pronunciation: vaːsar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vasa
+      accusative_pronunciation: vaːsa
       dative: vösum
+      dative_pronunciation: vœːsʏm
       genitive: vasa
+      genitive_pronunciation: vaːsa
     with article:
       nominative: vasarnir
       nominative_translation: the pockets; the vases
       nominative_teach: true
       nominative_teachtable: true
       accusative: vasana
+      accusative_pronunciation: vaːsana
       dative: vösunum
+      dative_pronunciation: vœːsɔnʏm
       genitive: vasanna
+      genitive_pronunciation: <span class="guessed">vaːsanaː</span>
 id: 1893
 gender: masculine

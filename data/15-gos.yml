@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: gos
       nominative_translation: 'soda, soft drink'
-      nominative_sound: islex/153/153_28.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/153/153_28.mp3'
+      nominative_pronunciation: kɔːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gos
-      accusative_sound: islex/153/153_28.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/153/153_28.mp3'
+      accusative_pronunciation: kɔːs
       dative: gosi
-      dative_sound: islex/113/113_16.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/113/113_16.mp3'
+      dative_pronunciation: kɔːsɪ
       genitive: goss
+      genitive_pronunciation: kɔs
     with article:
       nominative: gosið
       nominative_translation: 'the soda, the soft drink'
+      nominative_pronunciation: kɔːsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: gosið
+      accusative_pronunciation: kɔːsɪð
       dative: gosinu
+      dative_pronunciation: kɔːsɪnʏ
       genitive: gossins
 id: 1039
 gender: neuter

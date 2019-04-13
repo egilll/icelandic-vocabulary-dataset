@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: bragð
       nominative_translation: a taste
-      nominative_sound: islex/477/477_45.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/477/477_45.mp3'
+      nominative_pronunciation: praɣð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bragð
-      accusative_sound: islex/477/477_45.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/477/477_45.mp3'
+      accusative_pronunciation: praɣð
       dative: bragði
+      dative_pronunciation: praɣðɪ
       genitive: bragðs
+      genitive_pronunciation: praɣðs
     with article:
       nominative: bragðið
       nominative_translation: the taste
+      nominative_pronunciation: praɣðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: bragðið
+      accusative_pronunciation: praɣðɪð
       dative: bragðinu
+      dative_pronunciation: praɣðɪnʏ
       genitive: bragðsins
 id: 841
 gender: neuter

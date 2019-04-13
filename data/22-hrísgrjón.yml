@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: hrísgrjón
       nominative_translation: rice
-      nominative_sound: islex/250/250_05.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/250/250_05.mp3'
+      nominative_pronunciation: r̥iːskrjoun
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

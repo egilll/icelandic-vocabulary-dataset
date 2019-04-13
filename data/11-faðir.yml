@@ -6,12 +6,16 @@ conjugation:
     no article:
       nominative: faðir
       nominative_translation: father
-      nominative_sound: islex/445/445_79.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/445/445_79.mp3'
+      nominative_pronunciation: faːðɪr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: föður
+      accusative_pronunciation: fœːðʏr
       dative: föður
+      dative_pronunciation: fœːðʏr
       genitive: föður
+      genitive_pronunciation: fœːðʏr
 id: 924
 gender: masculine

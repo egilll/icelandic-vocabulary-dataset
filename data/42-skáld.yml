@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: skáld
       nominative_translation: a poet
-      nominative_sound: islex/461/461_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/461/461_85.mp3'
+      nominative_pronunciation: skault
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: skáldið
       nominative_translation: the poet
+      nominative_pronunciation: skaultɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1634

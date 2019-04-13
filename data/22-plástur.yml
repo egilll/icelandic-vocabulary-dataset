@@ -6,20 +6,24 @@ conjugation:
     no article:
       nominative: plástur
       nominative_translation: 'a bandaid, a plaster'
-      nominative_sound: islex/080/080_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/080/080_24.mp3'
+      nominative_pronunciation: pʰlaustʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: plástur
-      accusative_sound: islex/080/080_24.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/080/080_24.mp3'
+      accusative_pronunciation: pʰlaustʏr
       dative: plástri
       genitive: plásturs
     with article:
       nominative: plásturinn
       nominative_translation: 'the bandaid, the plaster'
+      nominative_pronunciation: <span class="guessed">pʰlaustʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: plásturinn
+      accusative_pronunciation: <span class="guessed">pʰlaustʏrɪn</span>
       dative: plástrinum
       genitive: plástursins
 id: 1512

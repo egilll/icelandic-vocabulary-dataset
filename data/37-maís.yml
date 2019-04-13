@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: maís
       nominative_translation: 'corn, maize'
-      nominative_sound: islex/442/442_42.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/442/442_42.mp3'
+      nominative_pronunciation: maːis
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: maís
-      accusative_sound: islex/442/442_42.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/442/442_42.mp3'
+      accusative_pronunciation: maːis
       dative: maís
-      dative_sound: islex/442/442_42.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/442/442_42.mp3'
+      dative_pronunciation: maːis
       genitive: maíss
+      genitive_pronunciation: <span class="guessed">maiːɛs ɛs</span>
     with article:
       nominative: maísinn
       nominative_translation: 'the corn, the maize'
+      nominative_pronunciation: maːisɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: maísinn
+      accusative_pronunciation: maːisɪn
       dative: maísnum
       genitive: maíssins
 id: 1373

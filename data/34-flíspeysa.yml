@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: flíspeysa
       nominative_translation: a fleece sweater
-      nominative_sound: islex/206/206_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/206/206_41.mp3'
+      nominative_pronunciation: <span class="guessed">fliːspʰeiːsa</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flíspeysu
+      accusative_pronunciation: <span class="guessed">fliːspʰeiːsʏ</span>
       dative: flíspeysu
+      dative_pronunciation: <span class="guessed">fliːspʰeiːsʏ</span>
       genitive: flíspeysu
+      genitive_pronunciation: <span class="guessed">fliːspʰeiːsʏ</span>
     with article:
       nominative: flíspeysan
       nominative_translation: the fleece sweater
+      nominative_pronunciation: <span class="guessed">fliːspʰeiːsan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: flíspeysuna
+      accusative_pronunciation: <span class="guessed">fliːspʰeiːsʏna</span>
       dative: flíspeysunni
+      dative_pronunciation: <span class="guessed">fliːspʰeiːsʏnɪ</span>
       genitive: flíspeysunnar
 id: 959
 gender: feminine

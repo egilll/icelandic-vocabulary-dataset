@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: karl
       nominative_translation: 'a man, a male'
-      nominative_sound: islex/287/287_99.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/287/287_99.mp3'
+      nominative_pronunciation: kʰatl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: karl
-      accusative_sound: islex/287/287_99.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/287/287_99.mp3'
+      accusative_pronunciation: kʰatl
       dative: karli
+      dative_pronunciation: kʰatlɪ
       genitive: karls
+      genitive_pronunciation: kʰals
     with article:
       nominative: karlinn
       nominative_translation: 'the man, the male'
+      nominative_pronunciation: kʰatlɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: karlinn
+      accusative_pronunciation: kʰatlɪn
       dative: karlinum
+      dative_pronunciation: kʰatlɪnʏm
       genitive: karlsins
+      genitive_pronunciation: kʰalsɪns
   plural:
     no article:
       nominative: karlar
       nominative_translation: 'men, males'
+      nominative_pronunciation: kʰatlar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: karla
+      accusative_pronunciation: kʰatla
       dative: körlum
+      dative_pronunciation: kʰœtlʏm
       genitive: karla
+      genitive_pronunciation: kʰatla
     with article:
       nominative: karlarnir
       nominative_translation: 'the men, the males'
+      nominative_pronunciation: kʰatlatnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: karlana
+      accusative_pronunciation: kʰatlana
       dative: körlunum
+      dative_pronunciation: kʰœtlɔnʏm
       genitive: karlanna
+      genitive_pronunciation: kʰatlana
 id: 1222
 gender: masculine

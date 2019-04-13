@@ -6,33 +6,43 @@ conjugation:
     no article:
       nominative: tilviljun
       nominative_translation: a coincidence
-      nominative_sound: islex/181/181_92.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/181/181_92.mp3'
+      nominative_pronunciation: tʰɪlvɪljʏn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tilviljun
-      accusative_sound: islex/181/181_92.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/181/181_92.mp3'
+      accusative_pronunciation: tʰɪlvɪljʏn
       dative: tilviljun
-      dative_sound: islex/181/181_92.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/181/181_92.mp3'
+      dative_pronunciation: tʰɪlvɪljʏn
       genitive: tilviljunar
     with article:
       nominative: tilviljunin
       nominative_translation: the coincidence
+      nominative_pronunciation: tʰɪlvɪljʏnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: tilviljunina
+      accusative_pronunciation: <span class="guessed">tʰɪlvɪljʏnɪnaː</span>
       dative: tilviljuninni
+      dative_pronunciation: <span class="guessed">tʰɪlvɪljʏnɪnɪ</span>
       genitive: tilviljunarinnar
   plural:
     no article:
       nominative: tilviljanir
       nominative_translation: coincidences
+      nominative_pronunciation: tʰɪlvɪljanɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tilviljanir
+      accusative_pronunciation: tʰɪlvɪljanɪr
       dative: tilviljunum
+      dative_pronunciation: tʰɪlvɪljʏnʏm
       genitive: tilviljana
+      genitive_pronunciation: tʰɪlvɪljana
     with article:
       nominative: tilviljanirnar
       nominative_translation: the coincidences
@@ -41,5 +51,6 @@ conjugation:
       accusative: tilviljanirnar
       dative: tilviljununum
       genitive: tilviljananna
+      genitive_pronunciation: <span class="guessed">tʰɪːlvɪljanana</span>
 id: 1832
 gender: feminine

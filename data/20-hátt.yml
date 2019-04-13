@@ -1,5 +1,7 @@
 word: hátt
 word_translation: loud
+word_sound: 'https://media.egill.xyz/audio/islex/027/027_81.mp3'
+word_pronunciation: hauht
 word_teach: true
 level: 20
 grammatical_category: other

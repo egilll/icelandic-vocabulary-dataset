@@ -1,5 +1,7 @@
 word: kalla
 word_translation: to call
+word_sound: 'https://media.egill.xyz/audio/islex/095/095_64.mp3'
+word_pronunciation: kʰatla
 word_teach: true
 level: 25
 grammatical_category: verb

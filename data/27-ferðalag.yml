@@ -6,39 +6,55 @@ conjugation:
     no article:
       nominative: ferðalag
       nominative_translation: journey
-      nominative_sound: islex/012/012_62.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/012/012_62.mp3'
+      nominative_pronunciation: fɛrðalaːɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ferðalag
-      accusative_sound: islex/012/012_62.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/012/012_62.mp3'
+      accusative_pronunciation: fɛrðalaːɣ
       dative: ferðalagi
+      dative_pronunciation: fɛrðalaːjɪ
       genitive: ferðalags
+      genitive_pronunciation: <span class="guessed">fɛrðalaxs</span>
     with article:
       nominative: ferðalagið
       nominative_translation: the journey
+      nominative_pronunciation: fɛrðalaːjɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: ferðalagið
+      accusative_pronunciation: fɛrðalaːjɪð
       dative: ferðalaginu
+      dative_pronunciation: fɛrðalaːjɪnʏ
       genitive: ferðalagsins
+      genitive_pronunciation: fɛrðalaxsɪns
   plural:
     no article:
       nominative: ferðalög
       nominative_translation: journeys
+      nominative_pronunciation: fɛrðalœːɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ferðalög
+      accusative_pronunciation: fɛrðalœːɣ
       dative: ferðalögum
+      dative_pronunciation: fɛrðalœːɣʏm
       genitive: ferðalaga
+      genitive_pronunciation: fɛrðalaːɣa
     with article:
       nominative: ferðalögin
       nominative_translation: the journeys
+      nominative_pronunciation: fɛrðalœiɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ferðalögin
+      accusative_pronunciation: fɛrðalœiɪn
       dative: ferðalögunum
+      dative_pronunciation: <span class="guessed">fɛrðalœːɣɔnʏm</span>
       genitive: ferðalaganna
+      genitive_pronunciation: <span class="guessed">fɛrðalaːɣana</span>
 id: 938
 gender: neuter

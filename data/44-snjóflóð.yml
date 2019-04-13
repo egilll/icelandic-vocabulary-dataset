@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: snjóflóð
       nominative_translation: an avalanche
-      nominative_sound: islex/033/033_08.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/033/033_08.mp3'
+      nominative_pronunciation: stnjouːflouð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snjóflóð
-      accusative_sound: islex/033/033_08.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/033/033_08.mp3'
+      accusative_pronunciation: stnjouːflouð
       dative: snjóflóði
+      dative_pronunciation: <span class="guessed">stnjouːflouːðɪ</span>
       genitive: snjóflóðs
     with article:
       nominative: snjóflóðið
       nominative_translation: the avalanche
+      nominative_pronunciation: <span class="guessed">stnjouːflouːðɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: snjóflóðið
+      accusative_pronunciation: <span class="guessed">stnjouːflouːðɪð</span>
       dative: snjóflóðinu
+      dative_pronunciation: <span class="guessed">stnjouːflouðɪːnʏ</span>
       genitive: snjóflóðsins
 id: 1694
 gender: neuter

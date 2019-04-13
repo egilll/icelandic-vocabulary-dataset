@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: vatn
       nominative_translation: water
-      nominative_sound: islex/079/079_06.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/079/079_06.mp3'
+      nominative_pronunciation: vahtn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vatn
-      accusative_sound: islex/079/079_06.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/079/079_06.mp3'
+      accusative_pronunciation: vahtn̥
       dative: vatni
+      dative_pronunciation: vahtnɪ
       genitive: vatns
+      genitive_pronunciation: vas
     with article:
       nominative: vatnið
       nominative_translation: the water
+      nominative_pronunciation: vahtnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: vatnið
+      accusative_pronunciation: vahtnɪð
       dative: vatninu
+      dative_pronunciation: vahtnɪnʏ
       genitive: vatnsins
+      genitive_pronunciation: vasɪns
 id: 1895
 gender: neuter

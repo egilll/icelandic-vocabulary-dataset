@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: auli
       nominative_translation: 'dummy, fool'
-      nominative_sound: islex/204/204_41.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/204/204_41.mp3'
+      nominative_pronunciation: œiːlɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: aula
+      accusative_pronunciation: <span class="guessed">œjlaː</span>
       dative: aula
+      dative_pronunciation: <span class="guessed">œjlaː</span>
       genitive: aula
+      genitive_pronunciation: <span class="guessed">œjlaː</span>
     with article:
       nominative: aulinn
       nominative_translation: 'the dummy, the fool'

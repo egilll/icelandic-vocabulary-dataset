@@ -6,38 +6,52 @@ conjugation:
     no article:
       nominative: mánuður
       nominative_translation: a month
-      nominative_sound: islex/342/342_09.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/342/342_09.mp3'
+      nominative_pronunciation: mauːnʏðʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mánuð
+      accusative_pronunciation: mauːnʏð
       dative: mánuði
+      dative_pronunciation: mauːnʏðɪ
       genitive: mánaðar
+      genitive_pronunciation: mauːnaðar
     with article:
       nominative: mánuðurinn
       nominative_translation: the month
+      nominative_pronunciation: <span class="guessed">mauːnʏðʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: mánuðinn
+      accusative_pronunciation: mauːnʏðɪn
       dative: mánuðinum
+      dative_pronunciation: mauːnʏðɪnʏm
       genitive: mánaðarins
+      genitive_pronunciation: mauːnaðarɪns
   plural:
     no article:
       nominative: mánuðir
       nominative_translation: months
+      nominative_pronunciation: mauːnʏðɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mánuði
+      accusative_pronunciation: mauːnʏðɪ
       dative: mánuðum
+      dative_pronunciation: mauːnʏðUm
       genitive: mánaða
+      genitive_pronunciation: mauːnaða
     with article:
       nominative: mánuðirnir
       nominative_translation: the months
       nominative_teach: true
       nominative_teachtable: true
       accusative: mánuðina
+      accusative_pronunciation: mauːnʏðɪna
       dative: mánuðunum
+      dative_pronunciation: mauːnʏðɔnʏm
       genitive: mánaðanna
 id: 1382
 gender: masculine

@@ -5,78 +5,97 @@ conjugation:
   active voice:
     infinitive: '[að] mega'
     infinitive_translation: to be allowed to
-    infinitive_sound: islex/454/454_07.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/454/454_07.mp3'
+    infinitive_pronunciation: mɛːka
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] má'
           1st person_translation: I am allowed to
-          1st person_sound: islex/155/155_68.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/155/155_68.mp3'
+          1st person_pronunciation: mauː
           1st person_teach: true
           2nd person: '[þú] mátt'
           2nd person_translation: you¹ are allowed to
+          2nd person_pronunciation: mauht
           2nd person_teach: true
           3rd person: '[hann/hún/það] má'
           3rd person_translation: he/she/it is allowed to
-          3rd person_sound: islex/155/155_68.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/155/155_68.mp3'
+          3rd person_pronunciation: mauː
           3rd person_teach: true
         plural:
           1st person: '[við] megum'
           1st person_translation: we are allowed to
+          1st person_pronunciation: meiːɣʏm
           1st person_teach: true
           2nd person: '[þið] megið'
           2nd person_translation: you² are allowed to
+          2nd person_pronunciation: meijɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] mega'
           3rd person_translation: they are allowed to
-          3rd person_sound: islex/454/454_07.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/454/454_07.mp3'
+          3rd person_pronunciation: mɛːka
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] mátti'
           1st person_translation: I was allowed to
+          1st person_pronunciation: mauhtɪ
           1st person_teach: true
           2nd person: '[þú] máttir'
           2nd person_translation: you¹ were allowed to
+          2nd person_pronunciation: mauhtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] mátti'
           3rd person_translation: he/she/it was allowed to
+          3rd person_pronunciation: mauhtɪ
           3rd person_teach: true
         plural:
           1st person: '[við] máttum'
           1st person_translation: we were allowed to
+          1st person_pronunciation: mauhtʏm
           1st person_teach: true
           2nd person: '[þið] máttuð'
           2nd person_translation: you² were allowed to
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] máttu'
           3rd person_translation: they were allowed to
+          3rd person_pronunciation: mauhtʏ
           3rd person_teach: true
     subjunctive:
       present:
         singular:
           1st person: '[ég held að] [ég] megi'
           1st person_translation: I think I am allowed to
+          1st person_pronunciation: meijɪ
           1st person_teach: true
           2nd person: '[ég held að] [þú] megir'
           2nd person_translation: I think you¹ are allowed to
+          2nd person_pronunciation: meijɪr
           2nd person_teach: true
           3rd person: '[ég held að] [hann/hún/það] megi'
           3rd person_translation: I think he/she/it is allowed to
+          3rd person_pronunciation: meijɪ
           3rd person_teach: true
         plural:
           1st person: '[ég held að] [við] megum'
           1st person_translation: I think we are allowed to
+          1st person_pronunciation: meiːɣʏm
           1st person_teach: true
           2nd person: '[ég held að] [þið] megið'
           2nd person_translation: I think you² are allowed to
+          2nd person_pronunciation: meijɪð
           2nd person_teach: true
           3rd person: '[ég held að] [þeir/þær/þau] megi'
           3rd person_translation: I think they are allowed to
+          3rd person_pronunciation: meijɪ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] mátt'
     active voice_translation: I have been
+    active voice_pronunciation: mauht
     active voice_teach: true
 id: 2242

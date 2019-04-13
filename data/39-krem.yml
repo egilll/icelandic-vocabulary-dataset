@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: krem
       nominative_translation: a cream
-      nominative_sound: islex/465/465_64.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/465/465_64.mp3'
+      nominative_pronunciation: kʰrɛːm
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: krem
-      accusative_sound: islex/465/465_64.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/465/465_64.mp3'
+      accusative_pronunciation: kʰrɛːm
       dative: kremi
+      dative_pronunciation: kʰrɛːmɪ
       genitive: krems
     with article:
       nominative: kremið
       nominative_translation: the cream
+      nominative_pronunciation: <span class="guessed">kʰrɛːmɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: kremið
+      accusative_pronunciation: <span class="guessed">kʰrɛːmɪːð</span>
       dative: kreminu
+      dative_pronunciation: <span class="guessed">kʰrɛːmɪːnʏ</span>
       genitive: kremsins
 id: 1270
 gender: neuter

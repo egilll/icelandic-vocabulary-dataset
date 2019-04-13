@@ -6,39 +6,51 @@ conjugation:
     no article:
       nominative: metri
       nominative_translation: a metre
-      nominative_sound: islex/121/121_85.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/121/121_85.mp3'
+      nominative_pronunciation: mɛːtrɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: metra
+      accusative_pronunciation: mɛːtra
       dative: metra
+      dative_pronunciation: mɛːtra
       genitive: metra
+      genitive_pronunciation: mɛːtra
     with article:
       nominative: metrinn
       nominative_translation: the metre
       nominative_teach: true
       nominative_teachtable: true
       accusative: metrann
+      accusative_pronunciation: <span class="guessed">mɛːtran</span>
       dative: metranum
       genitive: metrans
   plural:
     no article:
       nominative: metrar
       nominative_translation: metres
+      nominative_pronunciation: mɛːtrar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: metra
+      accusative_pronunciation: mɛːtra
       dative: metrum
+      dative_pronunciation: mɛːtrʏm
       genitive: metra
+      genitive_pronunciation: mɛːtra
     with article:
       nominative: metrarnir
       nominative_translation: the metres
       nominative_teach: true
       nominative_teachtable: true
       accusative: metrana
+      accusative_pronunciation: mɛːtrana
       dative: metrunum
+      dative_pronunciation: mɛːtrɔnʏm
       genitive: metranna
+      genitive_pronunciation: <span class="guessed">mɛːtranaː</span>
 id: 1401
 gender: masculine
 recognizable: '1'

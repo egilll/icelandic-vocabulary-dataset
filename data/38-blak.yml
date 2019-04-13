@@ -6,17 +6,21 @@ conjugation:
     no article:
       nominative: blak
       nominative_translation: volleyball
-      nominative_sound: islex/166/166_86.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/166/166_86.mp3'
+      nominative_pronunciation: plaːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: blak
-      accusative_sound: islex/166/166_86.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/166/166_86.mp3'
+      accusative_pronunciation: plaːk
       dative: blaki
+      dative_pronunciation: plaːcɪ
       genitive: blaks
     with article:
       nominative: blakið
       nominative_translation: the volleyball
+      nominative_pronunciation: plaːcɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 810

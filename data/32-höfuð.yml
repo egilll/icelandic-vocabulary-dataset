@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: höfuð
       nominative_translation: a head
-      nominative_sound: islex/358/358_44.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/358/358_44.mp3'
+      nominative_pronunciation: hœːvʏð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: höfuð
-      accusative_sound: islex/358/358_44.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/358/358_44.mp3'
+      accusative_pronunciation: hœːvʏð
       dative: höfði
-      dative_sound: islex/065/065_29.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/065/065_29.mp3'
+      dative_pronunciation: hœvðɪ
       genitive: höfuðs
+      genitive_pronunciation: hœːvʏðs
     with article:
       nominative: höfuðið
       nominative_translation: the head
+      nominative_pronunciation: hœːvʏðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: höfuðið
+      accusative_pronunciation: hœːvʏðɪð
       dative: höfðinu
+      dative_pronunciation: hœvðɪnʏ
       genitive: höfuðsins
+      genitive_pronunciation: hœːvʏðsɪns
 id: 1148
 gender: neuter

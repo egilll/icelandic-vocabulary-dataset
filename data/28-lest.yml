@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: lest
       nominative_translation: a train
-      nominative_sound: islex/157/157_35.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/157/157_35.mp3'
+      nominative_pronunciation: lɛst
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lest
-      accusative_sound: islex/157/157_35.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/157/157_35.mp3'
+      accusative_pronunciation: lɛst
       dative: lest
-      dative_sound: islex/157/157_35.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/157/157_35.mp3'
+      dative_pronunciation: lɛst
       genitive: lestar
     with article:
       nominative: lestin
       nominative_translation: the train
+      nominative_pronunciation: lɛstɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lestina
+      accusative_pronunciation: lɛstɪna
       dative: lestinni
+      dative_pronunciation: lɛstɪnɪ
       genitive: lestarinnar
+      genitive_pronunciation: lɛstarɪnar
 id: 1319
 gender: feminine

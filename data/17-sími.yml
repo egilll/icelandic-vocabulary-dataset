@@ -6,36 +6,48 @@ conjugation:
     no article:
       nominative: sími
       nominative_translation: a phone
-      nominative_sound: islex/104/104_75.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/104/104_75.mp3'
+      nominative_pronunciation: siːmɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: síma
-      accusative_sound: islex/033/033_15.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/033/033_15.mp3'
+      accusative_pronunciation: siːma
       dative: síma
-      dative_sound: islex/033/033_15.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/033/033_15.mp3'
+      dative_pronunciation: siːma
       genitive: síma
-      genitive_sound: islex/033/033_15.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/033/033_15.mp3'
+      genitive_pronunciation: siːma
     with article:
       nominative: síminn
       nominative_translation: the phone
+      nominative_pronunciation: siːmɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: símann
+      accusative_pronunciation: siːman
       dative: símanum
+      dative_pronunciation: siːmanʏm
       genitive: símans
+      genitive_pronunciation: siːmans
   plural:
     no article:
       nominative: símar
       nominative_translation: phones
+      nominative_pronunciation: siːmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: síma
-      accusative_sound: islex/033/033_15.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/033/033_15.mp3'
+      accusative_pronunciation: siːma
       dative: símum
+      dative_pronunciation: siːmʏm
       genitive: síma
-      genitive_sound: islex/033/033_15.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/033/033_15.mp3'
+      genitive_pronunciation: siːma
     with article:
       nominative: símarnir
       nominative_translation: the phones
@@ -44,5 +56,6 @@ conjugation:
       accusative: símana
       dative: símunum
       genitive: símanna
+      genitive_pronunciation: <span class="guessed">siːmanaː</span>
 id: 2318
 gender: masculine

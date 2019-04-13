@@ -5,22 +5,26 @@ conjugation:
   active voice:
     infinitive: '[að] telja'
     infinitive_translation: 'to count; to believe, to assume'
-    infinitive_sound: islex/176/176_84.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/176/176_84.mp3'
+    infinitive_pronunciation: tʰɛlja
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] tel'
           1st person_translation: 'I count; I believe, I assume'
+          1st person_pronunciation: tʰɛːl
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] taldi'
           1st person_translation: 'I counted; I believed, I assumed'
+          1st person_pronunciation: tʰaltɪ
           1st person_teach: true
   supine:
     active voice: '[ég hef] talið'
     active voice_translation: 'I have counted; I have believed, I have assumed'
+    active voice_pronunciation: tʰaːlɪð
     active voice_teach: true
 id: 2403
 teach_the_difference: ''

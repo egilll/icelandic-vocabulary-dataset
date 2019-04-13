@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: uppáhald
       nominative_translation: favorite
-      nominative_sound: islex/392/392_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/392/392_04.mp3'
+      nominative_pronunciation: ʏhpauhalt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: uppáhald
-      accusative_sound: islex/392/392_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/392/392_04.mp3'
+      accusative_pronunciation: ʏhpauhalt
       dative: uppáhaldi
+      dative_pronunciation: ʏhpauhaltɪ
       genitive: uppáhalds
+      genitive_pronunciation: ʏhpauhals
     with article:
       nominative: uppáhaldið
       nominative_translation: the favorite
+      nominative_pronunciation: ʏhpauhaltɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: uppáhaldið
+      accusative_pronunciation: ʏhpauhaltɪð
       dative: uppáhaldinu
+      dative_pronunciation: <span class="guessed">ʏhpauhaltɪːnʏ</span>
       genitive: uppáhaldsins
 id: 1870
 gender: neuter

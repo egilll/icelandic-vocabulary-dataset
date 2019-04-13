@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: haust
       nominative_translation: 'fall, autumn (season)'
-      nominative_sound: islex/051/051_76.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/051/051_76.mp3'
+      nominative_pronunciation: hœist
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: haust
-      accusative_sound: islex/051/051_76.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/051/051_76.mp3'
+      accusative_pronunciation: hœist
       dative: hausti
+      dative_pronunciation: hœistɪ
       genitive: hausts
+      genitive_pronunciation: hœists
     with article:
       nominative: haustið
       nominative_translation: 'the fall, the autumn (season)'
+      nominative_pronunciation: hœistɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: haustið
+      accusative_pronunciation: hœistɪð
       dative: haustinu
+      dative_pronunciation: hœistɪnʏ
       genitive: haustsins
+      genitive_pronunciation: hœistsɪns
 id: 1098
 gender: neuter

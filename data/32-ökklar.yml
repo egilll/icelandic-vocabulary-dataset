@@ -6,13 +6,16 @@ conjugation:
     no article:
       nominative: ökkli
       nominative_translation: ankle
-      nominative_sound: islex/049/049_59.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/049/049_59.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ökkla
+      accusative_pronunciation: œhkla
       dative: ökkla
+      dative_pronunciation: œhkla
       genitive: ökkla
+      genitive_pronunciation: œhkla
     with article:
       nominative: ökklinn
       nominative_translation: the ankle
@@ -29,14 +32,18 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ökkla
+      accusative_pronunciation: œhkla
       dative: ökklum
+      dative_pronunciation: œhklʏm
       genitive: ökkla
+      genitive_pronunciation: œhkla
     with article:
       nominative: ökklarnir
       nominative_translation: the ankles
       nominative_teach: true
       nominative_teachtable: true
       accusative: ökklana
+      accusative_pronunciation: œhklana
       dative: ökklunum
       genitive: ökklanna
 id: 1465

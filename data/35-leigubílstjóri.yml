@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: leigubílstjóri
       nominative_translation: a taxi driver
-      nominative_sound: islex/323/323_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/323/323_24.mp3'
+      nominative_pronunciation: leiːɣʏpilstjouːrɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leigubílstjóra
+      accusative_pronunciation: leiːɣʏpilstjouːra
       dative: leigubílstjóra
+      dative_pronunciation: leiːɣʏpilstjouːra
       genitive: leigubílstjóra
+      genitive_pronunciation: leiːɣʏpilstjouːra
     with article:
       nominative: leigubílstjórinn
       nominative_translation: the taxi driver
+      nominative_pronunciation: leiːɣʏpilstjouːrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: leigubílstjórann
+      accusative_pronunciation: leiːɣʏpilstjouːran
       dative: leigubílstjóranum
+      dative_pronunciation: leiːɣʏpilstjouranʏm
       genitive: leigubílstjórans
+      genitive_pronunciation: <span class="guessed">leiːɣʏpilstjourans</span>
 id: 1309
 gender: masculine

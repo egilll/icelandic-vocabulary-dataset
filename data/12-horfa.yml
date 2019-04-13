@@ -5,59 +5,73 @@ conjugation:
   active voice:
     infinitive: '[að] horfa'
     infinitive_translation: 'to look, to watch'
-    infinitive_sound: islex/054/054_83.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/054/054_83.mp3'
+    infinitive_pronunciation: hɔrva
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] horfi'
           1st person_translation: 'I look, I watch'
+          1st person_pronunciation: hɔrvɪ
           1st person_teach: true
           2nd person: '[þú] horfir'
           2nd person_translation: 'you¹ look, you¹ watch'
+          2nd person_pronunciation: hɔrvɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] horfir'
           3rd person_translation: 'he/she/it looks, he/she/it watches'
+          3rd person_pronunciation: hɔrvɪr
           3rd person_teach: true
         plural:
           1st person: '[við] horfum'
           1st person_translation: 'we look, we watch'
+          1st person_pronunciation: hɔrvʏm
           1st person_teach: true
           2nd person: '[þið] horfið'
           2nd person_translation: 'you² look, you² watch'
+          2nd person_pronunciation: hɔrvɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] horfa'
           3rd person_translation: 'they look, they watch'
-          3rd person_sound: islex/054/054_83.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/054/054_83.mp3'
+          3rd person_pronunciation: hɔrva
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] horfði'
           1st person_translation: 'I looked, I watched'
+          1st person_pronunciation: hɔrðɪ
           1st person_teach: true
           2nd person: '[þú] horfðir'
           2nd person_translation: 'you¹ looked, you¹ watched'
+          2nd person_pronunciation: hɔrðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] horfði'
           3rd person_translation: 'he/she/it looked, he/she/it watched'
+          3rd person_pronunciation: hɔrðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] horfðum'
           1st person_translation: 'we looked, we watched'
+          1st person_pronunciation: hɔrðʏm
           1st person_teach: true
           2nd person: '[þið] horfðuð'
           2nd person_translation: 'you² looked, you² watched'
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] horfðu'
           3rd person_translation: 'they looked, they watched'
+          3rd person_pronunciation: hɔrðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] horft'
     active voice_translation: I have looked
+    active voice_pronunciation: hɔr̥t
     active voice_teach: true
   imperative:
     active voice:
       singular: horfðu!
       singular_translation: 'look!¹, watch!¹'
+      singular_pronunciation: hɔrðʏ
       singular_teach: true
 id: 2164

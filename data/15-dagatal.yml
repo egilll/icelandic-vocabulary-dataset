@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: dagatal
       nominative_translation: a calander
-      nominative_sound: islex/387/387_04.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/387/387_04.mp3'
+      nominative_pronunciation: taːɣatʰaːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dagatal
-      accusative_sound: islex/387/387_04.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/387/387_04.mp3'
+      accusative_pronunciation: taːɣatʰaːl
       dative: dagatali
+      dative_pronunciation: <span class="guessed">taːɣatʰaːlɪ</span>
       genitive: dagatals
+      genitive_pronunciation: <span class="guessed">taːɣatʰals</span>
     with article:
       nominative: dagatalið
       nominative_translation: the calander
+      nominative_pronunciation: taːɣatʰaːlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: dagatalið
+      accusative_pronunciation: taːɣatʰaːlɪð
       dative: dagatalinu
+      dative_pronunciation: <span class="guessed">taːɣatʰaːlɪːnʏ</span>
       genitive: dagatalsins
+      genitive_pronunciation: <span class="guessed">taːɣatʰalsɪns</span>
 id: 861
 gender: neuter

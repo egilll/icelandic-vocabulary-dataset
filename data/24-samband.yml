@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: samband
       nominative_translation: a relationship; a connection
-      nominative_sound: islex/223/223_92.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/223/223_92.mp3'
+      nominative_pronunciation: sampant
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: samband
-      accusative_sound: islex/223/223_92.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/223/223_92.mp3'
+      accusative_pronunciation: sampant
       dative: sambandi
+      dative_pronunciation: sampantɪ
       genitive: sambands
+      genitive_pronunciation: sampants
     with article:
       nominative: sambandið
       nominative_translation: the relationship; the connection
+      nominative_pronunciation: sampantɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: sambandið
+      accusative_pronunciation: sampantɪð
       dative: sambandinu
+      dative_pronunciation: sampantɪnʏ
       genitive: sambandsins
+      genitive_pronunciation: sampantsɪns
 id: 1590
 gender: neuter

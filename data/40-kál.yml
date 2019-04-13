@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: kál
       nominative_translation: cabbage
-      nominative_sound: islex/342/342_06.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/342/342_06.mp3'
+      nominative_pronunciation: kʰauːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kál
-      accusative_sound: islex/342/342_06.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/342/342_06.mp3'
+      accusative_pronunciation: kʰauːl
       dative: káli
+      dative_pronunciation: kʰauːlɪ
       genitive: káls
     with article:
       nominative: kálið
       nominative_translation: the cabbage
+      nominative_pronunciation: kʰauːlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: kálið
+      accusative_pronunciation: kʰauːlɪð
       dative: kálinu
+      dative_pronunciation: <span class="guessed">kʰauːlɪːnʏ</span>
       genitive: kálsins
 id: 1215
 gender: neuter

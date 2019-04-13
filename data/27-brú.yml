@@ -6,23 +6,31 @@ conjugation:
     no article:
       nominative: brú
       nominative_translation: a bridge
-      nominative_sound: islex/076/076_21.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/076/076_21.mp3'
+      nominative_pronunciation: pruː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: brú
-      accusative_sound: islex/076/076_21.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/076/076_21.mp3'
+      accusative_pronunciation: pruː
       dative: brú
-      dative_sound: islex/076/076_21.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/076/076_21.mp3'
+      dative_pronunciation: pruː
       genitive: brúar
+      genitive_pronunciation: pruːar
     with article:
       nominative: brúin
       nominative_translation: the bridge
+      nominative_pronunciation: pruːɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: brúna
-      accusative_sound: islex/198/198_06.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/198/198_06.mp3'
+      accusative_pronunciation: pruːna
       dative: brúnni
+      dative_pronunciation: prutnɪ
       genitive: brúarinnar
+      genitive_pronunciation: pruːarɪnar
 id: 851
 gender: feminine

@@ -6,16 +6,20 @@ conjugation:
     no article:
       nominative: leti
       nominative_translation: laziness
-      nominative_sound: islex/418/418_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/418/418_01.mp3'
+      nominative_pronunciation: lɛːtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leti
-      accusative_sound: islex/418/418_01.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/418/418_01.mp3'
+      accusative_pronunciation: lɛːtɪ
       dative: leti
-      dative_sound: islex/418/418_01.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/418/418_01.mp3'
+      dative_pronunciation: lɛːtɪ
       genitive: leti
-      genitive_sound: islex/418/418_01.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/418/418_01.mp3'
+      genitive_pronunciation: lɛːtɪ
     with article:
       nominative: letin
       nominative_translation: the laziness

@@ -6,43 +6,59 @@ conjugation:
     no article:
       nominative: starf
       nominative_translation: a job
-      nominative_sound: islex/097/097_12.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/097/097_12.mp3'
+      nominative_pronunciation: starv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: starf
-      accusative_sound: islex/097/097_12.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/097/097_12.mp3'
+      accusative_pronunciation: starv
       dative: starfi
-      dative_sound: islex/124/124_29.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/124/124_29.mp3'
+      dative_pronunciation: starvɪ
       genitive: starfs
+      genitive_pronunciation: starvs
     with article:
       nominative: starfið
       nominative_translation: the job
+      nominative_pronunciation: starvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: starfið
+      accusative_pronunciation: starvɪð
       dative: starfinu
+      dative_pronunciation: starvɪnʏ
       genitive: starfsins
+      genitive_pronunciation: starvsɪns
   plural:
     no article:
       nominative: störf
       nominative_translation: jobs
+      nominative_pronunciation: stœrv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: störf
+      accusative_pronunciation: stœrv
       dative: störfum
+      dative_pronunciation: stœrvʏm
       genitive: starfa
-      genitive_sound: islex/425/425_63.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/425/425_63.mp3'
+      genitive_pronunciation: starva
     with article:
       nominative: störfin
       nominative_translation: the jobs
+      nominative_pronunciation: stœrvɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: störfin
+      accusative_pronunciation: stœrvɪn
       dative: störfunum
       genitive: starfanna
+      genitive_pronunciation: <span class="guessed">starvana</span>
 id: 1735
 gender: neuter
 synonyms: vinna
-synonyms_sound: islex/233/233_75.mp3
+synonyms_sound: 'https://media.egill.xyz/audio/islex/233/233_75.mp3'
+synonyms_pronunciation: vɪna

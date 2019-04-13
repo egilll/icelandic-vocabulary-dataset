@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: bil
       nominative_translation: a space
-      nominative_sound: islex/060/060_22.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/060/060_22.mp3'
+      nominative_pronunciation: pɪːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bil
-      accusative_sound: islex/060/060_22.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/060/060_22.mp3'
+      accusative_pronunciation: pɪːl
       dative: bili
+      dative_pronunciation: pɪːlɪ
       genitive: bils
     with article:
       nominative: bilið
       nominative_translation: the space
+      nominative_pronunciation: pɪːlɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: bilið
+      accusative_pronunciation: pɪːlɪð
       dative: bilinu
+      dative_pronunciation: pɪːlɪnʏ
       genitive: bilsins
 id: 793
 gender: neuter

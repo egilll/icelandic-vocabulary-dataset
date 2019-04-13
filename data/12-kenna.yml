@@ -5,54 +5,67 @@ conjugation:
   active voice:
     infinitive: '[að] kenna'
     infinitive_translation: to teach
-    infinitive_sound: islex/323/323_74.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/323/323_74.mp3'
+    infinitive_pronunciation: cʰɛna
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] kenni'
           1st person_translation: I teach
+          1st person_pronunciation: cʰɛnɪ
           1st person_teach: true
           2nd person: '[þú] kennir'
           2nd person_translation: you¹ teach
+          2nd person_pronunciation: cʰɛnɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] kennir'
           3rd person_translation: he/she/it teaches
+          3rd person_pronunciation: cʰɛnɪr
           3rd person_teach: true
         plural:
           1st person: '[við] kennum'
           1st person_translation: we teach
+          1st person_pronunciation: cʰɛnʏm
           1st person_teach: true
           2nd person: '[þið] kennið'
           2nd person_translation: you² teach
+          2nd person_pronunciation: <span class="guessed">cʰɛnɪːð</span>
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] kenna'
           3rd person_translation: they teach
-          3rd person_sound: islex/323/323_74.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/323/323_74.mp3'
+          3rd person_pronunciation: cʰɛna
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] kenndi'
           1st person_translation: I taught
+          1st person_pronunciation: cʰɛntɪ
           1st person_teach: true
           2nd person: '[þú] kenndir'
           2nd person_translation: you¹ taught
+          2nd person_pronunciation: cʰɛntɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] kenndi'
           3rd person_translation: he/she/it taught
+          3rd person_pronunciation: cʰɛntɪ
           3rd person_teach: true
         plural:
           1st person: '[við] kenndum'
           1st person_translation: we taught
+          1st person_pronunciation: cʰɛntʏm
           1st person_teach: true
           2nd person: '[þið] kennduð'
           2nd person_translation: you² taught
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] kenndu'
           3rd person_translation: they taught
+          3rd person_pronunciation: cʰɛntʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] kennt'
     active voice_translation: I have taught
+    active voice_pronunciation: cʰɛn̥t
     active voice_teach: true
 id: 2180

@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: sýning
       nominative_translation: a show
-      nominative_sound: islex/168/168_82.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/168/168_82.mp3'
+      nominative_pronunciation: siːniŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sýningu
+      accusative_pronunciation: siːniŋkʏ
       dative: sýningu
+      dative_pronunciation: siːniŋkʏ
       genitive: sýningar
+      genitive_pronunciation: siːniŋkar
     with article:
       nominative: sýningin
       nominative_translation: the show
+      nominative_pronunciation: siːniɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: sýninguna
+      accusative_pronunciation: siːniŋkʏna
       dative: sýningunni
+      dative_pronunciation: siːniŋkʏnɪ
       genitive: sýningarinnar
+      genitive_pronunciation: siːniŋkarɪnar
   plural:
     no article:
       nominative: sýningar
       nominative_translation: shows
+      nominative_pronunciation: siːniŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sýningar
+      accusative_pronunciation: siːniŋkar
       dative: sýningum
+      dative_pronunciation: siːniŋkʏm
       genitive: sýninga
+      genitive_pronunciation: siːniŋka
     with article:
       nominative: sýningarnar
       nominative_translation: the shows
+      nominative_pronunciation: siːniŋkartnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: sýningarnar
+      accusative_pronunciation: siːniŋkartnar
       dative: sýningunum
+      dative_pronunciation: siːniŋkɔnʏm
       genitive: sýninganna
+      genitive_pronunciation: <span class="guessed">siːniŋkana</span>
 id: 1802
 gender: feminine

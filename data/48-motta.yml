@@ -6,20 +6,26 @@ conjugation:
     no article:
       nominative: motta
       nominative_translation: a mat
-      nominative_sound: islex/360/360_80.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/360/360_80.mp3'
+      nominative_pronunciation: mɔhta
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mottu
+      accusative_pronunciation: mɔhtʏ
       dative: mottu
+      dative_pronunciation: mɔhtʏ
       genitive: mottu
+      genitive_pronunciation: mɔhtʏ
     with article:
       nominative: mottan
       nominative_translation: the mat
       nominative_teach: true
       nominative_teachtable: true
       accusative: mottuna
+      accusative_pronunciation: mɔhtʏna
       dative: mottunni
+      dative_pronunciation: mɔhtʏnɪ
       genitive: mottunnar
 id: 1421
 gender: feminine

@@ -5,17 +5,20 @@ conjugation:
   active voice:
     infinitive: '[að] gista'
     infinitive_translation: 'to stay the night, to sleep over'
-    infinitive_sound: islex/324/324_86.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/324/324_86.mp3'
+    infinitive_pronunciation: cɪsta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] gisti'
           1st person_translation: 'I stay the night, I sleep over'
+          1st person_pronunciation: cɪstɪ
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] gisti'
           1st person_translation: 'I stayed the night, I slept over'
+          1st person_pronunciation: cɪstɪ
           1st person_teach: true
 id: 2128

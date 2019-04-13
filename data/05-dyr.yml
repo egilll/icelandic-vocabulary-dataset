@@ -6,24 +6,33 @@ conjugation:
     no article:
       nominative: dyr
       nominative_translation: doors
-      nominative_sound: islex/140/140_53.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/140/140_53.mp3'
+      nominative_pronunciation: tɪːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dyr
-      accusative_sound: islex/140/140_53.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/140/140_53.mp3'
+      accusative_pronunciation: tɪːr
       dative: dyrum
+      dative_pronunciation: tɪːrʏm
       genitive: dyra
+      genitive_pronunciation: tɪːra
     with article:
       nominative: dyrnar
       nominative_translation: the doors
+      nominative_pronunciation: tɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: dyrnar
+      accusative_pronunciation: tɪtnar
       dative: dyrunum
+      dative_pronunciation: tɪːrɔnʏm
       genitive: dyranna
+      genitive_pronunciation: tɪːrana
 id: 893
 gender: feminine
 recognizable: '1'
 synonyms: hurð
-synonyms_sound: islex/482/482_96.mp3
+synonyms_sound: 'https://media.egill.xyz/audio/islex/482/482_96.mp3'
+synonyms_pronunciation: hʏrð

@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: dómur
       nominative_translation: a verdict
-      nominative_sound: islex/274/274_18.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/274/274_18.mp3'
+      nominative_pronunciation: touːmʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dóm
+      accusative_pronunciation: touːm
       dative: dómi
+      dative_pronunciation: touːmɪ
       genitive: dóms
+      genitive_pronunciation: toums
     with article:
       nominative: dómurinn
       nominative_translation: the verdict
+      nominative_pronunciation: touːmʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: dóminn
+      accusative_pronunciation: touːmɪn
       dative: dómnum
+      dative_pronunciation: toumnʏm
       dative_alternative:
         - dóminum
       genitive: dómsins
+      genitive_pronunciation: toumsɪns
 id: 876
 gender: masculine

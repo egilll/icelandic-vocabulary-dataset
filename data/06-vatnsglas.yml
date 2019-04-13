@@ -6,39 +6,53 @@ conjugation:
     no article:
       nominative: vatnsglas
       nominative_translation: a glass of water
-      nominative_sound: islex/247/247_80.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/247/247_80.mp3'
+      nominative_pronunciation: vasklas
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vatnsglas
-      accusative_sound: islex/247/247_80.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/247/247_80.mp3'
+      accusative_pronunciation: vasklas
       dative: vatnsglasi
+      dative_pronunciation: vasklasɪ
       genitive: vatnsglass
     with article:
       nominative: vatnsglasið
       nominative_translation: the glass of water
+      nominative_pronunciation: vasklasɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: vatnsglasið
+      accusative_pronunciation: vasklasɪð
       dative: vatnsglasinu
+      dative_pronunciation: vasklasɪnʏ
       genitive: vatnsglassins
   plural:
     no article:
       nominative: vatnsglös
       nominative_translation: glasses of water
+      nominative_pronunciation: <span class="guessed">vasklœːs</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vatnsglös
+      accusative_pronunciation: <span class="guessed">vasklœːs</span>
       dative: vatnsglösum
+      dative_pronunciation: <span class="guessed">vasklœːsʏm</span>
       genitive: vatnsglasa
+      genitive_pronunciation: <span class="guessed">vasklasaː</span>
     with article:
       nominative: vatnsglösin
       nominative_translation: the glasses of water
+      nominative_pronunciation: <span class="guessed">vasklœːsɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: vatnsglösin
+      accusative_pronunciation: <span class="guessed">vasklœːsɪn</span>
       dative: vatnsglösunum
+      dative_pronunciation: <span class="guessed">vasklœːsɔnʏm</span>
       genitive: vatnsglasanna
+      genitive_pronunciation: <span class="guessed">vasklasana</span>
 id: 1897
 gender: neuter

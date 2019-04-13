@@ -6,40 +6,53 @@ conjugation:
     no article:
       nominative: gjöf
       nominative_translation: 'a gift, a present'
-      nominative_sound: islex/046/046_28.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/046/046_28.mp3'
+      nominative_pronunciation: cœːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gjöf
-      accusative_sound: islex/046/046_28.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/046/046_28.mp3'
+      accusative_pronunciation: cœːv
       dative: gjöf
-      dative_sound: islex/046/046_28.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/046/046_28.mp3'
+      dative_pronunciation: cœːv
       genitive: gjafar
     with article:
       nominative: gjöfin
       nominative_translation: 'the gift, the present'
+      nominative_pronunciation: cœːvɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: gjöfina
+      accusative_pronunciation: cœːvɪna
       dative: gjöfinni
+      dative_pronunciation: cœːvɪnɪ
       genitive: gjafarinnar
   plural:
     no article:
       nominative: gjafir
       nominative_translation: 'gifts, presents'
+      nominative_pronunciation: caːvɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gjafir
+      accusative_pronunciation: caːvɪr
       dative: gjöfum
+      dative_pronunciation: cœːvʏm
       genitive: gjafa
+      genitive_pronunciation: caːva
     with article:
       nominative: gjafirnar
       nominative_translation: 'the gifts, the presents'
+      nominative_pronunciation: caːvɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: gjafirnar
+      accusative_pronunciation: caːvɪtnar
       dative: gjöfunum
+      dative_pronunciation: cœːvɔnʏm
       genitive: gjafanna
 id: 1028
 gender: feminine

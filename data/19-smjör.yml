@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: smjör
       nominative_translation: butter
-      nominative_sound: islex/262/262_95.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/262/262_95.mp3'
+      nominative_pronunciation: smjœːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: smjör
-      accusative_sound: islex/262/262_95.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/262/262_95.mp3'
+      accusative_pronunciation: smjœːr
       dative: smjöri
+      dative_pronunciation: smjœːrɪ
       genitive: smjörs
+      genitive_pronunciation: smjœr̥s
     with article:
       nominative: smjörið
       nominative_translation: the butter
+      nominative_pronunciation: smjœːrɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: smjörið
+      accusative_pronunciation: smjœːrɪð
       dative: smjörinu
+      dative_pronunciation: <span class="guessed">smjœːrɪːnʏ</span>
       genitive: smjörsins
 id: 1687
 gender: neuter

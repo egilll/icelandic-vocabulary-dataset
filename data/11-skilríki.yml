@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: skilríki
       nominative_translation: identification cards
-      nominative_sound: islex/430/430_36.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/430/430_36.mp3'
+      nominative_pronunciation: scɪlricɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: skilríkin
       nominative_translation: the identification cards
+      nominative_pronunciation: <span class="guessed">scɪːlriːcɪn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 1646

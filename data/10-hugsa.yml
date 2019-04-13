@@ -5,55 +5,68 @@ conjugation:
   active voice:
     infinitive: '[að] hugsa'
     infinitive_translation: to think
-    infinitive_sound: islex/249/249_93.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/249/249_93.mp3'
+    infinitive_pronunciation: hʏksa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] hugsa'
           1st person_translation: I think
-          1st person_sound: islex/249/249_93.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/249/249_93.mp3'
+          1st person_pronunciation: hʏksa
           1st person_teach: true
           2nd person: '[þú] hugsar'
           2nd person_translation: you¹ think
+          2nd person_pronunciation: hʏksar
           2nd person_teach: true
           3rd person: '[hann/hún/það] hugsar'
           3rd person_translation: he/she/it thinks
+          3rd person_pronunciation: hʏksar
           3rd person_teach: true
         plural:
           1st person: '[við] hugsum'
           1st person_translation: we think
+          1st person_pronunciation: hʏksʏm
           1st person_teach: true
           2nd person: '[þið] hugsið'
           2nd person_translation: you² think
+          2nd person_pronunciation: hʏksɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hugsa'
           3rd person_translation: they think
-          3rd person_sound: islex/249/249_93.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/249/249_93.mp3'
+          3rd person_pronunciation: hʏksa
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] hugsaði'
           1st person_translation: I thought
+          1st person_pronunciation: hʏksaðɪ
           1st person_teach: true
           2nd person: '[þú] hugsaðir'
           2nd person_translation: you¹ thought
+          2nd person_pronunciation: hʏksaðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] hugsaði'
           3rd person_translation: he/she/it thought
+          3rd person_pronunciation: hʏksaðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] hugsuðum'
           1st person_translation: we thought
+          1st person_pronunciation: hʏksʏðʏm
           1st person_teach: true
           2nd person: '[þið] hugsuðuð'
           2nd person_translation: you² thought
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] hugsuðu'
           3rd person_translation: they thought
+          3rd person_pronunciation: hʏksʏðʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] hugsað'
     active voice_translation: I have thought
+    active voice_pronunciation: hʏksað
     active voice_teach: true
 id: 2169

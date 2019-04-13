@@ -5,31 +5,38 @@ conjugation:
   active voice:
     infinitive: '[að] heita'
     infinitive_translation: 'to be called, to be named'
-    infinitive_sound: islex/398/398_04.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/398/398_04.mp3'
+    infinitive_pronunciation: heiːta
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] heiti'
           1st person_translation: 'I am called, I am named'
-          1st person_sound: islex/010/010_34.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/010/010_34.mp3'
+          1st person_pronunciation: heiːtɪ
           1st person_teach: true
           2nd person: '[þú] heitir'
           2nd person_translation: 'you¹ be called, you¹ be named'
+          2nd person_pronunciation: heiːtɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] heitir'
           3rd person_translation: 'he/she/it are called, he/she/it are named'
+          3rd person_pronunciation: heiːtɪr
           3rd person_teach: true
         plural:
           1st person: '[við] heitum'
           1st person_translation: 'we be called, we be named'
+          1st person_pronunciation: heiːtʏm
           1st person_teach: true
           2nd person: '[þið] heitið'
           2nd person_translation: 'you² be called, you² be named'
+          2nd person_pronunciation: heiːtɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] heita'
           3rd person_translation: 'they be called, they be named'
-          3rd person_sound: islex/398/398_04.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/398/398_04.mp3'
+          3rd person_pronunciation: heiːta
           3rd person_teach: true
 id: 2146
 strong_verb_declension: true

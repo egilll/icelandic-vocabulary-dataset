@@ -6,39 +6,53 @@ conjugation:
     no article:
       nominative: stafur
       nominative_translation: a letter (of the alphabet)
-      nominative_sound: islex/246/246_46.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/246/246_46.mp3'
+      nominative_pronunciation: staːvʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: staf
+      accusative_pronunciation: staːv
       dative: staf
+      dative_pronunciation: staːv
       genitive: stafs
     with article:
       nominative: stafurinn
       nominative_translation: the letter (of the alphabet)
+      nominative_pronunciation: staːvʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: stafinn
+      accusative_pronunciation: staːvɪn
       dative: stafnum
+      dative_pronunciation: stapnʏm
       genitive: stafsins
   plural:
     no article:
       nominative: stafir
       nominative_translation: letters (of the alphabet)
+      nominative_pronunciation: staːvɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: stafi
+      accusative_pronunciation: staːvɪ
       dative: stöfum
+      dative_pronunciation: stœːvʏm
       genitive: stafa
-      genitive_sound: islex/314/314_98.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/314/314_98.mp3'
+      genitive_pronunciation: staːva
     with article:
       nominative: stafirnir
       nominative_translation: the letters (of the alphabet)
+      nominative_pronunciation: staːvɪrtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: stafina
+      accusative_pronunciation: staːvɪna
       dative: stöfunum
+      dative_pronunciation: stœːvɔnʏm
       genitive: stafanna
+      genitive_pronunciation: <span class="guessed">staːvana</span>
 id: 1732
 gender: masculine

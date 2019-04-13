@@ -6,14 +6,17 @@ conjugation:
     no article:
       nominative: kind
       nominative_translation: a sheep
-      nominative_sound: islex/080/080_09.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/080/080_09.mp3'
+      nominative_pronunciation: cʰɪnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kind
-      accusative_sound: islex/080/080_09.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/080/080_09.mp3'
+      accusative_pronunciation: cʰɪnt
       dative: kind
-      dative_sound: islex/080/080_09.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/080/080_09.mp3'
+      dative_pronunciation: cʰɪnt
       genitive: kindar
     with article:
       nominative: kindin
@@ -22,33 +25,42 @@ conjugation:
       nominative_teachtable: true
       accusative: kindina
       dative: kindinni
+      dative_pronunciation: <span class="guessed">cʰɪntɪnɪ</span>
       genitive: kindarinnar
   plural:
     no article:
       nominative: kindur
       nominative_translation: sheep
+      nominative_pronunciation: cʰɪntʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_alternative:
         - kindir
       accusative: kindur
+      accusative_pronunciation: cʰɪntʏr
       accusative_alternative:
         - kindir
       dative: kindum
+      dative_pronunciation: cʰɪntʏm
       genitive: kinda
+      genitive_pronunciation: cʰɪnta
     with article:
       nominative: kindurnar
       nominative_translation: the sheep
+      nominative_pronunciation: cʰɪntʏtnar
       nominative_teach: true
       nominative_teachtable: true
       nominative_alternative:
         - kindirnar
       accusative: kindurnar
+      accusative_pronunciation: cʰɪntʏtnar
       accusative_alternative:
         - kindirnar
       dative: kindunum
+      dative_pronunciation: cʰɪntɔnʏm
       genitive: kindanna
+      genitive_pronunciation: cʰɪntana
 id: 1233
 teach_the_difference: góður
 gender: feminine

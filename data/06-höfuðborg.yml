@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: höfuðborg
       nominative_translation: a capital city
-      nominative_sound: islex/123/123_23.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/123/123_23.mp3'
+      nominative_pronunciation: hœːvʏðpɔrk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: höfuðborg
-      accusative_sound: islex/123/123_23.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/123/123_23.mp3'
+      accusative_pronunciation: hœːvʏðpɔrk
       dative: höfuðborg
-      dative_sound: islex/123/123_23.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/123/123_23.mp3'
+      dative_pronunciation: hœːvʏðpɔrk
       genitive: höfuðborgar
+      genitive_pronunciation: hœːvʏðpɔrkar
     with article:
       nominative: höfuðborgin
       nominative_translation: the capital city
+      nominative_pronunciation: hœːvʏðpɔrcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: höfuðborgina
+      accusative_pronunciation: hœːvʏðpɔrcɪna
       dative: höfuðborginni
+      dative_pronunciation: hœːvʏðpɔrcɪnɪ
       genitive: höfuðborgarinnar
+      genitive_pronunciation: hœːvʏðpɔrkarɪnar
 id: 1149
 gender: feminine

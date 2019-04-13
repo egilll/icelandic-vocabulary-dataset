@@ -5,19 +5,22 @@ conjugation:
   active voice:
     infinitive: '[að] fatta'
     infinitive_translation: to realize
-    infinitive_sound: islex/328/328_54.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/328/328_54.mp3'
+    infinitive_pronunciation: fahta
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] fattaði'
           1st person_translation: I realized
+          1st person_pronunciation: <span class="guessed">fahtaðɪː</span>
           1st person_teach: true
           2nd person: '[þú] fattaðir'
           2nd person_translation: you¹ realized
           2nd person_teach: true
           3rd person: '[hann/hún/það] fattaði'
           3rd person_translation: he/she/it realized
+          3rd person_pronunciation: <span class="guessed">fahtaðɪː</span>
           3rd person_teach: true
         plural:
           1st person: '[við] föttuðum'

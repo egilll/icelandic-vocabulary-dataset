@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: ljósmynd
       nominative_translation: a photograph
-      nominative_sound: islex/297/297_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/297/297_01.mp3'
+      nominative_pronunciation: ljouːsmʏnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ljósmynd
-      accusative_sound: islex/297/297_01.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/297/297_01.mp3'
+      accusative_pronunciation: ljouːsmʏnt
       dative: ljósmynd
-      dative_sound: islex/297/297_01.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/297/297_01.mp3'
+      dative_pronunciation: ljouːsmʏnt
       genitive: ljósmyndar
+      genitive_pronunciation: <span class="guessed">ljouːsmɪntar</span>
     with article:
       nominative: ljósmyndin
       nominative_translation: the photograph
+      nominative_pronunciation: ljouːsmʏntɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ljósmyndina
+      accusative_pronunciation: ljouːsmʏntɪna
       dative: ljósmyndinni
+      dative_pronunciation: ljouːsmʏntɪnɪ
       genitive: ljósmyndarinnar
+      genitive_pronunciation: <span class="guessed">ljouːsmɪntarɪnar</span>
   plural:
     no article:
       nominative: ljósmyndir
       nominative_translation: photographs
+      nominative_pronunciation: ljouːsmʏntɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ljósmyndir
+      accusative_pronunciation: ljouːsmʏntɪr
       dative: ljósmyndum
+      dative_pronunciation: ljouːsmʏntʏm
       genitive: ljósmynda
-      genitive_sound: islex/334/334_48.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/334/334_48.mp3'
+      genitive_pronunciation: ljouːsmʏnta
     with article:
       nominative: ljósmyndirnar
       nominative_translation: the photographs
+      nominative_pronunciation: ljouːsmʏntɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: ljósmyndirnar
+      accusative_pronunciation: ljouːsmʏntɪtnar
       dative: ljósmyndunum
+      dative_pronunciation: ljouːsmʏntɔnʏm
       genitive: ljósmyndanna
+      genitive_pronunciation: <span class="guessed">ljouːsmʏntana</span>
 id: 1345
 gender: feminine

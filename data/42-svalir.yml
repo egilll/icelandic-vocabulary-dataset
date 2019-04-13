@@ -6,15 +6,19 @@ conjugation:
     no article:
       nominative: svalir
       nominative_translation: a balcony
-      nominative_sound: islex/345/345_48.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/345/345_48.mp3'
+      nominative_pronunciation: svaːlɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: svalir
-      accusative_sound: islex/345/345_48.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/345/345_48.mp3'
+      accusative_pronunciation: svaːlɪr
       dative: svölum
+      dative_pronunciation: svœːlʏm
       genitive: svala
-      genitive_sound: islex/028/028_88.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/028/028_88.mp3'
+      genitive_pronunciation: svaːla
     with article:
       nominative: svalirnar
       nominative_translation: the balcony
@@ -22,6 +26,7 @@ conjugation:
       nominative_teachtable: true
       accusative: svalirnar
       dative: svölunum
+      dative_pronunciation: svœːlɔnʏm
       genitive: svalanna
 id: 1784
 gender: feminine

@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: sýklalyf
       nominative_translation: an antibiotic
-      nominative_sound: islex/048/048_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/048/048_31.mp3'
+      nominative_pronunciation: sihklalɪːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sýklalyf
-      accusative_sound: islex/048/048_31.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/048/048_31.mp3'
+      accusative_pronunciation: sihklalɪːv
       dative: sýklalyfi
+      dative_pronunciation: <span class="guessed">sihklalɪːvɪ</span>
       genitive: sýklalyfs
+      genitive_pronunciation: <span class="guessed">sihklalɪfs</span>
     with article:
       nominative: sýklalyfið
       nominative_translation: the antibiotic
+      nominative_pronunciation: <span class="guessed">sihklalɪːvɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: sýklalyfið
+      accusative_pronunciation: <span class="guessed">sihklalɪːvɪð</span>
       dative: sýklalyfinu
+      dative_pronunciation: <span class="guessed">sihklalɪːvɪnʏ</span>
       genitive: sýklalyfsins
+      genitive_pronunciation: <span class="guessed">sihklalɪfsɪns</span>
 id: 1799
 gender: neuter

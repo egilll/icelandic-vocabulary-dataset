@@ -6,24 +6,31 @@ conjugation:
     no article:
       nominative: lás
       nominative_translation: a lock
-      nominative_sound: islex/008/008_44.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/008/008_44.mp3'
+      nominative_pronunciation: lauːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lás
-      accusative_sound: islex/008/008_44.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/008/008_44.mp3'
+      accusative_pronunciation: lauːs
       dative: lás
-      dative_sound: islex/008/008_44.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/008/008_44.mp3'
+      dative_pronunciation: lauːs
       dative_alternative:
         - lási
       genitive: láss
+      genitive_pronunciation: <span class="guessed">lauːɛs ɛs</span>
     with article:
       nominative: lásinn
       nominative_translation: the lock
+      nominative_pronunciation: lauːsɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lásinn
+      accusative_pronunciation: lauːsɪn
       dative: lásnum
+      dative_pronunciation: laustnʏm
       genitive: lássins
 id: 1298
 gender: masculine

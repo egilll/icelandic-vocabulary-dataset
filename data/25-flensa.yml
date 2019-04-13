@@ -6,12 +6,15 @@ conjugation:
     no article:
       nominative: flensa
       nominative_translation: flu (influenza)
-      nominative_sound: islex/101/101_47.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/101/101_47.mp3'
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: flensu
+      accusative_pronunciation: flɛnsʏ
       dative: flensu
+      dative_pronunciation: flɛnsʏ
       genitive: flensu
+      genitive_pronunciation: flɛnsʏ
 id: 957
 gender: feminine

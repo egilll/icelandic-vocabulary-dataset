@@ -5,6 +5,7 @@ conjugation:
   middle voice:
     infinitive: '[að] birtast'
     infinitive_translation: to appear
-    infinitive_sound: islex/134/134_66.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/134/134_66.mp3'
+    infinitive_pronunciation: pɪr̥tast
     infinitive_teach: true
 id: 1974

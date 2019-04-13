@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: bréf
       nominative_translation: 'a letter, a document'
-      nominative_sound: islex/060/060_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/060/060_10.mp3'
+      nominative_pronunciation: prjɛːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bréf
-      accusative_sound: islex/060/060_10.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/060/060_10.mp3'
+      accusative_pronunciation: prjɛːv
       dative: bréfi
+      dative_pronunciation: prjɛːvɪ
       genitive: bréfs
+      genitive_pronunciation: prjɛfs
     with article:
       nominative: bréfið
       nominative_translation: 'the letter, the document'
+      nominative_pronunciation: prjɛːvɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: bréfið
+      accusative_pronunciation: prjɛːvɪð
       dative: bréfinu
+      dative_pronunciation: prjɛːvɪnʏ
       genitive: bréfsins
+      genitive_pronunciation: prjɛfsɪns
   plural:
     no article:
       nominative: bréf
       nominative_translation: 'letters, documents'
-      nominative_sound: islex/060/060_10.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/060/060_10.mp3'
+      nominative_pronunciation: prjɛːv
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: bréf
-      accusative_sound: islex/060/060_10.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/060/060_10.mp3'
+      accusative_pronunciation: prjɛːv
       dative: bréfum
+      dative_pronunciation: prjɛːvʏm
       genitive: bréfa
+      genitive_pronunciation: prjɛːva
     with article:
       nominative: bréfin
       nominative_translation: 'the letters, the documents'
+      nominative_pronunciation: prjɛːvɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: bréfin
+      accusative_pronunciation: prjɛːvɪn
       dative: bréfunum
+      dative_pronunciation: prjɛːvɔnʏm
       genitive: bréfanna
+      genitive_pronunciation: prjɛːvana
 id: 845
 gender: neuter

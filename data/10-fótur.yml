@@ -6,40 +6,54 @@ conjugation:
     no article:
       nominative: fótur
       nominative_translation: a foot
-      nominative_sound: islex/478/478_33.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/478/478_33.mp3'
+      nominative_pronunciation: fouːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fót
+      accusative_pronunciation: fouːt
       dative: fæti
+      dative_pronunciation: faiːtɪ
       genitive: fótar
     with article:
       nominative: fóturinn
       nominative_translation: the foot
+      nominative_pronunciation: fouːtʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: fótinn
+      accusative_pronunciation: fouːtɪn
       dative: fætinum
+      dative_pronunciation: faiːtɪnʏm
       genitive: fótarins
   plural:
     no article:
       nominative: fætur
       nominative_translation: feet
+      nominative_pronunciation: faiːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fætur
+      accusative_pronunciation: faiːtʏr
       dative: fótum
+      dative_pronunciation: fouːtʏm
       genitive: fóta
-      genitive_sound: islex/108/108_95.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/108/108_95.mp3'
+      genitive_pronunciation: fouːta
     with article:
       nominative: fæturnir
       nominative_translation: the foots
+      nominative_pronunciation: faiːtʏtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: fæturna
+      accusative_pronunciation: faiːtʏtna
       dative: fótunum
+      dative_pronunciation: fouːtɔnʏm
       genitive: fótanna
+      genitive_pronunciation: fouːtana
 id: 981
 gender: masculine
 recognizable: '1'

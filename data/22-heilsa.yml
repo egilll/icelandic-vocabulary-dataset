@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: heilsa
       nominative_translation: health
-      nominative_sound: islex/142/142_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/142/142_69.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: heilsu
+      accusative_pronunciation: heilsʏ
       dative: heilsu
+      dative_pronunciation: heilsʏ
       genitive: heilsu
+      genitive_pronunciation: heilsʏ
     with article:
       nominative: heilsan
       nominative_translation: the health
       nominative_teach: true
       nominative_teachtable: true
       accusative: heilsuna
+      accusative_pronunciation: heilsʏna
       dative: heilsunni
+      dative_pronunciation: heilsʏnɪ
       genitive: heilsunnar
+      genitive_pronunciation: <span class="guessed">heilsʏnar</span>
 id: 1102
 teach_the_difference: ''
 gender: feminine

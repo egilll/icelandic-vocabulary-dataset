@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: skrúfa
       nominative_translation: a screw
-      nominative_sound: islex/336/336_67.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/336/336_67.mp3'
+      nominative_pronunciation: skruːa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true

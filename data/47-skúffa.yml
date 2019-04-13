@@ -6,25 +6,30 @@ conjugation:
     no article:
       nominative: skúffa
       nominative_translation: a drawer
-      nominative_sound: islex/042/042_13.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/042/042_13.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skúffu
+      accusative_pronunciation: skufʏ
       dative: skúffu
+      dative_pronunciation: skufʏ
       genitive: skúffu
+      genitive_pronunciation: skufʏ
     with article:
       nominative: skúffan
       nominative_translation: the drawer
       nominative_teach: true
       nominative_teachtable: true
       accusative: skúffuna
+      accusative_pronunciation: skufʏna
       dative: skúffunni
       genitive: skúffunnar
   plural:
     with article:
       nominative: skúffurnar
       nominative_translation: the drawers
+      nominative_pronunciation: skufʏrtnar
       nominative_teach: true
       nominative_teachtable: false
 id: 1664

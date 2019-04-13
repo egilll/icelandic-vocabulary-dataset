@@ -5,23 +5,28 @@ conjugation:
   active voice:
     infinitive: '[að] fjarlægja'
     infinitive_translation: to remove
-    infinitive_sound: islex/155/155_42.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/155/155_42.mp3'
+    infinitive_pronunciation: fjarlaija
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] fjarlægði'
           1st person_translation: I removed
+          1st person_pronunciation: fjarlaiɣðɪ
           1st person_teach: true
           2nd person: '[þú] fjarlægðir'
           2nd person_translation: you¹ removed
+          2nd person_pronunciation: fjarlaiɣðɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] fjarlægði'
           3rd person_translation: he/she/it removed
+          3rd person_pronunciation: fjarlaiɣðɪ
           3rd person_teach: true
         plural:
           1st person: '[við] fjarlægðum'
           1st person_translation: we removed
+          1st person_pronunciation: <span class="guessed">fjarlaiɣðʏm</span>
           1st person_teach: true
           2nd person: '[þið] fjarlægðuð'
           2nd person_translation: you² removed
@@ -32,5 +37,6 @@ conjugation:
   supine:
     active voice: '[ég hef] fjarlægt'
     active voice_translation: I have removed
+    active voice_pronunciation: fjarlaixt
     active voice_teach: true
 id: 2102

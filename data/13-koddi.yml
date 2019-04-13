@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: koddi
       nominative_translation: a pillow
-      nominative_sound: islex/215/215_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/215/215_97.mp3'
+      nominative_pronunciation: kʰɔtɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kodda
+      accusative_pronunciation: kʰɔta
       dative: kodda
+      dative_pronunciation: kʰɔta
       genitive: kodda
+      genitive_pronunciation: kʰɔta
     with article:
       nominative: koddinn
       nominative_translation: the pillow
       nominative_teach: true
       nominative_teachtable: true
       accusative: koddann
+      accusative_pronunciation: kʰɔtan
       dative: koddanum
       genitive: koddans
   plural:
@@ -29,15 +34,20 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kodda
+      accusative_pronunciation: kʰɔta
       dative: koddum
+      dative_pronunciation: kʰɔtʏm
       genitive: kodda
+      genitive_pronunciation: kʰɔta
     with article:
       nominative: koddarnir
       nominative_translation: the pillows
       nominative_teach: true
       nominative_teachtable: true
       accusative: koddana
+      accusative_pronunciation: kʰɔtana
       dative: koddunum
       genitive: koddanna
+      genitive_pronunciation: <span class="guessed">kʰɔtanaː</span>
 id: 1252
 gender: masculine

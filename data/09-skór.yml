@@ -6,20 +6,27 @@ conjugation:
     no article:
       nominative: skór
       nominative_translation: shoes
-      nominative_sound: islex/030/030_33.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/030/030_33.mp3'
+      nominative_pronunciation: skouːr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skó
+      accusative_pronunciation: skouː
       dative: skóm
+      dative_pronunciation: skouːm
       genitive: skóa
+      genitive_pronunciation: <span class="guessed">skouːaː</span>
     with article:
       nominative: skórnir
       nominative_translation: the shoes
+      nominative_pronunciation: skourtnɪr
       nominative_teach: true
       nominative_teachtable: true
       accusative: skóna
+      accusative_pronunciation: skouna
       dative: skónum
+      dative_pronunciation: skouːnʏm
       genitive: skónna
 id: 1658
 gender: masculine

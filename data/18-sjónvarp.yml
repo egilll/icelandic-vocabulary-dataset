@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: sjónvarp
       nominative_translation: a television
-      nominative_sound: islex/003/003_38.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/003/003_38.mp3'
+      nominative_pronunciation: sjounvar̥p
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sjónvarp
-      accusative_sound: islex/003/003_38.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/003/003_38.mp3'
+      accusative_pronunciation: sjounvar̥p
       dative: sjónvarpi
+      dative_pronunciation: sjounvar̥pɪ
       genitive: sjónvarps
+      genitive_pronunciation: sjounvar̥s
     with article:
       nominative: sjónvarpið
       nominative_translation: the television
+      nominative_pronunciation: sjounvar̥pɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: sjónvarpið
+      accusative_pronunciation: sjounvar̥pɪð
       dative: sjónvarpinu
+      dative_pronunciation: sjounvar̥pɪnʏ
       genitive: sjónvarpsins
+      genitive_pronunciation: sjounvar̥sɪns
 id: 1624
 gender: neuter

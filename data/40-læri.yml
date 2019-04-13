@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: læri
       nominative_translation: a thigh; leg of lamb
-      nominative_sound: islex/161/161_69.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/161/161_69.mp3'
+      nominative_pronunciation: laiːrɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: læri
-      accusative_sound: islex/161/161_69.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/161/161_69.mp3'
+      accusative_pronunciation: laiːrɪ
       dative: læri
-      dative_sound: islex/161/161_69.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/161/161_69.mp3'
+      dative_pronunciation: laiːrɪ
       genitive: læris
+      genitive_pronunciation: <span class="guessed">laiːrɪːs</span>
     with article:
       nominative: lærið
       nominative_translation: the thigh; the leg of lamb
+      nominative_pronunciation: <span class="guessed">laiːrɪːð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: lærið
+      accusative_pronunciation: <span class="guessed">laiːrɪːð</span>
       dative: lærinu
+      dative_pronunciation: laiːrɪnu
       genitive: lærisins
 id: 1286
 gender: neuter

@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: veisla
       nominative_translation: 'a party, a celebration'
-      nominative_sound: islex/171/171_52.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/171/171_52.mp3'
+      nominative_pronunciation: veistla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: veislu
+      accusative_pronunciation: veistlʏ
       dative: veislu
+      dative_pronunciation: veistlʏ
       genitive: veislu
+      genitive_pronunciation: veistlʏ
     with article:
       nominative: veislan
       nominative_translation: 'the party, the celebration'
+      nominative_pronunciation: veistlan
       nominative_teach: true
       nominative_teachtable: true
       accusative: veisluna
+      accusative_pronunciation: veistlʏna
       dative: veislunni
+      dative_pronunciation: veistlʏnɪ
       genitive: veislunnar
+      genitive_pronunciation: veistlʏnar
 id: 1904
 gender: feminine

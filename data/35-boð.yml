@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: boð
       nominative_translation: an invitation; a party
-      nominative_sound: islex/473/473_21.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/473/473_21.mp3'
+      nominative_pronunciation: pɔːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: boð
-      accusative_sound: islex/473/473_21.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/473/473_21.mp3'
+      accusative_pronunciation: pɔːð
       dative: boði
-      dative_sound: islex/261/261_74.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/261/261_74.mp3'
+      dative_pronunciation: pɔːðɪ
       genitive: boðs
     with article:
       nominative: boðið
       nominative_translation: the invitation; the party
+      nominative_pronunciation: pɔːðɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: boðið
+      accusative_pronunciation: pɔːðɪð
       dative: boðinu
+      dative_pronunciation: pɔːðɪnʏ
       genitive: boðsins
 id: 822
 gender: neuter

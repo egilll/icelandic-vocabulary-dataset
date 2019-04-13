@@ -6,25 +6,29 @@ conjugation:
     no article:
       nominative: appelsína
       nominative_translation: an orange
-      nominative_sound: islex/150/150_48.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/150/150_48.mp3'
+      nominative_pronunciation: <span class="guessed">ahpɛlsinaː</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: appelsínan
       nominative_translation: the orange
+      nominative_pronunciation: <span class="guessed">ahpɛlsinaːn</span>
       nominative_teach: false
       nominative_teachtable: false
   plural:
     no article:
       nominative: appelsínur
       nominative_translation: oranges
+      nominative_pronunciation: ahpɛlsinʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: appelsínurnar
       nominative_translation: the oranges
+      nominative_pronunciation: ahpɛlsinʏtnar
       nominative_teach: false
       nominative_teachtable: false
 id: 726

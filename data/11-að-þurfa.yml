@@ -5,97 +5,121 @@ conjugation:
   active voice:
     infinitive: '[að] þurfa'
     infinitive_translation: to need; must
-    infinitive_sound: islex/216/216_73.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/216/216_73.mp3'
+    infinitive_pronunciation: θʏrva
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] þarf'
           1st person_translation: I need; I must
+          1st person_pronunciation: θarv
           1st person_teach: true
           2nd person: '[þú] þarft'
           2nd person_translation: you¹ need; you¹ must
+          2nd person_pronunciation: θar̥t
           2nd person_teach: true
           3rd person: '[hann/hún/það] þarf'
           3rd person_translation: he/she/it needs; he/she/it must
+          3rd person_pronunciation: θarv
           3rd person_teach: true
         plural:
           1st person: '[við] þurfum'
           1st person_translation: we need; we must
+          1st person_pronunciation: θʏrvʏm
           1st person_teach: true
           2nd person: '[þið] þurfið'
           2nd person_translation: you² need; you² must
+          2nd person_pronunciation: θʏrvɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] þurfa'
           3rd person_translation: they need; they must
-          3rd person_sound: islex/216/216_73.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/216/216_73.mp3'
+          3rd person_pronunciation: θʏrva
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] þurfti'
           1st person_translation: I needed; I had to
+          1st person_pronunciation: θʏr̥tɪ
           1st person_teach: true
           2nd person: '[þú] þurftir'
           2nd person_translation: you¹ needed; you¹ had to
+          2nd person_pronunciation: θʏr̥tɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] þurfti'
           3rd person_translation: he/she/it needed; he/she/it had to
+          3rd person_pronunciation: θʏr̥tɪ
           3rd person_teach: true
         plural:
           1st person: '[við] þurftum'
           1st person_translation: we needed; we had to
+          1st person_pronunciation: θʏr̥tʏm
           1st person_teach: true
           2nd person: '[þið] þurftuð'
           2nd person_translation: you² needed; you² had to
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] þurftu'
           3rd person_translation: they needed; they had to
+          3rd person_pronunciation: θʏr̥tʏ
           3rd person_teach: true
     subjunctive:
       present:
         singular:
           1st person: '[ég held að] [ég] þurfi'
           1st person_translation: I think I need; I think I must
+          1st person_pronunciation: θʏrvɪ
           1st person_teach: true
           2nd person: '[ég held að] [þú] þurfir'
           2nd person_translation: I think you¹ need; I think you¹ must
+          2nd person_pronunciation: θʏrvɪr
           2nd person_teach: true
           3rd person: '[ég held að] [hann/hún/það] þurfi'
           3rd person_translation: I think he/she/it needs; I think he/she/it must
+          3rd person_pronunciation: θʏrvɪ
           3rd person_teach: true
         plural:
           1st person: '[ég held að] [við] þurfum'
           1st person_translation: I think we need; I think we must
+          1st person_pronunciation: θʏrvʏm
           1st person_teach: true
           2nd person: '[ég held að] [þið] þurfið'
           2nd person_translation: I think you² need; I think you² must
+          2nd person_pronunciation: θʏrvɪð
           2nd person_teach: true
           3rd person: '[ég held að] [þeir/þær/þau] þurfi'
           3rd person_translation: I think they need; I think they must
+          3rd person_pronunciation: θʏrvɪ
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég hélt að] [ég] þyrfti'
           1st person_translation: I thought I would need; I thought I would must
+          1st person_pronunciation: θɪr̥tɪ
           1st person_teach: true
           2nd person: '[ég hélt að] [þú] þyrftir'
           2nd person_translation: I thought you¹ would need; I thought you¹ would must
+          2nd person_pronunciation: θɪr̥tɪr
           2nd person_teach: true
           3rd person: '[ég hélt að] [hann/hún/það] þyrfti'
           3rd person_translation: I thought he/she/it would need; I thought he/she/it would must
+          3rd person_pronunciation: θɪr̥tɪ
           3rd person_teach: true
         plural:
           1st person: '[ég hélt að] [við] þyrftum'
           1st person_translation: I thought we would need; I thought we would must
+          1st person_pronunciation: θɪr̥tʏm
           1st person_teach: true
           2nd person: '[ég hélt að] [þið] þyrftuð'
           2nd person_translation: I thought you² would need; I thought you² would must
           2nd person_teach: true
           3rd person: '[ég hélt að] [þeir/þær/þau] þyrftu'
           3rd person_translation: I thought they would need; I thought they would must
+          3rd person_pronunciation: θɪr̥tʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] þurft'
     active voice_translation: I have needed; I have had to
+    active voice_pronunciation: θʏr̥t
     active voice_teach: true
 id: 2013

@@ -6,17 +6,21 @@ conjugation:
     no article:
       nominative: rugl
       nominative_translation: gibberish
-      nominative_sound: islex/179/179_58.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/179/179_58.mp3'
+      nominative_pronunciation: rʏkl̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: rugl
-      accusative_sound: islex/179/179_58.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/179/179_58.mp3'
+      accusative_pronunciation: rʏkl̥
       dative: rugli
+      dative_pronunciation: rʏklɪ
       genitive: rugls
     with article:
       nominative: ruglið
       nominative_translation: the gibberish
+      nominative_pronunciation: rʏklɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 1573

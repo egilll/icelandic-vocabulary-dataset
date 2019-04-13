@@ -6,38 +6,54 @@ conjugation:
     no article:
       nominative: æfing
       nominative_translation: an exercise; a training session
-      nominative_sound: islex/229/229_40.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/229/229_40.mp3'
+      nominative_pronunciation: aiːviŋk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: æfingu
+      accusative_pronunciation: aiːviŋkʏ
       dative: æfingu
+      dative_pronunciation: aiːviŋkʏ
       genitive: æfingar
+      genitive_pronunciation: aiːviŋkar
     with article:
       nominative: æfingin
       nominative_translation: the exercise; the training session
+      nominative_pronunciation: aiːviɲcɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: æfinguna
+      accusative_pronunciation: aiːviŋkʏna
       dative: æfingunni
+      dative_pronunciation: aiːviŋkʏnɪ
       genitive: æfingarinnar
+      genitive_pronunciation: <span class="guessed">aiːviŋkarɪnar</span>
   plural:
     no article:
       nominative: æfingar
       nominative_translation: exercises; training sessions
+      nominative_pronunciation: aiːviŋkar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: æfingar
+      accusative_pronunciation: aiːviŋkar
       dative: æfingum
+      dative_pronunciation: aiːviŋkʏm
       genitive: æfinga
+      genitive_pronunciation: aiːviŋka
     with article:
       nominative: æfingarnar
       nominative_translation: the exercises; the training sessions
+      nominative_pronunciation: aiːviŋkatnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: æfingarnar
+      accusative_pronunciation: aiːviŋkatnar
       dative: æfingunum
+      dative_pronunciation: aiːviŋkɔnʏm
       genitive: æfinganna
+      genitive_pronunciation: <span class="guessed">aiːviŋkana</span>
 id: 692
 gender: feminine

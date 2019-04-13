@@ -6,22 +6,29 @@ conjugation:
     no article:
       nominative: hnífur
       nominative_translation: a knife
-      nominative_sound: islex/288/288_57.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/288/288_57.mp3'
+      nominative_pronunciation: n̥iːvʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hníf
+      accusative_pronunciation: n̥iːv
       dative: hníf
+      dative_pronunciation: n̥iːv
       dative_alternative:
         - hnífi
       genitive: hnífs
+      genitive_pronunciation: n̥ifs
     with article:
       nominative: hnífurinn
       nominative_translation: the knife
+      nominative_pronunciation: n̥iːvʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hnífinn
+      accusative_pronunciation: n̥iːvɪn
       dative: hnífnum
+      dative_pronunciation: n̥ipnʏm
       genitive: hnífsins
   plural:
     no article:
@@ -31,16 +38,21 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hnífa
+      accusative_pronunciation: n̥iːva
       dative: hnífum
+      dative_pronunciation: <span class="guessed">n̥iːvʏm</span>
       genitive: hnífa
+      genitive_pronunciation: n̥iːva
     with article:
       nominative: hnífarnir
       nominative_translation: the knives
       nominative_teach: true
       nominative_teachtable: true
       accusative: hnífana
+      accusative_pronunciation: n̥iːvana
       dative: hnífunum
       genitive: hnífanna
+      genitive_pronunciation: <span class="guessed">n̥iːvana</span>
 id: 1146
 gender: masculine
 recognizable: '1'

@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: efni
       nominative_translation: material; matter
-      nominative_sound: islex/238/238_56.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/238/238_56.mp3'
+      nominative_pronunciation: ɛpnɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: efnið
       nominative_translation: the material; the matter
+      nominative_pronunciation: ɛpnɪð
       nominative_teach: false
       nominative_teachtable: false
 id: 897

@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: lokapróf
       nominative_translation: a final exam
-      nominative_sound: islex/164/164_17.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/164/164_17.mp3'
+      nominative_pronunciation: <span class="guessed">lɔːkapʰrouːv</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lokapróf
-      accusative_sound: islex/164/164_17.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/164/164_17.mp3'
+      accusative_pronunciation: <span class="guessed">lɔːkapʰrouːv</span>
       dative: lokaprófi
+      dative_pronunciation: <span class="guessed">lɔːkapʰrouːɪ</span>
       genitive: lokaprófs
+      genitive_pronunciation: <span class="guessed">lɔːkapʰroufs</span>
     with article:
       nominative: lokaprófið
       nominative_translation: the final exam
+      nominative_pronunciation: <span class="guessed">lɔːkapʰrouːɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: lokaprófið
+      accusative_pronunciation: <span class="guessed">lɔːkapʰrouːɪð</span>
       dative: lokaprófinu
+      dative_pronunciation: <span class="guessed">lɔːkapʰrouːɪnʏ</span>
       genitive: lokaprófsins
+      genitive_pronunciation: <span class="guessed">lɔːkapʰroufsɪns</span>
 id: 1356
 gender: neuter

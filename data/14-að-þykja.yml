@@ -5,55 +5,68 @@ conjugation:
   active voice:
     infinitive: '[að] þykja'
     infinitive_translation: 'to find something to be, to regard something as'
-    infinitive_sound: islex/401/401_26.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/401/401_26.mp3'
+    infinitive_pronunciation: θɪːca
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[mér] þykir'
           1st person_translation: 'I find something to be, I regard something as'
+          1st person_pronunciation: θɪːcɪr
           1st person_teach: true
           2nd person: '[þér] þykir'
           2nd person_translation: 'you¹ find something to be, you¹ regard something as'
+          2nd person_pronunciation: θɪːcɪr
           2nd person_teach: true
           3rd person: '[honum/henni/því] þykir'
           3rd person_translation: 'he/she/it finds something to be, he/she/it regards something as'
+          3rd person_pronunciation: θɪːcɪr
           3rd person_teach: true
         plural:
           1st person: '[okkur] þykir'
           1st person_translation: 'we find something to be, we regard something as'
+          1st person_pronunciation: θɪːcɪr
           1st person_teach: true
           2nd person: '[ykkur] þykir'
           2nd person_translation: 'you² find something to be, you² regard something as'
+          2nd person_pronunciation: θɪːcɪr
           2nd person_teach: true
           3rd person: '[þeim] þykir'
           3rd person_translation: 'they find something to be, they regard something as'
+          3rd person_pronunciation: θɪːcɪr
           3rd person_teach: true
       past:
         singular:
           1st person: '[mér] þótti'
           1st person_translation: 'I found something to be, I regarded something as'
-          1st person_sound: islex/073/073_14.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/073/073_14.mp3'
+          1st person_pronunciation: θouhtɪ
           1st person_teach: true
           2nd person: '[þér] þótti'
           2nd person_translation: 'you¹ found something to be, you¹ regarded something as'
-          2nd person_sound: islex/073/073_14.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/073/073_14.mp3'
+          2nd person_pronunciation: θouhtɪ
           2nd person_teach: true
           3rd person: '[honum/henni/því] þótti'
           3rd person_translation: 'he/she/it found something to be, he/she/it regarded something as'
-          3rd person_sound: islex/073/073_14.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/073/073_14.mp3'
+          3rd person_pronunciation: θouhtɪ
           3rd person_teach: true
         plural:
           1st person: '[okkur] þótti'
           1st person_translation: 'we found something to be, we regarded something as'
-          1st person_sound: islex/073/073_14.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/073/073_14.mp3'
+          1st person_pronunciation: θouhtɪ
           1st person_teach: true
           2nd person: '[ykkur] þótti'
           2nd person_translation: 'you² found something to be, you² regarded something as'
-          2nd person_sound: islex/073/073_14.mp3
+          2nd person_sound: 'https://media.egill.xyz/audio/islex/073/073_14.mp3'
+          2nd person_pronunciation: θouhtɪ
           2nd person_teach: true
           3rd person: '[þeim] þótti'
           3rd person_translation: 'they found something to be, they regarded something as'
-          3rd person_sound: islex/073/073_14.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/073/073_14.mp3'
+          3rd person_pronunciation: θouhtɪ
           3rd person_teach: true
 id: 2015

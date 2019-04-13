@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: afmæli
       nominative_translation: a birthday
-      nominative_sound: islex/241/241_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/241/241_91.mp3'
+      nominative_pronunciation: amailɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: afmæli
-      accusative_sound: islex/241/241_91.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/241/241_91.mp3'
+      accusative_pronunciation: amailɪ
       dative: afmæli
-      dative_sound: islex/241/241_91.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/241/241_91.mp3'
+      dative_pronunciation: amailɪ
       genitive: afmælis
+      genitive_pronunciation: amailɪs
     with article:
       nominative: afmælið
       nominative_translation: the birthday
+      nominative_pronunciation: amailɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: afmælið
+      accusative_pronunciation: amailɪð
       dative: afmælinu
+      dative_pronunciation: amailɪnʏ
       genitive: afmælisins
+      genitive_pronunciation: amailɪsɪns
 id: 701
 gender: neuter

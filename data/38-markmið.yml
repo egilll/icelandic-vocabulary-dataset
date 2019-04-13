@@ -6,6 +6,7 @@ conjugation:
     with article:
       nominative: markmiðið
       nominative_translation: 'the aim, the goal'
+      nominative_pronunciation: mar̥kmɪðɪð
       nominative_teach: true
       nominative_teachtable: false
 id: 1385

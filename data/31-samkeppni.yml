@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: samkeppni
       nominative_translation: a competition
-      nominative_sound: islex/347/347_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/347/347_71.mp3'
+      nominative_pronunciation: samcɛhpnɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: samkeppnin
       nominative_translation: the competition
+      nominative_pronunciation: samcɛhpnɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1593

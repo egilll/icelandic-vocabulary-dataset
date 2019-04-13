@@ -6,17 +6,22 @@ conjugation:
     no article:
       nominative: þvottahús
       nominative_translation: a laundry room
-      nominative_sound: islex/109/109_31.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/109/109_31.mp3'
+      nominative_pronunciation: θvɔhtahuːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: þvottahúsið
       nominative_translation: the laundry room
+      nominative_pronunciation: θvɔhtahuːsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: þvottahúsið
+      accusative_pronunciation: θvɔhtahuːsɪð
       dative: þvottahúsinu
+      dative_pronunciation: θvɔhtahuːsɪnʏ
       genitive: þvottahússins
+      genitive_pronunciation: <span class="guessed">θvɔhtahusɪns</span>
 id: 1968
 gender: neuter

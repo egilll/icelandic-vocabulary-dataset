@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: tæki
       nominative_translation: a device
-      nominative_sound: islex/002/002_02.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/002/002_02.mp3'
+      nominative_pronunciation: tʰaiːcɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: tæki
-      accusative_sound: islex/002/002_02.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/002/002_02.mp3'
+      accusative_pronunciation: tʰaiːcɪ
       dative: tæki
-      dative_sound: islex/002/002_02.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/002/002_02.mp3'
+      dative_pronunciation: tʰaiːcɪ
       genitive: tækis
     with article:
       nominative: tækið
       nominative_translation: the device
+      nominative_pronunciation: tʰaiːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: tækið
+      accusative_pronunciation: tʰaiːcɪð
       dative: tækinu
+      dative_pronunciation: tʰaiːcɪnʏ
       genitive: tækisins
 id: 1807
 gender: neuter

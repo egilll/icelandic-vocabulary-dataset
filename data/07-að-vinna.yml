@@ -5,30 +5,37 @@ conjugation:
   active voice:
     infinitive: '[að] vinna'
     infinitive_translation: to work; to win
-    infinitive_sound: islex/233/233_75.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/233/233_75.mp3'
+    infinitive_pronunciation: vɪna
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] vinn'
           1st person_translation: I work; I win
+          1st person_pronunciation: vɪn
           1st person_teach: true
           2nd person: '[þú] vinnur'
           2nd person_translation: you¹ work; you¹ win
+          2nd person_pronunciation: vɪnʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] vinnur'
           3rd person_translation: he/she/it works; he/she/it wins
+          3rd person_pronunciation: vɪnʏr
           3rd person_teach: true
         plural:
           1st person: '[við] vinnum'
           1st person_translation: we work; we win
+          1st person_pronunciation: vɪnʏm
           1st person_teach: true
           2nd person: '[þið] vinnið'
           2nd person_translation: you² work; you² win
+          2nd person_pronunciation: <span class="guessed">vɪːnnɪːð</span>
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] vinna'
           3rd person_translation: they work; they win
-          3rd person_sound: islex/233/233_75.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/233/233_75.mp3'
+          3rd person_pronunciation: vɪna
           3rd person_teach: true
       past:
         singular:
@@ -44,16 +51,19 @@ conjugation:
         plural:
           1st person: '[við] unnum'
           1st person_translation: we worked; we won
+          1st person_pronunciation: ʏnʏm
           1st person_teach: true
           2nd person: '[þið] unnuð'
           2nd person_translation: you² worked; you² won
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] unnu'
           3rd person_translation: they worked; they won
+          3rd person_pronunciation: ʏnʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] unnið'
     active voice_translation: I have worked; I have won
+    active voice_pronunciation: ʏnɪð
     active voice_teach: true
 id: 2009
 strong_verb_declension: true

@@ -6,23 +6,31 @@ conjugation:
     no article:
       nominative: lög
       nominative_translation: laws
-      nominative_sound: islex/412/412_94.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/412/412_94.mp3'
+      nominative_pronunciation: lœːɣ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: lög
-      accusative_sound: islex/412/412_94.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/412/412_94.mp3'
+      accusative_pronunciation: lœːɣ
       dative: lögum
+      dative_pronunciation: lœːɣʏm
       genitive: laga
-      genitive_sound: islex/066/066_16.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/066/066_16.mp3'
+      genitive_pronunciation: laːɣa
     with article:
       nominative: lögin
       nominative_translation: the laws
+      nominative_pronunciation: lœijɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: lögin
+      accusative_pronunciation: lœijɪn
       dative: lögunum
+      dative_pronunciation: lœːɣɔnʏm
       genitive: laganna
+      genitive_pronunciation: laːɣana
 id: 1349
 gender: neuter
 never_show_with: lag

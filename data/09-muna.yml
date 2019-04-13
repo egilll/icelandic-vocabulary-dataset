@@ -5,57 +5,70 @@ conjugation:
   active voice:
     infinitive: '[að] muna'
     infinitive_translation: to remember
-    infinitive_sound: islex/034/034_45.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/034/034_45.mp3'
+    infinitive_pronunciation: mʏːna
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] man'
           1st person_translation: I remember
-          1st person_sound: islex/005/005_21.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/005/005_21.mp3'
+          1st person_pronunciation: maːn
           1st person_teach: true
           2nd person: '[þú] manst'
           2nd person_translation: you¹ remember
           2nd person_teach: true
           3rd person: '[hann/hún/það] man'
           3rd person_translation: he/she/it remembers
-          3rd person_sound: islex/005/005_21.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/005/005_21.mp3'
+          3rd person_pronunciation: maːn
           3rd person_teach: true
         plural:
           1st person: '[við] munum'
           1st person_translation: we remember
+          1st person_pronunciation: mʏːnʏm
           1st person_teach: true
           2nd person: '[þið] munið'
           2nd person_translation: you² remember
+          2nd person_pronunciation: mʏːnɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] muna'
           3rd person_translation: they remember
-          3rd person_sound: islex/034/034_45.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/034/034_45.mp3'
+          3rd person_pronunciation: mʏːna
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] mundi'
           1st person_translation: I remembered
+          1st person_pronunciation: mʏntɪ
           1st person_teach: true
           2nd person: '[þú] mundir'
           2nd person_translation: you¹ remembered
+          2nd person_pronunciation: mʏntɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] mundi'
           3rd person_translation: he/she/it remembered
+          3rd person_pronunciation: mʏntɪ
           3rd person_teach: true
         plural:
           1st person: '[við] mundum'
           1st person_translation: we remembered
+          1st person_pronunciation: mʏntʏm
           1st person_teach: true
           2nd person: '[þið] munduð'
           2nd person_translation: you² remembered
+          2nd person_pronunciation: mʏntʏð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] mundu'
           3rd person_translation: they remembered
+          3rd person_pronunciation: mʏntʏ
           3rd person_teach: true
   imperative:
     active voice:
       singular: mundu!
       singular_translation: remember!¹
+      singular_pronunciation: mʏntʏ
       singular_teach: true
 id: 2254

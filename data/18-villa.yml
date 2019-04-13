@@ -6,32 +6,43 @@ conjugation:
     no article:
       nominative: villa
       nominative_translation: an error
-      nominative_sound: islex/134/134_55.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/134/134_55.mp3'
+      nominative_pronunciation: vɪtla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: villu
+      accusative_pronunciation: vɪtlʏ
       dative: villu
+      dative_pronunciation: vɪtlʏ
       genitive: villu
+      genitive_pronunciation: vɪtlʏ
     with article:
       nominative: villan
       nominative_translation: the error
+      nominative_pronunciation: vɪtlan
       nominative_teach: true
       nominative_teachtable: true
       accusative: villuna
+      accusative_pronunciation: <span class="guessed">vɪtl̥ʏːna</span>
       dative: villunni
+      dative_pronunciation: <span class="guessed">vɪtl̥ʏnɪ</span>
       genitive: villunnar
+      genitive_pronunciation: <span class="guessed">vɪtl̥ʏnar</span>
   plural:
     no article:
       nominative: villur
       nominative_translation: errors
-      nominative_sound: islex/054/054_96.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/054/054_96.mp3'
+      nominative_pronunciation: vɪtlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: villur
-      accusative_sound: islex/054/054_96.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/054/054_96.mp3'
+      accusative_pronunciation: vɪtlʏr
       dative: villum
+      dative_pronunciation: <span class="guessed">vɪtl̥ʏm</span>
       genitive: villna
     with article:
       nominative: villurnar
@@ -41,5 +52,6 @@ conjugation:
       accusative: villurnar
       dative: villunum
       genitive: villnanna
+      genitive_pronunciation: <span class="guessed">vɪtl̥nana</span>
 id: 1927
 gender: feminine

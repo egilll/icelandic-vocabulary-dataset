@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: steinselja
       nominative_translation: parsley
-      nominative_sound: islex/175/175_30.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/175/175_30.mp3'
+      nominative_pronunciation: stɛjnsɛlja
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: steinseljan
       nominative_translation: the parsley
+      nominative_pronunciation: <span class="guessed">steiːnsɛljan</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1740

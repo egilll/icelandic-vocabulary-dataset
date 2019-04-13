@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: skíði
       nominative_translation: skis
-      nominative_sound: islex/029/029_81.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/029/029_81.mp3'
+      nominative_pronunciation: sciːðɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skíði
-      accusative_sound: islex/029/029_81.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/029/029_81.mp3'
+      accusative_pronunciation: sciːðɪ
       dative: skíðum
+      dative_pronunciation: sciːðʏm
       genitive: skíða
-      genitive_sound: islex/417/417_67.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/417/417_67.mp3'
+      genitive_pronunciation: sciːða
     with article:
       nominative: skíðin
       nominative_translation: the skis
+      nominative_pronunciation: sciːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: skíðin
+      accusative_pronunciation: sciːðɪn
       dative: skíðunum
       genitive: skíðanna
 id: 1644

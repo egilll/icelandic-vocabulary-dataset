@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: kjáni
       nominative_translation: a silly person
-      nominative_sound: islex/228/228_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/228/228_01.mp3'
+      nominative_pronunciation: cʰauːnɪ
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

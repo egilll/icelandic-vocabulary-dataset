@@ -5,18 +5,21 @@ conjugation:
   active voice:
     infinitive: '[að] lofa'
     infinitive_translation: to promise
-    infinitive_sound: islex/067/067_12.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/067/067_12.mp3'
+    infinitive_pronunciation: lɔːva
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] lofa'
           1st person_translation: I promise
-          1st person_sound: islex/067/067_12.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/067/067_12.mp3'
+          1st person_pronunciation: lɔːva
           1st person_teach: true
       past:
         singular:
           1st person: '[ég] lofaði'
           1st person_translation: I promised
+          1st person_pronunciation: lɔːvaðɪ
           1st person_teach: true
 id: 2232

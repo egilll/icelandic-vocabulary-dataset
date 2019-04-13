@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: hamar
       nominative_translation: a hammer
-      nominative_sound: islex/305/305_60.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/305/305_60.mp3'
+      nominative_pronunciation: haːmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hamar
-      accusative_sound: islex/305/305_60.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/305/305_60.mp3'
+      accusative_pronunciation: haːmar
       dative: hamri
+      dative_pronunciation: hamrɪ
       genitive: hamars
+      genitive_pronunciation: haːmar̥s
     with article:
       nominative: hamarinn
       nominative_translation: the hammer
+      nominative_pronunciation: <span class="guessed">haːmarɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: hamarinn
+      accusative_pronunciation: <span class="guessed">haːmarɪn</span>
       dative: hamrinum
+      dative_pronunciation: hamrɪnʏm
       genitive: hamarsins
 id: 1082
 gender: masculine

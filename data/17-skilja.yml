@@ -5,46 +5,56 @@ conjugation:
   active voice:
     infinitive: '[að] skilja'
     infinitive_translation: to understand
-    infinitive_sound: islex/455/455_59.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/455/455_59.mp3'
+    infinitive_pronunciation: scɪlja
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] skil'
           1st person_translation: I understand
-          1st person_sound: islex/341/341_61.mp3
+          1st person_sound: 'https://media.egill.xyz/audio/islex/341/341_61.mp3'
+          1st person_pronunciation: scɪːl
           1st person_teach: true
           2nd person: '[þú] skilur'
           2nd person_translation: you¹ understand
+          2nd person_pronunciation: scɪːlʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] skilur'
           3rd person_translation: he/she/it understands
+          3rd person_pronunciation: scɪːlʏr
           3rd person_teach: true
         plural:
           1st person: '[við] skiljum'
           1st person_translation: we understand
+          1st person_pronunciation: scɪljʏm
           1st person_teach: true
           2nd person: '[þið] skiljið'
           2nd person_translation: you² understand
+          2nd person_pronunciation: scɪljɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] skilja'
           3rd person_translation: they understand
-          3rd person_sound: islex/455/455_59.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/455/455_59.mp3'
+          3rd person_pronunciation: scɪlja
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] skildi'
           1st person_translation: I understood
+          1st person_pronunciation: scɪltɪ
           1st person_teach: true
     subjunctive:
       present:
         singular:
           1st person: '[ég held að] [ég] skilji'
           1st person_translation: I think I understand
+          1st person_pronunciation: scɪljɪ
           1st person_teach: true
   supine:
     active voice: '[ég hef] skilið'
     active voice_translation: I have understood
-    active voice_sound: islex/373/373_73.mp3
+    active voice_sound: 'https://media.egill.xyz/audio/islex/373/373_73.mp3'
+    active voice_pronunciation: scɪːlɪð
     active voice_teach: true
 id: 2335

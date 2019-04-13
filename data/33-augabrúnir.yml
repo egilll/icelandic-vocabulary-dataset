@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: augabrúnir
       nominative_translation: eyebrows
+      nominative_pronunciation: œiːɣapruːnɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_alternative:
         - augabrýr
       accusative: augabrúnir
+      accusative_pronunciation: œiːɣapruːnɪr
       accusative_alternative:
         - augabrýr
       dative: augabrúnum
+      dative_pronunciation: œiːɣapruːnʏm
       genitive: augabrúna
+      genitive_pronunciation: <span class="guessed">œiːɣapruːna</span>
     with article:
       nominative: augabrúnirnar
       nominative_translation: the eyebrows
+      nominative_pronunciation: œiːɣapruːnɪtnar
       nominative_teach: false
       nominative_teachtable: false
       nominative_alternative:

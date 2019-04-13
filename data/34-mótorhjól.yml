@@ -6,22 +6,30 @@ conjugation:
     no article:
       nominative: mótorhjól
       nominative_translation: a motorcycle
-      nominative_sound: islex/225/225_12.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/225/225_12.mp3'
+      nominative_pronunciation: mouːtɔrçouːl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mótorhjól
-      accusative_sound: islex/225/225_12.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/225/225_12.mp3'
+      accusative_pronunciation: mouːtɔrçouːl
       dative: mótorhjóli
+      dative_pronunciation: mouːtɔrçouːlɪ
       genitive: mótorhjóls
+      genitive_pronunciation: <span class="guessed">mouːtɔrçouls</span>
     with article:
       nominative: mótorhjólið
       nominative_translation: the motorcycle
+      nominative_pronunciation: <span class="guessed">mouːtɔrçouːlɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: mótorhjólið
+      accusative_pronunciation: <span class="guessed">mouːtɔrçouːlɪð</span>
       dative: mótorhjólinu
+      dative_pronunciation: mouːtɔrçouːlɪnʏ
       genitive: mótorhjólsins
+      genitive_pronunciation: <span class="guessed">mouːtɔrçoulsɪns</span>
 id: 1420
 gender: neuter
 recognizable: '1'

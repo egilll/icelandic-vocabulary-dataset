@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: hamingja
       nominative_translation: happiness
-      nominative_sound: islex/027/027_36.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/027/027_36.mp3'
+      nominative_pronunciation: haːmiɲca
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hamingju
+      accusative_pronunciation: haːmiɲcʏ
       dative: hamingju
+      dative_pronunciation: haːmiɲcʏ
       genitive: hamingju
+      genitive_pronunciation: haːmiɲcʏ
     with article:
       nominative: hamingjan
       nominative_translation: the happiness
+      nominative_pronunciation: haːmiɲcan
       nominative_teach: false
       nominative_teachtable: false
 id: 1084

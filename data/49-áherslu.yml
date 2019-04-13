@@ -6,16 +6,21 @@ conjugation:
     no article:
       nominative: áhersla
       nominative_translation: emphasis
-      nominative_sound: islex/083/083_75.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/083/083_75.mp3'
+      nominative_pronunciation: auːhɛr̥stla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: áherslu
+      accusative_pronunciation: auːhɛr̥stlʏ
       dative: áherslu
+      dative_pronunciation: auːhɛr̥stlʏ
       genitive: áherslu
+      genitive_pronunciation: auːhɛr̥stlʏ
     with article:
       nominative: áherslan
       nominative_translation: the emphasis
+      nominative_pronunciation: auːhɛr̥stlan
       nominative_teach: true
       nominative_teachtable: false
 id: 709

@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: jarðfræði
       nominative_translation: geology
-      nominative_sound: islex/188/188_25.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/188/188_25.mp3'
+      nominative_pronunciation: jarðfraiðɪ
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: false

@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: pípari
       nominative_translation: a plumber
-      nominative_sound: islex/230/230_72.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/230/230_72.mp3'
+      nominative_pronunciation: <span class="guessed">pʰiːpaːrɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

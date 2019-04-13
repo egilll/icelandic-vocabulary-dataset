@@ -6,42 +6,55 @@ conjugation:
     no article:
       nominative: svín
       nominative_translation: a pig
-      nominative_sound: islex/418/418_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/418/418_24.mp3'
+      nominative_pronunciation: sviːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: svín
-      accusative_sound: islex/418/418_24.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/418/418_24.mp3'
+      accusative_pronunciation: sviːn
       dative: svíni
+      dative_pronunciation: sviːnɪ
       genitive: svíns
     with article:
       nominative: svínið
       nominative_translation: the pig
+      nominative_pronunciation: sviːnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: svínið
+      accusative_pronunciation: sviːnɪð
       dative: svíninu
+      dative_pronunciation: sviːnɪnʏ
       genitive: svínsins
   plural:
     no article:
       nominative: svín
       nominative_translation: pigs
-      nominative_sound: islex/418/418_24.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/418/418_24.mp3'
+      nominative_pronunciation: sviːn
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: svín
-      accusative_sound: islex/418/418_24.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/418/418_24.mp3'
+      accusative_pronunciation: sviːn
       dative: svínum
+      dative_pronunciation: <span class="guessed">sviːnʏm</span>
       genitive: svína
-      genitive_sound: islex/439/439_66.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/439/439_66.mp3'
+      genitive_pronunciation: sviːna
     with article:
       nominative: svínin
       nominative_translation: the pigs
+      nominative_pronunciation: sviːnɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: svínin
+      accusative_pronunciation: sviːnɪn
       dative: svínunum
       genitive: svínanna
+      genitive_pronunciation: <span class="guessed">sviːnana</span>
 id: 1796
 gender: neuter

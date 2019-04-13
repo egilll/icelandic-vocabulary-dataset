@@ -9,7 +9,10 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: ræktina
+      accusative_pronunciation: rajxtɪna
       dative: ræktinni
+      dative_pronunciation: <span class="guessed">raixtɪnɪ</span>
       genitive: ræktarinnar
+      genitive_pronunciation: <span class="guessed">raixtarɪnar</span>
 id: 1534
 gender: feminine

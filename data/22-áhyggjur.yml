@@ -6,13 +6,15 @@ conjugation:
     no article:
       nominative: áhyggjur
       nominative_translation: worries
-      nominative_sound: islex/067/067_63.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/067/067_63.mp3'
+      nominative_pronunciation: auːhɪcʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: áhyggjurnar
       nominative_translation: the worries
+      nominative_pronunciation: auːhɪcʏtnar
       nominative_teach: true
       nominative_teachtable: false
 id: 713

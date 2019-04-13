@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: horn
       nominative_translation: a corner
-      nominative_sound: islex/005/005_82.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/005/005_82.mp3'
+      nominative_pronunciation: hɔtn̥
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: horn
-      accusative_sound: islex/005/005_82.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/005/005_82.mp3'
+      accusative_pronunciation: hɔtn̥
       dative: horni
+      dative_pronunciation: hɔtnɪ
       genitive: horns
     with article:
       nominative: hornið
       nominative_translation: the corner
+      nominative_pronunciation: hɔtnɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: hornið
+      accusative_pronunciation: hɔtnɪð
       dative: horninu
+      dative_pronunciation: hɔtnɪnʏ
       genitive: hornsins
 id: 1157
 gender: neuter

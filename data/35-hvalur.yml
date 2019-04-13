@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: hvalur
       nominative_translation: a whale
-      nominative_sound: islex/204/204_61.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/204/204_61.mp3'
+      nominative_pronunciation: kʰvaːlʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: hval
+      accusative_pronunciation: kʰvaːl
       dative: hval
+      dative_pronunciation: kʰvaːl
       genitive: hvals
     with article:
       nominative: hvalurinn
       nominative_translation: the whale
+      nominative_pronunciation: kʰvaːlʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: hvalinn
+      accusative_pronunciation: <span class="guessed">kʰvaːlɪn</span>
       dative: hvalnum
       genitive: hvalsins
 id: 1179

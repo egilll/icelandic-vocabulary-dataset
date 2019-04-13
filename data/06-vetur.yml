@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: vetur
       nominative_translation: winter
-      nominative_sound: islex/264/264_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/264/264_20.mp3'
+      nominative_pronunciation: vɛːtʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: vetur
-      accusative_sound: islex/264/264_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/264/264_20.mp3'
+      accusative_pronunciation: vɛːtʏr
       dative: vetri
+      dative_pronunciation: vɛːtrɪ
       genitive: vetrar
+      genitive_pronunciation: vɛːtrar
     with article:
       nominative: veturinn
       nominative_translation: the winter
+      nominative_pronunciation: vɛːtʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: veturinn
+      accusative_pronunciation: vɛːtʏrɪn
       dative: vetrinum
+      dative_pronunciation: vɛːtrɪnʏm
       genitive: vetrarins
+      genitive_pronunciation: vɛːtrarɪns
 id: 1918
 gender: masculine

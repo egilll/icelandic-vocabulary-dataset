@@ -6,19 +6,25 @@ conjugation:
     no article:
       nominative: húfa
       nominative_translation: 'a cap, a beanie'
-      nominative_sound: islex/111/111_03.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/111/111_03.mp3'
+      nominative_pronunciation: huːa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: húfu
+      accusative_pronunciation: huːʏ
       dative: húfu
+      dative_pronunciation: huːʏ
       genitive: húfu
+      genitive_pronunciation: huːʏ
     with article:
       nominative: húfan
       nominative_translation: 'the cap, the beanie'
+      nominative_pronunciation: huːan
       nominative_teach: true
       nominative_teachtable: true
       accusative: húfuna
+      accusative_pronunciation: huːʏna
       dative: húfunni
       genitive: húfunnar
 id: 1170

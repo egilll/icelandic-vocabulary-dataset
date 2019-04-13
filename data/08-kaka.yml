@@ -6,40 +6,53 @@ conjugation:
     no article:
       nominative: kaka
       nominative_translation: a cake
-      nominative_sound: islex/085/085_46.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/085/085_46.mp3'
+      nominative_pronunciation: <span class="guessed">kʰaːkʰaː</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: köku
+      accusative_pronunciation: kʰœːkʏ
       dative: köku
+      dative_pronunciation: kʰœːkʏ
       genitive: köku
+      genitive_pronunciation: kʰœːkʏ
     with article:
       nominative: kakan
       nominative_translation: the cake
+      nominative_pronunciation: kʰaːkan
       nominative_teach: true
       nominative_teachtable: true
       accusative: kökuna
+      accusative_pronunciation: kʰœːkʏna
       dative: kökunni
+      dative_pronunciation: kʰœːkʏnɪ
       genitive: kökunnar
   plural:
     no article:
       nominative: kökur
       nominative_translation: cakes
+      nominative_pronunciation: kʰœːkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kökur
+      accusative_pronunciation: kʰœːkʏr
       dative: kökum
+      dative_pronunciation: kʰœːkʏm
       genitive: kakna
       genitive_alternative:
         - kaka
     with article:
       nominative: kökurnar
       nominative_translation: the cakes
+      nominative_pronunciation: kʰœːkʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: kökurnar
+      accusative_pronunciation: kʰœːkʏtnar
       dative: kökunum
+      dative_pronunciation: kʰœːkɔnʏm
       genitive: kaknanna
       genitive_alternative:
         - kakanna

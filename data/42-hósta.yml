@@ -5,12 +5,14 @@ conjugation:
   active voice:
     infinitive: '[að] hósta'
     infinitive_translation: to cough
-    infinitive_sound: islex/220/220_99.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/220/220_99.mp3'
+    infinitive_pronunciation: housta
     infinitive_teach: true
     indicative:
       past:
         singular:
           1st person: '[ég] hóstaði'
           1st person_translation: I coughed
+          1st person_pronunciation: houstaðɪ
           1st person_teach: true
 id: 2165

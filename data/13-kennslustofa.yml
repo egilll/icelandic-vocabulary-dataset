@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: kennslustofa
       nominative_translation: a classroom
-      nominative_sound: islex/017/017_01.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/017/017_01.mp3'
+      nominative_pronunciation: <span class="guessed">cʰɛnstlʏstɔːva</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kennslustofu
+      accusative_pronunciation: <span class="guessed">cʰɛnstlʏstɔːvʏ</span>
       dative: kennslustofu
+      dative_pronunciation: <span class="guessed">cʰɛnstlʏstɔːvʏ</span>
       genitive: kennslustofu
+      genitive_pronunciation: <span class="guessed">cʰɛnstlʏstɔːvʏ</span>
     with article:
       nominative: kennslustofan
       nominative_translation: the classroom
+      nominative_pronunciation: <span class="guessed">cʰɛnstlʏstɔːvan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: kennslustofuna
+      accusative_pronunciation: <span class="guessed">cʰɛnstlʏstɔːvʏna</span>
       dative: kennslustofunni
+      dative_pronunciation: <span class="guessed">cʰɛnstlʏstɔːvʏnɪ</span>
       genitive: kennslustofunnar
+      genitive_pronunciation: <span class="guessed">cʰɛnstlʏstɔːvʏnar</span>
 id: 1229
 gender: feminine

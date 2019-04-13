@@ -1,5 +1,7 @@
 word: einhver
 word_translation: somebody
+word_sound: 'https://media.egill.xyz/audio/islex/209/209_38.mp3'
+word_pronunciation: eiŋ̊kvɛr
 word_teach: true
 level: 2
 grammatical_category: pronoun

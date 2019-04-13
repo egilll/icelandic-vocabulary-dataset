@@ -6,19 +6,24 @@ conjugation:
     no article:
       nominative: uppþvottavél
       nominative_translation: a dish washer
-      nominative_sound: islex/178/178_25.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/178/178_25.mp3'
+      nominative_pronunciation: <span class="guessed">ʏhpθvɔhtavjɛːl</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       nominative_literal: up-washing-machine
       accusative: uppþvottavél
-      accusative_sound: islex/178/178_25.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/178/178_25.mp3'
+      accusative_pronunciation: <span class="guessed">ʏhpθvɔhtavjɛːl</span>
       dative: uppþvottavél
-      dative_sound: islex/178/178_25.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/178/178_25.mp3'
+      dative_pronunciation: <span class="guessed">ʏhpθvɔhtavjɛːl</span>
       genitive: uppþvottavélar
+      genitive_pronunciation: <span class="guessed">ʏhpθvɔhtavjɛːlar</span>
     with article:
       nominative: uppþvottavélin
       nominative_translation: the dish washer
+      nominative_pronunciation: <span class="guessed">ʏhpθvɔhtavjɛːlɪn</span>
       nominative_teach: true
       nominative_teachtable: false
 id: 1875

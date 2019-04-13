@@ -6,12 +6,14 @@ conjugation:
     no article:
       nominative: bekkjarsystkini
       nominative_translation: classmates
+      nominative_pronunciation: <span class="guessed">pɛhcarsɪscɪnɪ</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: bekkjarsystkinin
       nominative_translation: the classmates
+      nominative_pronunciation: <span class="guessed">pɛhcarsɪscɪnɪn</span>
       nominative_teach: false
       nominative_teachtable: false
 id: 785

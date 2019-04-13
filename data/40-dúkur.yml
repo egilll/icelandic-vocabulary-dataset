@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: dúkur
       nominative_translation: a tablecloth
-      nominative_sound: islex/061/061_54.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/061/061_54.mp3'
+      nominative_pronunciation: tuːkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: dúk
+      accusative_pronunciation: tuːk
       dative: dúk
+      dative_pronunciation: tuːk
       dative_alternative:
         - dúki
       genitive: dúks
     with article:
       nominative: dúkurinn
       nominative_translation: the tablecloth
+      nominative_pronunciation: tuːkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: dúkinn
+      accusative_pronunciation: tuːcɪn
       dative: dúknum
+      dative_pronunciation: tuhknʏm
       genitive: dúksins
 id: 887
 gender: masculine

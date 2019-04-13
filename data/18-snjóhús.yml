@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: snjóhús
       nominative_translation: an igloo
-      nominative_sound: islex/197/197_35.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/197/197_35.mp3'
+      nominative_pronunciation: <span class="guessed">stnjouːhuːs</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: snjóhús
-      accusative_sound: islex/197/197_35.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/197/197_35.mp3'
+      accusative_pronunciation: <span class="guessed">stnjouːhuːs</span>
       dative: snjóhúsi
+      dative_pronunciation: <span class="guessed">stnjouːhuːsɪ</span>
       genitive: snjóhúss
+      genitive_pronunciation: <span class="guessed">stnjouːhus</span>
     with article:
       nominative: snjóhúsið
       nominative_translation: the igloo
+      nominative_pronunciation: <span class="guessed">stnjouːhuːsɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: snjóhúsið
+      accusative_pronunciation: <span class="guessed">stnjouːhuːsɪð</span>
       dative: snjóhúsinu
+      dative_pronunciation: <span class="guessed">stnjouːhuːsɪnʏ</span>
       genitive: snjóhússins
+      genitive_pronunciation: <span class="guessed">stnjouːhusɪns</span>
 id: 1696
 gender: neuter

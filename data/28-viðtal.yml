@@ -6,32 +6,44 @@ conjugation:
     no article:
       nominative: viðtal
       nominative_translation: an interview
-      nominative_sound: islex/046/046_07.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/046/046_07.mp3'
+      nominative_pronunciation: vɪðtal
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: viðtal
-      accusative_sound: islex/046/046_07.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/046/046_07.mp3'
+      accusative_pronunciation: vɪðtal
       dative: viðtali
+      dative_pronunciation: vɪðtalɪ
       genitive: viðtals
+      genitive_pronunciation: vɪðtals
     with article:
       nominative: viðtalið
       nominative_translation: the interview
+      nominative_pronunciation: vɪðtalɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: viðtalið
+      accusative_pronunciation: vɪðtalɪð
       dative: viðtalinu
+      dative_pronunciation: vɪðtalɪnʏ
       genitive: viðtalsins
+      genitive_pronunciation: vɪðtalsɪns
   plural:
     no article:
       nominative: viðtöl
       nominative_translation: interviews
+      nominative_pronunciation: vɪðtœl
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: viðtöl
+      accusative_pronunciation: vɪðtœl
       dative: viðtölum
+      dative_pronunciation: vɪðtœlʏm
       genitive: viðtala
+      genitive_pronunciation: <span class="guessed">vɪːðtʰaːla</span>
     with article:
       nominative: viðtölin
       nominative_translation: the interviews
@@ -39,6 +51,8 @@ conjugation:
       nominative_teachtable: true
       accusative: viðtölin
       dative: viðtölunum
+      dative_pronunciation: <span class="guessed">vɪːðtʰœːlɔnʏm</span>
       genitive: viðtalanna
+      genitive_pronunciation: <span class="guessed">vɪðtalana</span>
 id: 1922
 gender: neuter

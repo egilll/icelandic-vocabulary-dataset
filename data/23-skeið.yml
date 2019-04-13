@@ -6,44 +6,59 @@ conjugation:
     no article:
       nominative: skeið
       nominative_translation: a spoon
-      nominative_sound: islex/050/050_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/050/050_91.mp3'
+      nominative_pronunciation: sceiːð
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skeið
-      accusative_sound: islex/050/050_91.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/050/050_91.mp3'
+      accusative_pronunciation: sceiːð
       dative: skeið
-      dative_sound: islex/050/050_91.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/050/050_91.mp3'
+      dative_pronunciation: sceiːð
       genitive: skeiðar
-      genitive_sound: islex/084/084_66.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/084/084_66.mp3'
+      genitive_pronunciation: sceiːðar
     with article:
       nominative: skeiðin
       nominative_translation: the spoon
+      nominative_pronunciation: <span class="guessed">scɛːɪːðɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: skeiðina
+      accusative_pronunciation: sceiːðɪna
       dative: skeiðinni
+      dative_pronunciation: <span class="guessed">sceiːðɪnɪ</span>
       genitive: skeiðarinnar
+      genitive_pronunciation: <span class="guessed">sceiːðarɪnar</span>
   plural:
     no article:
       nominative: skeiðar
       nominative_translation: spoons
-      nominative_sound: islex/084/084_66.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/084/084_66.mp3'
+      nominative_pronunciation: sceiːðar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skeiðar
-      accusative_sound: islex/084/084_66.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/084/084_66.mp3'
+      accusative_pronunciation: sceiːðar
       dative: skeiðum
+      dative_pronunciation: sceiːðʏm
       genitive: skeiða
-      genitive_sound: islex/163/163_01.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/163/163_01.mp3'
+      genitive_pronunciation: scɛːjða
     with article:
       nominative: skeiðarnar
       nominative_translation: the spoons
+      nominative_pronunciation: <span class="guessed">sceiːðartnar</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: skeiðarnar
+      accusative_pronunciation: <span class="guessed">sceiːðartnar</span>
       dative: skeiðunum
       genitive: skeiðanna
+      genitive_pronunciation: <span class="guessed">sceiːðana</span>
 id: 1640
 gender: feminine

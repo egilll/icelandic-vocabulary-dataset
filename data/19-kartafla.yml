@@ -6,41 +6,55 @@ conjugation:
     no article:
       nominative: kartafla
       nominative_translation: a potato
-      nominative_sound: islex/336/336_19.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/336/336_19.mp3'
+      nominative_pronunciation: <span class="guessed">kʰaːrtʰapla</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kartöflu
+      accusative_pronunciation: <span class="guessed">kʰaːrtʰœplʏ</span>
       dative: kartöflu
+      dative_pronunciation: <span class="guessed">kʰaːrtʰœplʏ</span>
       genitive: kartöflu
+      genitive_pronunciation: <span class="guessed">kʰaːrtʰœplʏ</span>
     with article:
       nominative: kartaflan
       nominative_translation: the potato
+      nominative_pronunciation: kʰar̥taplan
       nominative_teach: true
       nominative_teachtable: true
       accusative: kartöfluna
+      accusative_pronunciation: kʰar̥tœplʏna
       dative: kartöflunni
+      dative_pronunciation: <span class="guessed">kʰaːrtʰœplʏnɪ</span>
       genitive: kartöflunnar
   plural:
     no article:
       nominative: kartöflur
       nominative_translation: potatoes
+      nominative_pronunciation: kʰar̥tœplʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: kartöflur
+      accusative_pronunciation: kʰar̥tœplʏr
       dative: kartöflum
+      dative_pronunciation: kʰar̥tœplʏm
       genitive: kartaflna
       genitive_alternative:
         - kartafla
     with article:
       nominative: kartöflurnar
       nominative_translation: the potatoes
+      nominative_pronunciation: kʰar̥tœplʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: kartöflurnar
+      accusative_pronunciation: kʰar̥tœplʏtnar
       dative: kartöflunum
+      dative_pronunciation: kʰar̥tœplɔnʏm
       genitive: kartaflnanna
+      genitive_pronunciation: <span class="guessed">kʰaːrtʰapl̥nana</span>
       genitive_alternative:
         - kartaflanna
 id: 1223

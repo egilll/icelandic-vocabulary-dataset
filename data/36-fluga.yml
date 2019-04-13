@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: fluga
       nominative_translation: 'a fly, a bee'
-      nominative_sound: islex/163/163_00.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/163/163_00.mp3'
+      nominative_pronunciation: flʏːɣa
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: flugu
+      accusative_pronunciation: flʏːɣʏ
       dative: flugu
+      dative_pronunciation: flʏːɣʏ
       genitive: flugu
+      genitive_pronunciation: flʏːɣʏ
     with article:
       nominative: flugan
       nominative_translation: 'the fly, the bee'
+      nominative_pronunciation: flʏːɣan
       nominative_teach: true
       nominative_teachtable: true
       accusative: fluguna
+      accusative_pronunciation: flʏːɣʏna
       dative: flugunni
+      dative_pronunciation: <span class="guessed">flʏːɣʏnɪ</span>
       genitive: flugunnar
+      genitive_pronunciation: <span class="guessed">flʏːɣʏnar</span>
 id: 962
 gender: feminine

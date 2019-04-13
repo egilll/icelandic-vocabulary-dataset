@@ -6,21 +6,25 @@ conjugation:
     no article:
       nominative: partí
       nominative_translation: a party
-      nominative_sound: islex/478/478_97.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/478/478_97.mp3'
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: partí
-      accusative_sound: islex/478/478_97.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/478/478_97.mp3'
       dative: partíi
+      dative_pronunciation: pʰar̥tijɪ
       genitive: partís
     with article:
       nominative: partíið
       nominative_translation: the party
+      nominative_pronunciation: pʰar̥tijɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: partíið
+      accusative_pronunciation: pʰar̥tijɪð
       dative: partíinu
+      dative_pronunciation: pʰar̥tijɪnʏ
       genitive: partísins
 id: 1487
 gender: neuter

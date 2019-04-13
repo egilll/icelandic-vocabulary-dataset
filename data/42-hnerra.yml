@@ -5,7 +5,8 @@ conjugation:
   active voice:
     infinitive: '[að] hnerra'
     infinitive_translation: to sneeze
-    infinitive_sound: islex/327/327_77.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/327/327_77.mp3'
+    infinitive_pronunciation: n̥ɛra
     infinitive_teach: true
     indicative:
       past:

@@ -6,22 +6,28 @@ conjugation:
     no article:
       nominative: belti
       nominative_translation: a belt
-      nominative_sound: islex/448/448_16.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/448/448_16.mp3'
+      nominative_pronunciation: pɛl̥tɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: belti
-      accusative_sound: islex/448/448_16.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/448/448_16.mp3'
+      accusative_pronunciation: pɛl̥tɪ
       dative: belti
-      dative_sound: islex/448/448_16.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/448/448_16.mp3'
+      dative_pronunciation: pɛl̥tɪ
       genitive: beltis
     with article:
       nominative: beltið
       nominative_translation: the belt
+      nominative_pronunciation: pɛl̥tɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: beltið
+      accusative_pronunciation: pɛl̥tɪð
       dative: beltinu
+      dative_pronunciation: pɛl̥tɪnʏ
       genitive: beltisins
 id: 787
 gender: neuter

@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: þak
       nominative_translation: a roof
-      nominative_sound: islex/239/239_86.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/239/239_86.mp3'
+      nominative_pronunciation: θaːk
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: þak
-      accusative_sound: islex/239/239_86.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/239/239_86.mp3'
+      accusative_pronunciation: θaːk
       dative: þaki
+      dative_pronunciation: θaːcɪ
       genitive: þaks
+      genitive_pronunciation: θaːks
     with article:
       nominative: þakið
       nominative_translation: the roof
+      nominative_pronunciation: θaːcɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: þakið
+      accusative_pronunciation: θaːcɪð
       dative: þakinu
+      dative_pronunciation: θaːcɪnʏ
       genitive: þaksins
 id: 1951
 gender: neuter

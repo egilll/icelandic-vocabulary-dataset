@@ -6,20 +6,28 @@ conjugation:
     no article:
       nominative: ljósmyndari
       nominative_translation: a photographer
-      nominative_sound: islex/435/435_14.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/435/435_14.mp3'
+      nominative_pronunciation: ljouːsmʏntarɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: ljósmyndara
+      accusative_pronunciation: ljouːsmʏntara
       dative: ljósmyndara
+      dative_pronunciation: ljouːsmʏntara
       genitive: ljósmyndara
+      genitive_pronunciation: ljouːsmʏntara
     with article:
       nominative: ljósmyndarinn
       nominative_translation: the photographer
+      nominative_pronunciation: ljouːsmɪntarɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ljósmyndarann
+      accusative_pronunciation: ljouːsmʏntaran
       dative: ljósmyndaranum
+      dative_pronunciation: ljouːsmʏntaranʏm
       genitive: ljósmyndarans
+      genitive_pronunciation: ljouːsmʏntarans
 id: 1346
 gender: masculine

@@ -6,7 +6,8 @@ conjugation:
     no article:
       nominative: verkfræðingur
       nominative_translation: an engineer
-      nominative_sound: islex/183/183_02.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/183/183_02.mp3'
+      nominative_pronunciation: vɛr̥kfraiðiŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
@@ -14,6 +15,7 @@ conjugation:
     with article:
       nominative: verkfræðingurinn
       nominative_translation: the engineer
+      nominative_pronunciation: vɛr̥kfraiðiŋkʏrɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 1911

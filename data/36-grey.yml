@@ -6,21 +6,27 @@ conjugation:
     no article:
       nominative: grey
       nominative_translation: pitiful person
-      nominative_sound: islex/115/115_20.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/115/115_20.mp3'
+      nominative_pronunciation: kreiː
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: grey
-      accusative_sound: islex/115/115_20.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/115/115_20.mp3'
+      accusative_pronunciation: kreiː
       dative: greyi
+      dative_pronunciation: <span class="guessed">kreiːɪː</span>
       genitive: greys
     with article:
       nominative: greyið
       nominative_translation: the pitiful person
+      nominative_pronunciation: kreijɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: greyið
+      accusative_pronunciation: kreijɪð
       dative: greyinu
+      dative_pronunciation: <span class="guessed">kreiːɪːnʏ</span>
       genitive: greysins
 id: 1049
 gender: neuter

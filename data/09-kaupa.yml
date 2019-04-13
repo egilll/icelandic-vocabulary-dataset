@@ -5,55 +5,68 @@ conjugation:
   active voice:
     infinitive: '[að] kaupa'
     infinitive_translation: to buy
-    infinitive_sound: islex/226/226_97.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/226/226_97.mp3'
+    infinitive_pronunciation: kʰœiːpa
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] kaupi'
           1st person_translation: I buy
+          1st person_pronunciation: kʰœiːpɪ
           1st person_teach: true
           2nd person: '[þú] kaupir'
           2nd person_translation: you¹ buy
+          2nd person_pronunciation: kʰœiːpɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] kaupir'
           3rd person_translation: he/she/it buys
+          3rd person_pronunciation: kʰœiːpɪr
           3rd person_teach: true
         plural:
           1st person: '[við] kaupum'
           1st person_translation: we buy
+          1st person_pronunciation: kʰœiːpʏm
           1st person_teach: true
           2nd person: '[þið] kaupið'
           2nd person_translation: you² buy
+          2nd person_pronunciation: kʰœiːpɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] kaupa'
           3rd person_translation: they buy
-          3rd person_sound: islex/226/226_97.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/226/226_97.mp3'
+          3rd person_pronunciation: kʰœiːpa
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] keypti'
           1st person_translation: I bought
+          1st person_pronunciation: cʰeiftɪ
           1st person_teach: true
           2nd person: '[þú] keyptir'
           2nd person_translation: you¹ bought
+          2nd person_pronunciation: cʰeiftɪr
           2nd person_teach: true
           3rd person: '[hann/hún/það] keypti'
           3rd person_translation: he/she/it bought
+          3rd person_pronunciation: cʰeiftɪ
           3rd person_teach: true
         plural:
           1st person: '[við] keyptum'
           1st person_translation: we bought
+          1st person_pronunciation: cʰeiftʏm
           1st person_teach: true
           2nd person: '[þið] keyptuð'
           2nd person_translation: you² bought
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] keyptu'
           3rd person_translation: they bought
+          3rd person_pronunciation: cʰeiftʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] keypt'
     active voice_translation: I have bought
+    active voice_pronunciation: cʰeift
     active voice_teach: true
   imperative:
     active voice:

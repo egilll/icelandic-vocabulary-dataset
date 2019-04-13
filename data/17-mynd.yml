@@ -6,41 +6,57 @@ conjugation:
     no article:
       nominative: mynd
       nominative_translation: 'an image, a photo; a movie'
-      nominative_sound: islex/073/073_71.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/073/073_71.mp3'
+      nominative_pronunciation: mɪnt
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: mynd
-      accusative_sound: islex/073/073_71.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/073/073_71.mp3'
+      accusative_pronunciation: mɪnt
       dative: mynd
-      dative_sound: islex/073/073_71.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/073/073_71.mp3'
+      dative_pronunciation: mɪnt
       genitive: myndar
+      genitive_pronunciation: mɪntar
     with article:
       nominative: myndin
       nominative_translation: 'the image, the photo; the movie'
+      nominative_pronunciation: mɪntɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: myndina
+      accusative_pronunciation: mɪntɪna
       dative: myndinni
+      dative_pronunciation: mɪntɪnɪ
       genitive: myndarinnar
+      genitive_pronunciation: mɪntarɪnar
   plural:
     no article:
       nominative: myndir
       nominative_translation: 'images, photos; movies'
+      nominative_pronunciation: mɪntɪr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: myndir
+      accusative_pronunciation: mɪntɪr
       dative: myndum
+      dative_pronunciation: mɪntʏm
       genitive: mynda
-      genitive_sound: islex/112/112_02.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/112/112_02.mp3'
+      genitive_pronunciation: mɪnta
     with article:
       nominative: myndirnar
       nominative_translation: 'the images, the photos; the movies'
+      nominative_pronunciation: mɪntɪtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: myndirnar
+      accusative_pronunciation: mɪntɪtnar
       dative: myndunum
+      dative_pronunciation: mɪntɔnʏm
       genitive: myndanna
+      genitive_pronunciation: mɪntana
 id: 1426
 gender: feminine

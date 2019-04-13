@@ -6,13 +6,17 @@ conjugation:
     no article:
       nominative: skófla
       nominative_translation: showel
-      nominative_sound: islex/225/225_91.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/225/225_91.mp3'
+      nominative_pronunciation: skoupla
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: skóflu
+      accusative_pronunciation: skouplʏ
       dative: skóflu
+      dative_pronunciation: skouplʏ
       genitive: skóflu
+      genitive_pronunciation: skouplʏ
     with article:
       nominative: skóflan
       nominative_translation: the showel
@@ -25,6 +29,7 @@ conjugation:
     no article:
       nominative: skóflur
       nominative_translation: showels
+      nominative_pronunciation: skouplʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false

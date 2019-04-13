@@ -6,43 +6,57 @@ conjugation:
     no article:
       nominative: miði
       nominative_translation: a ticket; a slip of paper
-      nominative_sound: islex/133/133_74.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/133/133_74.mp3'
+      nominative_pronunciation: mɪːðɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: miða
-      accusative_sound: islex/447/447_54.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/447/447_54.mp3'
+      accusative_pronunciation: mɪːða
       dative: miða
-      dative_sound: islex/447/447_54.mp3
+      dative_sound: 'https://media.egill.xyz/audio/islex/447/447_54.mp3'
+      dative_pronunciation: mɪːða
       genitive: miða
-      genitive_sound: islex/447/447_54.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/447/447_54.mp3'
+      genitive_pronunciation: mɪːða
     with article:
       nominative: miðinn
       nominative_translation: the ticket; the slip of paper
+      nominative_pronunciation: mɪːðɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: miðann
+      accusative_pronunciation: mɪːðan
       dative: miðanum
+      dative_pronunciation: mɪːðanʏm
       genitive: miðans
   plural:
     no article:
       nominative: miðar
       nominative_translation: tickets
+      nominative_pronunciation: mɪːðar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: miða
-      accusative_sound: islex/447/447_54.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/447/447_54.mp3'
+      accusative_pronunciation: mɪːða
       dative: miðum
+      dative_pronunciation: mɪːðʏm
       genitive: miða
-      genitive_sound: islex/447/447_54.mp3
+      genitive_sound: 'https://media.egill.xyz/audio/islex/447/447_54.mp3'
+      genitive_pronunciation: mɪːða
     with article:
       nominative: miðarnir
       nominative_translation: the tickets
       nominative_teach: true
       nominative_teachtable: true
       accusative: miðana
+      accusative_pronunciation: mɪːðana
       dative: miðunum
+      dative_pronunciation: mɪːðɔnʏm
       genitive: miðanna
+      genitive_pronunciation: <span class="guessed">mɪːðana</span>
 id: 1402
 gender: masculine

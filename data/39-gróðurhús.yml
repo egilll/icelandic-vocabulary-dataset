@@ -6,21 +6,29 @@ conjugation:
     no article:
       nominative: gróðurhús
       nominative_translation: a greenhouse
-      nominative_sound: islex/302/302_28.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/302/302_28.mp3'
+      nominative_pronunciation: krouːðʏrhuːs
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: gróðurhús
-      accusative_sound: islex/302/302_28.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/302/302_28.mp3'
+      accusative_pronunciation: krouːðʏrhuːs
       dative: gróðurhúsi
+      dative_pronunciation: <span class="guessed">krouːðʏrhuːsɪ</span>
       genitive: gróðurhúss
+      genitive_pronunciation: <span class="guessed">krouːðʏrhus</span>
     with article:
       nominative: gróðurhúsið
       nominative_translation: the greenhouse
+      nominative_pronunciation: <span class="guessed">krouːðʏrhuːsɪð</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: gróðurhúsið
+      accusative_pronunciation: <span class="guessed">krouːðʏrhuːsɪð</span>
       dative: gróðurhúsinu
+      dative_pronunciation: <span class="guessed">krouːðʏrhuːsɪnʏ</span>
       genitive: gróðurhússins
+      genitive_pronunciation: <span class="guessed">krouːðʏrhusɪns</span>
 id: 1053
 gender: neuter

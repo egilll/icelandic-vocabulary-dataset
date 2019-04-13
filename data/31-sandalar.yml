@@ -10,10 +10,13 @@ conjugation:
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: sandala
+      accusative_pronunciation: santala
       dative: sandölum
+      dative_pronunciation: <span class="guessed">santœːlʏm</span>
       dative_alternative:
         - söndulum
       genitive: sandala
+      genitive_pronunciation: santala
     with article:
       nominative: sandalarnir
       nominative_translation: the sandals

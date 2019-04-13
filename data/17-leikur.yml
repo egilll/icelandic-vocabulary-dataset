@@ -6,21 +6,28 @@ conjugation:
     no article:
       nominative: leikur
       nominative_translation: a game
-      nominative_sound: islex/175/175_27.mp3
+      nominative_sound: 'https://media.egill.xyz/audio/islex/175/175_27.mp3'
+      nominative_pronunciation: leiːkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: leik
+      accusative_pronunciation: leiːk
       dative: leik
+      dative_pronunciation: leiːk
       genitive: leiks
     with article:
       nominative: leikurinn
       nominative_translation: the game
+      nominative_pronunciation: leiːkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: leikinn
-      accusative_sound: islex/069/069_30.mp3
+      accusative_sound: 'https://media.egill.xyz/audio/islex/069/069_30.mp3'
+      accusative_pronunciation: leiːcɪn
       dative: leiknum
+      dative_pronunciation: leihknʏm
       genitive: leiksins
+      genitive_pronunciation: leiksɪns
 id: 1315
 gender: masculine

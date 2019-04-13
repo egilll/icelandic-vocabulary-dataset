@@ -5,55 +5,67 @@ conjugation:
   active voice:
     infinitive: '[að] drekka'
     infinitive_translation: to drink
-    infinitive_sound: islex/304/304_04.mp3
+    infinitive_sound: 'https://media.egill.xyz/audio/islex/304/304_04.mp3'
+    infinitive_pronunciation: trehka
     infinitive_teach: true
     indicative:
       present:
         singular:
           1st person: '[ég] drekk'
           1st person_translation: I drink
+          1st person_pronunciation: trɛhk
           1st person_teach: true
           2nd person: '[þú] drekkur'
           2nd person_translation: you¹ drink
+          2nd person_pronunciation: trɛhkʏr
           2nd person_teach: true
           3rd person: '[hann/hún/það] drekkur'
           3rd person_translation: he/she/it drinks
+          3rd person_pronunciation: trɛhkʏr
           3rd person_teach: true
         plural:
           1st person: '[við] drekkum'
           1st person_translation: we drink
+          1st person_pronunciation: trɛhkʏm
           1st person_teach: true
           2nd person: '[þið] drekkið'
           2nd person_translation: you² drink
+          2nd person_pronunciation: trɛhcɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] drekka'
           3rd person_translation: they drink
-          3rd person_sound: islex/304/304_04.mp3
+          3rd person_sound: 'https://media.egill.xyz/audio/islex/304/304_04.mp3'
+          3rd person_pronunciation: trehka
           3rd person_teach: true
       past:
         singular:
           1st person: '[ég] drakk'
           1st person_translation: I drank
+          1st person_pronunciation: trahk
           1st person_teach: true
           2nd person: '[þú] drakkst'
           2nd person_translation: you¹ drank
           2nd person_teach: true
           3rd person: '[hann/hún/það] drakk'
           3rd person_translation: he/she/it drank
+          3rd person_pronunciation: trahk
           3rd person_teach: true
         plural:
           1st person: '[við] drukkum'
           1st person_translation: we drank
+          1st person_pronunciation: trʏhkʏm
           1st person_teach: true
           2nd person: '[þið] drukkuð'
           2nd person_translation: you² drank
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] drukku'
           3rd person_translation: they drank
+          3rd person_pronunciation: trʏhkʏ
           3rd person_teach: true
   supine:
     active voice: '[ég hef] drukkið'
     active voice_translation: I have drunk
+    active voice_pronunciation: trʏhcɪð
     active voice_teach: true
 id: 2075
 strong_verb_declension: true
