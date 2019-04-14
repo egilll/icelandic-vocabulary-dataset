@@ -18,11 +18,11 @@ conjugation:
       dative_sound: 'https://media.egill.xyz/audio/islex/406/406_78.mp3'
       dative_pronunciation: ar̥cɪtɛxt
       genitive: arkitekts
-      genitive_pronunciation: ar̥cɪtɛxts
+      genitive_pronunciation: ar̥cɪtʰɛxts
     with article:
       nominative: arkitektinn
       nominative_translation: the architect
-      nominative_pronunciation: ar̥cɪtɛxtɪn
+      nominative_pronunciation: ar̥cɪtʰɛxtɪn
       nominative_teach: false
       nominative_teachtable: false
 id: 734
