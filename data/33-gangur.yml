@@ -6,13 +6,13 @@ conjugation:
     with article:
       nominative: gangurinn
       nominative_translation: 'the hallway, the corridor'
-      nominative_pronunciation: kaŋkʏrɪn
+      nominative_pronunciation: kauŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: true
       accusative: ganginn
-      accusative_pronunciation: kaɲcɪn
+      accusative_pronunciation: kauɲcɪn
       dative: ganginum
-      dative_pronunciation: kaɲcɪnʏm
+      dative_pronunciation: kauɲcɪnʏm
       genitive: gangsins
 id: 1010
 gender: masculine

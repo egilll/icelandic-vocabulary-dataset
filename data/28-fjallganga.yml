@@ -7,7 +7,7 @@ conjugation:
       nominative: fjallganga
       nominative_translation: a hike
       nominative_sound: 'https://media.egill.xyz/audio/islex/099/099_00.mp3'
-      nominative_pronunciation: <span class="guessed">fjatl̥kaŋka</span>
+      nominative_pronunciation: <span class="guessed">fjatl̥kauŋka</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -20,7 +20,7 @@ conjugation:
     with article:
       nominative: fjallgangan
       nominative_translation: the hike
-      nominative_pronunciation: <span class="guessed">fjatl̥kaŋkan</span>
+      nominative_pronunciation: <span class="guessed">fjatl̥kauŋkan</span>
       nominative_teach: true
       nominative_teachtable: true
       accusative: fjallgönguna

@@ -6,7 +6,7 @@ conjugation:
     infinitive: '[að] ákveða'
     infinitive_translation: to decide
     infinitive_sound: 'https://media.egill.xyz/audio/islex/345/345_08.mp3'
-    infinitive_pronunciation: auːkvɛða
+    infinitive_pronunciation: auːkʰvɛða
     infinitive_teach: true
     indicative:
       past:
@@ -43,7 +43,7 @@ conjugation:
       plural: ákveðið!
       plural_translation: decide!²
       plural_sound: 'https://media.egill.xyz/audio/islex/401/401_20.mp3'
-      plural_pronunciation: auːkvɛðɪð
+      plural_pronunciation: auːkʰvɛðɪð
       plural_teach: true
 id: 2022
 strong_verb_declension: true

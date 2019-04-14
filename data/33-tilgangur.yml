@@ -7,14 +7,14 @@ conjugation:
       nominative: tilgangur
       nominative_translation: a purpose
       nominative_sound: 'https://media.egill.xyz/audio/islex/285/285_93.mp3'
-      nominative_pronunciation: tʰɪlkaŋkʏr
+      nominative_pronunciation: tʰɪlkauŋkʏr
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: false
     with article:
       nominative: tilgangurinn
       nominative_translation: the purpose
-      nominative_pronunciation: tʰɪlkaŋkʏrɪn
+      nominative_pronunciation: tʰɪlkauŋkʏrɪn
       nominative_teach: true
       nominative_teachtable: false
 id: 1829

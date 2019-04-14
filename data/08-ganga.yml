@@ -6,7 +6,7 @@ conjugation:
     infinitive: '[að] ganga'
     infinitive_translation: to walk
     infinitive_sound: 'https://media.egill.xyz/audio/islex/076/076_00.mp3'
-    infinitive_pronunciation: kaŋka
+    infinitive_pronunciation: kauŋka
     infinitive_teach: true
     indicative:
       present:
@@ -30,12 +30,12 @@ conjugation:
           1st person_teach: true
           2nd person: '[þið] gangið'
           2nd person_translation: you² walk
-          2nd person_pronunciation: kaɲcɪð
+          2nd person_pronunciation: kauɲcɪð
           2nd person_teach: true
           3rd person: '[þeir/þær/þau] ganga'
           3rd person_translation: they walk
           3rd person_sound: 'https://media.egill.xyz/audio/islex/076/076_00.mp3'
-          3rd person_pronunciation: kaŋka
+          3rd person_pronunciation: kauŋka
           3rd person_teach: true
       past:
         singular:

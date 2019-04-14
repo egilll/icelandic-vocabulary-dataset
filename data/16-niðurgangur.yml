@@ -7,7 +7,7 @@ conjugation:
       nominative: niðurgangur
       nominative_translation: diarrhea
       nominative_sound: 'https://media.egill.xyz/audio/islex/451/451_39.mp3'
-      nominative_pronunciation: <span class="guessed">nɪːðʏrkaŋkʏr</span>
+      nominative_pronunciation: <span class="guessed">nɪːðʏrkauŋkʏr</span>
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
@@ -17,18 +17,18 @@ conjugation:
       dative: niðurgangi
       dative_pronunciation: nɪːðʏrkauɲcɪ
       genitive: niðurgangs
-      genitive_pronunciation: <span class="guessed">nɪːðʏrkaŋs</span>
+      genitive_pronunciation: <span class="guessed">nɪːðʏrkauŋs</span>
     with article:
       nominative: niðurgangurinn
       nominative_translation: the diarrhea
-      nominative_pronunciation: <span class="guessed">nɪːðʏrkaŋkʏrɪn</span>
+      nominative_pronunciation: <span class="guessed">nɪːðʏrkauŋkʏrɪn</span>
       nominative_teach: true
       nominative_teachtable: true
       nominative_literal: down-going
       accusative: niðurganginn
-      accusative_pronunciation: <span class="guessed">nɪːðʏrkaɲcɪn</span>
+      accusative_pronunciation: <span class="guessed">nɪːðʏrkauɲcɪn</span>
       dative: niðurganginum
-      dative_pronunciation: <span class="guessed">nɪːðʏrkaɲcɪnʏm</span>
+      dative_pronunciation: <span class="guessed">nɪːðʏrkauɲcɪnʏm</span>
       genitive: niðurgangsins
       genitive_pronunciation: nɪːðʏr̥kauŋsɪns
 id: 1452

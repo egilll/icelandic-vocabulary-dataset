@@ -7,27 +7,27 @@ conjugation:
       nominative: fangelsi
       nominative_translation: a prison
       nominative_sound: 'https://media.egill.xyz/audio/islex/297/297_20.mp3'
-      nominative_pronunciation: faɲcɛlsɪ
+      nominative_pronunciation: fauɲcɛlsɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: fangelsi
       accusative_sound: 'https://media.egill.xyz/audio/islex/297/297_20.mp3'
-      accusative_pronunciation: faɲcɛlsɪ
+      accusative_pronunciation: fauɲcɛlsɪ
       dative: fangelsi
       dative_sound: 'https://media.egill.xyz/audio/islex/297/297_20.mp3'
-      dative_pronunciation: faɲcɛlsɪ
+      dative_pronunciation: fauɲcɛlsɪ
       genitive: fangelsis
     with article:
       nominative: fangelsið
       nominative_translation: the prison
-      nominative_pronunciation: faɲcɛlsɪð
+      nominative_pronunciation: fauɲcɛlsɪð
       nominative_teach: true
       nominative_teachtable: true
       accusative: fangelsið
-      accusative_pronunciation: faɲcɛlsɪð
+      accusative_pronunciation: fauɲcɛlsɪð
       dative: fangelsinu
-      dative_pronunciation: faɲcɛlsɪnʏ
+      dative_pronunciation: fauɲcɛlsɪnʏ
       genitive: fangelsisins
 id: 927
 gender: neuter

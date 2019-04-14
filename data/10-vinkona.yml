@@ -7,16 +7,16 @@ conjugation:
       nominative: vinkona
       nominative_translation: a female friend
       nominative_sound: 'https://media.egill.xyz/audio/islex/411/411_12.mp3'
-      nominative_pronunciation: vɪŋkɔna
+      nominative_pronunciation: vɪŋkʰɔna
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: vinkonu
-      accusative_pronunciation: vɪŋkɔnʏ
+      accusative_pronunciation: vɪŋkʰɔnʏ
       dative: vinkonu
-      dative_pronunciation: vɪŋkɔnʏ
+      dative_pronunciation: vɪŋkʰɔnʏ
       genitive: vinkonu
-      genitive_pronunciation: vɪŋkɔnʏ
+      genitive_pronunciation: vɪŋkʰɔnʏ
     with article:
       nominative: vinkonan
       nominative_translation: the female friend
@@ -26,31 +26,31 @@ conjugation:
       accusative: vinkonuna
       accusative_pronunciation: <span class="guessed">vɪːnkʰɔːnʏna</span>
       dative: vinkonunni
-      dative_pronunciation: vɪŋkɔnʏnɪ
+      dative_pronunciation: vɪŋkʰɔnʏnɪ
       genitive: vinkonunnar
       genitive_pronunciation: <span class="guessed">vɪːnkʰɔːnʏnar</span>
   plural:
     no article:
       nominative: vinkonur
       nominative_translation: female friends
-      nominative_pronunciation: vɪŋkɔnʏr
+      nominative_pronunciation: vɪŋkʰɔnʏr
       nominative_teach: true
       nominative_teachgender: false
       nominative_teachtable: true
       accusative: vinkonur
-      accusative_pronunciation: vɪŋkɔnʏr
+      accusative_pronunciation: vɪŋkʰɔnʏr
       dative: vinkonum
-      dative_pronunciation: vɪŋkɔnʏm
+      dative_pronunciation: vɪŋkʰɔnʏm
       genitive: vinkvenna
-      genitive_pronunciation: vɪŋkvɛna
+      genitive_pronunciation: vɪŋkʰvɛna
     with article:
       nominative: vinkonurnar
       nominative_translation: the female friends
-      nominative_pronunciation: vɪŋkɔnʏtnar
+      nominative_pronunciation: vɪŋkʰɔnʏtnar
       nominative_teach: true
       nominative_teachtable: true
       accusative: vinkonurnar
-      accusative_pronunciation: vɪŋkɔnʏtnar
+      accusative_pronunciation: vɪŋkʰɔnʏtnar
       dative: vinkonunum
       dative_pronunciation: <span class="guessed">vɪːnkʰɔːnɔnʏm</span>
       genitive: vinkvennanna

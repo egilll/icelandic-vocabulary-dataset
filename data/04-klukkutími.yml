@@ -7,16 +7,16 @@ conjugation:
       nominative: klukkutími
       nominative_translation: an hour
       nominative_sound: 'https://media.egill.xyz/audio/islex/160/160_69.mp3'
-      nominative_pronunciation: kʰlʏhkʏtiːmɪ
+      nominative_pronunciation: kʰlʏhkʏtʰiːmɪ
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: klukkutíma
-      accusative_pronunciation: kʰlʏhkʏtiːma
+      accusative_pronunciation: kʰlʏhkʏtʰiːma
       dative: klukkutíma
-      dative_pronunciation: kʰlʏhkʏtiːma
+      dative_pronunciation: kʰlʏhkʏtʰiːma
       genitive: klukkutíma
-      genitive_pronunciation: kʰlʏhkʏtiːma
+      genitive_pronunciation: kʰlʏhkʏtʰiːma
     with article:
       nominative: klukkutíminn
       nominative_translation: the hour
@@ -24,7 +24,7 @@ conjugation:
       nominative_teach: true
       nominative_teachtable: true
       accusative: klukkutímann
-      accusative_pronunciation: kʰlʏhkʏtiːman
+      accusative_pronunciation: kʰlʏhkʏtʰiːman
       dative: klukkutímanum
       dative_pronunciation: <span class="guessed">kʰlʏhkʏtʰiːmanʏm</span>
       genitive: klukkutímans
@@ -33,16 +33,16 @@ conjugation:
     no article:
       nominative: klukkutímar
       nominative_translation: hours
-      nominative_pronunciation: kʰlʏhkʏtiːmar
+      nominative_pronunciation: kʰlʏhkʏtʰiːmar
       nominative_teach: true
       nominative_teachgender: true
       nominative_teachtable: true
       accusative: klukkutíma
-      accusative_pronunciation: kʰlʏhkʏtiːma
+      accusative_pronunciation: kʰlʏhkʏtʰiːma
       dative: klukkutímum
       dative_pronunciation: kʰlʏhkʏtiːmʏm
       genitive: klukkutíma
-      genitive_pronunciation: kʰlʏhkʏtiːma
+      genitive_pronunciation: kʰlʏhkʏtʰiːma
     with article:
       nominative: klukkutímarnir
       nominative_translation: the hours
