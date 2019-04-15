@@ -4,7 +4,7 @@
 
 This dataset contains:
 
-- 2.000+ Icelandic words for use in games teaching vocabulary or inflection to language learners
+- 2,000+ Icelandic words for use in games teaching vocabulary or inflection to language learners
 - English translations
 - Necessary inflection forms for nouns and verbs
 - Pronunciation in IPA (may in some cases contain errors such as missing aspiration signs)
