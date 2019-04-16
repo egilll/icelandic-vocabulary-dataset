@@ -8,6 +8,7 @@ This dataset contains:
 - English translations
 - Necessary inflection forms for nouns and verbs
 - Pronunciation in IPA (may in some cases contain errors such as missing aspiration signs)
+- Voice recordings for some words
 - Words are sorted by level of importance
 
 Authors:
@@ -22,4 +23,13 @@ Authors:
 
 [Pronunciation](https://github.com/egilll/icelandic-pronunciation-dataset) derived from the [Pronunciation Dictionary for Icelandic](http://malfong.is/?pg=framburdur&lang=en) by the [Hjal project](http://www.malfong.is/index.php?pg=hjal&lang=en) & Eiríkur Rögnvaldsson (released under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)).
 
+Audio recordings from [the ISLEX project](http://malfong.is/?pg=islexrecordings). Read by Guðfinna Rúnarsdóttir and released under [CC-BY-**NC**-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/).
+
 Inflection tables partially derived from [Wiktionary](https://en.wiktionary.org) (released under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)).
+
+---
+
+**License**
+
+- Data: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- Audio recordings: [CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/2.0/)
